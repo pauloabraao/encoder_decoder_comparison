@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001044793/2025",
+        "ig": "1372152"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO JOAQUIM MAGALHÃES",
+        "cpf_cnpj": "07.954.514/0038-17"
+    },
+    "contracted_party": {
+        "name": "MIRAIMA GAS & TRANSPORTES LTDA",
+        "cpf_cnpj": "41.760.180/0001-97"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 6.800,00",
+    "signature": {
+        "date": null,
+        "signatories": {
+            "contracting_party": "Elis Regina Eufrásio Barbosa Marques",
+            "contracted_party": "Adriane Simões de Sousa"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

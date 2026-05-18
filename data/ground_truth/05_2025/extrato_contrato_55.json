@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001049541202525",
+        "ig": "1374421"
+    },
+    "contracting_party": {
+        "name": "O Estado do Ceará, através da Secretaria da Educação/ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL FRANCISCO VIEIRA CAVALCANTE",
+        "cpf_cnpj": "07.954.514/0337-24"
+    },
+    "contracted_party": {
+        "name": "COOPERATIVA REGIONAL DOS ASSENTAMENTOS DE REFORMA AGRARIA DO SERTAO CENTRAL DO CEARA COOPERASC LTDA",
+        "cpf_cnpj": "23.323.155/0001-64"
+    },
+    "validity": "360 (trezentos e sessenta dias) dias",
+    "global_value": "R$ 12.240,00",
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Fernandes Rodrigues da Silva",
+            "contracted_party": "Aldenir Lopes da Silva"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

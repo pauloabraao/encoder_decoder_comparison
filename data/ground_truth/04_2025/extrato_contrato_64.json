@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.047700/2025-57",
+        "ig": "1371246"
+    },
+    "contracting_party": {
+        "name": "CEJA LUZIA ARAÚJO FREITAS – CREDE 15 – TAUÁ/CE",
+        "cpf_cnpj": "07.954.514/0281-35"
+    },
+    "contracted_party": {
+        "name": "CAMILA ALVES ARAÚJO - ME",
+        "cpf_cnpj": "44.084.013/0001-61"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$5.762,40",
+    "signature": {
+        "date": "09/04/2025",
+        "signatories": {
+            "contracting_party": "José Welliton Rodrigues do Nascimento",
+            "contracted_party": "CAMILA ALVES ARAÚJO"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

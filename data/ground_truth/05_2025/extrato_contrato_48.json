@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.026586/2025-21",
+        "ig": "137466800"
+    },
+    "contracting_party": {
+        "name": "A Escola Ensino Médio Professora Francisca Linhares de Sousa",
+        "cpf_cnpj": "07.954.514/0412-39"
+    },
+    "contracted_party": {
+        "name": "PROGAS DISTRIBUIDORA DE GÁS E ÁGUA LTDA",
+        "cpf_cnpj": "53.256.763/0001-64"
+    },
+    "validity": "365 (Trezentos e Sessenta e Cinco) dias",
+    "global_value": "R$ 4.779,74",
+    "signature": {
+        "date": "24/04/2025",
+        "signatories": {
+            "contracting_party": "Erli Viana de Moura Filho",
+            "contracted_party": "Edson Nascimento de Souza"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

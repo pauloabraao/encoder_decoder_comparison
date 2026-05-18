@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.049541/2025-25",
+        "ig": "1374421"
+    },
+    "contracting_party": {
+        "name": "O Estado do Ceará, através da Secretaria da Educação/ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL FRANCISCO VIEIRA CAVALCANTE",
+        "cpf_cnpj": "07.954.514/0337-24"
+    },
+    "contracted_party": {
+        "name": "FERNANDES RODRIGUES DA SILVA",
+        "cpf_cnpj": "578.796.721-68"
+    },
+    "validity": "360 (trezentos e sessenta) dias",
+    "global_value": "R$15.968,00",
+    "signature": {
+        "date": "23/04/2025",
+        "signatories": {
+            "contracting_party": "Fernandes Rodrigues da Silva",
+            "contracted_party": "Antonio Francisco Germano de Matos"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

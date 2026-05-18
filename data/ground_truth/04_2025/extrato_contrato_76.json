@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "014/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "SECRETARIA DO ESPORTE DO ESTADO DO CEARÁ",
+        "cpf_cnpj": "05.565.013/0001-21"
+    },
+    "contracted_party": {
+        "name": "INSTITUTO BRASIL SEM FRONTEIRAS (IBESF)",
+        "cpf_cnpj": "22.060.078/0001-34"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 1.600.000,00",
+    "signature": {
+        "date": "11/04/2025",
+        "signatories": {
+            "contracting_party": "Rogerio Nogueira Pinheiro",
+            "contracted_party": "Rogerio Nogueira Pinheiro - SECRETARIO DO ESPORTE e Marcelo de Oliveira Gomes"
+        }
+    },
+    "legal_unit": {
+        "name": "Bergson Gomes Bezerra",
+        "role": "COORDENADOR JURÍDICO"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "651/2024",
+    "ig": "1361077000"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "EMPRESA SPALLA EVENTOS E SERVIÇOS",
+    "cpf_cnpj": "30.546059/0001-40"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 782.701,20",
+  "signature": {
+    "date": "08/01/2025",
+    "signatories": {
+      "contracting_party": "Eliana Nunes Estrela",
+      "contracted_party": "Mariana Souza Joca Lima"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

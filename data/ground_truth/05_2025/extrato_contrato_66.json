@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.041877/2025-40",
+        "ig": "137353200"
+    },
+    "contracting_party": {
+        "name": "A EEM DEPUTADO JOACI PEREIRA",
+        "cpf_cnpj": "07.954.514/0504-91"
+    },
+    "contracted_party": {
+        "name": "FRANÇA PINTO & CIA LTDA",
+        "cpf_cnpj": "15.589.293/0001-61"
+    },
+    "validity": "365 (trezentos e sessenta e cinco)",
+    "global_value": "R$ 3.465,00",
+    "signature": {
+        "date": "24/04/2025",
+        "signatories": {
+            "contracting_party": "AURISETE MARIA DE ARAÚJO",
+            "contracted_party": "PAULO AFONSO FRANÇA PINTO"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

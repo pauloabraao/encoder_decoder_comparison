@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.058483/2025-21",
+        "ig": "1367326000"
+    },
+    "contracting_party": {
+        "name": "A(O) EEEP PROFESSOR CESAR CAMPELO",
+        "cpf_cnpj": "07.954.514/0714- 99"
+    },
+    "contracted_party": {
+        "name": "JESUS ALBINO VIEIRA CRISPA JUNIOR - ME",
+        "cpf_cnpj": "20.189.604/0001-35"
+    },
+    "validity": "300 (TREZENTOS), dias",
+    "global_value": "R$ 375,00",
+    "signature": {
+        "date": "24/04/2025",
+        "signatories": {
+            "contracting_party": "FRANKLIN DE ANDRADE CARNEIRO",
+            "contracted_party": "JESUS ALBINO VIEIRA CRISPA JUNIOR"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

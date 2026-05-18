@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.061191/2025-75",
+        "ig": "1372428000"
+    },
+    "contracting_party": {
+        "name": "COORDENADORIA REGIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO – CREDE 02",
+        "cpf_cnpj": "07.954.514/0031-40"
+    },
+    "contracted_party": {
+        "name": "U.S DA CRUZ NETO",
+        "cpf_cnpj": "37.847.947/0001-42"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 4.336,50",
+    "signature": {
+        "date": "07/04/2025",
+        "signatories": {
+            "contracting_party": "ESIO LEITE LOUSADA",
+            "contracted_party": "Ubiratan Sobreira da Cruz"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

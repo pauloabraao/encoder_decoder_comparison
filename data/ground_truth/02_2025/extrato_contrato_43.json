@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001017624202555",
+    "ig": "1364032"
+  },
+  "contracting_party": {
+    "name": "E.E.M.T.I. NAZARÉ GUERRA",
+    "cpf_cnpj": "07.954.514/0323-29"
+  },
+  "contracted_party": {
+    "name": "MEL DISTRIBUIDORA LTDA",
+    "cpf_cnpj": "50.911.223/0001-89"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 11.715,00",
+  "signature": {
+    "date": "19/02/2025",
+    "signatories": {
+      "contracting_party": "Antonia Alzeleny Viana Nunes",
+      "contracted_party": "ESMERALDA DE ANDRADE SOUZA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

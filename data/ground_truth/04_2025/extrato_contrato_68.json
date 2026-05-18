@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.049921/2025-60",
+        "ig": "1372866"
+    },
+    "contracting_party": {
+        "name": "CEJA LUZIA ARAÚJO FREITAS – CREDE 15 – TAUÁ/CE",
+        "cpf_cnpj": "07.954.514/0281-35"
+    },
+    "contracted_party": {
+        "name": "AM SOLUÇÕES ENGENHARIA LTDA",
+        "cpf_cnpj": "57.242.139/0001-69"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$980,00",
+    "signature": {
+        "date": "09/04/2025",
+        "signatories": {
+            "contracting_party": "JOSÉ WELLITON RODRIGUES DO NASCIMENTO",
+            "contracted_party": "ANDRÉ FELLIPE RODRIGUES"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

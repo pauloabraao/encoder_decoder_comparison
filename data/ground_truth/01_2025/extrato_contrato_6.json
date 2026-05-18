@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.127474/2024-14",
+    "ig": "1351748"
+  },
+  "contracting_party": {
+    "name": "ESCOLA EEMTI MARIA CONCEIÇÃO DE ARAÚJO",
+    "cpf_cnpj": "07.954.514/0178-77"
+  },
+  "contracted_party": {
+    "name": "AJ SERVICOS LTDA",
+    "cpf_cnpj": "40.910.360/0001-45"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 1.000,00",
+  "signature": {
+    "date": "06/11/2024",
+    "signatories": {
+      "contracting_party": "Paulo Fhilipe de Oliveira Alencar",
+      "contracted_party": "JONADABY DE CASTRO ALVES"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

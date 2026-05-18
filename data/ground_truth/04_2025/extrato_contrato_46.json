@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.059813/2025-03",
+        "ig": "1370811"
+    },
+    "contracting_party": {
+        "name": "O(A) EEM SÃO JOSÉ DO PICI DAS PEDREIRAS",
+        "cpf_cnpj": "07.954.514/0697-53"
+    },
+    "contracted_party": {
+        "name": "PH&B COMÉRCIO & SERVIÇOS LTDA",
+        "cpf_cnpj": "11.914.096/0001-10"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 30.306,00",
+    "signature": {
+        "date": "04/04/2025",
+        "signatories": {
+            "contracting_party": "Álvaro Roberto Peixoto Torres",
+            "contracted_party": "Francisca Aislan Pereira de Sousa"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

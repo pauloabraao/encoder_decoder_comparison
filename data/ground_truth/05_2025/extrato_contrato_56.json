@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001006732202501",
+        "ig": "1373362"
+    },
+    "contracting_party": {
+        "name": "A JAVAN RODRIGUES DE SOUSA ESCOLA ESTADUAL EM TEMPO INTEGRAL DO CAMPO",
+        "cpf_cnpj": "07954514/0860-97"
+    },
+    "contracted_party": {
+        "name": "PROGÁS DISTRIBUIDORA DE GÁS E ÁGUA LTDA",
+        "cpf_cnpj": "53.256.763/0001-64"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 9.881,40",
+    "signature": {
+        "date": "15/04/2025",
+        "signatories": {
+            "contracting_party": "Francisca Silania Santos do Nascimento",
+            "contracted_party": "Edson Nascimento de Souza"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

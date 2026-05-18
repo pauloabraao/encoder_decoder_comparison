@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "06/2025",
+        "ig": "1371134000"
+    },
+    "contracting_party": {
+        "name": "FUNDO DE MODERNIZAÇÃO E REAPARELHAMENTO DA PROCURADORIA-GERAL DO ESTADO DO CEARÁ - FUNPECE",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "DELL COMPUTADORES DO BRASIL LTDA.",
+        "cpf_cnpj": null
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 521.550,00",
+    "signature": {
+        "date": "09/04/2025",
+        "signatories": {
+            "contracting_party": "Jorge Costa de Araújo",
+            "contracted_party": "Mauricio Luis Cassalta de Paula Couto"
+        }
+    },
+    "legal_unit": {
+        "name": "Rafael Maia de Paula",
+        "role": "PRESIDENTE DO CONSELHO DIRETOR"
+    }
+}

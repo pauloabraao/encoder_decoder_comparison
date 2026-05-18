@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001035676/2025",
+        "ig": "1371381"
+    },
+    "contracting_party": {
+        "name": "EEEP GOVERNADOR LUÍZ DE GONZAGA FONSECA MOTA",
+        "cpf_cnpj": "07.954.514/0223-66"
+    },
+    "contracted_party": {
+        "name": "AURISELLY LIMA DE MELO",
+        "cpf_cnpj": "53.548.770/0001-30"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 10.350,00",
+    "signature": {
+        "date": "07/04/2025",
+        "signatories": {
+            "contracting_party": "LARISSA PEREIRA DE CASTRO FRANÇA",
+            "contracted_party": "Auriselly Lima de Melo"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

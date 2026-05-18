@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.028602/2025-11",
+        "ig": "1371056"
+    },
+    "contracting_party": {
+        "name": "A(O) EEMTI TABELIÃO JOSÉ PINTO QUEZADO",
+        "cpf_cnpj": "07.954.514/0577-47"
+    },
+    "contracted_party": {
+        "name": "ARLANI OLIVEIRA NASCIMENTO",
+        "cpf_cnpj": "042.435.333-42"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 22.000,00",
+    "signature": {
+        "date": "24/04/2025",
+        "signatories": {
+            "contracting_party": "João Paulo de Sousa Pio",
+            "contracted_party": "ARLANI OLIVEIRA NASCIMENTO"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

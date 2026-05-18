@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "26/2025",
+        "ig": "1303833000"
+    },
+    "contracting_party": {
+        "name": "FUNECECONTRATADA:N & F DISTRIBUIDORA LTDA.",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "N & F DISTRIBUIDORA LTDA.",
+        "cpf_cnpj": null
+    },
+    "validity": "25/04/2025",
+    "global_value": "R$ 28.375,90",
+    "signature": {
+        "date": "25/04/2025SIGNATÁRIOS",
+        "signatories": {
+            "contracting_party": "HI- DELBRANDO DOS SANTOS SOARES",
+            "contracted_party": "Roberta Nunes"
+        }
+    },
+    "legal_unit": {
+        "name": "HI- DELBRANDO DOS SANTOS SOARES-PRESIDENTE FUNECE e WAGNER FAHD CARLOS-PELA N & F DISTRIBUIDORA LTDA. Roberta Nunes",
+        "role": "PROCURADORIA JURÍDICA"
+    }
+}

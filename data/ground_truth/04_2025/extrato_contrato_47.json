@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.059778/2025-14",
+        "ig": "1370811"
+    },
+    "contracting_party": {
+        "name": "O(A) EEM SÃO JOSÉ DO PICI DAS PEDREIRAS",
+        "cpf_cnpj": "07.954.514/0697-53"
+    },
+    "contracted_party": {
+        "name": "BMP DE SOUSA COMERCIAL LTDA",
+        "cpf_cnpj": "29.725.927/0001-70"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 1.964,70",
+    "signature": {
+        "date": "04/04/2025",
+        "signatories": {
+            "contracting_party": "Álvaro Roberto Peixoto Torres",
+            "contracted_party": "Beatriz Maria Pereira de Sousa"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

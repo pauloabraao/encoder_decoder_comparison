@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "10413.182025/30",
+        "ig": "1374330000"
+    },
+    "contracting_party": {
+        "name": "A(O) ESCOLA EEMTI PROF. JOSÉ TELES DE CARVALHO",
+        "cpf_cnpj": "07.954.514/0562-60"
+    },
+    "contracted_party": {
+        "name": "CONSERT SERVICOS E ADMINISTRACAO LTDA",
+        "cpf_cnpj": "06.787.834/0001-75"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 780,00",
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Francisco Sanderley Justino Coelho",
+            "contracted_party": "Lea Pontes Ferreira Barroso da Fonseca"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

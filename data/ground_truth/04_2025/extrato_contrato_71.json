@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.062867/2025-48",
+        "ig": "1372093000"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO DO ESTADO DO CEARÁ/EEMTI JOSÉ FRANCISCO DE MOURA",
+        "cpf_cnpj": "07.954.514/0219-80"
+    },
+    "contracted_party": {
+        "name": "ANTONIA CLAUDIA CEDRO DE VASCONCELOS",
+        "cpf_cnpj": "n°50.324.245/0001-42"
+    },
+    "validity": "180 (cento e oitenta) dias",
+    "global_value": "R$ 425,00",
+    "signature": {
+        "date": "08/04/2025",
+        "signatories": {
+            "contracting_party": "Josiany Fernandes Beserra",
+            "contracted_party": "ANTONIA CLAUDIA CEDRO DE VASCONCELOS"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

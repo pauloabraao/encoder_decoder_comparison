@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.050440/2025-05",
+        "ig": "1373006"
+    },
+    "contracting_party": {
+        "name": "EEM PROFESSORA MARIA JÚLIA FIALHO",
+        "cpf_cnpj": "07.954.514/0742-42"
+    },
+    "contracted_party": {
+        "name": "Empresa ZACARIAS DOS SANTOS CHAVES JUNIOR",
+        "cpf_cnpj": "13.644.785/0001-87"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 150,00",
+    "signature": {
+        "date": "22/04/2024",
+        "signatories": {
+            "contracting_party": "Ana Maria Barros Pinho Vieira",
+            "contracted_party": "ZACARIAS DOS SANTOS CHAVES JUNIOR"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

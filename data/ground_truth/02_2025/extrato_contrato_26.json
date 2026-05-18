@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "12/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "CENTRAIS DE ABASTECIMENTO DO CEARÁ S/A-CEASA/CE",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "SERCON SERVIÇOS E CONSTRUÇÃO LTDA",
+    "cpf_cnpj": null
+  },
+  "validity": "180 (cento e oitenta) dias",
+  "global_value": "R$ 745.754,78",
+  "signature": {
+    "date": "11/02/2025",
+    "signatories": {
+      "contracting_party": "HEBERT DOS SANTOS LIMA",
+      "contracted_party": "ANA CLEA ARAÚJO DE OLIVEIRA"
+    }
+  },
+  "legal_unit": {
+    "name": "Naara Aires Pedrosa",
+    "role": "PROCURADORA JURÍDICA"
+  }
+}

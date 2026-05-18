@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001043196202435",
+    "ig": "1309110"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL LUIZETE ALBANO DE FREITAS MENEZES",
+    "cpf_cnpj": "07.954.514/0848-09"
+  },
+  "contracted_party": {
+    "name": "HALTECH COMERCIO DE GLP LTDA",
+    "cpf_cnpj": "35.438.916/0001-02"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 7.977,90",
+  "signature": {
+    "date": "22/03/2025",
+    "signatories": {
+      "contracting_party": "JOSIEL ALBINO LIMA",
+      "contracted_party": "HELTON JHON OLIVEIRA ANJOS SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

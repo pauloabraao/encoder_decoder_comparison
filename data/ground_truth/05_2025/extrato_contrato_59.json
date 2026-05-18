@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.042622/2025-02",
+        "ig": "1373934"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO MARIA NAZARÉ DE SOUSA",
+        "cpf_cnpj": "07.954.514/0032-21"
+    },
+    "contracted_party": {
+        "name": "HSMSHOP COMERCIO DE PRODUTOS HOSPITALARES E VARIEDADES LTDA",
+        "cpf_cnpj": "42.410.276/0001-98"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 30.459,10",
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Maria do Livramento Gonçalves",
+            "contracted_party": "Helder Sampaio de Magalhães"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

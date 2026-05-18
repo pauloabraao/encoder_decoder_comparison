@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.050638/2025-81",
+        "ig": "1373212"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO PROFESSORA EUDES VERAS",
+        "cpf_cnpj": "07.954.514/0218-07"
+    },
+    "contracted_party": {
+        "name": "ACE ASSESSORIA CONTABIL LTDA",
+        "cpf_cnpj": "11.977.190/0001-18"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$199,80",
+    "signature": {
+        "date": "23/04/2025",
+        "signatories": {
+            "contracting_party": "MARIA ELISÂNGELA DO ESPÍRITO SANTO ROCHA",
+            "contracted_party": "ANDRÉ LUIS MELO DO NASCIMENTO"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

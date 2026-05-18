@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "04/2025",
+        "ig": "1371681000"
+    },
+    "contracting_party": {
+        "name": "PROCURADORIA GERAL DO ESTADO DO CEARÁ - PGE",
+        "cpf_cnpj": "PROCURADORIA GERAL DO ESTADO DO CEARÁ - PGE"
+    },
+    "contracted_party": {
+        "name": "SERVIARM VIGILÂNCIA ARMADA LTDA.",
+        "cpf_cnpj": null
+    },
+    "validity": "01 (um) ano",
+    "global_value": "R$ 1.101.807,60",
+    "signature": {
+        "date": "01/04/2025",
+        "signatories": {
+            "contracting_party": "Stella Cavalcante",
+            "contracted_party": "Rinalda Maria Freitas Ferreira"
+        }
+    },
+    "legal_unit": {
+        "name": "Jorge Costa de Araújo",
+        "role": "COORDENADOR ADMINISTRATIVO-FINANCEIRO"
+    }
+}

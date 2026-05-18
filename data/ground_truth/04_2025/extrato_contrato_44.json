@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001035515/2025",
+        "ig": "1369147"
+    },
+    "contracting_party": {
+        "name": "A EEMTI MARIA DAS DORES CIDRÃO ALEXANDRINO",
+        "cpf_cnpj": "07.954.514/0730-09"
+    },
+    "contracted_party": {
+        "name": "P. K. SERVIÇOS & LOCAÇÕES LTDA",
+        "cpf_cnpj": "42.819.401/0001-18"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 48.953,20",
+    "signature": {
+        "date": "04/04/2025",
+        "signatories": {
+            "contracting_party": "Fabiana Martins de Sousa",
+            "contracted_party": "Antônio Márcio Mota de Melo"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

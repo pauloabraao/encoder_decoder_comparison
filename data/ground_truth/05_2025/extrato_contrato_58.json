@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.049883/2025-45",
+        "ig": "1373202"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO PROFESSORA EUDES VERAS",
+        "cpf_cnpj": "07.954.514/0218-07"
+    },
+    "contracted_party": {
+        "name": "PROGÁS DISTRIBUIDORA DE GÁS E ÁGUA LTDA",
+        "cpf_cnpj": "53.256.763/0001-64"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$3.919,20",
+    "signature": {
+        "date": "23/04/2025",
+        "signatories": {
+            "contracting_party": "MARIA ELISÂNGELA DO ESPÍRITO SANTO ROCHA",
+            "contracted_party": "EDSON NASCIMENTO DE SOUZA"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

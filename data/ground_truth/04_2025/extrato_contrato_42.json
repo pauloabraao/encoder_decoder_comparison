@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "14/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "AGÊNCIA DE DESENVOLVIMENTO DO ESTADO DO CEARÁ S.A – ADECE",
+        "cpf_cnpj": "07.421.806/0001-00"
+    },
+    "contracted_party": {
+        "name": "DALE PROPAGANDA E PRODUÇÕES AUDIOVISUAIS LTDA.",
+        "cpf_cnpj": "72.381.189/0010-01"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 660.720,00",
+    "signature": {
+        "date": "14/04/2025",
+        "signatories": {
+            "contracting_party": "Luís Eduardo Fontenelle Barros",
+            "contracted_party": "Julieta Biasotti"
+        }
+    },
+    "legal_unit": {
+        "name": "Davi Byron Bezerra Pontes Freira",
+        "role": "ASSESSOR JURÍDICO"
+    }
+}
