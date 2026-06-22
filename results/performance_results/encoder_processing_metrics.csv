@@ -1,0 +1,11 @@
+modelo,tempo_total_s,peak_memory_mb,cpu_user_time_s,cpu_system_time_s
+electra-base-discriminator,909.04,811.37,5142.52,196.7
+albert-base-v2,1045.27,510.83,5679.2,399.14
+bert,956.26,811.64,5358.06,202.05
+bertimbau,595.9,820.19,4591.45,129.14
+colbert_v2.0,648.91,817.08,5029.48,132.2
+distilbert,863.49,820.57,4800.7,185.44
+roberta_base,807.29,856.61,5689.02,167.53
+xlm-roberta-base,1217.01,1156.46,4516.69,296.47
+TinyBERT,124.01,495.77,438.94,69.48
+bertimbau (no fine-tuning,702.15,812.54,4756.61,164.67

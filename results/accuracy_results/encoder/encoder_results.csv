@@ -1,0 +1,11 @@
+model,precision_micro,recall_micro,f1_micro,coverage,similaridade_media
+bert-base,0.9837,0.9732,0.9784,0.9858,0.9764
+bertimbau,0.9796,0.9755,0.9775,0.9937,0.9796
+roberta_base,0.9745,0.9742,0.9743,0.9958,0.9788
+colbert_v2.0,0.9808,0.9593,0.97,0.9712,0.9614
+distilbert-base,0.9694,0.9697,0.9695,0.9986,0.9772
+electra-base-discriminator,0.9721,0.9668,0.9694,0.9918,0.9725
+xlm-roberta-base,0.9344,0.9184,0.9263,0.9786,0.9406
+albert-base-v2,0.9318,0.9152,0.9234,0.979,0.9409
+TinyBERT,0.7508,0.7333,0.742,0.9671,0.8031
+bertimbau (no fine-tuning),0.5242,0.4181,0.4652,0.7954,0.5298
