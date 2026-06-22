@@ -1,11 +1,14 @@
 model,precision_micro,recall_micro,f1_micro,coverage,similaridade_media
-bert-base,0.9837,0.9732,0.9784,0.9858,0.9764
-bertimbau,0.9796,0.9755,0.9775,0.9937,0.9796
-roberta_base,0.9745,0.9742,0.9743,0.9958,0.9788
-colbert_v2.0,0.9808,0.9593,0.97,0.9712,0.9614
-distilbert-base,0.9694,0.9697,0.9695,0.9986,0.9772
-electra-base-discriminator,0.9721,0.9668,0.9694,0.9918,0.9725
-xlm-roberta-base,0.9344,0.9184,0.9263,0.9786,0.9406
-albert-base-v2,0.9318,0.9152,0.9234,0.979,0.9409
-TinyBERT,0.7508,0.7333,0.742,0.9671,0.8031
-bertimbau (no fine-tuning),0.5242,0.4181,0.4652,0.7954,0.5298
+bertimbau,0.9942,0.9942,0.9942,1.0,0.9924
+electra-base-discriminator,0.9942,0.9923,0.9933,0.9981,0.9906
+distilbert,0.9923,0.9923,0.9923,1.0,0.9907
+colbert_v2.0,0.9942,0.9885,0.9913,0.9942,0.9867
+bert,0.9923,0.9885,0.9904,0.9962,0.9868
+bert-base-uncased,0.9923,0.9885,0.9904,0.9962,0.9907
+roberta_base,0.9923,0.9885,0.9904,0.9962,0.9877
+bert-base-portuguese-cased,0.998,0.9731,0.9854,0.975,0.9733
+distilbert-base-uncased,0.9921,0.971,0.9815,0.975,0.9677
+albert-base-v2,0.9404,0.9404,0.9404,1.0,0.9664
+xlm-roberta-base,0.9364,0.9346,0.9355,0.9981,0.9628
+TinyBERT,0.7795,0.778,0.7787,0.9942,0.8359
+pierreguillou_bert-base-cased-squad-v1.1-portuguese,0.5242,0.4181,0.4652,0.7954,0.5298
