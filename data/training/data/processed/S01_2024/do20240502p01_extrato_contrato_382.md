@@ -1,0 +1,22 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.037217/2024-83 - IG: 1309816
+CONTRATANTE: A ESCOLA ESTADUAL DE EDUCAÇÃO PROFISSIONAL MARIA CAVALCANTE COSTA , situada(o) na Avenida Jesus, 
+Maria e José, N° 2990, Bairro Jardim dos Monólitos, Município de Quixadá/Ce, Telefone (88) 3412-5317, inscrita(o) no CNPJ sob o n° 07.954.514/0290-
+26, doravante denominada(o) CONTRATANTE, neste ato representada(o) pelo seu Diretor Geral, Sr. Francisco Carlos de Oliveira CONTRATADA: 
+HALTECH COMERCIO DE GLP LTDA inscrita no CPF!CNPJ sob o n° 35.438.916/0001-02, doravante denominado CONTRATADO, representado 
+neste ato pelo Helton Jhon Oliveira Anjos Silva. OBJETO: 0 objeto do presente instrumento é a contratação de Aquisição de Material de Consumo, nas 
+condições estabelecidas na Cotação Eletrônica n°01/ 2024, Termo de Participação n°2024/0001, Termo de Referência e na proposta do CONTRATADO.. 
+FUNDAMENTAÇÃO LEGAL: 0 presente contrato tem como fundamento na Cotação Eletrônica n° 01/2024 e Termo de Participação n° 2024/0001. e seus 
+anexos, os preceitos do direito público, no art. 75, II da Lei Federal n° 14.133, de 1° de abril de 2021, a Lei Complementar n° 288, de 20 de julho de 2022, 
+Decreto n° 35.341, de 09 de março de 2023, alterado pelo Decreto n° 35.474, de 26 de maio de 2023, Decreto Estadual n° 35.322, de 24 de fevereiro de 2023, 
+alterado pelo Decreto Estadual n° 35.475, de 26 de maio de 2023 FORO: Quixadá/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (Trezentos 
+e Sessenta e Cinco)dias contado do(a) após a publicação no D.O.E., na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua 
+prorrogação desde que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação 
+com o CONTRATADO. PRAZO DE EXECUÇÃO: O prazo de execução do objeto contratual é de 200(Duzentos) dias, contado a partir do recebimento da 
+primeira ordem de fornecimento ou instrumento equivalente. VALOR GLOBAL: R$ 1.314,00 (Um mil, Trezentos e Quatorze reais) pagos em conformidade 
+com o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.231.20980.09.339030.50000.0-12580. DATA DA ASSINATURA: 15 de Abril 
+de 2024. SIGNATÁRIOS: Francisco Carlos de Oliveira - CONTRATANTE – Helton Jhon Oliveira Anjos Silva – CONTRATADA e TESTEMUNHAS: 
+01- Marta Maria de Sousa, 02- Marly Oliveira Lima Fernandes. Fortaleza, 17 de abril de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

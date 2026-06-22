@@ -1,0 +1,22 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.056883/202-41 - IG: 1319899
+CONTRATANTE: A EEEP AMÉLIA FIGUEIREDO DE LAVOR, situada(o) na Rua 13 de Maio, S/N, Bairro Planalto, CEP: 63500-773, Iguatu-CE, 
+inscrita(o) no CNPJ sob o nº 07.954.514/0672-03, doravante denominada(o) CONTRATANTE, neste ato representada pela Sra. Eriglécia de Lima Matias 
+CONTRATADA: A. F. DE OLIVEIRA MANUTENÇÕES, com sede na Rua São Francisco, Nº 17, bairro Terreiro Duro, Nova Olinda-CE, Fone: (88) 
+996495885 e (88)994046568, inscrita no CPF/CNPJ sob o nº 29.933.669 0001-18, doravante denominado CONTRATADO, representado neste ato pela Sra. 
+Aurelia Ferreira de Oliveira. OBJETO: O objeto do presente instrumento é a contratação do Serviço de Manutentenção e Conservação de Máquinas e 
+Equipamentos, nas condições estabelecidas na Cotação Eletrônica nº 2024/08700, Termo de Participação nº 07/2024, Termo de Referência e na proposta do 
+CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica nº 2024/08700 e Termo de Participação 
+nº 07/2024, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 
+de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de 
+fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023 FORO: Iguatu/CE. VIGÊNCIA: O prazo de vigência do contrato é de 
+360 (trezentos e sessenta) dias, contado da publicação no DOE, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorro-
+gação desde que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o 
+CONTRATADO. PRAZO DE EXECUÇÃO: O prazo de execução do objeto contratual é de 360 (trezentos e sessenta) dias, contado a partir do recebimento 
+da primeira ordem de fornecimento ou instrumento equivalente. VALOR GLOBAL: R$ 4.760,00 (quatro mil setecentos e sessenta reais) pagos em confor-
+midade com o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.231.20980.02.339039.50000.0 - 12569. DATA DA ASSINATURA: 03 
+de Junho de 2024. SIGNATÁRIOS: Eriglécia de Lima Matias - CONTRATANTE – Aurelia Ferreira de Oliveira – CONTRATADA e TESTEMUNHAS: 
+01- ILEGÍVEL, 02- ILEGÍVEL. Fortaleza, 11 de junho de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

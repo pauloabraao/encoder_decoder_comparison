@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.025328/2024-47/PRÉ-RESERVA: 1321302
+CONTRATANTE: O GOVERNO DO ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO e a CEJA JOÃO DA SILVA RAMOS - CREDE 
+04 - CAMOCIM/CE, inscrita no CNPJ 07.954.514/0304-66, neste ato representada por seu (sua) Diretor (a) Geral, Sr.(a) Francisco Wellington Mesquita de 
+Albuquerque CONTRATADA: ACE ASSESSORIA CONTABIL LTDA, inscrita no CPF/CNPJ sob o nº 11.977.190/0001-18, representado neste ato pelo(a) 
+Sr(a) André Luis Melo do Nascimento. OBJETO: O objeto do presente instrumento é a contratação de AQUISIÇÃO – AQUISIÇÃO – SERVIÇOS DE 
+TERCEIROS – TÉCNICOS PROFISSIONAIS, nas condições estabelecidas na Cotação Eletrônica nº 2024/05341, Termo de Participação nº 20240002, 
+Termo de Referência e na proposta do CONTRATADO. É parte integrante deste contrato, para todos os fins de direito, a Cotação Eletrônica nº 2024/05341, 
+Termo de Participação nº 20240002 e Termo de Referência. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica 
+nº 2024/05341 e Termo de Participação nº 20240002, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 
+2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 
+2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis 
+ao cumprimento de seu objeto FORO: CAMOCIM/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (Trezentos e Sessenta e Cinco) dias, contado 
+do(a) publicação em Diário Oficial, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade 
+competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE 
+EXECUÇÃO: O prazo de execução do objeto contratual é de 365 (Trezentos e Sessenta e Cinco) dias, contado a partir do recebimento da primeira ordem de 
+fornecimento ou instrumento equivalente. VALOR GLOBAL: R$ 99,99 (Noventa e Nove Reais e Noventa e Nove Centavos) pagos em conformidade com 
+o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.143.20970.05.339039.50000.0 – 16454. DATA DA ASSINATURA: 12 de junho 
+de 2024. SIGNATÁRIOS: Francisco Wellington Mesquita de Albuquerque - CONTRATANTE – André Luis Melo do Nascimento – CONTRATADA e 
+TESTEMUNHAS: 01- Maikon dos Santos Ferro, 02- Cláudia Lireda Fontenele Pinheiro de Araújo. Fortaleza, 19 de junho de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

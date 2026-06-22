@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 10382.652024/99 - IG: 1307455
+CONTRATANTE: A EEMTI MIRIAN PORTO MOTA, situado na Rua do Guajiru, 100 - Jardim Das Oliveiras, Fortaleza - CE, 60820-460, inscrita(o) 
+no CNPJ sob o nº 07.954.514/0537-50, doravante denominada(o) CONTRATANTE, neste ato representada(o) pelo Felipe D’Angelo Holanda CONTRA-
+TADA: DIMAIA´S COMERCIAL LTDA - ME, com sede na Rua Joaquim Magalhães, nº 272, Benfica, CEP: 60.040-060, Fone: 85 9982-6787, inscrita 
+no CPF/CNPJ sob o nº 00.289.070/0001-01, doravante denominado CONTRATADO, representado neste ato pelo AUGUSTO CESAR CARVALHO MAIA. 
+OBJETO: O objeto do presente instrumento é a contratação de merenda escolar com os itens ovos, leite em pó e leite líquido, nas condições estabelecidas 
+na Cotação Eletrônica nº 2024/03304, Termo de Participação nº 04/2024, Termo de Referência e na proposta do CONTRATADO. FUNDAMENTAÇÃO 
+LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica nº 2024/03304 e Termo de Participação nº 04/2024, e seus anexos, os preceitos 
+do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 
+09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto 
+Estadual nº 35.475, de 26 de maio de 2023 FORO: Fortaleza/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (trezentos e sessenta e cinco dias), 
+contado da publicação em diário oficial, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade 
+competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE 
+EXECUÇÃO: O prazo de execução do objeto contratual é de 340 (trezentos e quarenta dias), contado da publicação em diário oficial, admitindo-se a sua 
+prorrogação desde que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação 
+com o CONTRATADO. VALOR GLOBAL: R$ 14.086,43 (quatorze mil e oitenta e seis reais e quarenta e três centavos). pagos em conformidade com o 
+contrato original. DOTAÇÃO ORÇAMENTÁRIA: 2100022.12.362.144.20976.03.339030.50000.0 - 20404 . DATA DA ASSINATURA: 14 de março de 
+2024. SIGNATÁRIOS: Felipe D’Angelo Holanda - CONTRATANTE - AUGUSTO CESAR CARVALHO MAIA – CONTRATADA e TESTEMUNHAS: 
+01- MARIA SYNARA DA COSTA PEREIRA, 02- CRISTIANO DIAS SOUSA. Fortaleza, 18 de março de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

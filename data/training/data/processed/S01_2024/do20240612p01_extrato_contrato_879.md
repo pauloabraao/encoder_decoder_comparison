@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.073037/2024-65/PRÉ-RESERVA: 1320540
+CONTRATANTE: O GOVERNO DO ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO e a EEMTI GUILHERME CORREIA LIMA - 
+CREDE 12 - QUIXERAMOBIM/CE, inscrita no CNPJ 07.954.514/0796-35, neste ato representada por seu (sua) Diretor (a) Geral, Sr.(a) MARIA CELITA 
+FIRMINO CASTELO CONTRATADA: HALTECH COMERCIO DE GLP LTDA, inscrita no CNPJ sob nº 35.438.916/0001-02, representado neste 
+ato pelo(a) Sr. Helton Jhon Oliveira Anjos Silva. OBJETO: O objeto do presente instrumento é a contratação de aquisição de GÁS ENGARRAFADO 
+- MANUTENÇÃO, nas condições estabelecidas na Cotação Eletrônica nº 20240007, Termo de Participação nº 2024/12636, Termo de Referência e na 
+proposta do CONTRATADO. É parte integrante deste contrato, para todos os fins de direito, a Cotação Eletrônica nº 20240007, Termo de Participação 
+nº 2024/12636 e Termo de Referência. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica nº 20240007 e 
+Termo de Participação nº 2024/12636, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei 
+Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto 
+Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis ao cumpri-
+mento de seu objeto FORO: QUIXERAMOBIM/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (Trezentos e sessenta e cinco) dias, contado 
+do(a) publicação em Diário Oficial, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade 
+competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE 
+EXECUÇÃO: O prazo de execução do objeto contratual é de 330 (trezentos e trinta) dias, contado a partir do recebimento da primeira ordem de fornecimento 
+ou instrumento equivalente. VALOR GLOBAL: R$ 10.559,12 (Dez mil Quinhentos e Cinquenta e Nove reais e doze centavos) pagos em conformidade com 
+o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.144.20976.09.339030.50000.0 - 4926. DATA DA ASSINATURA: 03 de junho de 
+2024. SIGNATÁRIOS: MARIA CELITA FIRMINO CASTELO - CONTRATANTE – HELTON JHON OLIVEIRA ANJOS SILVA – CONTRATADA e 
+TESTEMUNHAS: 01- MARIA LUCIA VIEIRA DA SILVA, 02- SAMUEL ROBSON DE ALMEIDA LINO. Fortaleza, 07 de junho de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

@@ -1,0 +1,21 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 07512386/2023 - IG - 129956600
+CONTRATANTE: O Estado do Ceará, através da Secretaria da Educação/ESCOLA DE ENSINO MEDIO EM TEMPO INTEGRAL RAIMUNDO TOMAZ, 
+estabelecida a Rua José Carlos Gadelha, nº 790, Bairro: Tapera, Município de Aquiraz/ CE, Telefone (85) 3361-4187, inscrita no CNPJ/MF: 07.954.514/0406-
+90, daqui por diante denominada simplesmente CONTRATANTE neste ato representada por sua Diretora Geral, Sra. FRANCISCA ANA SANTOS DE 
+ALMEIDA CONTRATADA: PR CONSTRUÇÕES LTDA, inscrita no CNPJ sob nº 49.388.350/0001-66, com sede à Av São José, nº3804, sala 508, Bairro 
+José Mendes, Município Tabuleiro do norte/CE, CEP: 62.960-000 doravante denominada CONTRATADA, neste ato representada pelo Sr. PAULO ROBERTO 
+DE SOUZA. OBJETO: Constitui objeto deste Contrato a EXECUÇÃO DOS SERVIÇOS DE REFORMA DA QUADRA, FOSSA, RECUPERAÇÃO 
+ESTRUTURAL E REFORMA DA COBERTA, na EEMTI RAIMUNDO TOMAZ, conforme orçamento de despesas em anexo e que passa a fazer parte 
+integrante deste Termo, independente de transcrição. FUNDAMENTAÇÃO LEGAL: resolvem celebrar o presente CONTRATO com fundamento na modalidade 
+CONVITE nº 05/2023, regido pelo Art. 23, inciso I, alínea “a” e §1º da Lei nº 8.666/1993 e alterações, Lei Complementar nº 288/2022 FORO: Aquiraz/CE. 
+VIGÊNCIA: O prazo de vigência do contrato será de 240 (duzentos e quarenta), dias corridos, contados a partir da publicação deste instrumento contratual, na 
+forma do parágrafo único do art. 61 da Lei nº 8.666/1993 como condição de sua eficácia. PRAZO DE EXECUÇÃO: O prazo para execução dos serviços aqui 
+pactuados será de 60 (Sessenta) dias corridos, contados a partir do recebimento da Ordem de Serviço pela CONTRATADA, cuja emissão só deverá ocorrer 
+após publicação do extrato contratual no Diário Oficial. VALOR GLOBAL: R$ 219.349,36 (Duzentos e dezenove mil, trezentos e quarenta e nove reais e 
+trinta e seis centavos) pagos em conformidade com o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.434.10152.03.339039.56900.1-
+159655. DATA DA ASSINATURA: 16 de fevereiro de 2024. SIGNATÁRIOS: FRANCISCA ANA SANTOS DE ALMEIDA - CONTRATANTE – PAULO 
+ROBERTO DE SOUZA – CONTRATADA e TESTEMUNHAS: 01- ILEGÍVEL, 02- ILEGÍVEL. Fortaleza, 21 de fevereiro de 2024.
+ Marjorie Dionisio Xavier Castellón
+COORDENADORA/ASJUR
+*** *** ***

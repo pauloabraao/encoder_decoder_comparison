@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.064111/2024-52/PRÉ-RESERVA: 1318519
+CONTRATANTE: O GOVERNO DO ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO e a EEMTI RAIMUNDO NONATO CARLOS 
+DOS SANTOS - CREDE 09 - BEBERIBE/CE, inscrita no CNPJ 07.954.514/0846-39, neste ato representada(o) pelo (a) MARIA EDWIRGES PONTES 
+COSTA CONTRATADA: PINDOGAS COMERCIAL DE GAS GLP LTDA, inscrita no CPF/CNPJ 20.278.930/0001-19, representado neste ato pelo (a) 
+STEFANIA DE OLIVEIRA HOLANDA SIQUEIRA. OBJETO: O presente contrato tem como fundamento na Cotação Eletrônica nº 006/2024 e Termo de 
+Participação nº 2024/0006, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar 
+nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 
+35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis ao cumprimento de 
+seu objeto. FUNDAMENTAÇÃO LEGAL: O objeto do presente instrumento é a contratação de AQUISIÇÃO – GÁS ENGARRAFADO, nas condições 
+estabelecidas na Cotação Eletrônica nº 006/2024, Termo de Participação nº 2024/0006, Termo de Referência e na proposta do CONTRATADO. É parte 
+integrante deste contrato, para todos os fins de direito, a Cotação Eletrônica nº 006/2024, Termo de Participação nº 2024/0006 e Termo de Referência FORO: 
+BEBERIBE/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (trezentos e sessenta e cinco) dias, contado do(a) Publicação, na forma do art. 105 c/c 
+o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as condições e os preços permanecem 
+vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO: O prazo de execução do objeto contratual é 
+de 300 (trezentos) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equivalente. VALOR GLOBAL: R$ 8.737,47 
+(oito mil setecentos e trinta e sete reais e quarenta e sete centavos) pagos em conformidade com o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 2210
+0022.12.362.144.20976.04.339030.50000.0 – 12599 . DATA DA ASSINATURA: 21 de maio de 2024 SIGNATÁRIOS: MARIA EDWIRGES PONTES 
+COSTA - CONTRATANTE – STEFANIA DE OLIVEIRA HOLANDA SIQUEIRA – CONTRATADA e TESTEMUNHAS: 01- SAMIA LOPES MENDES, 
+02- MARIA GLEICIANE FERREIRA MONTEIRO. Fortaleza, 24 de maio de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

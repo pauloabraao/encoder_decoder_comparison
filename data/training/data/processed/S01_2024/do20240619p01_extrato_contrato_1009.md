@@ -1,0 +1,20 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.027409/2024-81/1322128
+CONTRATANTE: O Estado do Ceará, através da Secretaria da Educação/ESCOLA E.E.E.P. Professor Moreira de Sousa, estabelecida a Rua do Cruzeiro, 
+497, Bairro: Centro, Município de Juazeiro do Norte/CE, Telefone (88) 31021134, inscrita no CNPJ sob o nº 07.954.514/0604-54, daqui por diante deno-
+minada simplesmente CONTRATANTE neste ato representada por sua Diretora Geral Sr.ª NAGILA KELLEN DE CARVALHO MONTE BRINGEL 
+CONTRATADA: COAFAC - COOPERATIVA DOS AGRICULTORES FAMILIARES DO CARIRI LTDA, situado à Rua Francisca Lira Pereira, 
+n.º 50, município de Juazeiro do Norte, CEP 63.084-000, inscrita no CNPJ sob n.º 24.250.256/0001-15, representado neste ato pelo(a) Sr.(a) ERISLAN 
+PEREIRA DA SILVA. OBJETO: É objeto desta contratação a aquisição de GÊNEROS ALIMENTÍCIOS DA AGRICULTURA FAMILIAR PARA 
+ALIMENTAÇÃO ESCOLAR, aos alunos da rede de educação básica pública, verba FNDE/PNAE, descritos no quadro previsto na Cláusula Quarta, todos 
+de acordo com a Chamada Pública nº 01/2024, o qual fica fazendo parte integrante do presente contrato, independentemente de anexação ou transcrição. 
+FUNDAMENTAÇÃO LEGAL: fundamentados nas disposições da Lei nº 11.947/2009, da Lei Federal nº 14.133/2021, Lei Federal nº 14.660/2023 e demais 
+Legislação relativas ao PNAE, inclusive a Resolução 06/2020 e suas alterações, e tendo em vista o que consta na Chamada Pública nº 01/2024 FORO: Juazeiro 
+do Norte/CE. VIGÊNCIA: O prazo de vigência e de execução deste contrato será de 150(cento e cinquenta) dias, contados a partir da data de publicação em 
+D.O.E. VALOR GLOBAL: R$ 241.601,00 ( duzentos e quarenta e um mil seiscentos e um reais) pagos em conformidade com o contrato original. DOTAÇÃO 
+ORÇAMENTÁRIA: 22100022.12.362.231.20979.01.339030.50000.0 – 20361. DATA DA ASSINATURA: 07 de Junho de 2024 SIGNATÁRIOS: NAGILA 
+KELLEN DE CARVALHO MONTE BRINGEL- CONTRATANTE – ERISLAN PEREIRA DA SILVA – CONTRATADA e TESTEMUNHAS: 01- Amélia 
+Cordeiro de Sousa Salgado, 02- Maria lenilce Pereira de Oliveira. Fortaleza, 13 de junho de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

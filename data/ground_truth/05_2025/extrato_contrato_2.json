@@ -1,28 +1,28 @@
 {
-    "document_type": "EXTRATO DE CONTRATO",
-    "document_id": {
-        "number": "23/2025",
-        "ig": "1303833000"
-    },
-    "contracting_party": {
-        "name": "FUNECECONTRATADA:DV COMERCIAL E SERVICOS LTDA.",
-        "cpf_cnpj": null
-    },
-    "contracted_party": {
-        "name": "DV COMERCIAL E SERVICOS LTDA.",
-        "cpf_cnpj": null
-    },
-    "validity": "25/04/2025",
-    "global_value": "R$ 855.034,00",
-    "signature": {
-        "date": "25/04/2025SIGNATÁ",
-        "signatories": {
-            "contracting_party": null,
-            "contracted_party": "Roberta Nunes"
-        }
-    },
-    "legal_unit": {
-        "name": null,
-        "role": "PROCURADORIA JURÍDICA"
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.042907/2025-35",
+    "ig": "137261500"
+  },
+  "contracting_party": {
+    "name": "EEM MONSENHOR ANTÔNIO FEITOSA",
+    "cpf_cnpj": "07.954.514/0606-16"
+  },
+  "contracted_party": {
+    "name": "COPERGA COMERCIAL DE GAS PEREIRA DE MORAIS LTDA",
+    "cpf_cnpj": "63.560.007/0001-88"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 9.152,00",
+  "signature": {
+    "date": "28/04/2025",
+    "signatories": {
+      "contracting_party": "ERIKA DE ARAÚJO DANTAS MACEDO",
+      "contracted_party": "JOSÉ ROBERTO PEREIRA DE MORAIS"
     }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
 }

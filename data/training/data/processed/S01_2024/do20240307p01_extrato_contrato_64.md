@@ -1,0 +1,21 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO PROC. Nº08275450/2023 PRE RESERVA : 1299553
+CONTRATANTE: O ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO DO ESTADO DO CEARÁ/EIT MARIA VENÂNCIA, CREDE 
+3 Almofala/CE, Bairro Zona Rural S/N, Município de Itarema/CE, CEP 62.590-000 telefone (88)3667-2059, CNPJ: 07.954.514/0244-90, daqui por diante 
+denominada simplesmente CONTRATANTE neste ato representada por seu Diretor Sr. JOSÉ GETÚLIO DOS SANTOS CONTRATADA: GYGAWATT 
+SERVIÇOS DE MANUTENÇÃO LTDA , inscrita no CNPJ sob nº 26.161.655/0001-35 , doravante denominada CONTRATADA, neste ato represen-
+tada pelo(a) Sr(a) Adrielly Monte Rocha. OBJETO: Constitui objeto deste Contrato a EXECUÇÃO DOS SERVIÇOS DE CONSTRUÇÃO DE SALA 
+ADMINISTRATIVA E MURO FRONTAL, na EIT MARIA VENÂNCIA , conforme orçamento de despesas em anexo e que passa a fazer parte integrante 
+deste Termo, independente de transcrição.. FUNDAMENTAÇÃO LEGAL: resolvem celebrar o presente CONTRATO com fundamento na modalidade 
+CONVITE nº 02/2023, regido pelo Art. 23, inciso I, alínea “a” e §1º da Lei nº 8.666/1993 e alterações, Lei Complementar nº 288/2022 e seus regulamentos 
+FORO: ALMOFALA/CE. VIGÊNCIA: O prazo de vigência do contrato será de 365 (trezentos e sessenta e cinco dias), contados a partir da publicação deste 
+instrumento contratual, na forma do parágrafo único do art. 61 da Lei nº 8.666/1993 como condição de sua eficácia PRAZO DE EXECUÇÃO O prazo para 
+execução dos serviços aqui pactuados será de 60 (sessenta) dias, contados a partir do recebimento da Ordem de Serviço pela CONTRATADA, cuja emissão 
+só deverá ocorrer após publicação do extrato contratual no Diário Oficial.. VALOR GLOBAL: R$  141.640,08 (cento e quarenta e um mil, seiscentos e 
+quarenta reais e oito centavos) pagos em CONFORMIDADE COM O CONTRATO ORIGINAL DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.434.1
+0152.05.339039.54400.1 - 398068 (2023). DATA DA ASSINATURA: 25 de janeiro de 2024 SIGNATÁRIOS: José Getúlio dos Santos - CONTRATANTE, 
+Adrielly Monte Rocha - CONTRATADA e TESTEMUNHAS: 01 - MARIA CLEIDIANE ZACARIAS SANTANA, 02 - IZADORA SARAIVA DOS 
+SANTOS. Fortaleza, 06 de fevereiro de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

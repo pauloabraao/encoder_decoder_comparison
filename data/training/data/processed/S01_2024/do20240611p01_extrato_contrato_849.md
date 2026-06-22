@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.063800/2024-40/IG: 1320394
+CONTRATANTE: A COORDENADORIA REGIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO – CREDE 15 – TAUÁ – CEARÁ, situada na Rua 
+Abigail Cidrão de Oliveira, inscrita no CNPJ sob o nº 07.954.514/0279-10, doravante denominada CONTRATANTE, neste ato representada pela sua Coor-
+denadora, a Sra. Maria Jeane de Noronha CONTRATADA: LUIZ LUCENA DE OLIVEIRA, com sede na AV. ALFREDO RODRIGUES PEREIRA, Nº 
+38, CEP: 63.595-000, Fone: (88) 98150-5404, inscrita no CNPJ sob o nº 49.762.368/0001-86, doravante denominado CONTRATADO, representado neste 
+ato pelo Sr. LUIZ LUCENA DE OLIVEIRA. OBJETO: O objeto do presente instrumento é a contratação de FORNECIMENTO DE ALIMENTAÇÃO 
+PREPARADA, nas condições estabelecidas na Cotação Eletrônica nº 2024/10167, Termo de Participação nº 009/2024, Termo de Referência e na proposta do 
+CONTRATADO.. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica nº 2024/10167 e Termo de Participação 
+nº 009/2024, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 
+de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023,Decreto Estadual nº 35.322, de 24 de 
+fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis ao cumprimento de seu objeto. FORO: 
+Tauá - Ce. VIGÊNCIA: O prazo de vigência do contrato é de 365 (Trezentos e Sessenta e Cinco) dias, contado a partir da sua publicação no Diário Oficial 
+do Estado, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as 
+condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO O prazo 
+de execução do objeto contratual é de 280 (Duzentos e Oitenta) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento 
+equivalente. VALOR GLOBAL: R$ 23.059,93 (Vinte e Três Mil, Cinquenta e Nove Reais e Noventa e Três Centavos) pagos em CONFORMIDADE COM 
+O CONTRATO ORIGINAL DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.143.11283.13.339039.55000.1 - 12575 22100022.12.365.142.11260.13.3
+39039.50000.0 - 317615. DATA DA ASSINATURA: 04 de junho de 2024 SIGNATÁRIOS: Maria Jeane de Noronha CONTRATANTE LUIZ LUCENA 
+DE OLIVEIRA CONTRATADO e TESTEMUNHAS: 1-Luciana Tagla Oliveira Zinzin 2-Layele Lima de Sousa. Fortaleza, 07 de junho de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

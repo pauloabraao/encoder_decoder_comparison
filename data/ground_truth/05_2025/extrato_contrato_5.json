@@ -1,28 +1,28 @@
 {
-    "document_type": "EXTRATO DE CONTRATO",
-    "document_id": {
-        "number": "27/2025",
-        "ig": null
-    },
-    "contracting_party": {
-        "name": "FUNECE",
-        "cpf_cnpj": null
-    },
-    "contracted_party": {
-        "name": "BRAVAR COMÉRCIO E SERVIÇOS LTDA.",
-        "cpf_cnpj": null
-    },
-    "validity": "28/04/2025",
-    "global_value": "R$ 475.740,00",
-    "signature": {
-        "date": "28/04/2025",
-        "signatories": {
-            "contracting_party": "Fernanda Borges Roriz Forti",
-            "contracted_party": "Fernanda Borges Roriz Forti"
-        }
-    },
-    "legal_unit": {
-        "name": "Roberta Nunes",
-        "role": "ASSESSORIA JURÍDICA"
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "27/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "FUNECE",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "BRAVAR COMÉRCIO E SERVIÇOS LTDA.",
+    "cpf_cnpj": null
+  },
+  "validity": null,
+  "global_value": "R$ 475.740,00",
+  "signature": {
+    "date": "28/04/2025",
+    "signatories": {
+      "contracting_party": "Prof. M.e. Hidelbrando dos Santos Soares",
+      "contracted_party": "Sra. Fernanda Borges Roriz Forti"
     }
+  },
+  "legal_unit": {
+    "name": "Roberta Nunes",
+    "role": "ASSESSORIA JURÍDICA"
+  }
 }

@@ -1,0 +1,22 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.030179/2024-38 - IG: 1311504
+CONTRATANTE: A Escola de Tempo Integral Flávio Ribeiro Lima, situada(o) na rua Tentente José Ramiro de Sousa, inscrita(o) no CNPJ sob o n.º 
+07.954.514/0355-06, doravante denominada(o) CONTRATANTE, neste ato representada(o) pela Diretora escolar Maria Edenilda Silva Medeiros CONTRA-
+TADA: COMERCIAL DE ALIMENTOS E PAPELARIA UBAJARA LTDA, com sede na rua Rua Manoel Miranda N.º 261, bairro Centro, município 
+de Ubajara-CE, CEP: 62350-000, telefone: 8836341286, inscrita no CPF/CNPJ sob o n.º 03.336.946/0001-11, doravante denominado CONTRATADO, 
+representado neste ato pela sra. Geracinda dos Santos Sousa. OBJETO: O objeto do presente instrumento é a contratação de gêneros alimentícios para 
+alimentação escolar, nas condições estabelecidas na Cotação Eletrônica n.º 2024/02023, Termo de Participação n.º 2024/0001, Termo de Referência e na 
+proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica n.º 2024/02023 e Termo de 
+Participação n.º 2024/0001, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal n.º 14.133, de 1º de abril de 2021, a Lei Complementar 
+n.º 288, de 20 de julho de 2022, Decreto n.º 35.341, de 09 de março de 2023, alterado pelo Decreto n.º 35.474, de 26 de maio de 2023, Decreto Estadual n.º 
+35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual n.º 35.475, de 26 de maio de 2023 FORO: Ubajara/CE. VIGÊNCIA: O prazo de vigência 
+do contrato é de 300 (trezentos) dias, contado da sua publicação no D.O.E, na forma do art. 105 c/c o art. 94 ambos da Lei n.° 14.133/2021, admitindo-se a 
+sua prorrogação desde que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação 
+com o CONTRATADO. PRAZO DE EXECUÇÃO: O prazo de execução do objeto contratual é de 300 (trezentos) dias, contado a partir do recebimento da 
+primeira ordem de fornecimento ou instrumento equivalente. VALOR GLOBAL: R$ 45.240,30 (quarenta e cinco mil e duzentos e quarenta reais e trinta 
+centavos) pagos em conformidade com o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.144.20974.08.339030.50000.0 – 8824. 
+DATA DA ASSINATURA: 14 de Junho de 2024. SIGNATÁRIOS: Maria Edenilda Silva Medeiros - CONTRATANTE – Geracinda dos Santos Sousa – 
+CONTRATADA e TESTEMUNHAS: 01- ILEGÍVEL, 02- ILEGÍVEL. Fortaleza, 24 de junho de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001043928/2025",
+    "ig": "1306818"
+  },
+  "contracting_party": {
+    "name": "EEMTI MARIA DÁUREA LOPES - CREDE 16",
+    "cpf_cnpj": "07.954.514/0799-88"
+  },
+  "contracted_party": {
+    "name": "GERCIANA MARTINS DE OLIVEIRA",
+    "cpf_cnpj": "52.249.726/0001-66"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 26.440,00",
+  "signature": {
+    "date": "08/03/2025",
+    "signatories": {
+      "contracting_party": "Maria Gneglauda Holanda",
+      "contracted_party": "Gerciana Martins de Oliveira"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

@@ -1,28 +1,28 @@
 {
-    "document_type": "EXTRATO DE CONTRATO",
-    "document_id": {
-        "number": "22001022575/202572",
-        "ig": "1370125"
-    },
-    "contracting_party": {
-        "name": "O Estado do Ceará, através da Secretaria da Educação/ESCOLA EEM DEPUTADO FAUSTO AGUIAR ARRUDA",
-        "cpf_cnpj": "07.954.514/0259-77"
-    },
-    "contracted_party": {
-        "name": "COOPERATIVA DE PRODUTORES RURAIS AGROECOLÓGICO DE PACATUBA - COOPRAP",
-        "cpf_cnpj": "35.854.648/0001-00"
-    },
-    "validity": "365 (trezentos e sessenta e cinco) dias",
-    "global_value": "R$ 64.415,00",
-    "signature": {
-        "date": "22/04/2025",
-        "signatories": {
-            "contracting_party": "Aila Maria da Costa",
-            "contracted_party": "Geovani Rodrigues Teixeira"
-        }
-    },
-    "legal_unit": {
-        "name": "Marcos Felipe Vicente",
-        "role": "COORDENADOR/ASJUR"
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001022575/202572",
+    "ig": "1370125"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ESCOLA EEM DEPUTADO FAUSTO AGUIAR ARRUDA",
+    "cpf_cnpj": "07.954.514/0259-77"
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA DE PRODUTORES RURAIS AGROECOLÓGICO DE PACATUBA - COOPRAP",
+    "cpf_cnpj": "35.854.648/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 64.415,00",
+  "signature": {
+    "date": "22/04/2025",
+    "signatories": {
+      "contracting_party": "Aila Maria da Costa",
+      "contracted_party": "Geovani Rodrigues Teixeira"
     }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
 }

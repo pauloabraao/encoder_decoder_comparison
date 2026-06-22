@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.036210/2024-44/IG: 1304130
+CONTRATANTE: A EEMTI PROFESSOR GABRIEL EPIFÂNIO DOS REIS, situada(o) na Rua Filizolina Freitas, inscrita no CNPJ sob o nº 07.954.514/0329-14 
+doravante denominada CONTRATANTE, neste ato representado pelo Sr. ANTÔNIO SÉRGIO DE PAULA CONTRATADA: 3P’S LTDA, com sede na Rua 
+Francisco Pinheiro, Nº 71, Santa Cruz, São Gonçalo do Amanrente - CE, CEP: 62.670-000, Fone: (85) 9 8614-8956, inscrita no CNPJ sob o nº 41.262.099/0001-
+87, doravante denominado CONTRATADO, representado neste ato pela Sr Jorge Luís Gomes Mendonça. OBJETO: O objeto do presente instrumento é a 
+contratação de AQUISIÇÃO DE MATERIAL DE EXPEDIENTE, nas condições estabelecidas na Cotação Eletrônica nº 01/2024,Termo de Participação nº 
+2024/0004, Termo de Referência e na proposta do CONTRATADO.. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação 
+Eletrônica nº 01/2024 e Termo de Participação nº 2024/0001, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de 
+abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de 
+maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações 
+aplicáveis ao cumprimento de seu objeto. O objeto do presente instrumento é a contratação de AQUISIÇÃO DE MATERIAL DE EXPEDIENTE, nas condi-
+ções estabelecidas na Cotação Eletrônica nº 01/2024,Termo de Participação nº 2024/0004, Termo de Referência e na proposta do CONTRATADO. FORO: 
+Icapuí, CE. VIGÊNCIA: O prazo de vigência do contrato é de 360 (trezentos e sessenta) dias, contado da assinatura deste contrato, na forma do art. 105 c/c 
+o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as condições e os preços permanecem 
+vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO O prazo de execução do objeto contratual é 
+de 240 (duzentos e quarenta) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equivalente.. VALOR GLOBAL: R$ 
+329,60 (trezentos e vinte nove reais e sessenta centavos) pagos em CONFORMIDADE COM O CONTRATO ORIGINAL DOTAÇÃO ORÇAMENTÁRIA: 
+22100022.12.362.144.20976.04.339030.50000.0 - 12599. DATA DA ASSINATURA: 11 de março de 2024. SIGNATÁRIOS: ANTÔNIO SÉRGIO DE 
+PAULA CONTRATANTE Jorge Luís Gomes Mendonça CONTRATADO e Fortaleza, 20 de março de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

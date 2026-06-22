@@ -1,0 +1,20 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 1036051202488/PRE-RESERVA : 1307079
+CONTRATANTE: O Estado do Ceará, através da Secretaria da Educação/ESCOLA EEMTI de Cariús,Município de Cariús/CE,inscrita no CNPJ/MF: 
+07.954.514/0855-20,neste ato representada por seu Diretor Geral, Sr. José Aparecido Coelho CONTRATADA: U.S DA CRUZ NETO, inscrita no CNPJ 
+sob Nº 37.847.947/0001-42,representado neste ato pelo Sr. Ubiratan Sobreira da Cruz Neto. OBJETO: O cumprimento deste contrato está vinculado aos 
+termos da Cotação Eletrônica nº 2024/03032, Termo de Participação nº 20240004, o Termo de Referência, a proposta do contratado e eventuais anexos dos 
+respectivos documentos os quais constituem parte deste instrumento, independente de sua transcrição.. FUNDAMENTAÇÃO LEGAL: O presente contrato 
+tem como fundamento na Cotação Eletrônica nº 2024/03032 e Termo de Participação nº 20240004, e seus anexos, os preceitos do direito público, no art. 75, 
+II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado 
+pelo Decreto nº 35.474, de 26 de maio de 2023 e demais legislações aplicáveis ao cumprimento de seu objeto. FORO: Cariús/CE. VIGÊNCIA: O prazo de 
+vigência do contrato é de 365 (Trezentos e sessenta e cinco) dias, contados partir da sua publicação no Diário Oficial do Ceará, na forma do art. 105 c/c o 
+art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as condições e os preços permanecem 
+vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO: O prazo de execução do objeto contratual é 
+de 300 (Trezentos) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equivalente.. VALOR GLOBAL: R$ 40.127,97 
+(Quarenta mil, cento e vinte e sete reais e noventa e sete centavos). pagos em CONFORMIDADE COM CONTRATO ORIGINAL DOTAÇÃO ORÇAMEN-
+TÁRIA: 22100022.12.362.144.20974.02.339030.50000.0 - 4972. DATA DA ASSINATURA: 11 de Março de 2024 SIGNATÁRIOS: CONTRATANTE-José 
+Aparecido Coelho e CONTRATADA-Ubiratan Sobreira da Cruz Neto. Fortaleza, 13 de março de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

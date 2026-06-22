@@ -1,0 +1,22 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 1021425/202461 - IG - 1307513
+CONTRATANTE: A(O) ESCOLA EEMTI PROF. JOSÉ TELES DE CARVALHO, situada(o) na Avenida Antônio Florentino, nº 800, Bairro São Francisco, 
+Município de Brejo Santo/CE, Telefone (88) 3531 - 4830, inscrita(o) no CNPJ sob o nº 07.954.514/0562-60, doravante denominada(o) CONTRATANTE, 
+neste ato representada(o) pelo Diretor(a) Geral, Sr.(a). Francisco Sanderley Justino Coelho CONTRATADA: VH INFORMATICA E SERVIÇOS, inscrita 
+no CNPJ sob nº 49.001.552/0001-03, com sede à Rua João Lucena n° 598, Bairro São Francisco, Município Brejo Santo - CE, CEP 63.260-00, doravante 
+denominado CONTRATADO, representado neste ato pelo(a) Sr(a). Victor Henrique Sabino Pereira. OBJETO: O objeto do presente instrumento é a contra-
+tação de SERVIÇO DE ABASTECIMENTO DE ÁGUA, CAMINHÃO PIPA - PESSOA JURÍDICA, nas condições estabelecidas na Cotação Eletrônica 
+nº 06/2024, Termo de Participação nº 06/2024, Termo de Referência e na proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato 
+tem como fundamento na Cotação Eletrônica nº 06/2024 e Termo de Participação nº 06/2024, e seus anexos, os preceitos do direito público, no art. 75, II da 
+Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo 
+Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio 
+de 2023 FORO: BREJO SANTO/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (trezentos e sessenta e cinco) dias, contado do(a) assinatura, na 
+forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as condições e os 
+preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO.PRAZO DE EXECUÇÃO: O prazo de execução do 
+objeto contratual é de 365 (trezentos e sessenta e cinco) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equivalente 
+. VALOR GLOBAL: R$ 10.770,00  (dez mil setecentos e setenta reais) pagos em conformidade com o contrato original DOTAÇÃO ORÇAMENTÁRIA: 
+22100022.12.362.144.20976.01.339039.50000.0 - 12670. DATA DA ASSINATURA: 12 de Março de 2024 SIGNATÁRIOS: Francisco Sanderley Justino 
+Coelho - CONTRATANTE - Victor Henrique Sabino Pereira, - CONTRATADA. Fortaleza, 14 de março de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

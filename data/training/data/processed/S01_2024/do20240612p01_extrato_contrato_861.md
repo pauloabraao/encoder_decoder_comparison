@@ -1,0 +1,22 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.035841/2024-46 - IG: 131307300
+CONTRATANTE: A EEMTI MONSENHOR DOURADO, situada na Av. Sargento Hermínio, 4600, bairro Padre Andrade – CEP: 60.356-392, inscrita(o) 
+no CNPJ sob o nº 07.954.514/0471-99, doravante denominada CONTRATANTE, neste ato representada pela Sra. SORAIDE PAZ DE OLIVEIRA LIMA 
+CONTRATADA: MV COMERCIO VAREJISTA DE GLP, com sede na Av. São Vicente de Paula, 440, CEP: 61655-000, fone: (85) 99987.6658, inscrita 
+no CNPJ sob o nº 11.224.603/0001-93, doravante denominado contratado, representado neste ato pela Sra. MICHELE VITOR MARTINS. OBJETO: O objeto 
+do presente instrumento é a contratação de fornecimento de GÁS, LIQUEFEITO DE PETRÓLEO - GLP, COMPOSIÇÃO BÁSICA PROPANO E 
+BUTANO, GÁS DE COZINHA, CILINDRO 45.0 QUILOGRAMA, nas condições estabelecidas na Cotação Eletrônica nº 2024/06446, Termo de Parti-
+cipação nº 2024/0001, Termo de Referência e na proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento 
+na Cotação Eletrônica nº 2024/06446 e Termo de Participação nº 2024/0001, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 
+14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 
+35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023 
+FORO: Fortaleza/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (trezentos e sessenta e cinco) dias, contado da data de publicação no DOE, na 
+forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo se a sua prorrogação desde que a autoridade competente ateste que as condições e os 
+preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO: O prazo de execução do 
+objeto contratual é de 300 (trezentos) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equivalente. VALOR GLOBAL: 
+R$ 7.040,00 (sete mil e quarenta reais) pagos em conformidade com o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.144.20976.03.
+339030.50000.0 - 20404 . DATA DA ASSINATURA: 04 de Junho de 2024. SIGNATÁRIOS: SORAIDE PAZ DE OLIVEIRA LIMA - CONTRATANTE 
+– MICHELE VITOR MARTINS – CONTRATADA e TESTEMUNHAS: 01- ILEGÍVEL, 02- ILEGÍVEL. Fortaleza, 07 de junho de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

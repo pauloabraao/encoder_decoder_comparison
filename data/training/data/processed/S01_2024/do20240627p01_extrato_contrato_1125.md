@@ -1,0 +1,22 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.053336/2024-83 - IG: 1320018
+CONTRATANTE: A(O) EEMTI PROFESSOR EDMILSON GUIMARÃES DE ALMEIDA, situada(o) na Rua 1074, S/N, Conjunto Ceará, Fortaleza-CE, 
+inscrita(o) no CNPJ sob o nº 07.954.514/0709-21, doravante denominada(o) CONTRATANTE, neste ato representada(o) pela Diretora, Sra. Ivana Garcia 
+Lima CONTRATADA: DIMAIA´S COMERCIAL LTDA-ME , com sede na Rua Joaquim Magalhães, 272 Bairro Benfica, CEP: 60.040-160, inscrita no 
+CPF/CNPJ sob o nº 00.289.070/0001-01, doravante denominado CONTRATADO, representado neste ato pelo Sr. Augusto César Carvalho Maia. OBJETO: O 
+objeto do presente instrumento é a contratação de Aquisição de Gêneros de Alimentação, nas condições estabelecidas na Cotação Eletrônica nº 2024/06974, 
+Termo de Participação nº 01/2024, Termo de Referência e na proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como 
+fundamento na Cotação Eletrônica nº 2024/06974 e Termo de Participação nº 01/2024, e seus anexos, os preceitos do direito público, no art. 75, II da Lei 
+Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo 
+Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio 
+de 2023 FORO: Fortaleza/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (trezentos e sessenta e cinco), contado do(a) publicação, na forma do 
+art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as condições e os preços 
+permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO: O prazo de execução do objeto 
+contratual é de 320 (trezentos e vinte dias), contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equivalente. VALOR GLOBAL: 
+R$ 49.315,68 (Quarenta e nove mil e trezentos e quinze reais e sessenta e oito centavos) pagos em conformidade com o contrato original. DOTAÇÃO 
+ORÇAMENTÁRIA: 22100022.12.362.144.20974.03.339030.50000.0 - 1257. DATA DA ASSINATURA: 13 de Junho de 2024. SIGNATÁRIOS: Ivana 
+Garcia Lima - CONTRATANTE – Augusto César Carvalho Maia – CONTRATADA e TESTEMUNHAS: 01- Robério Pereira do Nascimento, 02- Daniel 
+Lima Moura . Fortaleza, 24 de junho de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

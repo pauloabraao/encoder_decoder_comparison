@@ -1,28 +1,28 @@
 {
-    "document_type": "EXTRATO DE CONTRATO",
-    "document_id": {
-        "number": "22001.132992/2024-41",
-        "ig": "1364362"
-    },
-    "contracting_party": {
-        "name": "EEEP PROFESSORA MARIA DE JESUS RODRIGUES ALVES",
-        "cpf_cnpj": "07.954.514/0727- 03"
-    },
-    "contracted_party": {
-        "name": "MF LOCACAO E SERVICOS TECNOLOGICOS LTDA",
-        "cpf_cnpj": "36.779.362/0001-70"
-    },
-    "validity": "365 (TREZENTOS E SESSENTA E CINCO DIAS) dias corridos",
-    "global_value": "R$ 11.801,00",
-    "signature": {
-        "date": "18/02/2025",
-        "signatories": {
-            "contracting_party": "PAULO CÉSAR DA CUNHA",
-            "contracted_party": "MARCUS VINICIUS DAMASCENO FERREIRA"
-        }
-    },
-    "legal_unit": {
-        "name": "Marcos Felipe Vicente",
-        "role": "COORDENADOR/ASJUR"
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.132992/2024-41",
+    "ig": "1364362"
+  },
+  "contracting_party": {
+    "name": "EEEP PROFESSORA MARIA DE JESUS RODRIGUES ALVES",
+    "cpf_cnpj": "07.954.514/0727- 03"
+  },
+  "contracted_party": {
+    "name": "MF LOCACAO E SERVICOS TECNOLOGICOS LTDA",
+    "cpf_cnpj": "36.779.362/0001-70"
+  },
+  "validity": "365 (TREZENTOS E SESSENTA E CINCO DIAS) dias",
+  "global_value": "R$ 11.801,00",
+  "signature": {
+    "date": "18/02/2025",
+    "signatories": {
+      "contracting_party": "PAULO CÉSAR DA CUNHA",
+      "contracted_party": "MARCUS VINICIUS DAMASCENO FERREIRA"
     }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
 }

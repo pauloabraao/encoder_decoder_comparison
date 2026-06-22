@@ -1,0 +1,24 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001043603/202412 - IG - 1311322
+CONTRATANTE: O Estado do Ceará, através da Secretaria da Educação E.E.M.T.I DELMIRO GOUVEIA, estabelecida Av. Milton Carvalho, nº 1171, Bairro 
+CAIXA DGUA, Município de IPU/CE, Telefone (88) 3683 3917, inscrita no CNPJ. 07.954.514.0373-98, doravante denominada(o) CONTRATANTE, neste 
+ato representada(o) pelo seu Diretor Geral, Sr. FRANCISCO WENDEL CESAR BRAGA DE SOUSA CONTRATADA: FALPEL COMERCIO LTDA 
+-ME, com sede à Avenida João Gregório Timbó, nº 699, Bairro Patronato, Município Nova Russa-CE, CEP: 62.200.000, Fone: (88) 36712482, inscrita no 
+CPF/CNPJ sob o nº inscrita no CNPJ sob nº 04.459.123/0001-46, doravante denominado CONTRATADO, representado neste ato pela Sr. FRANCISCO 
+ARAUJO LIMA. OBJETO: O objeto do presente instrumento é a contratação de AQUISIÇÃO - MATERIAL DE CONSUMO - Gás Engarrafado 
+13 Kg, nas condições estabelecidas na Cotação Eletrônica nº 2024/04959, Termo de Participação nº 2024/0002, Termo de Referência e na proposta do 
+CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica nº 2024/04959 e Termo de Participação 
+nº 2024/0002, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 
+de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de 
+fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis ao cumprimento de seu objeto FORO: 
+IPU/CE. VIGÊNCIA: O prazo de vigência do contrato é de 300 (trezentos) dias, contado do(a) sua assinatura, na forma do art. 105 c/c o art. 94 ambos da 
+Lei n° 14.133/2021, admitindose a sua prorrogação desde que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a 
+Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO: O prazo de execução do objeto contratual é de 300 (trezentos) 
+dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equivalente. VALOR GLOBAL: R$ 13.462,47 (Treze Mil Quatro-
+centos e sessenta e Dois Reais e Quarenta e sete Centavo) pagos em conformidade com o contrato original DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.3
+62.144.20976.08.339030.50000.0 - 1211. DATA DA ASSINATURA: 17 de Abril de 2024 SIGNATÁRIOS: FRANCISCO WENDEL CESAR BRAGA DE 
+SOUSA - CONTRATANTE - FRANCISCO ARAUJO LIMA, - CONTRATADA e TESTEMUNHA 01 - ANTONIA GESSILENE OLIVEIRA ANDRADE 
+- TESTEMUNHA 02 - MARIA CLAUDIANA RODRIGUES FARIAS - Fortaleza, 07 de maio de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

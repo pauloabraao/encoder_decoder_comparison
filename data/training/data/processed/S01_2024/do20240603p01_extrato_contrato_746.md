@@ -1,0 +1,22 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.073554/2024-34 - IG: 1316087
+CONTRATANTE: A(O) EEM ETELVINA GOMES BEZERRA, situada(o) na Rua Joaquim Gomes de Melo, S/N, Vila Nova – 62.640-000, Pentecoste/
+Ce, inscrita(o) no CNPJ sob o nº 07.954.514/0165-52, doravante denominada(o) CONTRATANTE, neste ato representada(o) pelo José Roberto Lima de 
+Sousa CONTRATADA: NATANAELL CRUZ DE MATOS, com sede na rua José Félix, 587, São José, General Sampaio/Ce, CEP: 62.738-000, Fone: 85 
+988434069, inscrita no CPF/CNPJ sob o nº 42.789.334/0001-36, doravante denominado CONTRATADO, representado neste ato pelo Sr. Natanaell Cruz 
+de Matos. OBJETO: O objeto do presente instrumento é a contratação de Gêneros de Alimentação, nas condições estabelecidas na Cotação Eletrônica 
+nº 202406455 e Termo de Participação nº 20240002, Termo de Referência e na proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente 
+contrato tem como fundamento na Cotação Eletrônica nº 202406455 e Termo de Participação nº 20240002 e seus anexos, os preceitos do direito público, no 
+art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, 
+alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, 
+de 26 de maio de 2023 FORO: Pentecoste/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (trezentos e sessenta e cinco) dias, contado do(a) 
+publicação, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as 
+condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO: O prazo 
+de execução do objeto contratual é de 240 (duzentos e quarenta) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento 
+equivalente. VALOR GLOBAL: R$ 4.596,18 (quatro mil quinhentos e noventa e seis reais e dezoito centavos) pagos em conformidade com o contrato 
+original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.144.20974.06.339030.50000.0 - 24165 . DATA DA ASSINATURA: 21 de Maio de 2024. 
+SIGNATÁRIOS: José Roberto Lima de Sousa - CONTRATANTE – Natanaell Cruz de Matos – CONTRATADA e TESTEMUNHAS: 01- Diogo Pereira 
+Duarte, 02- Francisca Itamara Caetano Lobo. Fortaleza, 27 de maio de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

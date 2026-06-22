@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.063952/2024-42/IG:1319641
+CONTRATANTE: O ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO DO ESTADO DO CEARÁ Escola de Ensino Médio Ana Facó, 
+situada(o) na Rua Vicente Matias nº 159, Bairro Centro, no Município de Beberibe, CEP 62.840-000, inscrita(o) no CNPJ sob o nº 07.954.514/0393 - 31, dora-
+vante denominada(o) CONTRATANTE, neste ato representada(o) pelo Maria do Livramento de Sousa dos Santos CONTRATADA: MARIA ADAGLENE 
+MOREIRA DE SOUSA GOMES - ME, com sede na Rua Edivaldo Maia da Silva – nº26, Em da Prefeitura - Centro - Ibicuitinga - Ce, CEP: 62.955-000, 
+Fone:(88)99214 4923, inscrita no CPF/CNPJ sob o nº 30.452.180/0001-03, doravante denominado CONTRATADO, representado neste ato pelo (a) Maria 
+Adaglene Moreira de Sousa Gomes.. OBJETO: O objeto do presente instrumento é a contratação de Aquisição de Material de Consumo – Gêneros de 
+Alimentação, nas condições estabelecidas na Cotação Eletrônica nº2024/10292, Termo de Participação nº2024/0001, Termo de Referência e na proposta do 
+CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica nº 2024/10292 e Termo de Participação 
+nº2024/0001, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 
+20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 
+24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis ao cumprimento de seu objeto 
+FORO: Beberibe -Ce. VIGÊNCIA: O prazo de vigência do contrato é de 360 (trezentos e sessenta) dias, contado do(a) Após a Publicação D.O.E, na forma 
+do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as condições e os preços 
+permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO O prazo de execução do objeto 
+contratual é de 300 (trezentos) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equivalente.. VALOR GLOBAL: R$ 
+20.255,80 (vinte mil e duzentos e cinquenta e cinco reais e oitenta centavos). pagos em CONFORMIDADE COM O CONTRATO ORIGINAL DOTAÇÃO 
+ORÇAMENTÁRIA: 22100022.12.362.143.20967.04.339030.50000.0 – 20335.. DATA DA ASSINATURA: 03 de junho de 2024 SIGNATÁRIOS: Maria 
+do Livramento de Sousa dos Santos CONTRATANTE Maria Adaglene Moreira de Sousa Gomes CONTRATADO e Fortaleza, 07 de junho de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

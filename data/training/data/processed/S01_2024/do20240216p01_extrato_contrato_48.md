@@ -1,0 +1,20 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.037196/2023-15 - IG - 1299610
+CONTRATANTE: O ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO DO ESTADO DO CEARÁ/EEEP RITA MATOS LUNA, inscrita 
+no CNPJ nº 07.954.514/0734-32, situada na Rua Padre João Sticker nº s/n , Bairro: Sagrada Família, Município de Jucás/CE, CEP: 63580-000, doravante 
+denominada simplesmente CONTRATANTE, neste ato representada pelo seu Diretor Geral, Sr. Francisco Vagner Lima Costa CONTRATADA: F. W. 
+GARCIA RODRIGUES, inscrita no CNPJ sob nº 36.612.735/0001-13, com sede à Rua Vereador Laureano de Sousa Bernardo, nº 153, Bairro Veneza, 
+Município Iguatu/CE, CEP 63504-420, doravante denominada CONTRATADA, neste ato representada pelo Sr. Francisco Wellington Garcia Rodrigues. 
+OBJETO: Constitui objeto deste Contrato a EXECUÇÃO DOS SERVIÇOS DE REFORMA PARA REPARO DA TUBULAÇÃO DE INCÊNDIO , 
+na EEEP RITA MATOS LUNA, conforme orçamento de despesas em anexo e que passa a fazer parte integrante deste Termo, independente de transcrição. 
+FUNDAMENTAÇÃO LEGAL: resolvem celebrar o presente CONTRATO com fundamento na modalidade CONVITE nº 2023/023, regido pelo Art. 23, 
+inciso I, alínea “a” e §1º da Lei nº 8.666/1993 FORO: Jucás/CE. VIGÊNCIA: O prazo de vigência do contrato será de 12 ( Doze ) meses, contados a partir da 
+publicação deste instrumento contratual, na forma do parágrafo único do art. 61 da Lei nº 8.666/1993 como condição de sua eficácia. PRAZO DE EXECUÇÃO: 
+O prazo para execução dos serviços aqui pactuados será de 30 ( Trinta ) dias, contados a partir do recebimento da Ordem de Serviço pela CONTRATADA, 
+cuja emissão só deverá ocorrer após publicação do extrato contratual no Diário Oficial. VALOR GLOBAL: R$ 13.490,93 (Treze Mil, Quatrocentos e Noventa 
+Reais e Noventa e Três Centavos) pagos em conformidade com o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.433.10149.02.33903
+9.54400.1 - 3017709. DATA DA ASSINATURA: 05 de Fevereiro de 2024. SIGNATÁRIOS: Francisco Vagner Lima Costa - CONTRATANTE – Francisco 
+Wellington Garcia Rodrigues – CONTRATADA e TESTEMUNHAS: 01- ILEGÍVEL, 02- ILEGÍVEL. Fortaleza, 14 de fevereiro de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

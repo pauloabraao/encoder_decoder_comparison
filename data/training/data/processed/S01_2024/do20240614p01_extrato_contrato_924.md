@@ -1,0 +1,21 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 1065033/2024 11 IG 1319624
+CONTRATANTE: EEM PROFESSORA MARIA GONÇALVES, Fortaleza/Ceará, inscrita no CNPJ sob o nº 07.954.514/0543- 06, neste ato representada 
+pela diretora LORENA CAVALCANTE LIMA DE FREITAS CONTRATADA: MV COMÉRCIO VAREJISTA DE GÁS, Caucaia/CE inscrita no CNPJ 
+sob o nº 11.224.603/0001-93, representado neste ato por MICHELE VITOR MARTINS. OBJETO: O objeto do presente instrumento é a aquisição de gás 
+de cozinha, botijão 13 kg, nas condições estabelecidas na Cotação Eletrônica nº 2024/10894, Termo de Participação nº 09/2024, Termo de Referência e na 
+proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica nº 2024/10894 e Termo de 
+Participação nº 09/2024, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar 
+nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 
+35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis ao cumprimento de 
+seu objeto FORO: Fortaleza/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (trezentos e sessenta e cinco) dias, contados da publicação no Diário 
+Oficial do Estado, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente atesto 
+que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. O PRAZO DE EXECUÇÃO O 
+prazo de execução do objeto contratual é de 340 (trezentos e quarenta), contado a partir do recebimento da primeira ordem de fornecimento ou instrumento 
+equivalente. VALOR GLOBAL: R$ 2.937,00 (dois mil novecentos e trinta e sete reais) pagos em CONFORMIDADE COM O CONTRATO ORIGINAL 
+DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.143.20970.03.339030.50000.0 - 1270. DATA DA ASSINATURA: 07 de junho de 2024 SIGNATÁRIOS: 
+CONTRATANTE - LORENA CAVALCANTE LIMA DE FREITAS CONTRATADA - MICHELE VITOR MARTINS e TESTEMUNHAS: 1 - ANDREZZA 
+LIMA SABÓIA RIBEIRO 2 - MARLA DEILIANE OLIVEIRA DE PAIVA, Fortaleza 11 de junho de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

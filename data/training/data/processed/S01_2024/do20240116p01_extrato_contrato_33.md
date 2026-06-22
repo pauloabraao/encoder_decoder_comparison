@@ -1,0 +1,19 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 002/2024
+CONTRATANTE: O ESTADO DO CEARÁ, através da SECRETARIA DO TRABALHO, situada na Avenida da Universidade, 2456, Benfica, Fortaleza - 
+CE, CEP 60.055-000, inscrita no CNPJ sob o nº 49.921.771/0001-00, doravante denominada CONTRATANTE. CONTRATADA: TREVO SERVIÇOS E 
+EVENTOS LTDA, pessoa jurídica de direito privado, inscrita no CNPJ sob o nº 24.109.843/0001-99, com sede na Rua Barão De Aratanha Nº. 611 - Jose 
+Bonifacio - Fortaleza - CE, CEP: 60.050-071, doravante denominada CONTRATADA. OBJETO: Contratação de empresa especializada na prestação de 
+serviços de mão de obra terceirizada, cujos empregados sejam regidos pela CONSOLIDAÇÃO DAS LEIS TRABALHISTAS (CLT), para atender as 
+necessidades da(s) área(s) de SERVIÇOS DIVERSOS da Secretaria do Trabalho – SET, de acordo com as especificações e quantitativos previstos no Anexo 
+I – Termo de Referência. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento a Dispensa de Licitação n° 009/2023, os preceitos do 
+direito público, e a Lei Federal nº 8.666/1993, com suas alterações, especialmente o Inciso IV do art. 24 e, ainda, a legislação aplicavel ao cumprimento de 
+seu objeto. FORO: Fortaleza/CE. VIGÊNCIA: O prazo de vigência do contrato será de 180 (cento e oitenta) dias, contados a partir da data de assinatura, 
+podendo ser prorrogado nos termos do que dispõe o art. 57, inciso II, da Lei Federal n° 8.666/1993, por ser considerado pela CONTRATANTE, serviço de 
+natureza contínua. VALOR GLOBAL: R$ 149.709,13 (cento e quarenta e nove mil setecentos e nove reais e treze centavos) pagos em conformidade com a 
+cláusula sexta DOTAÇÃO ORÇAMENTÁRIA: 59100001.04.122.211.21405.03.339034.2.5009100000.0 e 59100001.04.122.211.21405.03.339037.2.5009
+100000.0. DATA DA ASSINATURA: 04 de janeiro de 2024 SIGNATÁRIOS: Vladyson da Silva Viana - SECRETARIA DO TRABALHO e Yhago Jorge 
+da Fonseca Cavalcanti - TREVO SERVIÇOS E EVENTOS LTDA.
+Rodrigo Arruda Cunha
+COORDENADOR JURÍDICO
+*** *** ***

@@ -1,0 +1,19 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001029917/2024 02 IG 1312374
+CONTRATANTE: O Estado do Ceará, através da Secretaria da Educação/ESCOLA INDÍGENA TREMEMBÉ ROSA SUZANA DA ROCHA - CREDE 
+03 - Município de Itarema/CE, inscrita no CNPJ/MF 07.954.514/0239-23, neste ato representada por seu Diretor Geral, Sr. Francisco Rodrigues da Rocha 
+Araújo CONTRATADA: COOPERATIVA DOS PRODUTORES AGRÍCOLAS E PECUARISTAS DO VALE DO ACARAÚ - município de Acaraú, 
+inscrita no CNPJ sob n.º 33.029.345/0001-27, representado neste ato pelo(a) Sr.(a) Carlos Alberto Cordeiro. OBJETO: É objeto desta contratação a aqui-
+sição de GÊNEROS ALIMENTÍCIOS DA AGRICULTURA FAMILIAR PARA ALIMENTAÇÃO ESCOLAR, aos alunos da rede de educação básica 
+pública, verba FNDE/PNAE, descritos no quadro previsto na Cláusula Quarta, todos de acordo com a chamada pública nº 01/2024, o qual fica fazendo 
+parte integrante do presente contrato, independentemente de anexação ou transcrição. FUNDAMENTAÇÃO LEGAL: fundamentados nas disposições da 
+Lei nº 11.947/2009, da Lei Federal nº 14.133/2021, Lei Federal nº 14.660/2023 e demais Legislação relativas ao PNAE, inclusive a Resolução 06/2020 e 
+suas alterações, e tendo em vista o que consta na Chamada Pública n° 01/2024 FORO: Itarema/CE. VIGÊNCIA: O prazo de vigência e de execução deste 
+contrato será de 360 (trezentos e sessenta) dias, contados a partir da data de publicação em D.O.E. VALOR GLOBAL: R$ 6.321,50 (seis mil trezentos e 
+vinte e um reais e cinquenta centavos) pagos em CONFORMIDADE COM O CONTRATO ORIGINAL DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.3
+62.143.20967.05.339030.50000.0 - 4992. DATA DA ASSINATURA: 27 de Maio de 2024 SIGNATÁRIOS: CONTRATANTE - Francisco Rodrigues da 
+Rocha Araújo CONTRATADA - Carlos Alberto Cordeiro e TESTEMUNHAS: 1 - Maria Niciane Oliveira Vasconcelos 2 - Maria Beatriz dos Santos Rocha, 
+Fortaleza 29 de maio de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

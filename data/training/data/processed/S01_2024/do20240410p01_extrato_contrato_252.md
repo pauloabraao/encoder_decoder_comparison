@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.039051/2024-30 - IG - 1305102
+CONTRATANTE: O Estado do Ceará, através da Secretaria da Educação/ESCOLA DE ENSINO MÉDIO TANCREDO NUNES DE MENEZES, estabelecida 
+a Rua Assembleia de Deus, nº 1072, Bairro Laurão, Município de Tianguá/CE, Telefone (88) 3671-9310, inscrita no CNPJ/MF 07.954.514/0352-63, doravante 
+denominada(o) CONTRATANTE, neste ato representada(o) pelo seu Diretor Geral, Sr. Jean Carlos Rodrigues da Silva CONTRATADA: COMERCIAL 
+MODELO DE MAQUINAS E PAPEIS LTDA, com sede à Rua Coronel Leite, nº 1802, Bairro Centro, Município Cascavel-CE, CEP: 62.850-000, Fone: 
+(85) 3334 2033, inscrita no CPF/CNPJ sob o nº inscrita no CNPJ sob nº 06.270.023/0001-00, doravante denominado CONTRATADO, representado neste 
+ato pela Sr JOSÉ WANDERLEY MONTEIRO JÚNIOR. OBJETO: O objeto do presente instrumento é a contratação de AQUISIÇÃO - MATERIAL DE 
+CONSUMO - GÊNEROS DE ALIMENTAÇÃO – MERENDA ESCOLAR 2024, nas condições estabelecidas na Cotação Eletrônica nº 2024/01755, 
+Termo de Participação nº 0001/2024, Termo de Referência e na proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como 
+fundamento na Cotação Eletrônica nº 2024/01755 e Termo de Participação nº 0001/2024, e seus anexos, os preceitos do direito público, no art. 75, II da Lei 
+Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo 
+Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio 
+de 2023 FORO: Tianguá/CE. VIGÊNCIA: O prazo de vigência do contrato é de 300 (trezentos) dias, contado do(a) sua assinatura, na forma do art. 105 c/c 
+o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as condições e os preços permanecem 
+vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO: O prazo de execução do objeto contratual é 
+de 300 (trezentos) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equivalente. VALOR GLOBAL: R$ 7.560,00 
+(sete mil quinhentos e sessenta reais) pagos em conformidade com o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.143.20967.08.
+339030.50000.0 - 5020. DATA DA ASSINATURA: 05 de Março de 2024. SIGNATÁRIOS: Jean Carlos Rodrigues da Silva - CONTRATANTE e JOSÉ 
+WANDERLEY MONTEIRO JÚNIOR – CONTRATADA. Fortaleza, 11 de março de 2024.
+Marcos Felipe Vicente
+COORDENADORA/ASJUR
+*** *** ***

@@ -1,28 +1,28 @@
 {
-    "document_type": "EXTRATO DE CONTRATO",
-    "document_id": {
-        "number": "22001.057864/2025-92",
-        "ig": "137394200"
-    },
-    "contracting_party": {
-        "name": "A Escola de Ensino Fundamental e Médio Barbara de Alencar",
-        "cpf_cnpj": "07.954.514/0441-73"
-    },
-    "contracted_party": {
-        "name": "ACE ASSESSORIA CONTABIL LTDA",
-        "cpf_cnpj": "11977.190/0001-18"
-    },
-    "validity": "365 (trezentos e sessenta e cinco)",
-    "global_value": "R$ 140,00",
-    "signature": {
-        "date": "22/04/2025",
-        "signatories": {
-            "contracting_party": "NADIA RODRIGUES DA SILVA",
-            "contracted_party": "André Luis Melo do Nascimento"
-        }
-    },
-    "legal_unit": {
-        "name": "Marcos Felipe Vicente",
-        "role": "COORDENADOR/ASJUR"
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.057864/2025-92",
+    "ig": "137394200"
+  },
+  "contracting_party": {
+    "name": "Escola de Ensino Fundamental e Médio Barbara de Alencar",
+    "cpf_cnpj": "07.954.514/0441-73"
+  },
+  "contracted_party": {
+    "name": "ACE ASSESSORIA CONTABIL LTDA",
+    "cpf_cnpj": "11977.190/0001-18"
+  },
+  "validity": "365 (trezentos e sessenta e cinco)",
+  "global_value": "R$ 140,00",
+  "signature": {
+    "date": "22/04/2025",
+    "signatories": {
+      "contracting_party": "NADIA RODRIGUES DA SILVA",
+      "contracted_party": "André Luis Melo do Nascimento"
     }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
 }

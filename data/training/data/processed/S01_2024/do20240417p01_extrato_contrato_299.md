@@ -1,0 +1,22 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001045827/2024 51 IG 1306856
+CONTRATANTE: EEEP PROFª ELSA MARIA PORTO COSTA LIMA - CREDE 10 - Município de Aracati/CE, inscrita no CNPJ 07.954.514/0327-52 neste 
+ato representado pela diretora Sra. MÁRCIA VIANA PORTO VIEIRA CONTRATADA: MARIA RITA COSTA DA SILVA – munícipio de Fortaleza - CE, 
+inscrita no CNPJ sob nº 52.623.583/0001-00, representada neste ato pelo Sra. MARIA RITA COSTA DA SILVA. OBJETO: O objeto do presente instrumento 
+é a aquisição de MATERIAL DE EXPEDIENTE, destinado a atender as necessidades dos alunos da EEEP. PROFª ELSA MARIA PORTO COSTA 
+LIMA – ARACATI-CE, nas condições estabelecidas na Cotação Eletrônica nº 2024/02656, Termo de Participação nº 2024/0003, Termo de Referência e na 
+proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica nº 2024/02656 e Termo de 
+Participação nº 2024/0003, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar 
+nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 
+35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis ao cumprimento de seu 
+objeto FORO: Aracati/CE. VIGÊNCIA: O prazo de vigência do contrato é de 360 (trezentos e sessenta) dias, contado da data de sua assinatura, na forma do 
+art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente atesto que as condições e os preços 
+permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. O PRAZO DE EXECUÇÃO O prazo de execução do objeto 
+contratual é de 300 (trezentos) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equivalente.. VALOR GLOBAL: R$ 
+9.384,00 (Nove mil, trezentos e oitenta e quatro reais) pagos em CONFORMIDADE COM O CONTRATO ORIGINAL DOTAÇÃO ORÇAMENTÁRIA: 
+22100022.12.362.231.20980.04.339030.1.5009100000.0 – 16406. DATA DA ASSINATURA: 04 de Abril de 2024 SIGNATÁRIOS: CONTRATANTE - 
+MÁRCIA VIANA PORTO VIEIRA CONTRATADA - MARIA RITA COSTA DA SILVA e TESTEMUNHAS: 1 - ALBANO NUNES DE OLIVEIRA 
+2 - FRANCISCO EUDES FREIRE DOS SANTOS, Fortaleza 10 de abril de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

@@ -1,28 +1,28 @@
 {
-    "document_type": "EXTRATO DE CONTRATO",
-    "document_id": {
-        "number": "22001045354/202572",
-        "ig": "1368518"
-    },
-    "contracting_party": {
-        "name": "A(O) Estado do Ceará, através da Secretaria da Educação/EEMTI RONALDO CAMINHA BARBOSA",
-        "cpf_cnpj": "07.954.514/0397- 65"
-    },
-    "contracted_party": {
-        "name": "CAMILA ALVES ARAÚJO",
-        "cpf_cnpj": "44.084.013/0001-61"
-    },
-    "validity": "365 (trezentos e sessenta e cinco) dias",
-    "global_value": "R$ 1.860,00",
-    "signature": {
-        "date": "20/03/2024",
-        "signatories": {
-            "contracting_party": "MÁRIA AMÉLIA SAMPAIO DE ALMEIDA MENDES",
-            "contracted_party": "CAMILA ALVES ARAÚJO"
-        }
-    },
-    "legal_unit": {
-        "name": "Marcos Felipe Vicente",
-        "role": "COORDENADOR/ASJUR"
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001045354/202572",
+    "ig": "1368518"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/EEMTI RONALDO CAMINHA BARBOSA",
+    "cpf_cnpj": "07.954.514/0397- 65"
+  },
+  "contracted_party": {
+    "name": "CAMILA ALVES ARAÚJO",
+    "cpf_cnpj": "44.084.013/0001-61"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 1.860,00",
+  "signature": {
+    "date": "20/03/2024",
+    "signatories": {
+      "contracting_party": "MÁRIA AMÉLIA SAMPAIO DE ALMEIDA MENDES",
+      "contracted_party": "CAMILA ALVES ARAÚJO"
     }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
 }

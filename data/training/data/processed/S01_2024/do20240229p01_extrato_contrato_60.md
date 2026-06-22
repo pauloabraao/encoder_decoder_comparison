@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.046207/2023-58 - IG - 1301772
+CONTRATANTE: O ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO DO ESTADO DO CEARÁ/COORDENADORIA REGIONAL 
+DE DESENVOLVIMENTO DA EDUCAÇÃO - CREDE-13, estabelecida a situada na BR 226 km 03, s/n, bairro Venâncios, no Município de Crateús-CE, 
+Telefone (88) 3691-5980, inscrita no CNPJ/ 07.954.514/0151-57, doravante denominada simplesmente CONTRATANTE, neste ato representada pelo Sr. 
+ANTÔNIO VALDENIR RABELO DE ARAÚJO CONTRATADA: F. RODRIGUES CONSTRUÇÕES LTDA, inscrita no CNPJ sob nº 29.251.662/0001-16 
+- MATRIZ, com sede à Rua ABDORAL MARTINS MACHADO, nº 1111, Sala B, Bairro: MARATOAN, no Município de Crateús CE, CEP 63.700-658, 
+doravante denominada CONTRATADA, neste ato representada pelo(a) Sr(a) FRANCISCO RODRIGUES DE LIMA. OBJETO: Constitui objeto deste 
+Contrato a EXECUÇÃO DA REFORMA DE SUBESTAÇÃO E CIRCUITOS DE ARES CONDICIONADOS EM FAVOR DA EEMTI REGINA 
+PACIS, SITUADA NA RUA FRANCISCO SÁ, Nº 106 - CEP 63.700-00, NO CENTRO DE CRATEÚS-CE, conforme orçamento de despesas em anexo e 
+que passa a fazer parte integrante deste Termo, independente de transcrição. FUNDAMENTAÇÃO LEGAL: resolvem celebrar o presente CONTRATO com 
+fundamento na modalidade CONVITE de nº 2023/0014, regido pelo Art. 23, inciso I, alínea “a” e §1º da Lei nº 8.666/1993 e alterações, Lei Complementar 
+nº 137/2014 e seu Decreto nº 31.543/2014 FORO: Crateús/CE. VIGÊNCIA: O prazo de vigência do contrato será de até 365 (trezentos e sessenta e cinco), 
+dias corridos, contados a partir da publicação deste instrumento contratual, na forma do parágrafo único do art. 61 da Lei nº 8.666/1993 como condição de sua 
+eficácia. PRAZO DE EXECUÇÃO: O prazo para execução dos serviços aqui pactuados será de 90 (noventa) dias corridos, contados a partir do recebimento 
+da Ordem de Serviço pela CONTRATADA, cuja emissão só deverá ocorrer após publicação do extrato contratual no Diário Oficial.. VALOR GLOBAL: R$ 
+70.113,48 (SETENTA MIL, CENTO E TREZE REAIS E QUARENTA E OITO CENTAVOS) pagos em conformidade com o contrato original. DOTAÇÃO 
+ORÇAMENTÁRIA: 22100022.12.362.143.11292.12.339039.54400.1 - 1219. DATA DA ASSINATURA: 15 de fevereiro de 2024. SIGNATÁRIOS: 
+ANTÔNIO VALDENIR RABELO DE ARAÚJO - CONTRATANTE – FRANCISCO RODRIGUES DE LIMA – CONTRATADA e TESTEMUNHAS: 
+01- Analice Morais Silva, 02- Ana Kelly de Oliveira Gomes Machado. Fortaleza, 22 de fevereiro de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

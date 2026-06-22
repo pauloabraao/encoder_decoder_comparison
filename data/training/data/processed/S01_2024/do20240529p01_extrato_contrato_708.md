@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.054872/2024-04 - IG: 1315535
+CONTRATANTE: O Estado do Ceará, através da Secretaria da Educação/COLÉGIO ESTADUAL RUI BARBOSA, estabelecida a Rua José Januário 
+Pinto, S/N, Bairro Cágado, Município de Maracanaú/CE, Telefone (85)3383-2644, inscrita no CNPJ/MF 07.954.514/0197-30, daqui por diante denominada 
+simplesmente CONTRATANTE neste ato representada por seu Diretor Geral, Sr. Francisco Marcelo da Silva Costa CONTRATADA: ADEGA GRILL 
+SERVICOS ADMINISTRATIVOS LTDA, com sede na Avenida Hidelbrando, Nº 1621, Bairro Jardim Guanabara, Fortaleza/Ceará, CEP: 60.346-180, 
+Fone: (85) 9 8672-0130, inscrita no CNPJ sob o nº 14.742.267/0001-69, doravante denominado CONTRATADO, representado neste ato pela Sra. Jaque-
+line Alves da Silva. OBJETO: O objeto do presente instrumento é a contratação de aquisição de Gêneros de alimentação, nas condições estabelecidas na 
+Cotação Eletrônica nº 2024/07555, Termo de Participação nº 20240006, Termo de Referência e na proposta do CONTRATADO. FUNDAMENTAÇÃO 
+LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica nº 2024/07555 e Termo de Participação nº 20240006, e seus anexos, os preceitos 
+do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, 
+de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo 
+Decreto Estadual nº 35.475, de 26 de maio de 2023 FORO: Maracanaú/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (trezentos e sessenta e 
+cinco) dias, contado do(a) publicação, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade 
+competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE 
+EXECUÇÃO: O prazo de execução do objeto contratual é de 300 (trezentos) dias, contado a partir do recebimento da primeira ordem de fornecimento ou 
+instrumento equivalente. VALOR GLOBAL: R$ 7.158,64 (sete mil e cento e cinquenta e oito reais e sessenta e quatro centavos) pagos em conformidade 
+com o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.143.20967.03.339030.50000.0 – 7814. DATA DA ASSINATURA: 20 de Maio 
+de 2024. SIGNATÁRIOS: Francisco Marcelo da Silva Costa - CONTRATANTE – Jaqueline Alves da Silva – CONTRATADA e TESTEMUNHAS: 01- 
+MARIANA VIEIRA SOARES, 02- REGINA CÉLIA GOMES FERREIRA. Fortaleza, 24 de maio de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

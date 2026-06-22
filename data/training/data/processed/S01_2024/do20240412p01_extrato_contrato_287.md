@@ -1,0 +1,21 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001053775/2024 96 IG 1310103
+CONTRATANTE: EEEP JAIME DA CUNHA REBOUÇAS - Icapuí – CE, inscrita no CNPJ sob o nº 07.954.514/0828-57 - neste ato representado pelo 
+diretor Francisco Edmilson Fernandes da Silva CONTRATADA: EDUQUE & BRINQUE EIRELI, inscrita no CNPJ sob n° 12.321.127/0001-91, Município: 
+Fortaleza – CE, representado neste ato pelo Sra. Rosilene da Cunha de Lima. OBJETO: Aquisição de Material Educativo e Esportivo, a fim de atender as 
+necessidades da EEEP. JAIME DA CUNHA REBOUÇAS., nas condições estabelecidas na Cotação Eletrônica nº 2024/04324 e Termo de Participação nº 
+2024/0005, Termo de Referência e na proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação 
+Eletrônica nº 2024/04324 e Termo de Participação nº 2024/0005, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 
+1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 
+26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais 
+legislações aplicáveis ao cumprimento de seu objeto FORO: Icapuí – CE. VIGÊNCIA: O prazo de vigência do contrato é de 360 (trezentos e sessenta) dias, 
+contado da assinatura deste contrato, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade 
+competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. O PRAZO 
+DE EXECUÇÃO O prazo de execução do objeto contratual é de 300 (trezentos) dias, contado a partir do recebimento da primeira ordem de fornecimento ou 
+instrumento equivalente. VALOR GLOBAL: R$  3.295,40 (três mil e duzentos e noventa e cinco reais e quarenta centavos) pagos em CONFORMIDADE 
+COM O CONTRATO ORIGINAL DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.231.20980.04.339030.50000.0 – 16406. DATA DA ASSINATURA: 
+02 de Abril de 2024 SIGNATÁRIOS: CONTRATANTE - Francisco Edmilson Fernandes da Silva CONTRATADA - Rosilene da Cunha de Lima e TESTE-
+MUNHAS: 1 - Aniceto Rodrigues de Oliveira Neto 2 - Francisco Ricardo dos Reis Júnior, Fortaleza 05 de abril de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

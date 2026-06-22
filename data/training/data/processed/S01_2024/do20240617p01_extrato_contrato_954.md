@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 1053471/202429 - IG - 1320998
+CONTRATANTE: A ESCOLA INDIGENA DIREITO DE APRENDER DO POVO ANACE, situada(o) na RUA JATOBÁ, S/N, ( RESERVA INDIGENA 
+TABA DOS ANACE ), ALTODOGARROTE - CAUCAIA/CE, CEP.: 61.636-425, inscrita(o) no CNPJ sob o nº 07.954.514/0143-47, doravante denomina-
+da(o) CONTRATANTE, neste ato representada(o) pelo ALEXANDRINA PAULINO DOS SANTOS GOMES CONTRATADA: FRANCISCO MOREIRA 
+DESOUSA. OBJETO: O cumprimento deste contrato está vinculado aos termos da Cotação Eletrônica nº2024/06949, Termo de Participação nº 20240006, 
+o Termo de Referência, a proposta do contratado e eventuais anexos dos respectivos documentos os quais constituem parte deste instrumento, independente 
+de sua transcrição. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica nº 2024/06949 e Termo de Participação 
+nº 20240006, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 
+de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de 
+fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis ao cumprimento de seu objeto FORO: 
+CAUCAIA/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 ( TREZENTOS E SESSENTA E CINCO) DIAS, contado APARTIR DA SUA 
+ASSINATURA, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste 
+que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO: O 
+prazo de execução do objeto contratual é de 300 ( TREZENTOS ) DIAS, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento 
+equivalente . VALOR GLOBAL: R$ 16.315,03  ( DEZESSEIS MIL E TREZENTOS E QUINZEREAIS E TRÊS CENTAVOS ) pagos em conformidade 
+com o contrato original DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.143.20967.03.339030.50000.0 - 7814. DATA DA ASSINATURA: 28 de Maio 
+de 2024 SIGNATÁRIOS: ALEXANDRINA PAULINO DOS SANTOS GOMES - CONTRATANTE - FRANCISCO MOREIRA DESOUSA, - CONTRA-
+TADA e TESTEMUNHA 01 - IVONE SILVA DE ALMEIDA - TESTEMUNHA 02 - FRANCISCO ALEXSANDRO DOS SANTOS GASPAR - Fortaleza, 
+10 de junho de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

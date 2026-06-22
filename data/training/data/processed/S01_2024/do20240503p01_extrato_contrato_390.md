@@ -1,0 +1,19 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 065/2024
+CONTRATANTE: ESTADO DO CEARÁ, através da CASA CIVIL, com sede no Palácio da Abolição, situado na Av. Barão de Studart, nº 505, Meireles, 
+Fortaleza – CE, CEP: 60.120-000, inscrita no CNPJ sob o n.º 09.469.891/0001-02, simplesmente denominada CONTRATANTE. CONTRATADA: EMPRESA 
+ALEX SANDRO PAZ FORTE 80283870397, inscrita no CNPJ sob o nº 15.237.709/0001-82, com sede na Av. Barão de Studart, nº 2360, Sala 1405, Joaquim 
+Távora, CEP: 60.120-002, Fortaleza – CE, neste ato representada pelo Sr. Alex Sandro Paz Forte, denominada CONTRATADA, representante exclusivo 
+dos profissionais musicais do(a) cantor(a) ou grupo musical “OS BROTHERS”. OBJETO: Contratação musical para apresentação em evento oficial do 
+Governo do Estado do Ceará, promovido através da Casa Civil, consubstanciado em “EVENTO DE INAUGURAÇÃO 39 CASAS DE IRAUÇUBA” – no 
+dia 19 de ABRIL, às 19:00hrs, no município de IRAUÇUBA - CE, com a participação da banda musical “OS BROTHERS”. FUNDAMENTAÇÃO LEGAL: 
+Edital nº 001/2023 da 6ª Seleção de Talentos Musicais do Ceará, o qual teve o seu resultado final publicado no DOE Nº 215, de 17 de novembro de 2023, da 
+Lei Federal nº 8.666/93, e Processo Administrativo nº 30001.004141/2024-38. FORO: Fortaleza/CE VIGÊNCIA: O presente Contrato vigorará pelo período 
+de 90 (noventa) dias, a contar da data de sua assinatura. VALOR GLOBAL: R$ 7.000,00 (sete mil reais), cujo pagamento será efetuado em parcela única, 
+em até 30 (trinta) dias úteis contados da data da solicitação formal devidamente atestada pelo gestor da contratação, mediante crédito em conta corrente em 
+nome da contratada, exclusivamente no Banco BRADESCO S/A, conforme Lei nº 15.241, de 06 de dezembro de 2012, comprovada sua regularidade fiscal 
+nos termos da Lei nº 8.666/93. DOTAÇÃO ORÇAMENTÁRIA: 30100004.04.122.431.11715.06.339039.1.5009100000.0 DATA DA ASSINATURA: 18 
+de abril de 2024 SIGNATÁRIOS: Francisco José Moura Cavalcante – CONTRATANTE e Alex Sandro Paz Forte - CONTRATADA.
+Sabrine Gondim Lima
+COORDENADORA DA ASSESSORIA JURÍDICA
+*** *** ***

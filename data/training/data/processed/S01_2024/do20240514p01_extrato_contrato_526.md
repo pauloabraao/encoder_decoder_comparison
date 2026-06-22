@@ -1,0 +1,22 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001038452/202472 - IG - 1307603
+CONTRATANTE: A ESCOLA EEMTI ESTADO DO PARÁ, situada a rua Djalma Petit, nº 589, bairro Aerolândia, inscrita(o) no CNPJ sob o nº 07.954.514/0531-
+64, doravante denominada(o) CONTRATANTE, neste ato representada(o) pelo JARSON RAIMUNDO BONFIM RODRIGUES CONTRATADA: RODRIGO 
+MAGALHAES ALVES, com sede na AV. TORREON, Nº 1533, CEP: 61.650-350, Fone: (85) 9608- 1201, inscrita no CPF/CNPJ sob o nº 36.244.654/0001-
+08, doravante denominado CONTRATADO, representado neste ato pelo RODRIGO MAGALHÃES ALVES. OBJETO: O objeto do presente instrumento é 
+a AQUISIÇÃO DE GÊNEROS DE ALIMENTAÇÃO, nas condições estabelecidas na Cotação Eletrônica nº 07/2024, Termo de Participação nº 07/2024, 
+Termo de Referência e na proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica 
+nº 07/2024 e Termo de Participação nº 07/2024, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, 
+a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, 
+Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis 
+ao cumprimento de seu objeto FORO: FORTALEZA/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (TREZENTOS E SESSENTA E CINCO) 
+DIAS, contados a partir da publicação no DOE, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que 
+a autoridade competente ateste que as condições e os preços permanecem vantajosos para a administração, permitida a negociação com o CONTRATADO. 
+PRAZO DE EXECUÇÃO: O prazo de execução do objeto contratual é de 340 (TREZENTOS E QUARENTA) DIAS, contados a partir da publicação no 
+DOE. VALOR GLOBAL: R$ 39.022,00 (TRINTA E NOVE MIL E VINTE E DOIS REAIS) pagos em conformidade com o contrato original DOTAÇÃO 
+ORÇAMENTÁRIA: 22100022.12.362.144.20974.03.339030.50000.0 – 1257. DATA DA ASSINATURA: 29 de Abril de 2024 SIGNATÁRIOS: JARSON 
+RAIMUNDO BONFIM RODRIGUES - CONTRATANTE - RODRIGO MAGALHÃES ALVES, - CONTRATADA e TESTEMUNHA 01 - RENAN 
+PEIXOTO PEREIRA - TESTEMUNHA 02 - DINA MARIA RIBEIRO DE SOUSA - Fortaleza, 07 de maio de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

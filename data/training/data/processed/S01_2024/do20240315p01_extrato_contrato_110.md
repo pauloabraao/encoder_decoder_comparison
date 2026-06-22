@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.034795/2024-68/PRÉ-RESERVA: 1306615
+CONTRATANTE: O GOVERNO DO ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO e a EEMPC FLORESTAN FERNANDES 
+- CREDE 13 - MONSENHOR TABOSA/CE, inscrita no CNPJ 07.954.514/0168-03, neste ato representada por seu (sua) Diretor (a) Geral, Sr.(a) Zilda 
+da Conceição de Sousa da Luz CONTRATADA: A. M LIRA PEREIRA, inscrita no CNPJ sob nº 21.385.306/0001-83, representado neste ato pelo(a) 
+Sr.(a) ANA MARIA LIRA PEREIRA. OBJETO: O objeto do presente instrumento é a contratação de AQUISIÇÃO - SERVIÇOS DE TERCEIROS - 
+TÉCNICOS PROFISSIONAIS (Serviços Contábeis) em favor da EEMPC Florestan Fernandes, nas condições estabelecidas na Cotação Eletrônica COEP 
+nº2024/02963 e Termo de Participação nº 2024/0003, Termo de Referência e na proposta do CONTRATADO. 3.2. É parte integrante deste contrato, para 
+todos os fins de direito, a Cotação Eletrônica COEP nº2024/02963 e Termo de Participação nº 2024/0003 e Termo de Referência. FUNDAMENTAÇÃO 
+LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica COEP nº2024/02963 e Termo de Participação nº 2024/0003, e seus anexos, os 
+preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 
+35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado 
+pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis ao cumprimento de seu objeto FORO: MONSENHOR TABOSA/
+CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (trezentos e sessenta e cinco) dias, contado do(a) da publicação em D.O.E - CE, na forma do 
+art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as condições e os preços 
+permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO: O prazo de execução do objeto 
+contratual é de 365 (trezentos e sessenta e cinco) dias, contado do(a) da publicação em D.O.E - CE ou instrumento equivalente. VALOR GLOBAL: R$ 392,00 
+(trezentos e noventa e dois reais) pagos em conformidade com o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.143.20970.12.3390
+39.50000.0 - 12630. DATA DA ASSINATURA: 08 de março de 2024. SIGNATÁRIOS: Zilda da Conceição de Sousa da Luz - CONTRATANTE – Ana 
+Maria Lira Pereira – CONTRATADA. Fortaleza, 12 de março de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

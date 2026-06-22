@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 10414392/2024 09 IG 1307401
+CONTRATANTE: O Estado do Ceará, por intermédio da SECRETARIA DA EDUCAÇÃO e a 6ª COORDENADORIA REGIONAL DE DESENVOL-
+VIMENTO DA EDUCAÇÃO/ EEEP FRANCISCO DAS CHAGAS VASCONCELOS - CREDE 06 - Município de Santana do Acaraú/ CE, inscrita no 
+CNPJ sob o nº 07.954.514/0013-69, neste ato representada pelo seu Diretor Geral, Senhor JÚLIO CÉSAR ARAGÃO DE ALENCAR CONTRATADA: CL 
+CONSTRUÇÕES LTDA, Município Sobral - CE, inscrita no CNPJ sob o nº 08.111.380/0001-43, representada neste ato pelo Senhor Antônio Abelardo 
+Souza Laurindo. OBJETO: O objeto do presente instrumento é a AQUISIÇÃO - SERVIÇOS DE TERCEIROS - MANUTENÇÃO E CONSERVAÇÃO 
+DE BENS IMÓVEIS nas condições estabelecidas na Cotação Eletrônica nº 2024/04425, Termo de Participação nº 20240006, Termo de Referência e na 
+proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica nº 2024/04425 e Termo de 
+Participação nº 20240006, e seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar 
+nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 
+35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis ao cumprimento de 
+seu objeto FORO: Santana do Acaraú/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (trezentos e sessenta e cinco) dias, contado da publicação 
+em D.O.E., na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as 
+condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. O PRAZO DE EXECUÇÃO O prazo 
+de execução do objeto contratual é de 360 (trezentos e sessenta) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento 
+equivalente. VALOR GLOBAL: R$  40.300,30 (quarenta mil e trezentos reais e trinta centavos) pagos em CONFORMIDADE COM O CONTRATO 
+ORIGINAL DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.231.20980.11.339039.50000.0 - 24183. DATA DA ASSINATURA: 03 de Abril de 2024 
+SIGNATÁRIOS: CONTRATANTE - JÚLIO CÉSAR ARAGÃO DE ALENCAR CONTRATADA - ANTÔNIO ABELARDO SOUZA LAURINDO e 
+TESTEMUNHAS: 1 - ROBERTA MYKEIA ROCHA NEVES 2 - ANTONIA AURINEIDE PEREIRA, Fortaleza 05 de abril de 2024.
+Marcos Felipe Vicente
+COORDENADORA/ASJUR
+*** *** ***

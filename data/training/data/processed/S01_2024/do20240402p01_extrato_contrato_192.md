@@ -1,0 +1,23 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.024719/2024-44 - IG: 1307488
+CONTRATANTE: O Estado do Ceará, atravéz da Secretaria de Educação/ESCOLA DE ENSINO MÉDIO TEMPO INTEGRAL ANTÔNIO SALES, situa-
+da(o) na Rua Professor Anacleto , 630, Bairro Parque Araxá, Fortaleza, Ceará , inscrita(o) no CNPJ sob o nº 07.954.514/0698-34, doravante denominada(o) 
+CONTRATANTE, neste ato representada(o) pelo Diretor Escolar ,o Sr. Rafael Ferreira Nogueira CONTRATADA: JW COMERCIAL E SERVIÇOS LTDA, 
+com sede na Rua 908 Casa 46, Conjunto Ceará 4ª ETAPA , Cep: 60532-500 Fone: (85) 99116-5211, inscrita no CPF/CNPJ sob o nº 45.014.432/0001-90, 
+doravante denominado CONTRATADO, representado neste ato pelo Sr. JOÃO LUIS DOS SANTOS DA SILVA. OBJETO: O objeto do presente instru-
+mento é a contratação de Aquisição de Alimentação Escolar nas condições estabelecidas na Cotação Eletrônica nº 2024/00977, Termo de Participação nº 
+2024/0002 Termo de Referência e na proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação 
+Eletrônica nº 2024/00977 e Termo de Participação nº 2024/0002 - PROCESSO 22001021391202412 e seus anexos, os preceitos do direito público, no art. 75, 
+II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado 
+pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de 
+maio de 2023 FORO: Fortaleza/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (trezentos e sessenta e cinco dias) , contado do(a) assinatura do 
+contrato , na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as 
+condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO: O prazo de 
+execução do objeto contratual é de 150 (cento e cinquenta dias) contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equiva-
+lente. VALOR GLOBAL: R$ 41.445,86 ( quarenta e um mil e quatrocentos e quarenta e cinco reais e oitenta e seis centavos ) pagos em conformidade com 
+o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.144.20974.03.339030.50000.0 - 1257 . DATA DA ASSINATURA: 22 de Março de 
+2024. SIGNATÁRIOS: Rafael Ferreira Nogueira - CONTRATANTE – JOÃO LUIS DOS SANTOS DA SILVA – CONTRATADA e TESTEMUNHAS: 
+01- WALEWSKA MARIA RORIZ BERTOLETTI, 02- ISABELA MADALENA DE LIMA. Fortaleza, 27 de março de 2024.
+Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

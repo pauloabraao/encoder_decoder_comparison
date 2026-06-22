@@ -1,0 +1,19 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001031077202359/PRE-RESERVA : 1304094
+CONTRATANTE: O ESTADO DO CEARÁ, através da EEMTI HILDEBERTO BARROSO, inscrita no CNPJ nº 07.954.514/0035-74, Município de 
+Itapipoca/CE,neste ato representada pelo (a) Sr. (a) Diretor(a) Geral, Sr(a) Julivan Cunha Ribeiro CONTRATADA: MASTER PACK COMERCIO E 
+CONSTRUCOES LTDA, inscrita no CNPJ sob nº 09.645.373/0001-94,neste ato representada pelo(a) Sr(a) Francisco Hélio Leitão Barros. OBJETO: 
+Constitui objeto deste Contrato a EXECUÇÃO DOS SERVIÇOS DE CONSTRUÇÃO DE DUAS SALAS DE AULA, na EEMTI Hildeberto Barroso, 
+conforme orçamento de despesas em anexo e que passa a fazer parte integrante deste Termo, independente de transcrição.. FUNDAMENTAÇÃO LEGAL: 
+resolvem celebrar o presente CONTRATO com fundamento na modalidade CONVITE nº 12/2023, regido pelo Art. 23, inciso I, alínea “a” e §1º da Lei nº 
+8.666/1993 e alterações, Lei Complementar nº 288/2022 e seus regulamentos, mediante as condições contidas nas Cláusulas seguintes FORO: Itapipoca/CE. 
+VIGÊNCIA: O prazo de vigência do contrato será de 365 (Trezentos e sessenta e cinco) dias, contados a partir da publicação deste instrumento contratual, 
+na forma do parágrafo único do art. 61 da Lei nº 8.666/1993 como condição de sua eficácia. PRAZO DE EXECUÇÃO: O prazo para execução dos serviços 
+aqui pactuados será de 60 (sessenta) dias, contados a partir do recebimento da Ordem de Serviço pela CONTRATADA, cuja emissão só deverá ocorrer 
+após publicação do extrato contratual no Diário Oficial.. VALOR GLOBAL: R$ 145.261,19 (Cento e quarenta e cinco mil, duzentos e sessenta e um reais e 
+dezenove centavos) pagos em CONFORMIDADE COM CONTRATO ORIGINAL DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.433.10147.06.449
+051.54400.1 - 395085.. DATA DA ASSINATURA: 28 DE MARÇO DE 2024 SIGNATÁRIOS: CONTRATANTE-Julivan Cunha Ribeiro , CONTRATA-
+DA-Francisco Hélio Leitão Barros e TESTEMUNHAS 01-Francisco Valdisney de Sousa , 02-Maria Cecília Silva Peixoto. Fortaleza, 01 de abril de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

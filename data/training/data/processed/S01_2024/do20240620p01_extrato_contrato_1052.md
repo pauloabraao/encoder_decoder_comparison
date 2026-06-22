@@ -1,0 +1,22 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001.072058/2024-63 - IG: 1321279000
+CONTRATANTE: A ESCOLA de ENSINO MÉDIO CAMPO IRMÃ TEREZA CRISTINA, situado no Assentamento Nova Canaã/ Distrito de Lacerda, Bairro 
+ZONA RURAL Município de Quixeramobim/CE, inscrita(o) no CNPJ sob o nº 07.954.514/0817-02, doravante denominada(o) CONTRATANTE, neste ato 
+representada(o) pelo Diretor Geral, Sr. JOSE AILTON BRASIL LIMA CONTRATADA: LUIZ LUCENA DE OLIVEIRA, com sede na AV. ALFREDO 
+RODRIGUES PEREIRA 38, BAIRRO CENTRO, CATARINA - CE CEP:63595000 Fone: (88) 98150-5404, inscrita no CNPJ sob o Nº:49.762.368/0001-
+86, doravante denominado CONTRATADO, representado neste ato pelo LUIZ LUCENA DE OLIVEIRA. OBJETO: O objeto do presente instrumento é a 
+contratação de SERVIÇOS DE TERCEIROS - FORNECIMENTO DE ALIMENTAÇÃO nas condições estabelecidas na Cotação Eletrônica nº 06/2024, 
+Termo de Participação nº20240006, Termo de Referência e na proposta do CONTRATADO. FUNDAMENTAÇÃO LEGAL: O presente contrato tem como 
+fundamento na Cotação Eletrônica nº 06/2024 e Termo de Participação nº 2024/0006, e seus anexos, os preceitos do direito público, no art. 75, II da Lei 
+Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo 
+Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio 
+de 2023 FORO: Quixeramobim/CE. VIGÊNCIA: O prazo de vigência do contrato é de 365 (Trezentos e Sessenta e Cinco) dias, contado do(a) publicação no 
+Diário Oficia, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que 
+as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO. PRAZO DE EXECUÇÃO: O prazo 
+de execução do objeto contratual é de 300 (Trezentos) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equivalente. 
+VALOR GLOBAL: R$ 3.800,00 (Três Mil e Oitocentos Reais) pagos em conformidade com o contrato original. DOTAÇÃO ORÇAMENTÁRIA: 221000
+22.12.362.141.10782.09.339039.55000.1- 760629 . DATA DA ASSINATURA: 07 de Junho de 2024. SIGNATÁRIOS: JOSE AILTON BRASIL LIMA - 
+CONTRATANTE – LUIZ LUCENA DE OLIVEIRA – CONTRATADA e TESTEMUNHAS: 01- ILEGÍVEL, 02- ILEGÍVEL. Fortaleza, 17 de junho de 2024.
+ Ana Talita Ferreira Alves
+COORDENADORA/ASJUR
+*** *** ***

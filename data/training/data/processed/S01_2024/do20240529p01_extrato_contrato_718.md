@@ -1,0 +1,22 @@
+EXTRATO DE CONTRATO
+Nº DO DOCUMENTO 22001056661/2024 06 IG 1318472
+CONTRATANTE: ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL LUIZETE ALBANO DE FREITAS MENEZES - CREDE 09 - Município 
+de Chorozinho/CE, , inscrita(o) no CNPJ sob o nº 07.954.514/0848-09, neste ato representada por seu Diretor JOSIEL ALBINO LIMA CONTRATADA: 
+ZACARIAS DOS SANTOS CHAVES JUNIOR, Caucaia - CE inscrita no CPF/CNPJ sob o nº13.644.785/0001-87, representado neste ato pelo ZACA-
+RIAS DOS SANTOS CHAVES JUNIOR. OBJETO: O objeto do presente instrumento é a contratação de Serviços de Técnicos Profissionais, nas condi-
+ções estabelecidas na Cotação Eletrônica nº 2024/07826, Termo de Participação nº 20240009, Termo de Referência e na proposta do CONTRATADO. 
+FUNDAMENTAÇÃO LEGAL: O presente contrato tem como fundamento na Cotação Eletrônica nº 2024/07826 e Termo de Participação nº 20240009, e 
+seus anexos, os preceitos do direito público, no art. 75, II da Lei Federal nº 14.133, de 1º de abril de 2021, a Lei Complementar nº 288, de 20 de julho de 
+2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 
+2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, e demais legislações aplicáveis ao cumprimento de seu objeto FORO: Chorozinho/
+CE. VIGÊNCIA: O prazo de vigência do contrato é de 360 (trezentos e sessenta) dias, contado do(a) publicação, na forma do art. 105 c/c o art. 94 ambos 
+da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as condições e os preços permanecem vantajosos 
+para a Administração, permitida a negociação com o CONTRATADO. O PRAZO DE EXECUÇÃO O prazo de execução do objeto contratual é de 330 
+(trezentos e trinta) dias, contado a partir do recebimento da primeira ordem de fornecimento ou instrumento equivalente.. VALOR GLOBAL: R$  334,99 
+(trezentos e trinta e quatro reais e noventa e nove centavos) pagos em conformidade com o contrato original DOTAÇÃO ORÇAMENTÁRIA: 22100022.
+12.362.144.20976.03.339039.50000.0 - 24174. DATA DA ASSINATURA: 20 de Maio de 2024 SIGNATÁRIOS: CONTRATANTE - JOSIEL ALBINO 
+LIMA CONTRATADA - ZACARIAS DOS SANTOS CHAVES JUNIOR e TESTEMUNHAS: 1 - JOSE GILBERTO DOS SANTOS 2 - JOSELINIA DOS 
+SANTOS DANTAS, Fortaleza 23 de maio de 2024.
+Marcos Felipe Vicente
+COORDENADOR/ASJUR
+*** *** ***

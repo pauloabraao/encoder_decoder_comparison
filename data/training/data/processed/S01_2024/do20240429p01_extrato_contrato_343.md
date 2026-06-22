@@ -1,0 +1,20 @@
+EXTRATO DE CONTRATO Nº054/2024
+NUP Nº27001.000622/2024-60
+CONTRATANTE: A SECRETARIA DA CULTURA DO ESTADO DO CEARÁ - SECULT/CE, situada na Rua Major Facundo, nº 500, Centro, CEP: 
+60.025-100, nesta Capital, inscrita no CNPJ sob o nº 07.954.555/0001-11, doravante denominada CONTRATANTE, neste ato representada por seu Secretário, 
+Sr. RAFAEL CORDEIRO FELISMINO, brasileiro, regularmente inscrito no CPF/MF nº ***.757.133-**, residente e domiciliado nesta Capital. CONTRA-
+TADA: JOSEFA LÚCIA MORAIS SILVA, brasileira, regularmente inscrita no CPF sob o nº ***.900.493-**, residente e domiciliada no, João Paulo II, 
+Iguatu/CE. OBJETO: Constitui objeto do presente Contrato a prestação de serviços de análise e emissão de parecer(es) técnico(s) sobre projeto(s) inscrito(s) 
+no EDITAL DE APOIO AO AUDIOVISUAL CEARENSE - PRODUÇÕES (LEI PAULO GUSTAVO), tendo sua Comissão de Avaliação formalizada 
+por meio de Portaria específica FUNDAMENTAÇÃO LEGAL: O presente CONTRATO se fundamenta na Lei Federal nº 14.133, de 1º de abril de 2021, 
+Decreto Estadual nº 35.322, de 24 de fevereiro de 2023; no Decreto Federal nº 11.453, de 23 de março de 2023; no Decreto Federal nº 11.525, de 11 de 
+maio de 2023; na Lei Complementar nº 195, de 8 de julho de 2022. Esse CONTRATO se baseia ainda nas informações contidas no Processo Administrativo 
+supracitado, independente de transcrição. FORO: Fortaleza, CE VIGÊNCIA: O presente Contrato terá prazo de vigência e execução de até 03 (três) meses, 
+contados a partir da assinatura do respectivo instrumento, podendo ser prorrogado de acordo com legislação aplicável. VALOR GLOBAL: Pela presente 
+contratação será pago o valor total de R$ 1.500,00 (Mil e quinhentos reais). DOTAÇÃO ORÇAMENTÁRIA: 181505 - 27200004.13.392.131.11355.03.3390
+36.2.7159200000.1 - Pessoa Física 181049 - 27200004.13.392.131.11355.03.339047.2.7159200000.1 - INSS Patronal/Tributos DATA DA ASSINATURA: 
+Fortaleza, CE 19 de abril de 2024. SIGNATÁRIOS: RAFAEL CORDEIRO FELISMINO - Secretário Executivo da Cultura do Estado do Ceará e JOSEFA 
+LÚCIA MORAIS SILVA - CONTRATADO(A).
+Vitor Melo Studart
+COORDENADOR JURÍDICO
+*** *** ***
