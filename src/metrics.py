@@ -476,13 +476,8 @@ def save_decoder_validity_metrics(all_results: list[dict], output_dir: Path):
 # Entrypoint principal
 # ---------------------------------------------------------------------------
 
-def get_metrics(model: Literal["enconder", "decoder"]):
-    """
-    Ponto de entrada principal.
-
-    Args:
-        model: "enconder" ou "decoder"
-    """
+def get_metrics(model: Literal["encoder", "decoder"]):
+    """Ponto de entrada principal. `model` deve ser "encoder" ou "decoder"."""
     is_decoder = model == "decoder"
     jsons_folder = Path(JSONS_ROOT) / f"{model}_results"
     output_dir   = Path(OUTPUT_BASE) / ("decoder" if is_decoder else "encoder")
@@ -542,8 +537,8 @@ if __name__ == "__main__":
     import sys
 
     mode = sys.argv[1] if len(sys.argv) > 1 else "decoder"
-    if mode not in ("enconder", "decoder"):
-        print("Uso: python metrics.py [enconder|decoder]")
+    if mode not in ("encoder", "decoder"):
+        print("Uso: python metrics.py [encoder|decoder]")
         sys.exit(1)
 
     get_metrics(mode)

@@ -1,95 +1,83 @@
-import re
-import json
-import requests
-import time
-import psutil
-import logging
-from typing import Optional, Dict, Any, Callable
-import os
-import csv
-import sys
-from datetime import datetime
-from pathlib import Path
+"""Pipeline decoder: extração de campos gerando JSON via LLM local (Ollama)."""
 
-import pandas as pd
+import json
+import logging
+import os
+import re
+import sys
+import time
+from pathlib import Path
+from typing import Callable, Optional
+
+import psutil
+import requests
 from pydantic import ValidationError
 from tqdm import tqdm
-from src.decoder.schema import ContractExtract
 
-# ==================== LOGGING ====================
+from src.decoder.schema import ContractExtract
+from src.utils.common import normalize_whitespace, save_metrics_to_csv
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
 )
 logger = logging.getLogger(__name__)
 
-# ==================== CONFIGURAÇÕES ====================
-OLLAMA_URL = 'http://localhost:11434/api/generate'
+OLLAMA_URL = "http://localhost:11434/api/generate"
 
 MODELS = [
-    #'mistral:7b'
-    #'llama3.2:1b',
-    'deepseek-r1:1.5b'
-    #'deepseek-r1:1.5b',
-    # 'qwen2.5vl:3b',
+    "deepseek-r1:1.5b",
 ]
 
 MONTHS = ["06_2025"]
 
 MAX_RETRIES = 3
 
-# ==================== OLLAMA ====================
 
 def run_ollama(prompt: str, model: str) -> str:
+    """Envia o prompt ao Ollama e concatena os fragmentos da resposta em streaming."""
     response = requests.post(
         OLLAMA_URL,
         json={"model": model, "prompt": prompt, "options": {"temperature": 0.1}},
         stream=True,
     )
-    resposta = ''
+    answer = ""
     for line in response.iter_lines():
-        if line:
-            try:
-                data = json.loads(line.decode(errors='ignore'))
-                resposta += data.get('response', '')
-            except Exception:
-                continue
-    return resposta
+        if not line:
+            continue
+        try:
+            data = json.loads(line.decode(errors="ignore"))
+            answer += data.get("response", "")
+        except Exception:
+            continue
+    return answer
 
 
 def answer_question_ollama(question: str, context: str, model: str) -> dict:
     try:
-        result = run_ollama(prompt=question + '\n\n' + context, model=model)
+        result = run_ollama(prompt=question + "\n\n" + context, model=model)
         return {"answer": result}
     except Exception as e:
         logger.error(f"Erro ao processar a pergunta: {e}")
         return {"answer": None}
 
 
-# ==================== FILE UTILITIES ====================
-
 def load_context_from_file(file_path: str) -> Optional[str]:
-    if os.path.exists(file_path):
-        with open(file_path, encoding="utf-8") as f:
-            text = f.read()
-            text = re.sub(r'\s+', ' ', text).strip()
-            return text
-    return None
+    if not os.path.exists(file_path):
+        return None
+    with open(file_path, encoding="utf-8") as f:
+        return normalize_whitespace(f.read())
 
 
 def load_all_markdown_files(folder_path: str) -> list[tuple[str, str]]:
-    """Retorna uma lista de tuplas (nome_arquivo, conteúdo) ordenada alfabeticamente."""
-    markdown_files = []
+    """Retorna tuplas (nome_arquivo, conteúdo) de todos os .md, em ordem alfabética."""
     if not os.path.exists(folder_path):
         logger.error(f"Pasta não encontrada: {folder_path}")
-        return markdown_files
+        return []
 
-    # Obter todos os arquivos .md em ordem crescente
-    md_files = sorted([f for f in os.listdir(folder_path) if f.endswith('.md')])
-    
-    for file_name in md_files:
-        file_path = os.path.join(folder_path, file_name)
-        content = load_context_from_file(file_path)
+    markdown_files = []
+    for file_name in sorted(f for f in os.listdir(folder_path) if f.endswith(".md")):
+        content = load_context_from_file(os.path.join(folder_path, file_name))
         if content:
             markdown_files.append((file_name, content))
 
@@ -97,12 +85,11 @@ def load_all_markdown_files(folder_path: str) -> list[tuple[str, str]]:
     return markdown_files
 
 
-# ==================== EXTRACTION ====================
-
 def filter_answer(context: str, model: str) -> str:
+    """Monta o prompt few-shot com o schema-alvo e consulta o modelo."""
     question = """
-    Retorne SOMENTE um objeto JSON válido, sem explicações ou comentários. 
-    { 
+    Retorne SOMENTE um objeto JSON válido, sem explicações ou comentários.
+    {
         "document_id": {
             "number": "",
             "ig": ""
@@ -213,47 +200,45 @@ def filter_answer(context: str, model: str) -> str:
                 }
             }
     """
-    res = answer_question_ollama(question, context, model)
-    return res['answer']
+    return answer_question_ollama(question, context, model)["answer"]
 
 
 def _extract_raw_json(text: str) -> Optional[str]:
-    """Strips markdown fences and returns the outermost JSON object string."""
+    """Remove cercas markdown e retorna o objeto JSON mais externo do texto."""
     text = re.sub(r"```(?:json)?\s*", "", text).strip()
     text = text.rstrip("`").strip()
-    match = re.search(r'\{[\s\S]*\}', text)
+    match = re.search(r"\{[\s\S]*\}", text)
     return match.group(0) if match else None
 
 
-def extrair_json_para_dicionario(context: str, model: str, progress_callback: Optional[Callable[[int], None]] = None) -> tuple[Optional[dict], bool]:
+def extract_json_dict(
+    context: str,
+    model: str,
+    progress_callback: Optional[Callable[[int], None]] = None,
+) -> tuple[Optional[dict], bool]:
     """
-    Tries up to MAX_RETRIES times to get a valid JSON from the model.
-    Continues retrying even if JSON is valid but out of schema.
+    Consulta o modelo até MAX_RETRIES vezes em busca de um JSON válido.
+    Continua tentando mesmo quando o JSON é válido mas fora do schema.
 
-    Returns:
-        (dict, schema_valid):
-            dict  — extracted data, {} on total failure, None never returned
-            bool  — True if the dict also passes ContractExtract validation
+    Retorna (dados, schema_valido): o dict extraído ({} em falha total) e um
+    booleano indicando se ele também passou na validação de ContractExtract.
     """
     last_raw = ""
-    last_valid_data = {}  # Store the last valid JSON in case schema fails
 
     for attempt in range(1, MAX_RETRIES + 1):
-        # Mostrar log efêmero de retentativa
         if progress_callback:
             progress_callback(attempt)
         else:
-            # Fallback se não tiver callback
             sys.stdout.write(f"\r  Tentativa {attempt}/{MAX_RETRIES}...")
             sys.stdout.flush()
 
-        # On retry, append the bad output so the model can self-correct
+        # Na retentativa, anexa a saída anterior para o modelo se autocorrigir.
         if attempt > 1 and last_raw:
             resposta_slm = filter_answer(
                 context + (
-                    f"\n\n[CORREÇÃO] Sua resposta anterior não era um JSON válido:\n"
+                    "\n\n[CORREÇÃO] Sua resposta anterior não era um JSON válido:\n"
                     f"{last_raw}\n"
-                    f"Corrija e retorne SOMENTE o objeto JSON válido."
+                    "Corrija e retorne SOMENTE o objeto JSON válido."
                 ),
                 model,
             )
@@ -277,25 +262,20 @@ def extrair_json_para_dicionario(context: str, model: str, progress_callback: Op
             logger.warning(f"Tentativa {attempt}: JSON não é um objeto.")
             continue
 
-        # JSON is structurally valid — now check schema
         try:
             ContractExtract.model_validate(data)
             logger.info("JSON válido e conforme o schema.")
             return data, True
         except ValidationError as e:
             logger.warning(f"Tentativa {attempt}: JSON válido mas fora do schema — {e}")
-            last_valid_data = data
-            # Continue tentando até a última tentativa
             if attempt == MAX_RETRIES:
-                logger.error(f"Terceira tentativa falhou na validação do schema. Retornando JSON inválido.")
+                logger.error("Última tentativa falhou na validação do schema. Retornando JSON fora do schema.")
                 return data, False
             continue
 
     logger.error(f"Todas as {MAX_RETRIES} tentativas falharam. Salvando JSON vazio.")
     return {}, False
 
-
-# ==================== FILE PROCESSING ====================
 
 def process_markdown_file(
     file_name: str,
@@ -304,74 +284,23 @@ def process_markdown_file(
     model: str,
     progress_callback: Optional[Callable[[int], None]] = None,
 ) -> Optional[str]:
+    data, schema_valid = extract_json_dict(context, model, progress_callback)
 
-    data, schema_valid = extrair_json_para_dicionario(context, model, progress_callback)
-
-    # Always inject document_type at the top
+    # document_type é sempre fixo e fica no topo do objeto.
     output_data = {"document_type": "EXTRATO DE CONTRATO", **data}
 
-    if not schema_valid:
-        # Salva em schema_invalid: JSON válido fora do schema OU JSON inválido
-        target_dir = os.path.join(output_dir, "schema_invalid")
-    else:
-        target_dir = output_dir
-
+    # JSON fora do schema (ou inválido) vai para a subpasta schema_invalid/.
+    target_dir = output_dir if schema_valid else os.path.join(output_dir, "schema_invalid")
     os.makedirs(target_dir, exist_ok=True)
 
-    output_filename = file_name.replace('.md', '.json')
-    output_path = os.path.join(target_dir, output_filename)
-
+    output_path = os.path.join(target_dir, file_name.replace(".md", ".json"))
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
 
-    status = "schema_invalid" if not schema_valid else ("ok")
+    status = "ok" if schema_valid else "schema_invalid"
     logger.info(f"Salvo [{status}]: {output_path}")
     return output_path
 
-
-# ==================== METRICS ====================
-
-def save_metrics_to_csv(
-    modelo: str,
-    tempo_total_s: float,
-    peak_memory_mb: float,
-    cpu_user_time_s: float,
-    cpu_system_time_s: float,
-    metrics_file: str,
-) -> None:
-    """
-    Salva as métricas em um arquivo CSV sem sobrescrever dados anteriores.
-    """
-    Path(metrics_file).parent.mkdir(parents=True, exist_ok=True)
-
-    file_exists = os.path.isfile(metrics_file)
-
-    with open(metrics_file, "a", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-
-        if not file_exists:
-            # Escrever cabeçalho se o arquivo não existe
-            writer.writerow([
-                "modelo",
-                "tempo_total_s",
-                "peak_memory_mb",
-                "cpu_user_time_s",
-                "cpu_system_time_s",
-            ])
-
-        # Escrever a linha de dados
-        writer.writerow([
-            modelo,
-            round(tempo_total_s, 2),
-            round(peak_memory_mb, 2),
-            round(cpu_user_time_s, 2),
-            round(cpu_system_time_s, 2),
-        ])
-
-    logger.info(f"Métricas salvas em: {metrics_file}")
-
-
-# ==================== MAIN ====================
 
 def main(markdown_folder: str, output_dir: str, model: str) -> None:
     process = psutil.Process()
@@ -390,23 +319,19 @@ def main(markdown_folder: str, output_dir: str, model: str) -> None:
 
     results, failed_files = [], []
 
-    # Criar callback para mostrar tentativas efêmeras
     def attempt_callback(attempt: int) -> None:
         sys.stdout.write(f"\r  Tentativa {attempt}/{MAX_RETRIES}...")
         sys.stdout.flush()
 
-    # Usar tqdm para barra de progresso
     for file_name, content in tqdm(markdown_files, desc="Processando arquivos", unit="arquivo"):
         try:
             output = process_markdown_file(file_name, content, output_dir, model, attempt_callback)
             (results if output else failed_files).append(file_name)
-            # Limpar a linha de tentativa ao terminar arquivo
-            sys.stdout.write("\r" + " " * 50 + "\r")
-            sys.stdout.flush()
         except Exception as e:
             logger.exception(f"Exceção ao processar {file_name}: {e}")
             failed_files.append(file_name)
-            # Limpar a linha de tentativa
+        finally:
+            # Limpa a linha efêmera de "Tentativa N/M".
             sys.stdout.write("\r" + " " * 50 + "\r")
             sys.stdout.flush()
 
@@ -426,20 +351,14 @@ def main(markdown_folder: str, output_dir: str, model: str) -> None:
     logger.info(f"  CPU user             : {end_cpu.user - start_cpu.user:.2f}s")
     logger.info(f"  CPU system           : {end_cpu.system - start_cpu.system:.2f}s")
     logger.info("=" * 60)
-    
-    # ==================== SALVAR MÉTRICAS ====================
 
-    # Preparar caminho de saída
-    metrics_csv = "results/performance_results/decoder_processing_metrics.csv"
-
-    # Salvar métricas
     save_metrics_to_csv(
         modelo=model,
         tempo_total_s=elapsed,
         peak_memory_mb=peak_mem / 1024 / 1024,
         cpu_user_time_s=end_cpu.user - start_cpu.user,
         cpu_system_time_s=end_cpu.system - start_cpu.system,
-        metrics_file=metrics_csv,
+        metrics_file="results/performance_results/decoder_processing_metrics.csv",
     )
 
 

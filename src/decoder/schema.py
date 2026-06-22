@@ -35,30 +35,3 @@ class ContractExtract(BaseModel):
     global_value: Optional[str] = Field(None, description="Valor global do contrato")
     signature: Signature = Field(default_factory=Signature)
     legal_unit: LegalUnit = Field(default_factory=LegalUnit)
-
-    @classmethod
-    def json_schema_str(cls) -> str:
-        """Returns the JSON schema as a formatted string for prompt injection."""
-        import json
-        return json.dumps(cls.model_json_schema(), ensure_ascii=False, indent=2)
-
-    @classmethod
-    def empty_example(cls) -> str:
-        """Returns an empty JSON structure for prompt injection."""
-        import json
-        template = {
-            "document_id": {"number": None, "ig": None},
-            "contracting_party": {"name": None, "cpf_cnpj": None},
-            "contracted_party": {"name": None, "cpf_cnpj": None},
-            "validity": None,
-            "global_value": None,
-            "signature": {
-                "date": None,
-                "signatories": {
-                    "contracting_party": None,
-                    "contracted_party": None,
-                },
-            },
-            "legal_unit": {"name": None, "role": None},
-        }
-        return json.dumps(template, ensure_ascii=False, indent=2)
