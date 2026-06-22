@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001041305/202561",
+        "ig": "1374661"
+    },
+    "contracting_party": {
+        "name": "A(O) EEFM MICHELSON NOBRE DA SILVA",
+        "cpf_cnpj": "07.954.514/0507-34,"
+    },
+    "contracted_party": {
+        "name": "MV COMERCIO VAREJISTA DE GLP LTDA,",
+        "cpf_cnpj": "11.224.603/0001-93,"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias,",
+    "global_value": "R$ 4.888,00",
+    "signature": {
+        "date": "26/05/2025",
+        "signatories": {
+            "contracting_party": "ADRIANA ALBUQUERQUE PEDROSA",
+            "contracted_party": "MICHELE VITOR MARTINS."
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

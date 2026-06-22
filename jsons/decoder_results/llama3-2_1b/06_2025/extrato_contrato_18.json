@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001072697/202518",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, através da Secretaria da Educação/EEMTI Gerardo Majella",
+    "cpf_cnpj": "07.954.514/0822-61"
+  },
+  "contracted_party": {
+    "name": "LUIZ LUCENA DE OLIVEIRA",
+    "cpf_cnpj": "49.762.368./0001-86"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 5.635,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Francisco Chadaide Martins Batista",
+      "contracted_party": "Luiz Lucena de Oliveira"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

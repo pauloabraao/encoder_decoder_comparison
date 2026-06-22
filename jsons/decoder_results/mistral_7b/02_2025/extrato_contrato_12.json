@@ -1,0 +1,38 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.123803/2024-40/IG-1362717"
+  },
+  "contracting_party": {
+    "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL EMANUEL",
+    "cpf_cnpj": "07.954.514/0266-04"
+  },
+  "contracted_party": {
+    "name": "D A OLVEIRA PEIXOTO LTDA",
+    "cpf_cnpj": "53.503.152/0001-73"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 14.799,99",
+  "signature": {
+    "date": "10 de Fevereiro de 2025",
+    "signatories": {
+      "contracting_party": "Maria da Conceição de Sousa Silva",
+      "contracted_party": "Diego Alexandre Oliveira Peixoto"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  },
+  "fundamental_law": [
+    "Cotação Eletrônica nº 16/2024 e Termo de Participação nº 2024/0016",
+    "art. 75, I da Lei Federal nº 14.133, de 1º de abril de 2021",
+    "Lei Complementar 123 de 14 de dezembro de 2006",
+    "Lei Complementar nº 288, de 20 de julho de 2022",
+    "Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023",
+    "Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023",
+    "Decreto Estadual Nº35.283, de 19 de janeiro de 2023"
+  ],
+  "forum": "Choró-Ce",
+  "budget_code": "221000 22.12.362.144.20974.09.339039.50000.0 – 46150"
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "02/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "FUNDAÇÃO UNIVERSIDADE REGIONAL DO CARIRI – URCA",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "RILLA RENIEE LIMA BARROS",
+    "cpf_cnpj": null
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 15.400,00",
+  "signature": {
+    "date": "20/02/2025",
+    "signatories": {
+      "contracting_party": "CARLOS KLEBER NASCIMENTO DE OLIVEIRA",
+      "contracted_party": "RILLA RENIEE LIMA BARROS"
+    }
+  },
+  "legal_unit": {
+    "name": "Carlos Kleber Nascimento de Oliveira",
+    "role": "PRESIDENTE"
+  }
+}

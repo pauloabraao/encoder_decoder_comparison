@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": "AGÊNCIA DE DESENVOLVIMENTO DO ESTADO DO CEARÁ S.A – ADECE",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "contracted_party": {
+    "name": "INSTITUTO FUTURO DE JUVENTUDE, PROMOÇÃO, TURISMO, CULTURA E DESENVOLVIMENTO SUSTEntÁVEL",
+    "cpf_cnpj": ""
+  },
+  "validity": "60 (sessenta) dias",
+  "global_value": "$200.000,00",
+  "signature": {
+    "date": "",
+    "signatories": {
+      "contracting_party": "Luís Eduardo Fontenelle Barros",
+      "contracted_party": "Rafael Aureliano Gonçalves Branco"
+    }
+  },
+  "legal_unit": {
+    "name": "ADECE",
+    "role": "Agência de Desenvolvimento do Estado do Ceará"
+  }
+}

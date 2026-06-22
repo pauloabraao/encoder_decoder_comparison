@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "07/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA CIÊNCIA, TECNOLOGIA E EDUCAÇÃO SUPERIOR - SECITECE",
+    "cpf_cnpj": "73.642.415/0001-32"
+  },
+  "contracted_party": {
+    "name": "EMPRESA NOSSA SENHORA DA LUZ TRANSPORTES LTDA",
+    "cpf_cnpj": "22.019.450/0001-69"
+  },
+  "validity": "180 (cento e oitenta) dias",
+  "global_value": "R$ 849.240,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Adeline de Araújo Lobão da Silva",
+      "contracted_party": "Renata Barros Leite"
+    }
+  },
+  "legal_unit": {
+    "name": "Adeline de Araújo Lobão da Silva",
+    "role": "SECRETÁRIA EXECUTIVA DE PLANEJAMENTO E GESTÃO INTERNA"
+  }
+}

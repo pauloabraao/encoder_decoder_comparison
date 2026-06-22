@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "010/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SUPERINTENDÊNCIA DE OBRAS PUBLICAS - SOP",
+    "cpf_cnpj": "33.866.288/0001-30"
+  },
+  "contracted_party": {
+    "name": "SALINAS EMPREEN- DIMENTOS E CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "73.694.788/0001-57"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 162.095,71",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "SUPERINTENDÊNCIA DE OBRAS PUBLICAS - SOP",
+      "contracted_party": "SALINAS EMPREEN- DIMENTOS E CONSTRUÇÕES LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Galdyel Gonçalves de Aguiar",
+    "role": "SUPERINTENDÊNCIA DE OBRAS PUBLICAS - SOP"
+  }
+}

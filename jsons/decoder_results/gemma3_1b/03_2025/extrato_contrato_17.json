@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO-SDA",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "ROBERIO MATEUS DE ARAUJO - ME",
+    "cpf_ cnpj": "22.267.632/0001-59"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": null,
+  "signature": {
+    "date": "07/04/2025",
+    "signatories": {
+      "contracting_party": "MOISÉS BRAZ RICARDO",
+      "contracted_party": "ROBERIO MATEUS DE ARAUJO - ME"
+    }
+  },
+  "legal_unit": {
+    "name": "Anna Karinne Nery Veras",
+    "role": "Coordenadora da Assessoria Jurídica"
+  }
+}

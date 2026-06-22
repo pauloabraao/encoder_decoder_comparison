@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "013/2025/NUP 22001.146302/2024-31",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "KM OLIVEIRA DA SILVA",
+    "cpf_cnpj": "34.655.687/0001-15"
+  },
+  "validity": "4.1. O prazo de vigência deste contrato é de 12 (doze) meses, contado do(a) publicação, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com a CONTRATADA.",
+  "global_value": "R$ 832.815,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": "KM OLIVEIRA DA SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "KM OLIVEIRA DA SILVA",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

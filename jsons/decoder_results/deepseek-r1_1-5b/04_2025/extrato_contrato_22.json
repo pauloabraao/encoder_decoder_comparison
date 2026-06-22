@@ -1,0 +1,41 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.014470/2025-40",
+    "ig": null,
+    "date": null,
+    "global_value": "R$ 51.280,00",
+    "signature": {
+      "date": null,
+      "signatories": {
+        "contracting_party": null,
+        "contracted_party": null
+      }
+    },
+    "legal_unit": {
+      "name": "Marcos Felipe Vicente",
+      "role": ""
+    }
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI Gerardo Majella",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": null
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 51.280,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": null,
+      "contracted_party": null
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

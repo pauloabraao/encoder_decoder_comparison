@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.029923/2025-32/PRÉ-RESERVA: 1363600",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEP PROFESSOR GUSTAVO AUGUSTO LIMA – LAVRAS DA MANGABEIRA/CEARÁ",
+    "cpf_cnpj": "07.954.514/0017-92"
+  },
+  "contracted_party": {
+    "name": "U.S DA CRUZ NETO",
+    "cpf_cnpj": "37.847.947/0001-42"
+  },
+  "validity": "360 (Trezentos e sessenta)",
+  "global_value": "R$ 33.795,00",
+  "signature": {
+    "date": "13 de fevereiro de 2025",
+    "signatories": {
+      "contracting_party": "MARCELO GONÇALVES DE CALDAS – CONTRATANTE",
+      "contracted_party": "UBIRATAM SOBREIRA DA CRUZ NETO– CONTRATADA"
+    }
+  },
+  "legal_unit": {
+    "name": "LAVRAS DA MANGABEIRA/CEARÁ",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

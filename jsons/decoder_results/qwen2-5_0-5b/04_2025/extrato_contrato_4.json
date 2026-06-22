@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.128382/2024-43",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A EEEP GOVERNADOR LUIZ DE GONZAGA FONSECA MOTA",
+    "cpf_cnpj": "07.954.514/0223-66"
+  },
+  "contracted_party": {
+    "name": "ONTECH LOCAÇÕES E SERVIÇOS LTDA",
+    "cpf_cnpj": "46.856.681/0001-95"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 51.280,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ARIANNY NASCIMENTO DE SOUSA",
+      "contracted_party": "ONTECH LOCAÇÕES E SERVIÇOS LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

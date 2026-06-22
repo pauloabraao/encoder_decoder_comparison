@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.128382/2024-43",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEEP Lucas Emmanuel Lima Pinheiro",
+    "cpf_cnpj": "07.954.514/0731-90"
+  },
+  "contracted_party": {
+    "name": "GISLENE A LIMA REVESTIMENTOS E CONSTRUÇÕES",
+    "cpf_cnpj": "53.870.525/0001-44"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 81.799,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "EEEP Lucas Emmanuel Lima Pinheiro",
+      "contracted_party": "GISLENE A LIMA REVESTIMENTOS E CONSTRUÇÕES"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

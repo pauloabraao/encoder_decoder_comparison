@@ -1,0 +1,24 @@
+{
+  "document_type": "CONTRACTURING PARTY",
+  "document_id": {
+    "number": "01",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": " Marcos Felipe Vicente",
+    "cpf_cnpj": "12345678901234"
+  },
+  "contracted_party": {
+    "name": null,
+    "cpf_cnpj": null
+  },
+  "validity": "60 (sessenta dias)",
+  "global_value": "88.942.12",
+  "signature": {
+    "date": "13 DE FEVEREiro de 2025",
+    "signatories": {
+      "contracting_party": null,
+      "contracted_party": null
+    }
+  }
+}

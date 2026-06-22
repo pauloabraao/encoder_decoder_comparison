@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "653/2024/NUP 22001.148772/2024-30",
+    "ig": "1338365000"
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, por intermédio da SECRETARIA DA EDUCAÇÃO",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "EB DISTRIBUIDORA LTDA.",
+    "cpf_cnpj": "54.254.670/0001-09"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 9.298,10",
+  "signature": {
+    "date": "27 de Janeiro de 2025",
+    "signatories": {
+      "contracting_party": "Eliana Nunes Estrela",
+      "contracted_party": "Francisco Fábio Alves Ribeiro"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

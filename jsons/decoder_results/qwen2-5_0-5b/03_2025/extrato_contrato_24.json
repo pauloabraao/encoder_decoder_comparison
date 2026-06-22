@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.018174/2025-18/PRÉ-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A(O) ESCOLA ENSINO MEDIO VIRGILIO CORREIA LIMA",
+    "cpf_cnpj": "07.954.514/0651-70"
+  },
+  "contracted_party": {
+    "name": "DAVI D. G. RODRIGUES",
+    "cpf_cnpj": "12.287.378/0001-05"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 26.167,82",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A(O) ESCOLA ENSINO MEDIO VIRGILIO CORREIA LIMA",
+      "contracted_party": "DAVI D. G. RODRIGUES"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

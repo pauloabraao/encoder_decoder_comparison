@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001094975/202407",
+    "ig": "1359156"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA EDUCAÇÃO DO ESTADO CEARÁ/ EEMTI DE CASCAVEL",
+    "cpf_cnpj": "07.954.514/0845-58"
+  },
+  "contracted_party": {
+    "name": "UNIAS EMPREENDI-MENTOS LTDA",
+    "cpf_cnpj": "41.246.178/0001-02"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 81.380,94",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "FABIO JÚNIOR DE LIMA DEMETRIO",
+      "contracted_party": "REBECA SOUSA DA SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

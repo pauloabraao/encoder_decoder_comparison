@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.043711/202-56/IG-137002100",
+        "ig": "22001.043711/202-56/IG-137002100"
+    },
+    "contracting_party": {
+        "name": "EEMTI Mauro Sampaio,",
+        "cpf_cnpj": "07.954.514/0559-65,"
+    },
+    "contracted_party": {
+        "name": "M. A. P. MARTINS,",
+        "cpf_cnpj": "36.005.459/0001-25,"
+    },
+    "validity": "365 (trezentos e sessenta e cinco dias),",
+    "global_value": "R$ 6.198,00",
+    "signature": {
+        "date": "26/03/2025",
+        "signatories": {
+            "contracting_party": "Francisco Edson Pereira Ferreira",
+            "contracted_party": "Maria Auxiliadora Pinto Martins."
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

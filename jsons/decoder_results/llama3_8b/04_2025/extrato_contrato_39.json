@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.046470/2025-17",
+    "ig": "1369895"
+  },
+  "contracting_party": {
+    "name": "EEM CAMILO BRASILIENSE",
+    "cpf_cnpj": "07.954.514/0068-32"
+  },
+  "contracted_party": {
+    "name": "LEONARDO FERREIRA GOMES",
+    "cpf_cnpj": "38.183.766/0001-21"
+  },
+  "validity": "360 (trezentos e sessenta) dias",
+  "global_value": "R$ 15.480,30",
+  "signature": {
+    "date": "27/03/2025",
+    "signatories": {
+      "contracting_party": "Ticiane Farias Marreiro Silveira Alexandre",
+      "contracted_party": "Leonardo Ferreira Gomes"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

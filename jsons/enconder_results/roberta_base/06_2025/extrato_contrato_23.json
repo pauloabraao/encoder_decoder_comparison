@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001040578/2025",
+    "ig": "1377376"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ESCOLA EEMTI MOISÉS BENTO DA SILVA",
+    "cpf_cnpj": "07.954.514/0565- 03"
+  },
+  "contracted_party": {
+    "name": "COAFARCE - COOPERATIVA DA AGRICULTURA FAMILIAR RURAIS DO CEARA",
+    "cpf_cnpj": "56.379.645/0001-31"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 37.360,00",
+  "signature": {
+    "date": "26/05/2025",
+    "signatories": {
+      "contracting_party": "Juarez Antônio da Silva",
+      "contracted_party": "Thiego Feliciano Ferreira Brito"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

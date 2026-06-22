@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.040037/2025-60",
+        "ig": "1364728"
+    },
+    "contracting_party": {
+        "name": "EEEP PROFª ELSA MARIA PORTO COSTA LIMA",
+        "cpf_cnpj": "07.954.514/0327-52"
+    },
+    "contracted_party": {
+        "name": "HSMSHOP COMERCIO DE PRODUTOS HOSPITALARES E VARIEDADES LTDA",
+        "cpf_cnpj": "42.410.276.0001-98"
+    },
+    "validity": "360 (trezentos e sessenta) dias",
+    "global_value": "R$ 3.360,00",
+    "signature": {
+        "date": "26/02/2025",
+        "signatories": {
+            "contracting_party": "MÁRCIA VIANA PORTO VIEIRA",
+            "contracted_party": "MÁRCIA VIANA PORTO VIEIRA"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

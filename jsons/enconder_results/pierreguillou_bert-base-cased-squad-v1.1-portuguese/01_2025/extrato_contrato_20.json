@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1348636",
+        "ig": "1348636"
+    },
+    "contracting_party": {
+        "name": "escola EEEP ADRIANO NOBRE",
+        "cpf_cnpj": "49.563.071"
+    },
+    "contracted_party": {
+        "name": "escola EEEP ADRIANO NOBRE",
+        "cpf_cnpj": "49.563.071/0001-91"
+    },
+    "validity": null,
+    "global_value": "Três mil e cento e vinte",
+    "signature": {
+        "date": null,
+        "signatories": {
+            "contracting_party": "FRANCISCO CLEITON MELOS DE OLIVEIRA",
+            "contracted_party": "FRANCISCO CLEITON MELOS DE OLIVEIRA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

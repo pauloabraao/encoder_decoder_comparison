@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "151/2025",
+    "ig": "1344420000"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO,",
+    "cpf_cnpj": "07.954.514/0001-25,"
+  },
+  "contracted_party": {
+    "name": "JT CONSTRUÇÃO EIRELI,",
+    "cpf_cnpj": "33.866.288/0001-30,"
+  },
+  "validity": "12 (doze) meses,",
+  "global_value": "R$ 6.009.604,41",
+  "signature": {
+    "date": "08/04/2025",
+    "signatories": {
+      "contracting_party": null,
+      "contracted_party": "OSNY COELHO DE OLIVEIRA,"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

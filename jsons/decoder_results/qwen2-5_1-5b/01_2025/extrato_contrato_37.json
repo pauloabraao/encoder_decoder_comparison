@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001094975/202407",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Governo do Estado do Ceará, através da Secretaria da Educação do Estado Ceará/EEMTI de Cascavel, CNPJ 07.954.514/0845-58",
+    "cpf_cnpj": "07.954.514/0845-58"
+  },
+  "contracted_party": {
+    "name": "UNIAS EMPREENDIMENTOS LTDA, com sede na R MONTE LIBANO, CEP:60.762-376",
+    "cpf_cnpj": "41.246.178/0001-02"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 81.380,94",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "FABIO JÚNIOR DE LIMA DEMETRIO",
+      "contracted_party": "REBECA SOUSA DA SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

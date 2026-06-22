@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.021215/2025-53",
+    "ig": "1367060"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO / 7ª COORDENADORIA REGIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO",
+    "cpf_cnpj": "07.954.514/0111-60"
+  },
+  "contracted_party": {
+    "name": "NOVA TECNO- LOGIA DIGITAL LTDA",
+    "cpf_cnpj": "00.182.099/0001-90"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$6.784,00",
+  "signature": {
+    "date": "12/03/2025",
+    "signatories": {
+      "contracting_party": "RENATA PINTO FERREIRA",
+      "contracted_party": "PEDRO CARLOS DA FONSECA JUNIOR"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

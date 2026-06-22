@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.061495/2025-32",
+    "ig": "1377540"
+  },
+  "contracting_party": {
+    "name": "EEMTI PROFESSORA TELINA BARBOSA DA COSTA",
+    "cpf_cnpj": "07.954.514/0544-89"
+  },
+  "contracted_party": {
+    "name": "MF LOCAÇÃO E SERVIÇOS TECNOLÓGICOS LTDA",
+    "cpf_cnpj": "36.779.362/0001- 70"
+  },
+  "validity": "365 ( Trezentos e sessenta e cinco ) dias",
+  "global_value": "R$ 9.194,40",
+  "signature": {
+    "date": "19/05/2025",
+    "signatories": {
+      "contracting_party": "RAFAEL BARBOSA DOS SANTOS",
+      "contracted_party": "MARCUS VINÍCIUS DAMASCENO FERREIRA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

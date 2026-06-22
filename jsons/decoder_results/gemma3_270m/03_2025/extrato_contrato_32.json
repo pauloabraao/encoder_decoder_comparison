@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "005/METROFOR/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "COMPANHIA CEAREZENSE DE TRANSPORTES METROPOLITANOS",
+    "cpf_cnpj": "22.267.632/0001-59"
+  },
+  "contracted_party": {
+    "name": "SEGURO SEGURANÇA LTDA",
+    "cpf_cnpj": "22.267.632/0001-59"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 24.847.784,43",
+  "signature": {
+    "date": "01 de março de 2025",
+    "signatories": {
+      "contracting_party": "COMPANHIA CEAREZENSE DE TRANSPORTES METROPOLITANOS",
+      "contracted_party": "SEGURO SEGURANÇA LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "MARCOS FIPEVICO TEMPO DE CONTRATAMENTO",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

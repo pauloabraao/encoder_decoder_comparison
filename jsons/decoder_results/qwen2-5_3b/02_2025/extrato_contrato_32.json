@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.018383/2025-61",
+    "ig": "136379"
+  },
+  "contracting_party": {
+    "name": "SUPERINTENDÊNCIA DAS ESCOLAS ESTADUAIS DE FORTALEZA - SEFOR 1",
+    "cpf_cnpj": "07.954.514/0685-10"
+  },
+  "contracted_party": {
+    "name": "TOPCERT CERTIFICACAO DIGITAL LTDA",
+    "cpf_cnpj": "32.705.962/0001-32"
+  },
+  "validity": "180 (cento e oitenta) dias",
+  "global_value": "R$ 14.260,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "HILCÉLIA SABOIA PARENTE",
+      "contracted_party": "JOÃO PEDRO LIMA DE CASTRO E SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

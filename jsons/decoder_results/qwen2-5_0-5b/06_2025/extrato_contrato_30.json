@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.070036/2025-40",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A ESCOLA DE ENSINO MÉDIO JOAQUIM MAGALHÃES",
+    "cpf_cnpj": "07.954.514/0038-17"
+  },
+  "contracted_party": {
+    "name": "GRAFICA INOVA LTDA",
+    "cpf_cnpj": "57.807.242/0001-09"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 9.904,98",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A ESCOLA DE ENSINO MÉDIO JOAQUIM MAGALHÃES",
+      "contracted_party": "GRAFICA INOVA LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

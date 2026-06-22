@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.100253/2024-91",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A EEMTI MARIA THOMÁSIA / SEFOR3",
+    "cpf_cnpj": "07.954.514/0490-51"
+  },
+  "contracted_party": {
+    "name": "CONSTRUTORA E IMOBILIARIA RODRIGUES LTDA",
+    "cpf_cnpj": "44.922.978/0001-86"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 89.739,61 (Oitenta e nove mil,setecentos e trinta e nove reais e sessenta e um centavos)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A EEMTI MARIA THOMÁSIA / SEFOR3",
+      "contracted_party": "CONSTRUTORA E IMOBILIARIA RODRIGUES LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

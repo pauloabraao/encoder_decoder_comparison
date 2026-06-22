@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": 73642415,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA CIÊNCIA, TECNOLOGIA E EDUCAÇÃO SUPERIOR - SECITECE",
+    "cpf_cnpj": ""
+  },
+  "contracted_party": {
+    "name": "EMSS NOSSA SENHORA DA LUZ TRANSPORTES LTDA",
+    "cpf_cnpj": ""
+  },
+  "validity": "VIGENSIA",
+  "global_value": "R$ 849.240,00",
+  "signature": {
+    "date": "7 de abril de 2025",
+    "signatories": {
+      "contracting_party": "SECRETARIA DA CIÊNCIA, TECNOLOGIA E EDUCAÇÃO SUPERIOR - SECITECE",
+      "contracted_party": "EMSS NOSSA SENHORA DA LUZ TRANSPORTES LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "EMSS NOSSA SENHORA DA LUZ TRANSPORTES LTDA",
+    "role": "Representante Legal"
+  }
+}

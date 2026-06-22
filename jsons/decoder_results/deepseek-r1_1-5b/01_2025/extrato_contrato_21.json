@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.129776/2024-19",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEM ETELVINA GOMES BEZERRA",
+    "cpf_cnpj": "07.954.514/0165-52"
+  },
+  "contracted_party": {
+    "name": "FERNANDO FERREIRA DE LIMA",
+    "cpf_cnpj": "41.322.314/0001-98"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 51.280,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ARIANNY NASCIMENTO DE SOUSA",
+      "contracted_party": "Rodrigo Ferreira Torres"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente"
+  }
+}

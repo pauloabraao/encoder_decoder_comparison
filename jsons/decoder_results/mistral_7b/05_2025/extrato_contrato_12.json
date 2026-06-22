@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.058011/2025-78/IG-1373014"
+  },
+  "contracting_party": {
+    "name": "A ESCOLA INDÍGENA RAÍZES DE CRATEÚS",
+    "cpf_cnpj": "07.954.514/0159-04"
+  },
+  "contracted_party": {
+    "name": "DUETTO SOLUÇÕES COMERCIAIS EM ÁGUAS E SERVIÇOS DE MEDICAÇÃO LTDA",
+    "cpf_cnpj": "35.735.700/0001-09"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 4.010,30",
+  "signature": {
+    "date": "10/04/2025",
+    "signatories": {
+      "contracting_party": "Maria Aldenisi Pereira Viana de Sousa",
+      "contracted_party": "Stephany Gouveia de Souza"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

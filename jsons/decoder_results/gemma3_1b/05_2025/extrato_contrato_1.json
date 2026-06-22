@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "FUNDAÇÃO DE TELEDUCAÇÃO DO ESTADO DO CEARÁ – FUNTELC",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "VP EVENTOS E CONSULTORIA LTDA.",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": null,
+  "signature": {
+    "date": "28 de abril de 2025",
+    "signatories": {
+      "contracting_party": "FUNTELC",
+      "contracted_party": "VP EVENTOS E CONSULTORIA LTDA."
+    }
+  },
+  "legal_unit": {
+    "name": null,
+    "role": null
+  }
+}

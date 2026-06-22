@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.063262/2025-74",
+        "ig": "1382029"
+    },
+    "contracting_party": {
+        "name": "EEEP MARIA EUDES BEZERRA VERAS",
+        "cpf_cnpj": "07.954.514/0729-75"
+    },
+    "contracted_party": {
+        "name": "E ARAUJO MARTINS COMERCIO E SERVICOS",
+        "cpf_cnpj": "22.645.012/0001-06"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$35.767,80",
+    "signature": {
+        "date": "09/06/2025",
+        "signatories": {
+            "contracting_party": "Carla Cristina Cavalcante Melo",
+            "contracted_party": "EPITACIO ARAUJO MARTINS"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

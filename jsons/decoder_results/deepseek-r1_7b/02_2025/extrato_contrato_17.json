@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001104498202497",
+    "ig": "1361919"
+  },
+  "contracting_party": {
+    "name": "A E.E.M. DR UBIRAJARA ÍNDIO DO CEARÁ",
+    "cpf_cnpj": "07.954.514/0522-73"
+  },
+  "contracted_party": {
+    "name": "EBP COMERCIO E SERVICOS LTDA",
+    "cpf_cnpj": "41.315.475/0001-54"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 11.767,13",
+  "signature": {
+    "date": "10/02/2025",
+    "signatories": {
+      "contracting_party": "KARLA VIRGÍNIA DA SILVA PINTO",
+      "contracted_party": "EDMIR BARBOSA DA PAZ"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "023/2025",
+    "ig": "1363604"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DO DESENVOLVIMENTo AGRÁRIO-SDA",
+    "cpf_cnpj": "07.954.514/0068-32"
+  },
+  "contracted_party": {
+    "name": "ROBERIO MATEUS DE ARAUJO - ME",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "360 dias",
+  "global_value": "R$ 15.480,30",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "MOISÉS BRAZ RICARDO",
+      "contracted_party": "ROBERIO MATEUS DE ARAUJO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "Coordenador/ASJUR"
+  }
+}

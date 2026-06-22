@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.080800/2025-95",
+        "ig": "1382791"
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA MARCELINO ALVES DE MATOS",
+        "cpf_cnpj": "07.954.514/0139-60"
+    },
+    "contracted_party": {
+        "name": "JOÃO LUÍS DOS SANTOS DA SILVA – JL COMERCIAL",
+        "cpf_cnpj": "49.374.023/0001-55"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 3.154,00",
+    "signature": {
+        "date": "06/06/2025",
+        "signatories": {
+            "contracting_party": "LUCIANO DO NASCIMENTO SARAIVA",
+            "contracted_party": "Marcos Paulo Cassiano da Silva"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

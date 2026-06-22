@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.018174/2025-18",
+    "ig": "1365539"
+  },
+  "contracting_party": {
+    "name": "ESCOLA ENSINO MEDIO VIRGILIO CORREIA LIMA",
+    "cpf_cnpj": "07.954.514/0651-70"
+  },
+  "contracted_party": {
+    "name": "DAVI D. G. RODRIGUES",
+    "cpf_cnpj": "12.287.378/0001-05"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco dias),",
+  "global_value": "R$ 26.167,82",
+  "signature": {
+    "date": "25/02/2025",
+    "signatories": {
+      "contracting_party": "JOSÉ WALBER ALVES CARNEIRO",
+      "contracted_party": "DAVI D. G. RODRIGUES"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "08/2025"
+  },
+  "contracting_party": {
+    "name": "Fundação Universidade Regional do Cariri - URCA",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "COMPANHIA DE ÁGUA E ESGOTO DO CEARÁ - CAGECE",
+    "cpf_cnpj": null
+  },
+  "validity": "12 (doze) meses, contados a partir da assinatura do presente contrato, prorrogável por até 10 (dez) anos",
+  "global_value": "R$ 60.000,00",
+  "signature": {
+    "date": "06/06/2025",
+    "signatories": {
+      "contracting_party": "Carlos Kleber Nascimento de Oliveira",
+      "contracted_party": "Neurisangelo Cavalcante de Freitas"
+    }
+  },
+  "legal_unit": {
+    "name": null,
+    "role": null
+  },
+  "object": "Obriga-se a CAGECE por este instrumento a Fornecer Água Tratada ou Coleta de esgoto ao CLIENTE, visando atender às necessidades da Fundação Universidade Regional do Cariri (URCA) nos Campi MUSEU DE PALEONTOLOGIA - Rua Dr. Plácido Cidade Nuvens, 332 - Santana do Cariri-CE, CAMPUS AVANÇADO DE MISSÃO VELHA - Rua Cel. José Dantas, 609–Centro Missão Velha, CAMPUS AVANÇADO DE CAMPOS SALES - Av. Francisco A de Andrade, 915–Centro, Campos Sales, CAMPUS CRAJUBAR - Av. Leão Sampaio,107- 02 km, Juazeiro do Norte-CE.",
+  "fundamentation_legal": "Fundamenta-se este Contrato na Lei Federal nº 14.133, de 01/04/2021, art. 74, I, no Regulamento Geral de Prestação de Serviços de Água do Estado do Ceará, aprovado pelo Decreto nº 12.844, de 31/07/1978, na Resolução COEMA Nº 2 de 02/02/2017 emanada da SEMACE– Superintendência Estadual do Meio Ambiente, na Portaria de Consolidação do Ministério da Saúde nº 5, de 28 de Setembro de 2017, e nas Resoluções nº 122 de 11/12/2009, e nº 130 de25/03/2010,da Agência Reguladora de Serviços Públicos Delegados do Estado do Ceará – ARCE, que passam a integrá-lo independentemente de transcrição.",
+  "foro": "Crato/CE",
+  "unity_gestora": "310301 (URCA)",
+  "unity_orcamentaria": "31200003",
+  "font": "500 - TESOURO ESTADUAL - CUSTEIO MANUTENÇÃO",
+  "programa_de_governo": "421",
+  "projeto_atividade": "20184",
+  "elemento_despesa": "339039",
+  "codigo_reduzido": "14711"
+}

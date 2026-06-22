@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "006/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por meio da SECRETARIA DAS MULHERES",
+        "cpf_cnpj": "49.958.941/0001-21"
+    },
+    "contracted_party": {
+        "name": "SALINAS EMPREENDIMENTOS E CONSTRUÇÕES LTDA",
+        "cpf_cnpj": "49.958.941/0001-21"
+    },
+    "validity": "30 (trinta) dias úteis, contados da finalização da liquidação da despesa. DOTAÇÃO ORÇAMENTÁRIA: [2025] 62100001.14.422.167.21052.03.339039.01.5009100000.0 (dotação 16331). DATA DA ASSINATURA: 19 de fevereiro de 2025 SIGNATÁRIOS",
+    "global_value": "R$ 1.000.000,00",
+    "signature": {
+        "date": "19/02/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "Guimarães COORDENADORA JURÍDICA",
+        "role": "COORDENADORA JURÍDICA"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.132460/2024-12/PRÉ-RESERVA: 1353539",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEMTI PROFESSORA CARMOSINA FERREIRA GOMES",
+    "cpf_cnpj": "49.341.785/0001-55"
+  },
+  "contracted_party": {
+    "name": "M DE LOURDES G CEDRO - ME",
+    "cpf_cnpj": "33.187.562/0001-45"
+  },
+  "validity": "365(trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 33.000,00",
+  "signature": {
+    "date": "08/11/2024",
+    "signatories": {
+      "contracting_party": "Jorge Célio Coelho Aguiar",
+      "contracted_party": "Maria de Lourdes Gomes Cedro"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

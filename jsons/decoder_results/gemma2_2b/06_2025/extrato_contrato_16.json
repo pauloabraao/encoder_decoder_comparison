@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001070088/202516",
+    "ig": "1379799"
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/Escola De Ensino Médio Em Tempo Integral Deputado Fernando Mota",
+    "cpf_cnpj": "07.954.514/0297-00"
+  },
+  "contracted_party": {
+    "name": "ASSO- CIAÇÃO DE PRODUTORES RURAIS DE SERRA AGUDA",
+    "cpf_cnpj": "53.989.447/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 119.923,74",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Adriana Gomes Santos",
+      "contracted_party": "Cleumar Bernardo"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

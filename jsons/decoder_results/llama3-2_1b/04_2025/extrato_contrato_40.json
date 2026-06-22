@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "151/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "JT Construção Eireli",
+    "cpf_cnpj": "00.182.545/0001-66"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 6.009.604,41",
+  "signature": {
+    "date": "08 de abril de 2025",
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": "JT Construção Eireli"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "137/2025",
+        "ig": "1348272000 - SACC: 1363590"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+        "cpf_cnpj": "03.614.071/0001-72"
+    },
+    "contracted_party": {
+        "name": "em Fortaleza/CE CONTRATADA",
+        "cpf_cnpj": "25"
+    },
+    "validity": "28 (vinte e oito) meses",
+    "global_value": "R$ 16",
+    "signature": {
+        "date": "05.449051.1.544.9200000.1 FONTE: 544",
+        "signatories": {
+            "contracting_party": "Antônia Aguiar Ramos",
+            "contracted_party": "Antônia Aguiar Ramos, n.º 1019, Gaioso Nunes, Tianguá – CE, CEP. 62.320-000, inscrita no CNPJ sob o nº 03.614.071/0001-72, dora- vante denominada CONTRATADA, representada neste ato pela Sra. URANDIA AGUIAR RAMOS"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

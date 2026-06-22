@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "010/2025",
+        "ig": "1362265000"
+    },
+    "contracting_party": {
+        "name": "SUPERINTENDÊNCIA DE OBRAS PUBLICAS - SOP",
+        "cpf_cnpj": "057.674.223-62"
+    },
+    "contracted_party": {
+        "name": "SALINAS EMPREEN- DIMENTOS E CONSTRUÇÕES LTDA",
+        "cpf_cnpj": "057.674.223-62"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 162.095,71",
+    "signature": {
+        "date": "12/02/2025",
+        "signatories": {
+            "contracting_party": "JOSÉ VALDECI REBOUÇAS",
+            "contracted_party": "FRANCISCO LENNON BARBOSA MARTINS"
+        }
+    },
+    "legal_unit": {
+        "name": "12/02/2025",
+        "role": "12/02/2025"
+    }
+}

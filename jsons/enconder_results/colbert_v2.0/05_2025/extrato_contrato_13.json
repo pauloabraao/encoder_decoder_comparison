@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1027451/202583",
+        "ig": "1027451"
+    },
+    "contracting_party": {
+        "name": "O Estado do Ceará, através da Secretaria da Educação/EEMTI PROFESSOR CLODOALDO PINTO",
+        "cpf_cnpj": "07.954.514/0214-75"
+    },
+    "contracted_party": {
+        "name": "RENATA DE ABREU BASTOS",
+        "cpf_cnpj": "07.954.514/0214-75"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 127.744,02",
+    "signature": {
+        "date": "25/04/2025",
+        "signatories": {
+            "contracting_party": "MARCOS PAULO VIEIRA DE FIGUEIREDO",
+            "contracted_party": "RENATA DE ABREU BASTOS"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.032127/2025-87/PRÉ-RESERVA",
+    "ig": "1364418"
+  },
+  "contracting_party": {
+    "name": "Colégio Militar do Corpo de Bombeiros Escritora Rachel de Queiroz",
+    "cpf_cnpj": "07.954.514/0689-43"
+  },
+  "contracted_party": {
+    "name": "PH &B COMÉRCIO & SERVIÇOS LTDA",
+    "cpf_cnpj": "11.914.096/0001-10"
+  },
+  "validity": "240 (duzentos e quarenta) dias",
+  "global_value": "R$ 109.057,50",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Paulo Aragão de Azevedo Filho",
+      "contracted_party": "Francisca Aislan Pereira de Sousa"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "90/2025 - PROCESSO SEDUC/CE - NUP 22001.004670/2024-11",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA EDUCAÇÃO, localizada no Centro Administrativo Governador Virgílio Távora, na Av. Gal. Afonso Albuquerque Lima, s/n, Cambeba, Fortaleza/CE",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "CONSÓRCIO PIO/R&S ESCOLA PAJUÇARA, estabelecida na Rua Almeida Prado nº 154 sala 14, Papicu, Fortaleza-CE",
+    "cpf_cnpj": "59.543.354/0001-25"
+  },
+  "validity": "24 (vinte e quatro) meses",
+  "global_value": "R$ 10.186.805,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA - Secretária da Educação",
+      "contracted_party": "CARLOS HENRIQUE DUMMAR ANTERO - Representante Legal da Empresa CONSÓRCIO PIO/R&S ESCOLA PAJUÇARA"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

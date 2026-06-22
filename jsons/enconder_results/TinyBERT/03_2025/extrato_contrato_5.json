@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "Nº02/2025",
+        "ig": "1365233"
+    },
+    "contracting_party": {
+        "name": "JUNTA COMERCIAL DO ESTADO DO CEARÁ. CONTRATADA: TAXI MUD DO BRASIL TRANSPORTE ESPECIALIZADO DE VEÍCULOS E MUDANÇAS LTDA.",
+        "cpf_cnpj": "12.341.210/0001-22"
+    },
+    "contracted_party": {
+        "name": "TAXI MUD DO BRASIL TRANSPORTE ESPECIALIZADO DE VEÍCULOS E MUDANÇAS LTDA.",
+        "cpf_cnpj": "12.341.210/0001-22, com sede na Rodovia Br 116, nº 2273, Parque Iracema, Fortaleza-CE, CEP: 60824"
+    },
+    "validity": "21/02/2025 SIGNATÁRIOS: EDUARDO JEREISSATI DE AZEVEDO - PRESIDENTE DA JUCEC (Contratante) e Arthur Araújo Mesquita",
+    "global_value": "R$49.600,00",
+    "signature": {
+        "date": "21/02/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

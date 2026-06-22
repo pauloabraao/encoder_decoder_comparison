@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001078399/2025",
+    "ig": "1383591"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ESCOLA EEMTI ADELINO CUNHA ALCÂNTARA",
+    "cpf_cnpj": "07.954.514/0295-30"
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA DOS AGRICULTORES E AGRICULTORAS FAMILIARES DEVOTOS DE SÃO JOSÉ – COOPASJO",
+    "cpf_cnpj": "40.130.082/0001- 03"
+  },
+  "validity": "365( Trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 35.040,00",
+  "signature": {
+    "date": "09/06/2025",
+    "signatories": {
+      "contracting_party": "Nakeida Cristina de Castro Costa",
+      "contracted_party": "Jacqueline da Silva de Oliveira"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

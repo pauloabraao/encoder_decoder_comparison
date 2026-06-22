@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.037671/2025-15/PRÉ-RESERVA: 1364908",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, por intermédio da Secretaria da Educação/ESCOLA DE ENSINO MÉDIO ALFREDO MACHADO",
+    "cpf_cnpj": "07.954.514/0314-38"
+  },
+  "contracted_party": {
+    "name": "J.V. MAXIMUS COMERCIAL LTDA",
+    "cpf_cnpj": "49.131.036/0001-01"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 4.756,50",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "JOSÉ VICTOR SALUSTIANO DOS SANTOS",
+      "contracted_party": "FRANCISCO LUCINIO BARBOSA DE SOUSA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

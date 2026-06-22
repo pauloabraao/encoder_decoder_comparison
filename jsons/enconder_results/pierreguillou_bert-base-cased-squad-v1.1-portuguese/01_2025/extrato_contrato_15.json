@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG 1346070",
+        "ig": "IG 1346070"
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA ALTO DA CATINGUEIRA",
+        "cpf_cnpj": "07.954.514/0277-59"
+    },
+    "contracted_party": {
+        "name": "ESCOLA INDÍGENA ALTO DA CATINGUEIRA",
+        "cpf_cnpj": "07.954.514/0277-59"
+    },
+    "validity": "120 (Cento e vinte) dias",
+    "global_value": "Quatro mil quatrocentos e oitenta",
+    "signature": {
+        "date": "22001.132239/2024",
+        "signatories": {
+            "contracting_party": "seu (sua) Diretor (a) Geral",
+            "contracted_party": "MARIA CLEONICE PEREIRA DOS SANTOS"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "FAMILIAR RURAL"
+    }
+}

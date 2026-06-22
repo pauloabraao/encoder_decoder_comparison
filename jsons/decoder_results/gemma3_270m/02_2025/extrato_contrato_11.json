@@ -1,0 +1,32 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "010/2025",
+    "ig": "43022.000782/2025-06",
+    "contracting_party": "SUPERINTENDÊNCIA DE OBRAS PUBLICAS - SOP",
+    "contracted_party": "SALINAS EMPREEN- DIMENTOS E CONSTRUÇÕES LTDA",
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 162.095,71"
+  },
+  "contracting_party": {
+    "name": "SALINAS EMPREEN- DIMENTOS E CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "contracted_party": {
+    "name": "ROBERIO MATEUS DE ARAUJO - ME",
+    "cpf_cnpj": "22.267.632/0001-59"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 51.280,00",
+  "signature": {
+    "date": "07/04/2025",
+    "signatories": {
+      "contracting_party": "SECRETARIA DA EDUCAÇÃO/EEMTI Gerardo Majella",
+      "contracted_party": "ROBERIO MATEUS DE ARAUJO"
+    }
+  },
+  "legal_unit": {
+    "name": "MARCOS FIPEVICE Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": "1363604"
+  },
+  "contracting_party": {
+    "name": "FUNECE E SEUS ANEXOS",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "WAGNER FAHD CARLOS - PELA N & F DISTRIBUIDORA LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "25/04/2025",
+  "global_value": null,
+  "signature": {
+    "date": "25/04/2025",
+    "signatories": {
+      "contracting_party": "FUNECE E SEUS ANEXOS",
+      "contracted_party": "WAGNER FAHD CARLOS - PELA N & F DISTRIBUIDORA LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": null,
+    "role": null
+  }
+}

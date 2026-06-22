@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.106635/2024-28",
+    "ig": "1351520"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ ESCOLA INDÍGENA TREMEMBÉ MARIA VENÂNCIA",
+    "cpf_cnpj": "07.954.514/0244-90"
+  },
+  "contracted_party": {
+    "name": "COMERCIAL ELLEN LTDA",
+    "cpf_cnpj": "13.403.884/0001-77"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco ) dias",
+  "global_value": "R$ 10.521,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "JOSÉ GETÚLIO DOS SANTOS",
+      "contracted_party": "Francisco Adriano de Sousa"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

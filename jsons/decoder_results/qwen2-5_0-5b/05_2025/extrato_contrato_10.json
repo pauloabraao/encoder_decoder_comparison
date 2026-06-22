@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.131087/2024-74/PRÉ-RESERVA: 1372013",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEM RAUL BARBOSA",
+    "cpf_cnpj": "07.954.514/0645-22"
+  },
+  "contracted_party": {
+    "name": "T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 89.376,04 (Oitenta e nove mil, trezentos e setenta e seis reais e quatro centavos)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ARIANNY NASCIMENTO DE SOUSA",
+      "contracted_party": "ROBERIO MATEUS DE ARAUJO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

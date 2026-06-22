@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.047629/2025-11",
+        "ig": "1374426"
+    },
+    "contracting_party": {
+        "name": "Escola E.E.M Alice Moreira de Oliveira",
+        "cpf_cnpj": "07.954.514/0129"
+    },
+    "contracted_party": {
+        "name": "em (Caucaia – Ce), na Rua",
+        "cpf_cnpj": "36.244.654"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 35.665,00",
+    "signature": {
+        "date": "29",
+        "signatories": {
+            "contracting_party": "RODRIGO MAGALHAES ALVES, com sede na residente e domiciliado em (Caucaia – Ce), na Rua Pacatuba, 770, Parque Potira",
+            "contracted_party": "Rodrigo Magalhães Alves"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

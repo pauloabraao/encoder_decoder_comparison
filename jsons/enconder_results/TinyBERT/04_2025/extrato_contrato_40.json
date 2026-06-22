@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "151/2025",
+        "ig": "1344420000"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+        "cpf_cnpj": "00.182.545/0001-66"
+    },
+    "contracted_party": {
+        "name": "JT CONSTRUÇÃO EIRELI",
+        "cpf_cnpj": "33.866.288/0001-30"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 6.009",
+    "signature": {
+        "date": null,
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "OSNY COELHO DE OLIVEIRA, brasileiro, casado, engenheiro civil, portador do RG 94002048513 e CPF 413.870.903-72, residente e domiciliado na Rua Gustavo Augusto Lima"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

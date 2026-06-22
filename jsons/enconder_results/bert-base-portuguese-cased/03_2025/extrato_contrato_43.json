@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "05/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "AGÊNCIA DE DESENVOLVIMENTO DO ESTADO DO CEARÁ S.A – ADECE",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "INSTITUTO BRASILEIRO DE CONTRATAÇÕES PÚBLICAS E FORMAÇÃO PROFISSIONAL LTDA.",
+        "cpf_cnpj": null
+    },
+    "validity": "180 (cento e oitenta) dias",
+    "global_value": "R$ 112.000,00",
+    "signature": {
+        "date": "11/03/2025",
+        "signatories": {
+            "contracting_party": "Danilo Gurgel Serpa",
+            "contracted_party": "Ivna Magalhães Bezerra"
+        }
+    },
+    "legal_unit": {
+        "name": "Davi Byron Bezerra Pontes Freire",
+        "role": "SECRETÁRIA DA EDUCAÇÃO"
+    }
+}

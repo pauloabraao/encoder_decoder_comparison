@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.069303/2025-36",
+    "ig": "1373633"
+  },
+  "contracting_party": {
+    "name": "ESCOLA DE ENSINO MÉDIO RITA ESTELITA DOS SANTOS RODRIGUES",
+    "cpf_cnpj": "07.954.514/0022-50"
+  },
+  "contracted_party": {
+    "name": "GB SERVIÇOS E COMERCIO LTDA",
+    "cpf_cnpj": "42.852.532/0001-05"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 2.400,00",
+  "signature": {
+    "date": "22/04/2025",
+    "signatories": {
+      "contracting_party": null,
+      "contracted_party": "Gustavo Braga Almeida"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

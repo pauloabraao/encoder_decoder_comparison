@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.087137/2024-79",
+    "ig": "1359865"
+  },
+  "contracting_party": {
+    "name": "ESCOLA DE ENSINO MÉDIO DE TEMPO INTEGRAL ANTÔNIO GERALDO DE LIMA",
+    "cpf_cnpj": "07.954.514/0191-44"
+  },
+  "contracted_party": {
+    "name": "RDB CONSTRUÇÕES E SERVIÇOS LTDA",
+    "cpf_cnpj": "35.560.214/0001-05"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 89.383,00",
+  "signature": {
+    "date": "24/01/2025",
+    "signatories": {
+      "contracting_party": "Fabíola Lima Freitas de Oliveira Vasconcelos",
+      "contracted_party": "Francisco Eduardo Moreira de Brito"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

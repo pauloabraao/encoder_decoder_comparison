@@ -1,0 +1,34 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": "EEMTI. JACOB NOBRE DE OLIVEIRA BENEDITES",
+    "cpf_cnpj": "37.847.947/0001-42"
+  },
+  "contracted_party": {
+    "name": "Ubiratan Sobreira da Cruz Neto",
+    "cpf_cnpj": null
+  },
+  "validity": "365 (Trezentos e sessenta e cinco) dias",
+  "global_value": "",
+  "signature": {
+    "date": "24 de fevereiro de 2025",
+    "signatories": [
+      {
+        "contracting_party": "Ubiratan Sobreira da Cruz Neto",
+        "contracted_party": null
+      },
+      {
+        "contracting_party": "João Paulo Nobre de Oliveira Beneides",
+        "cpf_cnpj": "37.847.947/0001-42"
+      }
+    ]
+  },
+  "legal_unit": {
+    "name": null,
+    "role": null
+  }
+}

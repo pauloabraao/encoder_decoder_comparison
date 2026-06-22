@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.080197/2025-41",
+    "ig": "1380513"
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0636-31"
+  },
+  "contracted_party": {
+    "name": "ROBERIO MATEUS DE ARAUJO - ME",
+    "cpf_cnpj": "22.267.632/0001-59"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 129.368,00",
+  "signature": {
+    "date": "23/05/2025",
+    "signatories": {
+      "contracting_party": "Marcos Felipe Vicente",
+      "contracted_party": "ROBERIO MATEUS DE ARAUJO - ME"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

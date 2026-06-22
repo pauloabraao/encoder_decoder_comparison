@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.047767/2025-91/IG-1374428"
+  },
+  "contracting_party": {
+    "name": "ESCOLA DE ENSINO MÉDIO MARIA NAZARÉ DE SOUSA",
+    "cpf_cnpj": "07.954.514/0032-21"
+  },
+  "contracted_party": {
+    "name": "HERICA PIRES LIMA",
+    "cpf_cnpj": "44.714.654/0001-52"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 10.801,69",
+  "signature": {
+    "date": "22 de abril de 2024",
+    "signatories": {
+      "contracting_party": "Maria do Livramento",
+      "contracted_party": "Herica Pires Lima"
+    }
+  },
+  "legal_unit": {
+    "name": "Itapipoca/CE",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

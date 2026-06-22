@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.037928/2025-39/PRÉ-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEMTI. JACOB NOBRE DE OLIVEIRA BENEVIDES",
+    "cpf_cnpj": "07.954.514/0075-61"
+  },
+  "contracted_party": {
+    "name": "U.S DACRUZNETO",
+    "cpf_cnpj": "37.847.947/0001-42"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 27.142,50",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "JOÃO PAULO NOBRE NOGUEIRA",
+      "contracted_party": "U.S DACRUZNETO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

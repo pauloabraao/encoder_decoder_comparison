@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.100244/2024-08",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEMTI ROMEU DE CASTRO MENEZES",
+    "cpf_cnpj": "07.954.514/0133-75"
+  },
+  "contracted_party": {
+    "name": "2F SERVIÇOS E CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "13.373.665/0001-92"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 89.363,40",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Raimundo Nonato de Souza",
+      "contracted_party": "Luiz Antonio de Farias Filho"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

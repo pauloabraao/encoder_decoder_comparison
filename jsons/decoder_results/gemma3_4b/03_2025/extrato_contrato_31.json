@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "1033430202505/PRE-RESERVA : 1365288",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A EEMTI Profª Eunice Maria de Sousa Freitas",
+    "cpf_cnpj": "07954514/0568-56"
+  },
+  "contracted_party": {
+    "name": "M THEREZA DIAS CAVALCANTI",
+    "cpf_cnpj": "38.385.188/0001- 06"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 1.908,10",
+  "signature": {
+    "date": "25/02/2025",
+    "signatories": {
+      "contracting_party": "João Paulo Carvalho dos Santos",
+      "contracted_party": "Maria Thereza Dias Cavalcanti"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": "'A Escola Estadual de Educação Profissional Juarez Távora', através da Secretaria da Educação/EEMTI Gerardo Majella'",
+    "cpf_cnpj": "07.954.514/0498-09"
+  },
+  "contracted_party": {
+    "name": "'A Escola Estadual de Educação Profissional Juarez Távora', através da Secretaria da Educação/EEMTI Gerardo Majella'",
+    "cpf_cnpj": "07.954.514/0498-09"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 10.880,00",
+  "signature": {
+    "date": "20 de Março de 2025",
+    "signatories": {
+      "contracting_party": "'A Escola Estadual de Educação Profissional Juarez Távora', através da Secretaria da Educação/EEMTI Gerardo Majella'",
+      "contracted_party": "'A Escola Estadual de Educação Profissional Juarez Távora', através da Secretaria da Educação/EEMTI Gerardo Majella'"
+    }
+  },
+  "legal_unit": {
+    "name": "'A Escola Estadual de Educação Profissional Juarez Távora', através da Secretaria da Educação/EEMTI Gerardo Majilla'",
+    "role": "'A Escola Estadual de Educação Profissional Juarez Távora'"
+  }
+}

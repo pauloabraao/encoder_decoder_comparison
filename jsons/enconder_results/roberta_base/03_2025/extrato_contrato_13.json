@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001028479/2025",
+        "ig": "165563"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL FRANCISCO JAGUARIBE",
+        "cpf_cnpj": "07.954.514/0332-10"
+    },
+    "contracted_party": {
+        "name": "EXPRESSO DISTRIBUIDORA LTDA",
+        "cpf_cnpj": "25.179.741/0001-02"
+    },
+    "validity": "360 (trezentos e sessenta),",
+    "global_value": "R$ 2.490,64",
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": "Francisco Glauber de Brito Silva",
+            "contracted_party": "Felipe Lima Soares"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

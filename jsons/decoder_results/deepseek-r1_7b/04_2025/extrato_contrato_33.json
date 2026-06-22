@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.010706/2025-79",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará - Secretaria da Educação/EESC Prof. Maria Hermínia",
+    "cpf_cnpj": "07.954.514/0341-00"
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA DOS AGRICULTORES FAMILIARES DO VALE DO FORQUILHA",
+    "cpf_cnpj": "22.717.179/0001-35"
+  },
+  "validity": null,
+  "global_value": "R$ 5.671,66",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Maria das Dores da Silva",
+      "contracted_party": "Deusimar Candido de Oliveira"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

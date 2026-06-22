@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.038793/2025-29",
+    "ig": "1370174"
+  },
+  "contracting_party": {
+    "name": "O Governo do Estado do Ceará, através da Secretaria da Educação e o COLÉGIO ESTADUAL LICEU DE CAUCAIA",
+    "cpf_cnpj": "07.954.514/0134-56"
+  },
+  "contracted_party": {
+    "name": "ACE ASSESSORIA CONTÁBIL LTDA",
+    "cpf_cnpj": "11.977.190/0001-18"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 149,00",
+  "signature": {
+    "date": "27/03/2025",
+    "signatories": {
+      "contracting_party": "José Ossian Ricarte",
+      "contracted_party": "André Luis Melo do Nascimento"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

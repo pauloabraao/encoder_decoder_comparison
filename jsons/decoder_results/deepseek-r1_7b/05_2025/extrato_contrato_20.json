@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.045502/2025-59",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI Aristarco Cardoso",
+    "cpf_cnpj": "07.954.514/0574-02"
+  },
+  "contracted_party": {
+    "name": "Francisco Weverton do Nascimento Silva",
+    "cpf_cnpj": "037.266.433-46"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 19.780,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Manoel Faustino da Silva Neto",
+      "contracted_party": "Francisco Weverton do Nascimento Silva"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

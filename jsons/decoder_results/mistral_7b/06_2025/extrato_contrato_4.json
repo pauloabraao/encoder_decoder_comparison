@@ -1,0 +1,44 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "025/2025",
+    "ig": "1368314|SACC:1363665"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO - SDA",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "B ANDREY SOUSA DANTAS",
+    "cpf_cnpj": "37.214.755/0001-49"
+  },
+  "object": "Contratação de pessoa jurídica de direito privado especializada na produção, transporte e entrega de mudas de essencias florestais nativas, cajueiro anão e frutiferas diversas no território do Estado do Ceará para o Projeto Hora de Plantar",
+  "credential_number": "09/2024",
+  "fundamentation_legal": "Fundamenta-se este Contrato no Processo de Credenciamento, conforme processo administrativo SPU n° 21001.004734/2024-11, também funda- mentado na Lei Federal nº 14.133, de 01 de abril de 2021 e a Lei Estadual nº 17.534, de 22 de junho de 2021 e suas alterações posteriores, além das demais disposições legais aplicáveis.",
+  "lots": {
+    "lot_2_sabia": 2400,
+    "lot_4_brs_226": 9231,
+    "lot_8_ccp_76": 9757,
+    "lot_10_acerola": 1175,
+    "lot_12_goiaba": 4400,
+    "lot_13_manga": 1000
+  },
+  "global_value": "R$ 112.641,90",
+  "budget_item": {
+    "number": "21100029.20 . 608 . 211-10069-339030.13.500.9100000.0-4.01 - 20010 R$ - 93.805,11 e 21100029.20 . 608 . 211-10069-339030.14.500.9100000.0-4.01 - 12024 R$ - 18.836,79",
+    "program": "2100010872024I - PROGRAMA DE DISTRIBUIÇÃO DE SEMENTES - MAPP: 14 – Programa de Distribuição de Sementes"
+  },
+  "forum": "Fortaleza",
+  "validity": "12 (doze) meses",
+  "signature": {
+    "date": "09/04/2025",
+    "signatories": {
+      "contracting_party": "MOISÉS BRAZ RICARDO",
+      "contracted_party": "BRUNO ANDREY SOUSA DANTAS"
+    }
+  },
+  "legal_unit": {
+    "name": "Anna Karinne Nery Veras",
+    "role": "COORDENADORA DA ASSESSORIA JURÍDICA"
+  }
+}

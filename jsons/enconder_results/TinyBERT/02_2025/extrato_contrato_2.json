@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "214/2024",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESTADO DO CEARÁ, através da CASA CIVIL",
+        "cpf_cnpj": "09.469.891/0001-02"
+    },
+    "contracted_party": {
+        "name": "empresa",
+        "cpf_cnpj": "30.546.059/0001-40, com endereço na Av. Washington Soares, nº 55"
+    },
+    "validity": "22 (vinte e dois) meses",
+    "global_value": "R$ 322.000,00",
+    "signature": {
+        "date": "12.365.142.21159.03.449039.1.754",
+        "signatories": {
+            "contracting_party": "Francisco José Moura Cavalcante",
+            "contracted_party": "Edson Queiroz"
+        }
+    },
+    "legal_unit": {
+        "name": "Sabrine Gondim Lima",
+        "role": "COORDENADORA DA ASSESSORIA JURÍDICA"
+    }
+}

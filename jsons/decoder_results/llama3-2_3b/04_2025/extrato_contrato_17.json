@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "137/2025",
+    "ig": "1348272000"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA EDUCAÇÃO",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "ZONA NORTE CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "03.614.071/0001-72"
+  },
+  "validity": "28 (vinte e oito) meses",
+  "global_value": "R$ 16.417.402,91",
+  "signature": {
+    "date": "31/03/2025",
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "URANDIA AGUIAR RAMOS"
+    }
+  },
+  "legal_unit": {
+    "name": "JOSÉ VALDECI REBOUÇAS",
+    "role": "Superintendente da SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP"
+  }
+}

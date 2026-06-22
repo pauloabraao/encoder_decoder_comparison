@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "27/2025",
+        "ig": "Nº1372499000 Nº DO DOCUMENTO 27/2025"
+    },
+    "contracting_party": {
+        "name": "BRAVAR COMÉRCIO E SERVIÇOS LTDA",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "BRAVAR COMÉRCIO E SERVIÇOS LTDA",
+        "cpf_cnpj": null
+    },
+    "validity": "28/04/2025 até 28/04/2026. VALOR GLOBAL: R$ 475.740,00 Quatrocentos e setenta e cinco mil, setecentos",
+    "global_value": "R$ 475.740,00",
+    "signature": {
+        "date": "28",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "Roriz Forti-Representante Legal da Empresa BRAVAR COMÉRCIO E SERVIÇOS LTDA. Roberta Nunes"
+        }
+    },
+    "legal_unit": {
+        "name": "Roriz Forti-Representante Legal da Empresa BRAVAR COMÉRCIO E SERVIÇOS LTDA. Roberta Nunes ASSESSORIA JURÍDICA",
+        "role": "JURÍDICA"
+    }
+}

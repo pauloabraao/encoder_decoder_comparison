@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "212/2024",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "CASA CIVIL",
+    "cpf_cnpj": "09.469.891/0001-02"
+  },
+  "contracted_party": {
+    "name": "VERTICAL PROMOÇÕES E EVENTOS LTDA.",
+    "cpf_cnpj": "27.772.074/0001-00"
+  },
+  "validity": "24 meses",
+  "global_value": "R$ 452.237,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Francisco José Moura Cavalcante",
+      "contracted_party": "Sarah Santiago Alencar Machado"
+    }
+  },
+  "legal_unit": {
+    "name": "Sabrine Gondim Lima",
+    "role": "COORDENADORA DA ASSESSORIA JURÍDICA"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "30/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "FUNECE",
+    "cpf_cnpj": "não especificado"
+  },
+  "contracted_party": {
+    "name": "FUTURA CLIMATIZAÇÃO E ENERGIA RENOVÁVEL DISTRIBUIDORA COMÉRCIO E SERVIÇOS LTDA.",
+    "cpf_cnpj": "não especificado"
+  },
+  "validity": "28/04/2025 até 28/04/2026",
+  "global_value": null,
+  "signature": {
+    "date": "28/04/2025",
+    "signatories": {
+      "contracting_party": "",
+      "contracted_party": ""
+    }
+  },
+  "legal_unit": {
+    "name": "não especificado",
+    "role": "não especificado"
+  }
+}

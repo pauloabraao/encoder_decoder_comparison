@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "006/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, por meio da Secretaria das Mulheres",
+    "cpf_cnpj": "49.958.941/0001-21"
+  },
+  "contracted_party": {
+    "name": "SALINAS EMPREENDIMENTOS E CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "73.694.788/0001-57"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 1,000,000,00",
+  "signature": {
+    "date": "19 de fevereiro de 2025",
+    "signatories": {
+      "contracting_party": "Maria Esther Frota Cristino",
+      "contracted_party": "Francisco Lennon Barbosa Martins Salinas Empreendimentos e Construções Ltda"
+    }
+  },
+  "legal_unit": {
+    "name": "Manuella de Mesquita Guimarães",
+    "role": "COORDENADORA JURÍDICA"
+  }
+}

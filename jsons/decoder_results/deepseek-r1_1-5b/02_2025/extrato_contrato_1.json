@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "27/01/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA EDUCAÇÃO E EEMTI - CARLO",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "ROBERIO MATEUS DE ARAUJO - ME",
+    "cpf_cnpj": "22.267.632/0001-59"
+  },
+  "validity": "12 meses",
+  "global_value": "R$ 452.237,00",
+  "signature": {
+    "date": "27/01/2025",
+    "signatories": {
+      "contracting_party": "CARLO",
+      "contracted_party": "ROBERIO MATEUS DE ARAUJO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": null
+  }
+}

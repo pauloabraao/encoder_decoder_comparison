@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.117380/2024-29",
+    "ig": "1349210"
+  },
+  "contracting_party": {
+    "name": "ESCOLA INDÍGENA TAPEBA CAPOEIRA",
+    "cpf_cnpj": "07.954.514/0146-90"
+  },
+  "contracted_party": {
+    "name": "L R H COMERCIO E SERVIÇOS LTDA",
+    "cpf_cnpj": "44.547.120/0001-89"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 1.915,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ERNANDES ALVES DANTAS",
+      "contracted_party": "ARTEMIZA GOIS DE OLIVEIRA ARRUDA DA SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

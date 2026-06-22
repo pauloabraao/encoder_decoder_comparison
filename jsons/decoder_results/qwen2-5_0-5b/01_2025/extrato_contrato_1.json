@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.128382/2024-43",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A EEMTI Maria Dolores Alcântara e Silva",
+    "cpf_cnpj": "07.954.514/0841-24"
+  },
+  "contracted_party": {
+    "name": "Juliana Vitor Pereira",
+    "cpf_cnpj": "53.279.810/0001-95"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 6.255,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A EEMTI Maria Dolores Alcântara e Silva",
+      "contracted_party": "Juliana Vitor Pereira"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

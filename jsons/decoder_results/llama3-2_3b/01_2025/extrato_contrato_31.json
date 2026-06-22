@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.130404/2024-35",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEMTI FILGUEIRAS LIMA",
+    "cpf_cnpj": "07.954.514/0667-38"
+  },
+  "contracted_party": {
+    "name": "3P'S LTDA",
+    "cpf_cnpj": "41.262.099/0001-87"
+  },
+  "validity": "200 (duzentos) dias",
+  "global_value": "R$ 18.255,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ROGÉRIO GOMES DA SILVA",
+      "contracted_party": "JORGE LUIS GOMES MENDONÇA"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

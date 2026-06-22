@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "92/2025",
+        "ig": "1348497"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+        "cpf_cnpj": "03.614.071/0001-72"
+    },
+    "contracted_party": {
+        "name": "RG nº 1893776-89 SSP-CE e CPF n.º 782.108.103-59, com a interveniência da SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP, autarquia",
+        "cpf_cnpj": "424.082.963- 15"
+    },
+    "validity": "28 (vinte e oito) meses",
+    "global_value": "R$ 16.448.397,60",
+    "signature": {
+        "date": "13.449051.1.544",
+        "signatories": {
+            "contracting_party": "Antônia Aguiar Ramos",
+            "contracted_party": "Antônia Aguiar Ramos"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA ASJUR"
+    }
+}

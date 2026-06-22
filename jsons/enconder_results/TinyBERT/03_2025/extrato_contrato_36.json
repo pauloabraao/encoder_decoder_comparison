@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "Nº027/2025",
+        "ig": "1367261000"
+    },
+    "contracting_party": {
+        "name": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS",
+        "cpf_cnpj": "33.866.288/0001-30"
+    },
+    "contracted_party": {
+        "name": "EMPREENDIMENTOS E CONSTRUÇÕES LTDA, om sede na Rua",
+        "cpf_cnpj": "73.694.788/0001-57"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 3.016.037,45",
+    "signature": {
+        "date": "21/06/2024",
+        "signatories": {
+            "contracting_party": "Francisco Pita, 1244, Jardim das Oliveiras",
+            "contracted_party": "Francisco Pita, 1244, Jardim das Oliveiras"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Superintendente"
+    }
+}

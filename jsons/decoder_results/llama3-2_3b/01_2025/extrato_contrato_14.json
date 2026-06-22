@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.114616/2024-75",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEMTI ESTADO DA BAHIA",
+    "cpf_cnpj": "07.954.514/0618-50"
+  },
+  "contracted_party": {
+    "name": "ACE ASSESSORIA CONTABIL LTDA",
+    "cpf_cnpj": "11.977.190/0001-18"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 110,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ANDRÉ DOS SANTOS VELZOZO",
+      "contracted_party": "ANDRÉ LUIZ MELO DO NASCIMENTO"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

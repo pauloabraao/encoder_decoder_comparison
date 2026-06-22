@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "98/2025",
+        "ig": "1316112000"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+        "cpf_cnpj": "07.954.514/0001- 25"
+    },
+    "contracted_party": {
+        "name": "EMPRESA FORTEKS ENGENHARIA E SERVIÇOS ESPECIAIS LTDA-EPP",
+        "cpf_cnpj": "750.767.303-06"
+    },
+    "validity": "24(vinte e quatro) meses",
+    "global_value": "R$ 11.175.224,01",
+    "signature": {
+        "date": "20/03/2025",
+        "signatories": {
+            "contracting_party": "ELIANA NUNES ESTRELA",
+            "contracted_party": "MIELLI XIMENES RIPARDO"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Tlita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

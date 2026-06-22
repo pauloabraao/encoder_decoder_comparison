@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "14/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "CENTRAIS DE ABASTECIMENTO DO CEARÁ S/A-CEASA/CE",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "REAL LOCAÇÕES E SERVIÇOS LTDA.",
+        "cpf_cnpj": "08.091.838/0001-40"
+    },
+    "validity": "180 (cento e oitenta) dias",
+    "global_value": "R$ 45.000,00",
+    "signature": {
+        "date": "12/03/2025",
+        "signatories": {
+            "contracting_party": "Elmo Roberto Belchior Aguiar",
+            "contracted_party": "ADEMAR MARINHO DE ANDRADE JUNIOR - REPRESENTANTE. Naara Aires Pedrosa"
+        }
+    },
+    "legal_unit": {
+        "name": "Naara Aires Pedrosa",
+        "role": "PROCURADORA JURÍDICA"
+    }
+}

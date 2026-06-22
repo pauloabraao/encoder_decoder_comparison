@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.065711/2025-19",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI Monsenhor José Augusto da Silva",
+    "cpf_cnpj": "07.954.514/0303-85"
+  },
+  "contracted_party": {
+    "name": "PEDRO VIEIRA DA COSTA",
+    "cpf_cnpj": "656.591.203-34"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 36.863,00",
+  "signature": {
+    "date": "27/05/2025",
+    "signatories": {
+      "contracting_party": "Ana Paula de Araújo Rocha",
+      "contracted_party": "Pedro Vieira da Costa"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

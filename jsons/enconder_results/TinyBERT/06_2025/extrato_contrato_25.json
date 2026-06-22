@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001082214/202585",
+        "ig": "1376734"
+    },
+    "contracting_party": {
+        "name": "O Estado do Ceará, através da Secretaria da Educação/ESCOLA EEMTI Raul Tavares Cavalcante",
+        "cpf_cnpj": "07.954.514/0193-06"
+    },
+    "contracted_party": {
+        "name": "MF 07.954.514/0193-06,daqui por diante denominada simplesmente CONTRATANTE neste ato representada por seu (sua",
+        "cpf_cnpj": "083.120.813-99"
+    },
+    "validity": "365 (trezentos e sessenta e cinco ) dias",
+    "global_value": "R$ 33.122,25",
+    "signature": {
+        "date": "25(Trinta e três mil cento e vinte e dois reais e vinte e cinco centavos) pagos em conformidade com o contrato original DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.144.20974",
+        "signatories": {
+            "contracting_party": "GUSTAVO TOMAZ SERPA, situado à AV Deputado Paulino",
+            "contracted_party": "Gustavo Tomaz Serpa"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

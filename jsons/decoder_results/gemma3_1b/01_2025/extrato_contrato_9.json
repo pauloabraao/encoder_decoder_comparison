@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Escola de Ensino Médio Francisco Nonato Freire",
+    "cpf_cnpj": "07.954.514/0238-42"
+  },
+  "contracted_party": {
+    "name": "JESUS ALBINO VIEIRA CRISPA JUNIOR - ME",
+    "cpf_cnpj": "20.189.604/0001-35"
+  },
+  "validity": null,
+  "global_value": null,
+  "signature": {
+    "date": "2025-12-30",
+    "signatories": {
+      "contracting_party": "JESUS ALBINO VIEIRA CRISPA JUNIOR - ME",
+      "contracted_party": "ELIVANIA MACHADO DE SOUSA CONTRATANTE"
+    }
+  },
+  "legal_unit": {
+    "name": null,
+    "role": null
+  }
+}

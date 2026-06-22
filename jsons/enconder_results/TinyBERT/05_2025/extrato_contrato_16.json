@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.047767/2025-91",
+        "ig": "1374428"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO MARIA NAZARÉ DE SOUSA",
+        "cpf_cnpj": "07.954.514/0032-21, doravante denominada(o) CONTRATANTE, neste ato representada pela Maria do Livramento CONTRATADA: HERICA PIRES LIMA, com sede na Rua Presmilau Camerino 500 B, Coqueiro. CEP: 62503.038 Itapipoca - Ce, inscrita no CNPJ sob o nº 44"
+    },
+    "contracted_party": {
+        "name": "HERICA",
+        "cpf_cnpj": "21, doravante denominada(o) CONTRATANTE, neste ato representada pela Maria do Livramento CONTRATADA: HERICA PIRES LIMA, com sede na Rua Presmilau Camerino 500 B, Coqueiro. CEP: 62503.038 Itapipoca - Ce, inscrita no CNPJ sob o nº 44.714.654"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 10.801",
+    "signature": {
+        "date": "22/04/2024",
+        "signatories": {
+            "contracting_party": "Maria do Livramento CONTRATADA: HERICA PIRES LIMA",
+            "contracted_party": "HERICA PIRES LIMA"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

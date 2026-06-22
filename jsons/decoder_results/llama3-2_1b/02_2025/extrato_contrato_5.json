@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "651/2024/NUP 22001.146305/2024-75",
+    "ig": "1361077000"
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "EMPRESA SPALLA EVENTOS E SERVIÇOS",
+    "cpf_cnpj": "30.546059/0001–40"
+  },
+  "validity": "",
+  "global_value": "782701,20",
+  "signature": {
+    "date": "08 de janeiro de 2025",
+    "signatories": {
+      "contracting_party": "Eliana Nunes Estrela",
+      "contracted_party": "Mariana Souza Joca Lima"
+    }
+  },
+  "legal_unit": {
+    "name": "Fortaleza - CE",
+    "role": ""
+  }
+}

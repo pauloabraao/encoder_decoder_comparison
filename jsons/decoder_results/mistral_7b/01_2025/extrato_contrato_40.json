@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.143583/2024-71/PRÉ-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/ESCOLA DE ENSINO MÉDIO TANCREDO NUNES DE MENEZES",
+    "cpf_cnpj": "07.954.514/0352-63"
+  },
+  "contracted_party": {
+    "name": "BRANDAO CONSTRUCOES E SERVIÇOS LTDA",
+    "cpf_cnpj": "10.470.695/0001-29"
+  },
+  "validity": "240 ( duzentos e quarenta dias)",
+  "global_value": "R$ 89.000,00",
+  "signature": {
+    "date": "26 de dezembro de 2024",
+    "signatories": {
+      "contracting_party": "Jean Carlos Rodrigues da Silva",
+      "contracted_party": "Alexandre Cardoso Brandão"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

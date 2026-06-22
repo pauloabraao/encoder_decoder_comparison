@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.129066/2024-99/IG",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0719-01"
+  },
+  "contracted_party": {
+    "name": "G F GUIMARAES",
+    "cpf_cnpj": "44.864.693/0001-36"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 12.400,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": "G F GUIMARAES"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "Coordenadora/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.049094/2025-12",
+    "ig": "1367534"
+  },
+  "contracting_party": {
+    "name": "COLÉGIO ESTADUAL LICEU DE CAUCAIA",
+    "cpf_cnpj": "07.954.514/0134-56"
+  },
+  "contracted_party": {
+    "name": "RODRIGO MAGALHÃES ALVES",
+    "cpf_cnpj": "36.244.654/0001-08"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 2.712,40",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "JOSÉ OSSIAN RICARTE",
+      "contracted_party": "RODRIGO MAGALHÃES ALVES"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

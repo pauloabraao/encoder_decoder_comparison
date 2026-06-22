@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.032774/2025-99/PRÉ-RESERVA:1363969"
+  },
+  "contracting_party": {
+    "name": "",
+    "cpf_cnpj": ""
+  },
+  "contracted_party": {
+    "name": "",
+    "cpf_cnpj": ""
+  },
+  "validity": "",
+  "global_value": "",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": null,
+      "contracted_party": null
+    }
+  },
+  "legal_unit": {
+    "name": "",
+    "role": ""
+  }
+}

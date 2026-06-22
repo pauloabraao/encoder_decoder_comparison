@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001022575/202572",
+    "ig": "1370125"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA EDUCAÇÃO/EEM DEPUTADO FAUSTO AGUIAR ARRUDA",
+    "cpf_cnpj": "07.954.514/0259-77"
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA DE PRODUTORES RURAIS AGROECOLÓGICO DE PACATUBA - COOPRAP",
+    "cpf_cnpj": "35.854.648/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 64.415,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Juliana Nascimento Oliveira",
+      "contracted_party": "Silvelena Maria do Nascimento Gomes"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001132908/2024",
+        "ig": "1368536"
+    },
+    "contracting_party": {
+        "name": "A EEEP EUSÉBIO DE QUEIROZ,",
+        "cpf_cnpj": "07.954.514/0555-31,"
+    },
+    "contracted_party": {
+        "name": "T.F CONSTRUCOES LTDA,",
+        "cpf_cnpj": "54.095.907/0001-00,"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 51.280,00",
+    "signature": {
+        "date": "21/05/2025",
+        "signatories": {
+            "contracting_party": "ARIANNY NASCIMENTO DE SOUSA",
+            "contracted_party": "Rodrigo Ferreira Torres."
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

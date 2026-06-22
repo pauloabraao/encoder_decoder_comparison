@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.129776/2024-19",
+        "ig": "1351577"
+    },
+    "contracting_party": {
+        "name": "EEM ETELVINA GOMES BEZERRA",
+        "cpf_cnpj": "07.954.514/0165-52, doravante denominada(o) CONTRATANTE, neste ato representada(o) pelo José Roberto Lima de Sousa CONTRATADA: FERNANDO FERREIRA DE LIMA, com sede na Rua José Pires Chaves, 909"
+    },
+    "contracted_party": {
+        "name": "Roberto Lima de Sousa CONTRATADA: FERNANDO FERREIRA DE LIMA, com sede na Rua",
+        "cpf_cnpj": "0165-52, doravante denominada(o) CONTRATANTE, neste ato representada(o) pelo José Roberto Lima de Sousa CONTRATADA: FERNANDO FERREIRA DE LIMA, com sede na Rua José Pires Chaves, 909"
+    },
+    "validity": "180 (cento e oitenta) dias",
+    "global_value": "R$ 23.264,90",
+    "signature": {
+        "date": "27/11/2024",
+        "signatories": {
+            "contracting_party": "Roberto Lima",
+            "contracted_party": "FERNANDO FERREIRA DE LIMA"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

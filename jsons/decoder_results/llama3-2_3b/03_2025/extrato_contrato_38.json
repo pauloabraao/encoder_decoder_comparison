@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "030/2025",
+    "ig": "1367073000"
+  },
+  "contracting_party": {
+    "name": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS",
+    "cpf_cnpj": "33.866.288/0001-30"
+  },
+  "contracted_party": {
+    "name": "KG CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "10.922.543/0001-10"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 2.258.441,26",
+  "signature": {
+    "date": "21/06/2024",
+    "signatories": {
+      "contracting_party": "JOSÉ VALDECI REBOUÇAS",
+      "contracted_party": "MARIA CANILDES VIEIRA SALES"
+    }
+  },
+  "legal_unit": {
+    "name": "Gadyel Gonçalves de Aguiar Paula",
+    "role": "SUPERINTENDENTE ADJUNTO DE EDIFICAÇÕES"
+  }
+}

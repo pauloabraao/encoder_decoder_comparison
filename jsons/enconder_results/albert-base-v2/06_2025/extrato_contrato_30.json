@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.070036/2025-40/IG:",
+        "ig": "1380622"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO JOAQUIM MAGALHÃES,",
+        "cpf_cnpj": "07.954.514/0038-17,"
+    },
+    "contracted_party": {
+        "name": "GRAFICA INOVA LTDA,",
+        "cpf_cnpj": "57.807.242/0001-09,"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias,",
+    "global_value": "R$ 9.904,98",
+    "signature": {
+        "date": "23/05/2025",
+        "signatories": {
+            "contracting_party": "Elis Regina Eufrásio Barbosa Marques",
+            "contracted_party": "Layssa de Paula Silva."
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

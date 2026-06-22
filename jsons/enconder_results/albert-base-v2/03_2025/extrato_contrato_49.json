@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001016694202596/PRE-RESERVA",
+    "ig": "1366303"
+  },
+  "contracting_party": {
+    "name": "EEMTI ANTÔNIO LUIZ COELHO",
+    "cpf_cnpj": "07.954.514/0254 - 62,"
+  },
+  "contracted_party": {
+    "name": "CAPISTRANO DEDETIZADORA LTDA,",
+    "cpf_cnpj": "51.158.968/0001-81"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 1.560,00",
+  "signature": {
+    "date": "11/03/2025",
+    "signatories": {
+      "contracting_party": "José Adailton Rocha Pontes",
+      "contracted_party": "José Erilson Capistrano."
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

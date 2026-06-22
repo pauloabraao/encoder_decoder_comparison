@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": "1372499000"
+  },
+  "contracting_party": {
+    "name": "FUNECE CONTRATADA",
+    "cpf_cnpj": "BRAVAR COMÉRCIO E SERVIÇOS LTDA."
+  },
+  "contracted_party": {
+    "name": "BRAVAR COM ÉRSC",
+    "cpf_cnpj": null
+  },
+  "validity": "28/04/2025",
+  "global_value": "R$ 475.740,00",
+  "signature": {
+    "date": "28/04/2025",
+    "signatories": {
+      "contracting_party": "Hidelbrando dos Santos Soares",
+      "contracted_party": "Fernanda Borges Roriz"
+    }
+  },
+  "legal_unit": {
+    "name": null,
+    "role": null
+  }
+}

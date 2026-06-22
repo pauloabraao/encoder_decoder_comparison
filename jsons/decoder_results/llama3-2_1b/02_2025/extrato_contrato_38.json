@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "045/2025/NUP",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "TJL COMERCIO E SERVICOS LTDA",
+    "cpf_cnpj": "55.101.626/0001-86"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 36.897,80",
+  "signature": {
+    "date": "18 de Fevereiro de 2025",
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "JACQUELINE MOURA BARBOSA"
+    }
+  },
+  "legal_unit": {
+    "name": "O Estado do Ceará",
+    "role": "Contratante"
+  }
+}

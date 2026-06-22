@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.086971/2025-28",
+    "ig": "1382847"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ, por intermédio da COORDENADORIA REGIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO – CREDE 2",
+    "cpf_cnpj": "07.954.514/0031-40"
+  },
+  "contracted_party": {
+    "name": "K M OLIVEIRA DA SILVA",
+    "cpf_cnpj": "34.655.687/0001-15"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 90.837,00",
+  "signature": {
+    "date": "04/06/2025",
+    "signatories": {
+      "contracting_party": "ESIO LEITE LOUSADA",
+      "contracted_party": "Kayllon Manoel Oliveira da Silva"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

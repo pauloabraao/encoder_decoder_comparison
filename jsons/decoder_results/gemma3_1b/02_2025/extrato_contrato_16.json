@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": "'A ESCOLA INDGENa VILA DOS CACOS'",
+    "cpf_cnpj": "07.954.514/0142-66"
+  },
+  "contracted_party": {
+    "name": "'INTERLOS EMPREENDimentos LTDA'",
+    "cpf_ cnpj": "46.154.250/0001/87"
+  },
+  "validity": "365 (Trezentos e Sessenta e Cinco) dias",
+  "global_value": "R$ 51.280,00",
+  "signature": {
+    "date": "'07 de abril de 2025'",
+    "signatories": {
+      "contracting_party": "'ARIANNY NASCIMENTO DE SOUSA'",
+      "contracted_party": "'ROBERIO MATEUS DE ARAUJO - ME'"
+    }
+  },
+  "legal_unit": {
+    "name": "'Marcos Felipe Vicente",
+    "role": "'COORDENADOR/ASJUR"
+  }
+}

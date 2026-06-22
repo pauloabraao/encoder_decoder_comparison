@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.050584/2025-53",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A(O) EEM Abraão Baquit",
+    "cpf_cnpj": "07.954.514/0284-88"
+  },
+  "contracted_party": {
+    "name": "FGM COMÉRCIO E SERVIÇOS LTDA",
+    "cpf_cnpj": "18.552.033/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 17.034,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A(O) EEM Abraão Baquit",
+      "contracted_party": "FGM COMÉRCIO E SERVIÇOS LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Francisco José Fernandes Viana",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

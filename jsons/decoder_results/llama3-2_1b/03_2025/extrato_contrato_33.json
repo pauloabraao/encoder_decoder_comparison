@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "014/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SUPERINTENDÊNCIA DO SISTEMA ESTADUAL DE ATENDIMENTO SOCIOEDUCATIVO – SEAS",
+    "cpf_cnpj": "25.150.364/0001-89"
+  },
+  "contracted_party": {
+    "name": "BEL MICRO TECNOLOGIA S/A",
+    "cpf_cnpj": "71.052.559/0001-03"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 89.184,90",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "BEL MICRO TECNOLOGIA S/A",
+      "contracted_party": "SUPERINTENDÊNCIA DO SISTEMA ESTADUAL DE ATENDIMENTO SOCIOEDUCATIVO – SEAS"
+    }
+  },
+  "legal_unit": {
+    "name": "BEL MICRO TECNOLOGIA S/A",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

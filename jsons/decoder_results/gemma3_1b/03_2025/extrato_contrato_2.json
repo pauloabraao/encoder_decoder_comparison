@@ -1,0 +1,25 @@
+{
+  "document_type": "EXTRATO DE CONTRATAÇÃO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "FUNDAÇÓNA UNIVERSIDADE REGIONAL DO CARIRI – URCA",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "RILLA RENIEE LIMA BARROS",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": null,
+  "global_value": null,
+  "signature": {
+    "date": null,
+    "signatories": {}
+  },
+  "legal_unit": {
+    "name": "URCA",
+    "role": "Fundação Universidade Regional do Cariri"
+  }
+}

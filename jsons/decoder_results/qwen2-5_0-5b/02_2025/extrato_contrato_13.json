@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.127790/2024-88",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A EEM ALFREDO MACHADO",
+    "cpf_cnpj": "07.954.514/0314-38"
+  },
+  "contracted_party": {
+    "name": "LF ENGENHARIA E SOLUÇÕES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 10.501,65",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A EEM ALFREDO MACHADO",
+      "contracted_party": "LF ENGENHARIA E SOLUÇÕES LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

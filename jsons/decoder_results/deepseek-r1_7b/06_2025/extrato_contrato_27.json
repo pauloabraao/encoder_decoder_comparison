@@ -1,0 +1,28 @@
+{
+  "document_type": "CONTRATO",
+  "document_id": {
+    "number": "22001076410/2025",
+    "ig": "1380360"
+  },
+  "contracting_party": {
+    "name": "Governo do Estado do Ceará, através da Secretaria da Educação do Estado Ceará / EEMTI DE CASCAVEL",
+    "cpf_cnpj": "07.954.514/0845-58"
+  },
+  "contracted_party": {
+    "name": "REAL LOCAÇÕES E SERVIÇOS LTDA",
+    "cpf_cnpj": "12.874.349/0001-31"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 8.038,50",
+  "signature": {
+    "date": "26/05/2025",
+    "signatories": {
+      "contracting_party": "Fábio Júnior Lima Demétrio",
+      "contracted_party": "AdeMAR MARINHO DE ANDRADE JÚNIOR"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

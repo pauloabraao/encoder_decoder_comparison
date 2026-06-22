@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "27/2025",
+        "ig": "27/2025"
+    },
+    "contracting_party": {
+        "name": "FUNECE",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": null
+    },
+    "validity": "28/04/2025",
+    "global_value": "R$ 475.740,00",
+    "signature": {
+        "date": "28/04/2025",
+        "signatories": {
+            "contracting_party": "Prof. M.e. Hidelbrando dos Santos Soares-Presidente",
+            "contracted_party": "Hidelbrando dos Santos Soares-Presidente"
+        }
+    },
+    "legal_unit": {
+        "name": "Roberta Nunes ASSESSORIA JURÍDICA",
+        "role": "Roberta Nunes ASSESSORIA JURÍDICA"
+    }
+}

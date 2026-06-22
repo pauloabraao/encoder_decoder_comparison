@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "004/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA ADMINISTRAÇÃO PENITENCIÁRIA E RESSOCIALIZAÇÃO – SAP",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "LFS COMÉRCIO E IMPORTAÇÃO DE ALIMENTOS LTDA",
+    "cpf_cnpj": null
+  },
+  "validity": "12 (doze) meses, prorrogável por até 10 (dez) anos",
+  "global_value": "R$ 1.080.780,00",
+  "signature": {
+    "date": "06/02/2025",
+    "signatories": {
+      "contracting_party": "Luis Mauro Albuquerque Araújo",
+      "contracted_party": "Cristiano Freitas Ribeiro"
+    }
+  },
+  "legal_unit": {
+    "name": "Núbia Borges de Freitas",
+    "role": "Gestora do Contrato"
+  }
+}

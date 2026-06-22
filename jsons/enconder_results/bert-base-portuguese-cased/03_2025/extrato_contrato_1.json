@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "01/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "Fundação Universidade Regional do Cariri - URCA",
+        "cpf_cnpj": "Fundação Universidade Regional do Cariri - URCA"
+    },
+    "contracted_party": {
+        "name": "Empresa FENIX COMÉRCIO DE MÁQUINAS E GRANITO LTDA.",
+        "cpf_cnpj": null
+    },
+    "validity": "1 (um) ano",
+    "global_value": "R$ 406.125,00",
+    "signature": {
+        "date": "10/02/2025",
+        "signatories": {
+            "contracting_party": "Carlos Kleber Nascimento de Oliveira",
+            "contracted_party": "François Paul Charron"
+        }
+    },
+    "legal_unit": {
+        "name": "Carlos Kleber Nascimento de Oliveira",
+        "role": "PRESIDENTE"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "CONTRATANTE: ESTADO DO CEARÁ... - 01- Italo Norberto Marinho, 02- Maria Roniely Pinheiro.",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA EDU TI EEMTI Gerardo Majella",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "VIGÊNCIA: O prazo de vigência...",
+  "global_value": "R$ 48.000,00",
+  "signature": {
+    "date": "10 de março de 2025",
+    "signatories": {
+      "contracting_party": " Francisco José Moura Cavalcante",
+      "contracted_party": " Paulo César Barroso Vieira"
+    }
+  },
+  "legal_unit": {
+    "name": "Sabrine Gondim Lima COORDENADORA DA ASSESSORIA JURÍDICA",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

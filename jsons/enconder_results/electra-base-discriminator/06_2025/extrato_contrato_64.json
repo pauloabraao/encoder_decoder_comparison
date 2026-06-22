@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001090666/2025",
+        "ig": "1381140"
+    },
+    "contracting_party": {
+        "name": "EEM ETELVINA GOMES BEZERRA",
+        "cpf_cnpj": "07.954.514/0165-52"
+    },
+    "contracted_party": {
+        "name": "CSV COMERCIO E SERVICOS LTDA",
+        "cpf_cnpj": "53.029.926/0001-76"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 1.600,00",
+    "signature": {
+        "date": "04/06/2025",
+        "signatories": {
+            "contracting_party": "José Roberto Lima de Sousa",
+            "contracted_party": "José Ribamar Marques Farias"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

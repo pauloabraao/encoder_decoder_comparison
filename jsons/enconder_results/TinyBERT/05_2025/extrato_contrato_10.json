@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.131087/2024-74",
+        "ig": "1372013"
+    },
+    "contracting_party": {
+        "name": "EEM RAUL BARBOSA",
+        "cpf_cnpj": "07.954.514/0645-22"
+    },
+    "contracted_party": {
+        "name": "Claudenia Moura de Oliveira. CONTRA- TADA",
+        "cpf_cnpj": "12"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$89.376,04",
+    "signature": {
+        "date": "29",
+        "signatories": {
+            "contracting_party": "Claudenia Moura de Oliveira",
+            "contracted_party": "Nilson Bento da Silva"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

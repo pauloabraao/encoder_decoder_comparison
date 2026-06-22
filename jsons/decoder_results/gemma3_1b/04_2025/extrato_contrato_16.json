@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO, situada(o) no Centro Administrativo Governador Virgílio Távora, na Av. Gal. Afonso Albuquerque Lima, s/n, Cambeba, Fortaleza/CE, CEP: 60.822-325",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "CONCEITO COMÉRCIO & SERVIÇOS LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 266.700,00",
+  "signature": {
+    "date": "07 de abril de 2025",
+    "signatories": {
+      "contracting_party": "Eliana Nunes Estrela -Secretário(a) da Educação",
+      "contracted_party": "Marcos Paulo de Arruda Valente - Conceito Comércio & Serviços Ltda"
+    }
+  },
+  "legal_unit": {
+    "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+    "role": "Secretário(a) da Educação"
+  }
+}

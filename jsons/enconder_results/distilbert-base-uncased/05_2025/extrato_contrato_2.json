@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.042907/2025-35",
+    "ig": "137261500"
+  },
+  "contracting_party": {
+    "name": "EEM MONSENHOR ANTÔNIO FEITOSA",
+    "cpf_cnpj": "07.954.514/0606-16"
+  },
+  "contracted_party": {
+    "name": "COPERGA COMERCIAL DE GAS PEREIRA DE MORAIS LTDA",
+    "cpf_cnpj": "63.560.007/0001-88"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 9.152,00",
+  "signature": {
+    "date": "28/04/2025",
+    "signatories": {
+      "contracting_party": "ERIKA DE ARAÚJO DANTAS MACEDO",
+      "contracted_party": "José Roberto Pereira de Morais"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

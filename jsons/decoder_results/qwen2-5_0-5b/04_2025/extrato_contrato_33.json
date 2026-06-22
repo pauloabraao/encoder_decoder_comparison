@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.010706/2025-79",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0341-00"
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA DOS AGRICULTORES FAMILIARES DO VALE DO FORQUILHA – COOPVALE",
+    "cpf_cnpj": "22.717.179/0001-35"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 5.671,66",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": "COOPERATIVA DOS AGRICULTORES FAMILIARES DO VALE DO FORQUILHA – COOPVALE"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001036999/202514",
+    "ig": "1369920"
+  },
+  "contracting_party": {
+    "name": "EEMTI Maria Stela Rocha Aguiar",
+    "cpf_cnpj": "07.954.514/0762-96"
+  },
+  "contracted_party": {
+    "name": "A.A.A. VIANA",
+    "cpf_cnpj": "53.866.339/0001-31"
+  },
+  "validity": "360 (trezentos e sessenta) dias",
+  "global_value": "R$ 4.460,00",
+  "signature": {
+    "date": "26/03/2025",
+    "signatories": {
+      "contracting_party": "Hipólito Elias Guilhermino",
+      "contracted_party": "Ariel Angelo Alves Viana"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

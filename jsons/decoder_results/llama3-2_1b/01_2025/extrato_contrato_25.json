@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.120833/2024-02/PRÉ-RESERVA: 1349971",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A Escola de Ensino Médio Raimundo Nogueira, situada na Rua Raimundo Nogueira Lopes, nº 103, Bairro Centro, Município de Horizonte/CE, CEP 62.880-132",
+    "cpf_cnpj": "07.954.514/0400-03"
+  },
+  "contracted_party": {
+    "name": "DIMAIAS COMERCIAL LTDA, com sede na Rua Joaquim Magalhães, 272 – Benfica - Fortaleza-CE, CEP: 30.040-160",
+    "cpf_cnpj": "00.289.070/0001-01"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 54.316,84",
+  "signature": {
+    "date": "30 de dezembro de 2024",
+    "signatories": {
+      "contracting_party": "Edvando Teixeira Souza",
+      "contracted_party": "Augusto César Carvalho Maia"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

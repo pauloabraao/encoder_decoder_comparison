@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "05/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "FUNDAÇÃO UNIVERSIDADE REGIONAL DO CARIRI – URCA",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "MBM SEGURADORA S.A.",
+        "cpf_cnpj": null
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 12.000,00",
+    "signature": {
+        "date": "12/03/2025",
+        "signatories": {
+            "contracting_party": "Carlos Kleber Nascimento de oliveira",
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

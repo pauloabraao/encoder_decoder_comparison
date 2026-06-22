@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1347428",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "CCI – CENTRO CEARENSE DE IDIOMAS",
+        "cpf_cnpj": "07954514085287"
+    },
+    "contracted_party": {
+        "name": "CCI – CENTRO CEARENSE DE IDIOMAS",
+        "cpf_cnpj": "53.256.763"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 769,93 (setecentos e sessenta e nove reais e noventa e três centavos",
+    "signature": {
+        "date": "30/10/2024",
+        "signatories": {
+            "contracting_party": "EDSON NASCIMENTO DE SOUZA",
+            "contracted_party": "EDSON NASCIMENTO DE SOUZA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.029476/2025-11/PRÉ-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954/514/0636-31"
+  },
+  "contracted_party": {
+    "name": "U.S DA CRUZ NETO",
+    "cpf_cnpj": "37.847.947/0001-42"
+  },
+  "validity": "360 (Trezentos e sessenta) dias",
+  "global_value": "3.101,63 (Três mil cento um reais e sessenta e três centavos)",
+  "signature": {
+    "date": "12 de fevereiro de 2025",
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": "U.S DA CRUZ NETO"
+    }
+  },
+  "legal_unit": {
+    "name": "O Estado do Ceará",
+    "role": "Contratante"
+  }
+}

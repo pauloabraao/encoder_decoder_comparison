@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.143583/2024-71/PRÉ-RESERVA: 1359272000",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, através da Secretaria da Educação/EEMTI Gerardo Majella",
+    "cpf_cnpj": "07.954.514/0352-63"
+  },
+  "contracted_party": {
+    "name": "Brandao Construcções E Serviços LTDA",
+    "cpf_cnpj": "10.470.695/0001-29"
+  },
+  "validity": "240 (duzentos e quarenta dias)",
+  "global_value": "89.000,00 (oitenta e nove mil reais)",
+  "signature": {
+    "date": "26 de dezembro de 2024",
+    "signatories": {
+      "contracting_party": "Jean Carlos Rodrigues da Silva",
+      "contracted_party": "Alexandre Cardoso Brandão"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "24/2025",
+        "ig": "1303833000"
+    },
+    "contracting_party": {
+        "name": "CONTRATANTE:FUNECECONTRATADA:PH",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": null
+    },
+    "validity": "VIGÊNCIA:25/04/2025 A 25/04/2026.VALOR",
+    "global_value": null,
+    "signature": {
+        "date": "ASSINATURA:25/04/ 2025SIGNATÁRIOS:HIDELBRANDO",
+        "signatories": {
+            "contracting_party": "2025SIGNATÁRIOS:HIDELBRANDO DOS SANTOS SOARES",
+            "contracted_party": "2025SIGNATÁRIOS:HIDELBRANDO DOS SANTOS SOARES - PRESIDENTE FUNECE e FRANCISCA AISLAN PEREIRA DE SOUSA"
+        }
+    },
+    "legal_unit": {
+        "name": "Roberta Nunes PROCURADORIA JURÍDICA",
+        "role": "EIRELI -ME. Roberta Nunes PROCURADORIA JURÍDICA"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "Nº019/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP",
+        "cpf_cnpj": "33.866.288/0001-30"
+    },
+    "contracted_party": {
+        "name": "DATERRA CONSTRUÇÕ ES E SERVIÇOS LTDA",
+        "cpf_cnpj": "10.477.919/0001-24"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 107.982,56",
+    "signature": {
+        "date": "21/02/2025",
+        "signatories": {
+            "contracting_party": "JOSÉ VALDECI REBOUÇAS",
+            "contracted_party": "JAIME DEAN SOUSA ALEXANDRE"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

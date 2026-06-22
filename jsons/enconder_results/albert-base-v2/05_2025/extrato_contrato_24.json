@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.007260/2025-03/IG-1373655",
+    "ig": "22001.007260/2025-03/IG-1373655"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ESCOLA EEFM PROFESSOR ALOYSIO BARROS LEAL,",
+    "cpf_cnpj": "07.954.514/0540-55,"
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA AGROINDUSTRIAL DO ESTADO DO CEARA - COOPAECE",
+    "cpf_cnpj": "22.016.516/0001-67,"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias,",
+  "global_value": "R$ 139.667,09",
+  "signature": {
+    "date": "24/04/2025",
+    "signatories": {
+      "contracting_party": "TÂNIA MARIA DE SOUSA BARBOSA FARIAS",
+      "contracted_party": "Renata de Abreu Bastos."
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "COMPANHIA CEARENSE DE TRANSPORTES METROPOLITANS - METROFOR",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "SEGURO SEGURANÇA LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": null,
+  "signature": {
+    "date": "01 de março de 2025",
+    "signatories": {
+      "contracting_party": "Plinio Pompeu De Saboya Magalhães Neto e José Tupinambá Cavalcante de Almeida pelo METROFOR",
+      "contracted_party": "Thales Fonteles Varela pela Empresa SEGURO SEGURANÇA LTDA."
+    }
+  },
+  "legal_unit": {
+    "name": null,
+    "role": ""
+  }
+}

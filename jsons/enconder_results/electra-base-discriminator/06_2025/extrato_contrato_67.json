@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.086979/2025-94",
+    "ig": "1383229"
+  },
+  "contracting_party": {
+    "name": "CENTRO DE EDUCAÇÃO DE JOVENS E ADULTOS – CEJA PROFESSORA CICERA GERMANO CORREIA",
+    "cpf_cnpj": "07.954.514.0602/92"
+  },
+  "contracted_party": {
+    "name": "FENE COMERCIO E SERVICOS LTDA",
+    "cpf_cnpj": "23.030.654/0001-63"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$4.494,00",
+  "signature": {
+    "date": "06/06/2025",
+    "signatories": {
+      "contracting_party": "Roberta Ferreira Menezes",
+      "contracted_party": "Francisco Elder Nunes Estrela"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

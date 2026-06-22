@@ -1,0 +1,35 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "018/2025",
+    "ig": "1364092000"
+  },
+  "contracting_party": {
+    "name": "SUPERINTENDÊNCIA DE OBRAS PUBLICAS - SOP",
+    "cpf_cnpj": "33.866.288/0001-30"
+  },
+  "contracted_party": {
+    "name": "KG CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "10.922.543/0001-10"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 179.301,56",
+  "signature": {
+    "date": "21/02/2025",
+    "signatories": {
+      "contracting_party": "JOSÉ VALDECI REBOUÇAS",
+      "contracted_party": "MARIA CANILDES VIEIRA SALES"
+    }
+  },
+  "object": "Prestação dos serviços comuns de Engenharia para Manutenção Preventiva e Corretiva das instalações Físicas Prediais e Equipamentos Públicos",
+  "fundamento_legal": "Pregão Eletrônico n° 20240001 - SOP, e seus anexos, os preceitos do direito público, Lei Federal nº 14.133, de 1º de abril de 2021, e demais legislação aplicável ao cumprimento de seu objeto.",
+  "foro": "Fortaleza-CE",
+  "dotação_orçamentária": {
+    "elemento_de_despesa": "449039 - Outros serviços de terceiros / Pessoa Jurídica",
+    "região": "03 – Grande Fortaleza",
+    "fonte": "500 – Recursos Ordinários do Tesouro Estadual"
+  },
+  "valor_global_dotado": "R$ 179.301,56",
+  "dotação_orçamentária_subsequentes": null,
+  "data_da_assinatura": "21/02/2025"
+}

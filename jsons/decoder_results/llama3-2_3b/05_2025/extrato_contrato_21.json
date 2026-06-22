@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.049274/2025-96/IG-1368144",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "ESCOLA DE ENSINO FUNDAMENTAL E MÉDIO PROFESSOR PAULO AYRTON ARAÚJO",
+    "cpf_cnpj": "07.954.514/0541-36"
+  },
+  "contracted_party": {
+    "name": "PH&B COMERCIO & SERVICOS LTDA.",
+    "cpf_cnpj": "11.914.096/0001-10"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 6.037,50",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "WELLINGTON SAMPAIO VIEIRA JUNIOR",
+      "contracted_party": "FRANCISCA AISLAN PEREIRA DE SOUSA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

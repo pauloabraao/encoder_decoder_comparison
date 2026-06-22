@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.062137/2025-47",
+    "ig": "1381502"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO/ ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL PADRE LUIS FILGUEIRAS",
+    "cpf_cnpj": "07.954.514/0630-46"
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA AGROINDUSTRIAL SUL CEARENSE-COOPERSUL",
+    "cpf_cnpj": "37.954.887/0001-67"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 16.850,00",
+  "signature": {
+    "date": "09/06/2025",
+    "signatories": {
+      "contracting_party": "Maria Aparecida Alves de Matos",
+      "contracted_party": "Rodrigo Leite de Sousa"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.128382/2024-43",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A ESCOLA ESTADUAL DE ENSINO PROFISSIONAL LÚCIA BALTAZAR COSTA",
+    "cpf_cnpj": "07.954.514/0825-04"
+  },
+  "contracted_party": {
+    "name": "OTN PRODUCOES LOCACOES E SERVICOS LTDA",
+    "cpf_cnpj": "46.277.864/0001-56"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 8.710,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A ESCOLA ESTADUAL DE ENSINO PROFISSIONAL LÚCIA BALTAZAR COSTA",
+      "contracted_party": "OTN PRODUCOES LOCACOES E SERVICOS LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Otacilio Pereira da Silva Neto",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

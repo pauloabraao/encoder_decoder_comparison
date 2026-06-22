@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.128382/2024-43",
+    "ig": "1312891000"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA EDUCAÇÃO",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "ROBERIO MATEUS DE ARAUJO - ME",
+    "cpf_cnpj": "22.267.632/0001-59"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 11.029.920,97",
+  "signature": {
+    "date": "27 de Março de 2025",
+    "signatories": {
+      "contracting_party": "SECRETARIA DA EDUCAÇÃO",
+      "contracted_party": "ROBERIO MATEUS DE ARAUJO"
+    }
+  },
+  "legal_unit": {
+    "name": "MARCOS FLESCO VICTÍVIGO",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

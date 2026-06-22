@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.124018/2024-12",
+    "ig": "1348636"
+  },
+  "contracting_party": {
+    "name": "A escola EEEP ADRIANO NOBRE",
+    "cpf_cnpj": "07.954.514/0030-60"
+  },
+  "contracted_party": {
+    "name": "FRANCISCO CLEITON MELOS DE OLIVEIRA",
+    "cpf_cnpj": "49.563.071/0001-91"
+  },
+  "validity": null,
+  "global_value": "R$ 3.120,00",
+  "signature": {
+    "date": "30/10/2024",
+    "signatories": {
+      "contracting_party": "SRA. Diretora SILVANDIRA MESQUITA SOUSA",
+      "contracted_party": "FRANCISCO CLEITON MELOS DE OLIVEIRA"
+    }
+  },
+  "legal_unit": {
+    "name": "FORO",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

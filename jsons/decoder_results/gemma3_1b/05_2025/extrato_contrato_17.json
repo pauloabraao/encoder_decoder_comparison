@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, através da Secretaria da Educação/EEMTI Gerardo Majella",
+    "cpf_cnpj": "07.954.514/0027-64"
+  },
+  "contracted_party": {
+    "name": "WORLD SOLUCOES TECNOLOGICAS E SERVICOS EIRELI",
+    "cpf_ cnpj": "24.843.634/0001-74"
+  },
+  "validity": "365 (trezentos e sessenta cinco) dias",
+  "global_value": "R$ 900,00",
+  "signature": {
+    "date": "22 de Abril de 2025",
+    "signatories": {
+      "contracting_party": "ARIANNY NASCIMENTO DE SOUSA CONTRATADA",
+      "contracted_party": "Rodrigo Ferreira Torres"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

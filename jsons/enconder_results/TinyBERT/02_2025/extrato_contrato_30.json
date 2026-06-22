@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.100253/2024-91",
+        "ig": "1361063"
+    },
+    "contracting_party": {
+        "name": "A EEMTI MARIA THOMÁSIA / SEFOR3, situada na Rua Polônia, 369 – Maraponga – Fortaleza/CE",
+        "cpf_cnpj": "07.954.514/0490-51"
+    },
+    "contracted_party": {
+        "name": "Francisca Moreira dos Santos de Queiroz CONTRATADA",
+        "cpf_cnpj": "44.922.978/0001-86"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 89.739",
+    "signature": {
+        "date": "05/02/2025",
+        "signatories": {
+            "contracting_party": "Francisca Moreira dos Santos de Queiroz CONTRATADA: CONSTRUTORA E IMOBILIARIA RODRIGUES LTDA, com sede na Av. Deputado Paulino",
+            "contracted_party": "FRANCISCO RODRIGUES TORRES"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

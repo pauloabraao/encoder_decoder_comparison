@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "023/2025",
+    "ig": "1363604"
+  },
+  "contracting_party": {
+    "name": null,
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": null,
+    "cpf_cnpj": null
+  },
+  "validity": "12 meses",
+  "global_value": "R$ 104.578,80",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": null,
+      "contracted_party": null
+    }
+  },
+  "legal_unit": {
+    "name": null
+  }
+}

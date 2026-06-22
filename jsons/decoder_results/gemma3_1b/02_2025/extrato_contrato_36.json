@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATOS",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Superintendência de Obras Públicas - SOP",
+    "cpf_cnpj": "33.866.288/0001-30"
+  },
+  "contracted_party": {
+    "name": "KG CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "10.922.543/0001-10"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Superintendente de Obras Públicas - SOP",
+      "contracted_party": "KG CONSTRUÇÕES LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Superintendência de Obras Públicas - SOP",
+    "role": "Superintendente Adjuunto de Edificações"
+  }
+}

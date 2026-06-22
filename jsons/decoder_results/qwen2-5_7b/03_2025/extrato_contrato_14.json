@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.038305/2025-83",
+    "ig": "1365283"
+  },
+  "contracting_party": {
+    "name": "EEMTI CONEGO LUIZ BRAGA ROCHA",
+    "cpf_cnpj": "07.954.514.0268/68"
+  },
+  "contracted_party": {
+    "name": "U.S DA CRUZ NETO",
+    "cpf_cnpj": "37.847.947/0001-42"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 1.163,25",
+  "signature": {
+    "date": "25/02/2025",
+    "signatories": {
+      "contracting_party": "Maria do Céo de Freitas Alves",
+      "contracted_party": "Ubiratan Sobreira da Cruz Neto"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

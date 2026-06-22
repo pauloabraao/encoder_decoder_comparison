@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "023/2025",
+    "ig": "1363604"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO-SDA",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "ROBERIO MATEUS DE ARAUJO - ME",
+    "cpf_cnpj": "22.267.632/0001-59"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 104.578,80",
+  "signature": {
+    "date": "07/04/2025",
+    "signatories": {
+      "contracting_party": "MOISÉS BRAZ RICARDO Secretário do Desenvolvimento Agrário (CONTRATANTE) e ROBERIO MATEUS DE ARAUJO - ME"
+    }
+  },
+  "legal_unit": {
+    "name": "Anna Karinne Nery Veras",
+    "role": "Coordenadora da Assessoria Jurídica"
+  }
+}

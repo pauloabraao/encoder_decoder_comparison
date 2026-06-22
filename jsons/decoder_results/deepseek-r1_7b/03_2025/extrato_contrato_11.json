@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "NUP 22001.004799/2024-11",
+    "ig": "1357585"
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "Empresa Dinares Constructions LTDA",
+    "cpf_cnpj": "23.299.416/0001-58"
+  },
+  "validity": "24 meses",
+  "global_value": "R$ 10.197.203,21",
+  "signature": {
+    "date": "05/02/2025",
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "MARIA DO SOCORRO RODRIGUES SOARES"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente"
+  }
+}

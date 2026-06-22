@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.125628/2024-25",
+        "ig": "1349911"
+    },
+    "contracting_party": {
+        "name": "EEEP JAIME DA CUNHA REBOUÇAS",
+        "cpf_cnpj": "07.954.514/0828-57"
+    },
+    "contracted_party": {
+        "name": "DUNA ENGENHARIA",
+        "cpf_cnpj": "22 DE JANEIRO, Nº S/N, Morro Alto, Icapuí/Ce, CEP: 62.810"
+    },
+    "validity": "360 (trezentos e sessenta) dias",
+    "global_value": "R$ 23.455",
+    "signature": {
+        "date": "30/10/2024",
+        "signatories": {
+            "contracting_party": "Francisco Edmilson Fernandes da Silva",
+            "contracted_party": "João Lucas Maia de Oliveira Geraldo"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

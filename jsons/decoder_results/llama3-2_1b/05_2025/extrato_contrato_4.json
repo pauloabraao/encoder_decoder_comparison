@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "26/2025",
+    "ig": "1303833000"
+  },
+  "contracting_party": {
+    "name": "FUNECECONTRATADA:N & F DISTRIBUIDORA LTDA.",
+    "cpf_cnpj": "00.000.000/0001-01"
+  },
+  "contracted_party": {
+    "name": "WAGNER FAHD CARLOS-PELA",
+    "cpf_cnpj": "00.000.000/0002-02"
+  },
+  "validity": "",
+  "global_value": "",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "FUNECECONTRATADA:N & F DISTRIBUIDORA LTDA.",
+      "contracted_party": "WAGNER FAHD CARLOS-PELA"
+    }
+  },
+  "legal_unit": {
+    "name": "",
+    "role": ""
+  }
+}

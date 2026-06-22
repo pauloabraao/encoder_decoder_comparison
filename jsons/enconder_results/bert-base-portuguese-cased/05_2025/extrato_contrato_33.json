@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001069484/2025",
+    "ig": "1373417"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ESCOLA EEMTI Edson Luiz Cavalcante de Gouvêa",
+    "cpf_cnpj": "07954514/0666-57"
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA DE AGRICULTORES FAMILIARES DO CENTRO SUL",
+    "cpf_cnpj": "32.144.817/0001-20"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 157.126,10",
+  "signature": {
+    "date": "22/04/2025",
+    "signatories": {
+      "contracting_party": "Fagner Fábio Alves",
+      "contracted_party": "Lucivan José de Vieira Silva"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

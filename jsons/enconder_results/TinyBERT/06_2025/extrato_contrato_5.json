@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001132908/2024",
+        "ig": "1368536"
+    },
+    "contracting_party": {
+        "name": "A EEEP EUSÉBIO DE QUEIROZ",
+        "cpf_cnpj": "07.954.514/0555-31"
+    },
+    "contracted_party": {
+        "name": "T.F CONSTRUCOES LTDA, com sede na Rua Doutor Gilberto Studart, n°55, sala",
+        "cpf_cnpj": "31, doravante denominada(o) CONTRATANTE, neste ato representada(o) pela Diretora Escolar ARIANNY NASCIMENTO DE SOUSA CONTRATADA: T.F CONSTRUCOES LTDA, com sede na Rua Doutor Gilberto Studart, n°55, sala 1018T-1, CEP: 60"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 51.280,00",
+    "signature": {
+        "date": "28",
+        "signatories": {
+            "contracting_party": "Rodrigo Ferreira",
+            "contracted_party": "Rodrigo Ferreira Torres"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

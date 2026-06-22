@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.026355/2025-18",
+        "ig": "1366293"
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA VILA DOS CACOS",
+        "cpf_cnpj": "07.954.514/0142-66"
+    },
+    "contracted_party": {
+        "name": "PROGÁS DISTRIBUIDORA DE GAS E AGUA LTDA",
+        "cpf_cnpj": "53.256.763/0001- 64"
+    },
+    "validity": "365 38",
+    "global_value": "R$3.353,86",
+    "signature": {
+        "date": "28/02/2025",
+        "signatories": {
+            "contracting_party": "Francisca Larisse Nascimento de Moura",
+            "contracted_party": "Edson Nascimento de Souza"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "99/2025",
+        "ig": "1340315000"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP, neste ato representado pelo seu Superintendente, Sr. JOSÉ VALDECI REBOUÇAS, MATRÍCULA: 30001575, brasileiro, inscrito no CPF sob o nº 424.082.963-15, residente e domiciliado nesta",
+        "cpf_cnpj": "25.238.571/0001- 90, aqui deno- minada CONTRATADA, neste ato representada pelo Sr. ÁLVARO RODRIGO BEZERRA, brasileiro, RG n.º 2005009154657, CPF n.º ° 008"
+    },
+    "validity": "24 (vinte e quatro) meses",
+    "global_value": "R$ 11.473.677",
+    "signature": {
+        "date": null,
+        "signatories": {
+            "contracting_party": "ÁLVARO RODRIGO BEZERRA",
+            "contracted_party": "ÁLVARO RODRIGO BEZERRA"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

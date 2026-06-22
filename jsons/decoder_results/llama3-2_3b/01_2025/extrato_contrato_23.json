@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.133023/2024-16",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEEP GUIOMAR BELCHIOR AGUIAR",
+    "cpf_cnpj": "07954514/0726-22"
+  },
+  "contracted_party": {
+    "name": "HENRIQUE SILVA GALVAO",
+    "cpf_cnpj": "55.852.319/0001-37"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 11.821,80",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "FRANCISCA MARIA DA PENHA PEREIRA MARTINS",
+      "contracted_party": "PEDRO HENRIQUE SILVA GALVÃO"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

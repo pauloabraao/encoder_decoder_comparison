@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.103470/2024-32",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, através da SECRETARIA DA EDUCAÇÃO DO ESTADO DO CEARÁ/EEMTI JOSÉ FRANCISCO MOURA",
+    "cpf_cnpj": "07.954.514/0219-80"
+  },
+  "contracted_party": {
+    "name": "HSMSHOP COMERCIO DE PRODUTOS HOSPITALARES E VARIEDADES LTDA",
+    "cpf_cnpj": "42.410.276/0001-98"
+  },
+  "validity": "180 (cento e oitenta) dias",
+  "global_value": "207,16 (duzentos e sete reais e dezesseis centavos)",
+  "signature": {
+    "date": "30 de dezembro de 2024",
+    "signatories": {
+      "contracting_party": "Josiany Fernandes Beserra",
+      "contracted_party": "Helder Sampaio de Magalhães"
+    }
+  },
+  "legal_unit": {
+    "name": "Palhano – CE",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

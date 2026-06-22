@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.035244/2025-01/IG",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI Gerardo Majella",
+    "cpf_cnpj": "07.954.514/0142-66"
+  },
+  "contracted_party": {
+    "name": "T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 51.280,00",
+  "signature": {
+    "date": "21/03/2025",
+    "signatories": {
+      "contracting_party": "FRANCISCO DAS CHAGAS CAMELO NASCIMENTO",
+      "contracted_party": " Marcos Felipe Vicente"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

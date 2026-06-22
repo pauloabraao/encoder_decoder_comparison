@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "14/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "CENTRAIS DE ABASTECIMENTO DO CEARÁ S/A-CEASA/CE",
+        "cpf_cnpj": "09.453.523/0001-68"
+    },
+    "contracted_party": {
+        "name": "REAL LOCAÇÕES E SERVIÇOS LTDA",
+        "cpf_cnpj": "09.453.523/0001-68"
+    },
+    "validity": "180 (cento e oitenta) dias",
+    "global_value": "R$ 45.000,00",
+    "signature": {
+        "date": "12/03/2025",
+        "signatories": {
+            "contracting_party": "HEBERT DOS SANTOS LIMA",
+            "contracted_party": "ADEMAR MARINHO DE ANDRADE JUNIOR"
+        }
+    },
+    "legal_unit": {
+        "name": "Elmo Roberto Belchior Aguiar",
+        "role": null
+    }
+}

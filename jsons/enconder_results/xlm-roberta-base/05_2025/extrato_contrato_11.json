@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.047629/2025-11/PRÉ-RESERVA:",
+        "ig": "1374426"
+    },
+    "contracting_party": {
+        "name": "A Escola E.E.M Alice Moreira de Oliveira – CREDE 1,",
+        "cpf_cnpj": "07.954.514/0129-99,"
+    },
+    "contracted_party": {
+        "name": "RODRIGO MAGALHAES ALVES,",
+        "cpf_cnpj": "36.244.654/0001-08,"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 35.665,00",
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Ferdinando Sampaio Rios",
+            "contracted_party": "Rodrigo Magalhães Alves."
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

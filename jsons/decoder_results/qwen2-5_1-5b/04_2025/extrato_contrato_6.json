@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "56/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, através da Secretaria da Educação",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "EMPRESA KG CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "10.922.543/0001-10"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 588.372,70",
+  "signature": {
+    "date": "18 de março de 2025",
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA - Secretária da Educação",
+      "contracted_party": "MARIA CANILDES VIEIRA SALES - Kg Construções Ltda"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Tlita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "Nº01/2025",
+        "ig": "1364709000"
+    },
+    "contracting_party": {
+        "name": "JUNTA COMERCIAL DO ESTADO DO CEARÁ. CONTRATADA: CAMILA OLIVEIRA CUNHA",
+        "cpf_cnpj": "35.212.255/0001-00"
+    },
+    "contracted_party": {
+        "name": "CAMILA OLIVEIRA CUNHA",
+        "cpf_cnpj": "35.212.255/0001-00"
+    },
+    "validity": null,
+    "global_value": "R$23.112,50",
+    "signature": {
+        "date": "17",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "mão de obra, materiais, utensílios e equipamentos"
+        }
+    },
+    "legal_unit": {
+        "name": "João Lucas Arcanjo Carneiro",
+        "role": null
+    }
+}

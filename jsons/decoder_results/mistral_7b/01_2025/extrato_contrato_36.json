@@ -1,0 +1,41 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001101318/202415",
+    "ig": "1359154"
+  },
+  "contracting_party": {
+    "name": "EEMTI ANTÔNIO VIDAL MALVEIRA",
+    "cpf_cnpj": "07.954.514/0232-57"
+  },
+  "contracted_party": {
+    "name": "INTERLOC EMPREENDIMENTOS LTDA",
+    "cpf_cnpj": "46.154.250/0001-87"
+  },
+  "objective": "CONSTRUÇÃO DE FOSSA SÉPTICA, FILTRO E SUMIDOURO",
+  "legal_basis": "Cotação Eletrônica nº 2024/22693 e Termo de Participação nº 2024/11,Termo de Referência e na proposta do CONTRATADO.",
+  "fundamental_law": "Lei Federal nº 14.133, de 1º de abril de 2021, Lei Complementar 123 de 14 de dezembro de 2006, Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, Decreto Estadual Nº35.283, de 19 de janeiro de 2023 e demais legislações aplicáveis ao cumprimento de seu objeto",
+  "forum": "TABULEIRO DO NORTE/CE",
+  "validity": "300 (trezentos) dias",
+  "prorogation_allowed": true,
+  "negotiation_allowed": true,
+  "execution_period": "60 (sessenta) dias",
+  "global_value": "R$ 49.656,94",
+  "budget_code": "22100022.12.362.143. 11291.14.449051.54400.1- 24123",
+  "signature": {
+    "date": "18/12/2024",
+    "signatories": {
+      "contracting_party": "Valderino Aires de Oliveira",
+      "contracted_party": "Rinomarson Silva Costa"
+    },
+    "witnesses": [
+      "ILEGIVEL",
+      "ILEGIVEL",
+      "Fortaleza, 23 de janeiro de 2025"
+    ]
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

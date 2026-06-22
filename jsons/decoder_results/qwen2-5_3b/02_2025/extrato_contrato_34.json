@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.032774/2025-99",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ, por intermédio da EEM VIVINA MONTEIRO - Icó",
+    "cpf_cnpj": "07.954/514/0638-01"
+  },
+  "contracted_party": {
+    "name": "U.S DA CRUZ NETO",
+    "cpf_cnpj": "37.847.947/0001-42"
+  },
+  "validity": "360 (Trezentos e sessenta) dias",
+  "global_value": "R$ 33.795,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "TALITA LIMA DA SILVA",
+      "contracted_party": "UBIRATAN SOBREIRA DA CRUZ NETO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

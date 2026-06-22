@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.074490/2025-70",
+        "ig": "1381479"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO FUNDAMENTAL E MÉDIO ALMIRANTE TAMANDARÉ",
+        "cpf_cnpj": "07.954.514/0527-88"
+    },
+    "contracted_party": {
+        "name": "EXCELÊNCIA SERVIÇOS E EVENTOS LTDA",
+        "cpf_cnpj": "59.373.387/0001-74"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 750,00",
+    "signature": {
+        "date": "05/06/2025",
+        "signatories": {
+            "contracting_party": "Alan Tavares Ribeiro",
+            "contracted_party": "Antônio Daniel Sousa Maciel"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

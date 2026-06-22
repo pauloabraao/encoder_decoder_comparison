@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.026534/2025-55/PRÉ-RESERVA:",
+        "ig": "1365754"
+    },
+    "contracting_party": {
+        "name": "O ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL FRANCISCO JAGUARIBE,",
+        "cpf_cnpj": "07.954.514/0332-10,"
+    },
+    "contracted_party": {
+        "name": "ACE ASSESSORIA CONTÁBIL LTDA,",
+        "cpf_cnpj": "11.977.190/0001-18,"
+    },
+    "validity": "360 (trezentos e sessenta),",
+    "global_value": "R$ 150,00",
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": "Francisco Glauber de Brito Silva",
+            "contracted_party": "André Luis Melo do Nascimento."
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

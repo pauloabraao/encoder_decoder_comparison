@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.007149/2025-17/IG-1364747",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "19ª COORDENADORIA REGIONAL DE DESENVOLIMENTO DA EDUCAÇÃO - CREDE",
+    "cpf_cnpj": "07.954.514/0590-14"
+  },
+  "contracted_party": {
+    "name": "PRO GÁS DISTRIBUIDORA DE GÁS E ÁGUA LTDA",
+    "cpf_cnpj": "53.256.763/0001-64"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 768,60",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Edson Nascimento de Souza",
+      "contracted_party": "Marfra Rejanne Martins Pierre"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

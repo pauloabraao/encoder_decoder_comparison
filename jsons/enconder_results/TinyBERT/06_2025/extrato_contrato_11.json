@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001065855/2025",
+        "ig": "1379107"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO FUNDAMENTAL E MÉDIO ADAUTO LEITE",
+        "cpf_cnpj": "07.954.514/0566-94"
+    },
+    "contracted_party": {
+        "name": "Amiraldo Nascimento Lacerda CONTRATADA: DIJALMA MARTINS, com sede na Rua",
+        "cpf_cnpj": "48"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 27.610,50",
+    "signature": {
+        "date": "29/05/2025",
+        "signatories": {
+            "contracting_party": "Amiraldo Nascimento Lacerda CONTRATADA: DIJALMA MARTINS",
+            "contracted_party": "Amiraldo Nascimento Lacerda CONTRATADA: DIJALMA MARTINS"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

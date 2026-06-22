@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "08/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "Fundação Universidade Regional do Cariri - URCA CONTRATADA: COMPANHIA DE ÁGUA E ESGOTO DO CEARÁ - CAGECE",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "COMPANHIA DE ÁGUA E ESGOTO DO CEARÁ - CAGECE",
+        "cpf_cnpj": null
+    },
+    "validity": "12/2009, e nº 130 de25/03/2010,da Agência Reguladora de Serviços Públicos Delegados do Estado do Ceará – ARCE, que passam a integrá-lo independentemente de transcrição. FORO: Crato/CE. VIGÊNCIA: 12 (doze) meses",
+    "global_value": "R$ 60.000,00",
+    "signature": {
+        "date": "06/06/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

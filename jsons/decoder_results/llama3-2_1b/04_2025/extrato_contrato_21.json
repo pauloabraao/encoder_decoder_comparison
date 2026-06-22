@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001037774/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEMTI ZELIA DE MATOS BRITO",
+    "cpf_cnpj": "07.954.514/0064-09"
+  },
+  "contracted_party": {
+    "name": "LUCIANA SALES DA SILVA -ME",
+    "cpf_cnpj": "45.494.394/0001-10"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 3.699,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Diógenes de Sousa luz",
+      "contracted_party": "Luciana Sales da Silva"
+    }
+  },
+  "legal_unit": {
+    "name": "GUARAMIRANGA/CE",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

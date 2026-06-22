@@ -1,0 +1,31 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.132102/2024-00/IG-1361065"
+  },
+  "contracting_party": {
+    "name": "EEMTI ARISTARCO CARDOSO",
+    "cpf_cnpj": "07.954.514/0574-02"
+  },
+  "contracted_party": {
+    "name": "VISION CONSTRUTORA E SERVIÇOS LTDA",
+    "cpf_cnpj": "10.560.303/0001-12"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 96.000,00",
+  "signature": {
+    "date": "27/01/2025",
+    "signatories": {
+      "contracting_party": "Manoel Faustino da Silva Neto",
+      "contracted_party": "Nilson Bento da Silva"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  },
+  "objective": "3.1. O objeto do presente instrumento é a contratação de CONCLUSÃO DA OBRA DE CONSTRUÇÃO DA SUBESTAÇÃO DE 150 KVA E INTERLIGAÇÃO DOS QUADROS QD2, QD3 E QD4 AO QGBT, nas condições estabelecidas na Cotação Eletrônica nº 2024/33623, Termo de Participação nº20240008, Termo de Referência e na proposta do CONTRATADO. 3.2. É parte integrante deste contrato, para todos os fins de direito, a Cotação Eletrônica nº 2024/33623, Termo de Participação nº 20240008 e Termo de Referência.",
+  "legal_basis": "O presente contrato tem como fundamento na Cotação Eletrônica nº 2024/33623 e Termo de Participação nº20240008 , e seus anexos, os preceitos do direito público, no art. 75, I da Lei Federal nº 14.133, de 1º de abril de 2021, Lei Complementar 123 de 14 de dezembro de 2006, Lei Complementar nº 288, de 20 de julho de 2022, Decreto nº 35.341, de 09 de março de 2023, alterado pelo Decreto nº 35.474, de 26 de maio de 2023, Decreto Estadual nº 35.322, de 24 de fevereiro de 2023, alterado pelo Decreto Estadual nº 35.475, de 26 de maio de 2023, Decreto Estadual Nº35.283, de 19 de janeiro de 2023 e demais legislações aplicáveis ao cumprimento de seu objeto.",
+  "forum": "PORTEIRAS/CE",
+  "budget_code": "22100022.12.362.143.11291.01.449051.54400.1 27996(2024)"
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.124769/202-42",
+    "ig": "1352398"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO/EEEP VALTER NUNES DE ALENCAR",
+    "cpf_cnpj": "07954514/0721-18"
+  },
+  "contracted_party": {
+    "name": "ÊXODO TRANSPORTE E LOGÍSTICA",
+    "cpf_cnpj": "21.271.579/0001-05"
+  },
+  "validity": "200 (duzentos) dias",
+  "global_value": "R$ 3.894,81",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Patrícia dos Santos Alencar",
+      "contracted_party": "Rafael da Silva Souza"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "43022.009765/2024-45",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SuperintENDente José Valdeci Rebouças",
+    "cpf_cnpj": "30001575"
+  },
+  "contracted_party": {
+    "name": "DTC CONSTRUTORA E EMPREENDI-MENTOS IMOBILIÁRIOS LTDA",
+    "cpf_cnpj": "11.379.632/0001-24"
+  },
+  "validity": null,
+  "global_value": null,
+  "signature": {
+    "date": "11/06/2025",
+    "signatories": {
+      "contracting_party": "JOSÉ VALDECI REBOUÇAS",
+      "contracted_party": "JOÃO RICARDO MODESTO DANTAS"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.062838/2025-86",
+    "ig": "1379528"
+  },
+  "contracting_party": {
+    "name": "Escola Indígena de Monsenhor Tabosa",
+    "cpf_cnpj": "07.954.514/0728-94"
+  },
+  "contracted_party": {
+    "name": "ANTONIO ELTON BARBOSA MESQUITA",
+    "cpf_cnpj": "19.153.173/0001-78"
+  },
+  "validity": "300 (trezentos) dias",
+  "global_value": "R$ 4.613,20",
+  "signature": {
+    "date": "06/06/2025",
+    "signatories": {
+      "contracting_party": "Maria Mosa Teixeira Frota Almeida",
+      "contracted_party": "Antonio Elton Barbosa de Mesquita"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

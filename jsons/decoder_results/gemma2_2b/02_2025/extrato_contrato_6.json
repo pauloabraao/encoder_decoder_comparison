@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "12/2025/NUP 22001.146301/2024-97",
+    "ig": "1361678000"
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "TD DANTAS SOLUÇÕES LTDA",
+    "cpf_cnpj": "30.865.998/0001-58"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 6.387.740,00",
+  "signature": {
+    "date": "10/01/2025",
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "THALISON DIOGENES DANTAS"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

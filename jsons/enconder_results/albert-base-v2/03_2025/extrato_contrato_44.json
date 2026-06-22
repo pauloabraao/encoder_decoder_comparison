@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "10282.972025/67/IG:",
+    "ig": "1367392"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ESCOLA EEMTI PROF. JOSÉ TELES DE CARVALHO,",
+    "cpf_cnpj": "07.954.514/0562- 60,"
+  },
+  "contracted_party": {
+    "name": "FRANCISCO WEVERTON DO NASCIMENTO SILVA,",
+    "cpf_cnpj": "037.266.433-46."
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias,",
+  "global_value": "R$ 20.197,00",
+  "signature": {
+    "date": "12/03/2025",
+    "signatories": {
+      "contracting_party": "Francisco Sanderley Justino Coelho",
+      "contracted_party": "FRANCISCO WEVERTON DO NASCIMENTO SILVA,"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

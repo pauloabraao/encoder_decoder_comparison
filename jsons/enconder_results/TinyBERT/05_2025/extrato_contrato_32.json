@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "10527.252025/72",
+        "ig": "1374335000"
+    },
+    "contracting_party": {
+        "name": "Escola Estadual de Educação Profissional Marwin",
+        "cpf_cnpj": "07.954.514/0434-44"
+    },
+    "contracted_party": {
+        "name": "Fabíola Ribeiro de Sousa CONTRATADA: G MATOS SERVICOS LTDA",
+        "cpf_cnpj": "44, doravante denominada(o) CONTRATANTE, neste ato representada pelo Sra. Ana Fabíola Ribeiro de Sousa CONTRATADA: G MATOS SERVICOS LTDA, com sede na Rua Vital Brasil, nº 776, bairro Bonsucesso, CEP: 60.541-705"
+    },
+    "validity": "60 (sessenta) dias",
+    "global_value": "R$ 3.887,37",
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Ana Fabíola Ribeiro de Sousa",
+            "contracted_party": "Gustavo Henrique de Matos Carvalho"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.045502/2025-59",
+    "ig": "1372288"
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, através da Secretaria da Educação/ESCOLA EEMTI Aristarco Cardoso",
+    "cpf_cnpj": "07.954.514/0574-02"
+  },
+  "contracted_party": {
+    "name": "FRANCISCO WEVERTON DO NASCIMENTO SILVA",
+    "cpf_cnpj": "037.266.433-46"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 19.780,00",
+  "signature": {
+    "date": "25/04/2024",
+    "signatories": {
+      "contracting_party": "Manoel Faustino da Silva Neto",
+      "contracted_party": "FRANCISCO WEVERTON DO NASCIMENTO SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

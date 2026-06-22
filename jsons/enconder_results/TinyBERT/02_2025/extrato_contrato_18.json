@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001029675202520",
+        "ig": "1363482"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por intermédio da EEMTI Celso Araújo",
+        "cpf_cnpj": "42"
+    },
+    "contracted_party": {
+        "name": "U.S DA CRUZ NETO, inscrita no CPF/CNPJ sob o nº 37.847.947/0001-42, representada neste ato pelo Sr. Ubiratan Sobreira da Cruz Neto. OBJETO: Constitui objeto deste",
+        "cpf_cnpj": "37.847"
+    },
+    "validity": "360 (Trezentos e sessenta) dias",
+    "global_value": "R$ 16.897,50 ( Dezesseis mil, oitocentos e noventa e sete reais e cinquenta centavos ) pagos em CONFORMIDADE COM CONTRATO ORIGINAL DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.144.20976.02.339030.50000.0 - 5033",
+    "signature": {
+        "date": "13/02/2025",
+        "signatories": {
+            "contracting_party": "Francisco Pereira Silvério",
+            "contracted_party": "Francisco Pereira Silvério CONTRATADA: U.S DA CRUZ NETO, inscrita no CPF/CNPJ sob o nº 37.847.947/0001-42, representada neste ato pelo Sr. Ubiratan Sobreira"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

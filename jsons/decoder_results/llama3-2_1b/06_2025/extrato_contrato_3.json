@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "024/2025",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": "",
+    "cpf_cnpj": ""
+  },
+  "contracted_party": {
+    "name": "",
+    "cpf_cnpj": ""
+  },
+  "validity": "",
+  "global_value": "",
+  "signature": {
+    "date": "",
+    "signatories": {
+      "contracting_party": "",
+      "contracted_party": ""
+    }
+  },
+  "legal_unit": {
+    "name": "",
+    "role": ""
+  }
+}

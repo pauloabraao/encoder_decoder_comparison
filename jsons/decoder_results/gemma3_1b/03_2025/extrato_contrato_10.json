@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO, localizada no Centro Administrativo Governador Virgílio Távora, na Av. Gal. Afonso Albuquerque Lima, s/n, Cambeba, Fortaleza/CE",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "JCM CONSTRUTORA E COMÉRCIO LTDA",
+    "cpf_ cnpj": "04.732.759/0001-10"
+  },
+  "validity": "24 (vinte e quatro) meses",
+  "global_value": "R$ 10.672.165,92",
+  "signature": {
+    "date": "",
+    "signatories": {
+      "contracting_party": "INÁCIO DE LOIOLA CARLOS MEDEIROS",
+      "contracted_party": "JCM CONSTRUTORA E COMÉRCIO LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Superintendência de Obras Públicas - SOP",
+    "role": "Localização da Superintendência"
+  }
+}

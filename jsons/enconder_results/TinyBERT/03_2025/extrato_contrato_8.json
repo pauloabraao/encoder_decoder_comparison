@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.132992/2024-41",
+        "ig": "1364362"
+    },
+    "contracting_party": {
+        "name": "EEEP PROFESSORA MARIA DE JESUS RODRIGUES ALVES",
+        "cpf_cnpj": "07.954.514/0727- 03"
+    },
+    "contracted_party": {
+        "name": "MF LOCACAO E SERVICOS TECNOLOGICOS LTDA, com sede na RUA",
+        "cpf_cnpj": "362/0001-70"
+    },
+    "validity": "365 (TREZENTOS E SESSENTA E CINCO DIAS",
+    "global_value": "R$ 11.801,00",
+    "signature": {
+        "date": "18/02/2025",
+        "signatories": {
+            "contracting_party": "ARMANDO LOUZADA, N° 319, COMPLEMENTO CAB, BAIRRO PASSARE, FORLTALEZA-CE, CEP: 60.743-730, Fone: (85) 8840-7712, inscrita no CNPJ sob o nº 36.779.362/0001-70, doravante denominado CONTRATADO, representado neste ato pelo MARCUS VINICIUS DAMASCENO FERREIRA",
+            "contracted_party": "DAMASCENO FERREIRA"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

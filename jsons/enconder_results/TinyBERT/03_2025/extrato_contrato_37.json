@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "028/2025",
+        "ig": "1367217000"
+    },
+    "contracting_party": {
+        "name": "SUPERINTENDÊNCIA DE OBRAS PUBLICAS - SOP",
+        "cpf_cnpj": "60.860-901, inscrita no CNPJ sob o nº 33.866"
+    },
+    "contracted_party": {
+        "name": "REBOUÇAS, II- CONTRATADA: KG CONSTRUÇÕES LTDA, estabelecida na Rua",
+        "cpf_cnpj": "33.866"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "43200007",
+    "signature": {
+        "date": "11/03/2025",
+        "signatories": {
+            "contracting_party": "MARIA CANILDES VIEIRA SALES. III- OBJETO: Constitui objeto deste contrato os serviços comuns de Engenharia, conforme previsto no ANEXO E, visando a Manutenção Preventiva e Corretiva das instalações Físicas Prediais e Equipamentos Públicos, com fornecimento de mão de obra",
+            "contracted_party": "MARIA CANILDES VIEIRA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001113069202419/PRE-RESERVA : 1363816",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEEP Aderson Borges de Carvalho",
+    "cpf_cnpj": "10.870.232/0001-54"
+  },
+  "contracted_party": {
+    "name": "PHF ALEXANDRE CONSTRUÇOES & SERVIÇOS",
+    "cpf_cnpj": "50.959.589/0001-28"
+  },
+  "validity": "190 (Cento e noventa) dias",
+  "global_value": "R$ 47.500,00",
+  "signature": {
+    "date": "25/02/2025",
+    "signatories": {
+      "contracting_party": "Isnard Alves Gonçalves",
+      "contracted_party": "Paulo Henrique Fernandes Alexandre"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "044/2025",
+    "ig": "1358325"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO - SDA",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "F MACIANO BEZERRA AGROPECUÁRIA-ME",
+    "cpf_cnpj": "19.680.571/0001-42"
+  },
+  "object": "Contratação de pessoa jurídica de direito privado especializada na produção, transporte e entrega de manivas sementes",
+  "fundamentation_legal": "Processo de Credenciamento, conforme processo administrativo SPU n° 21001.004735/2024-58, também fundamentado na Lei Federal nº. 14.133, de 1º de abril de 2021 e suas alterações posteriores, além das demais disposições legais aplicáveis, bem como pelas condições constantes do Edital n°. 008/2024",
+  "foro": "Fica eleito o foro da cidade de Fortaleza para dirimir questões relacionadas à execução deste Contrato, não resolvidas pelos meios administrativos",
+  "validity": "12 (doze) meses a partir da data de sua publicação no DOE",
+  "global_value": "R$ 240.000,00",
+  "dotacao_orcamentaria": [
+    "21100029.20.608.211.10069.339030.011.500.9100000.0.4.01-19955",
+    "21100029.20.608.211.10069.339030.021.500.9100000.0.4.01- 08532",
+    "21100029.20.608.211.10069.339030.031.500.9100000.0.4.01-00691",
+    "21100029.20.608.211.10069.339030.041.500.9100000.0.4.01-20067",
+    "21100029.20.608.211.10069.339030.051.500.9100000.0.4.01-01055",
+    "21100029.20.608.211.10069.339030.061.500.9100000.0.4.01-19835",
+    "21100029.20.608.211.10069.339030.071.500.9100000.0.4.01-00858",
+    "21100029.20.608.211.10069.339030.081.500.9100000.0.4.01-08368",
+    "21100029.20.608.211.10069.339030.091.500.9100000.0.4.01-04296",
+    "21100029.20.608.211.10069.339030.101.500.9100000.0.4.01-01053",
+    "21100029.20.608.211.10069.339030.111.500.9100000.0.4.01-19681",
+    "21100029.20.608.211.10069.339030.121.500.9100000.0.4.01-23209",
+    "21100029.20.608.211.10069.339030.131.500.9100000.0.4.01-20010",
+    "21100029.20.608.211.10069.339030.141.500.9100000.0.4.01-12024"
+  ],
+  "pf": "2100010872024I - PROGRAMA DE DISTRIBUIÇÃO DE SEMENTES - MAPP: 14 – Programa de Distribuição de Sementes",
+  "data_assinatura": "Fortaleza/CE, 27 de fevereiro de 2025",
+  "signatories": [
+    "MOISÉS BRAZ RICARDO Secretário do Desenvolvimento Agrário (CONTRATANTE)",
+    "FRANCISCO MACIANO BEZERRA Representante Legal da Empresa (CONTRATADA)"
+  ]
+}

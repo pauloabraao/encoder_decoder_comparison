@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": "OMEGA DISTRIBUIDORA DE PRODUTOS ALIMENTÍCIOS LTDA",
+    "cpf_cnpj": "41.600.131/0001-97"
+  },
+  "contracted_party": {
+    "name": "A EEEP VEREADOR JOSÉ BATISTA FILHO – ZEZINHO BATISTA",
+    "cpf_cnpj": "07.954.514/0823-42"
+  },
+  "validity": "",
+  "global_value": "",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "CRISTIANO SILVA DA ROCHA DIÓGENES",
+      "contracted_party": "RAISES JOICE SILVA BASILIO"
+    }
+  },
+  "legal_unit": {
+    "name": "Alto Santo/CE",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

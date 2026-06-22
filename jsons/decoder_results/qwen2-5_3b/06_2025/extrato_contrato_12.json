@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.026579/2025-20",
+    "ig": "1368616"
+  },
+  "contracting_party": {
+    "name": "EEM ANA BEZERRA DE SÁ",
+    "cpf_cnpj": "07.954.514/0410-77"
+  },
+  "contracted_party": {
+    "name": "PROGAS DISTRI-BUIDORA DE GAS E AGUA LTDA",
+    "cpf_cnpj": "53.256.763/0001-64"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 2.909,70",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "CINTIA DA SILVA FERREIRA",
+      "contracted_party": "EDSON NASCIMENTO DE SOUZA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

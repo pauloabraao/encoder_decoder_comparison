@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.124769/202-42/IG-1352398",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/EEMTI Gerardo Majella",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 3.894,81 (Trez mil oitocentos e noventa e quatro reais e oitenta e um centavos)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Patrícia dos Santos Alencar",
+      "contracted_party": "Rafael da Silva Souza"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "Coordenadora/ASJUR"
+  }
+}

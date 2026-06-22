@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "19/2025",
+    "ig": "1316190000"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "JCM CONSTRUTORA E COMÉRCIO LTDA",
+    "cpf_cnpj": "04.732.759/0001-10"
+  },
+  "validity": "24 (vinte e quatro) meses",
+  "global_value": "R$ 10.672.165,92",
+  "signature": {
+    "date": "16/01/2025",
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "JOSÉ VALDECI REBOUÇAS"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

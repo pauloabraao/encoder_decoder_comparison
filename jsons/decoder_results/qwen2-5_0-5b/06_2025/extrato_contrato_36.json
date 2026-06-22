@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.023883/2025-15/PRÉ-RESERVA:1378747",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0477-84"
+  },
+  "contracted_party": {
+    "name": "ZACARIAS DOS SANTOS CHAVES JUNIOR",
+    "cpf_cnpj": "13.644.785/0001-87"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 100,00 (cem reais)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": "ZACARIAS DOS SANTOS CHAVES JUNIOR"
+    }
+  },
+  "legal_unit": {
+    "name": "Fortaleza, 29 de maio de 2025",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

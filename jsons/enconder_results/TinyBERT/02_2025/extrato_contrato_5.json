@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "651/2024",
+        "ig": "1361077000"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "em Fortaleza/CE CONTRATADA: EMPRESA SPALLA EVENTOS E SERVIÇOS, com sede na Avenida Washington Soares, nº 55, sala",
+        "cpf_cnpj": "30.546059/0001–40"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 782.701,20",
+    "signature": {
+        "date": "08/01/2025",
+        "signatories": {
+            "contracting_party": "Mariana Souza",
+            "contracted_party": "Mariana Souza"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

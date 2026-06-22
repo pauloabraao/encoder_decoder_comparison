@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "30/05/2024",
+    "ig": "SACC:123456789"
+  },
+  "contracting_party": {
+    "name": "SECRETARY DA ENSINO TIPO 2024-05",
+    "cpf_cnpj": "12.345.678/0001-00"
+  },
+  "contracted_party": {
+    "name": "SECRETARY DA ENSINO TIPO 2024-05",
+    "cpf_cnpj": "12.345.678/0001-00"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 123.456,78",
+  "signature": {
+    "date": "07/04/2025",
+    "signatories": {
+      "contracting_party": "Jorge Díaz",
+      "contracted_party": "Maria Sánchez"
+    }
+  },
+  "legal_unit": {
+    "name": null,
+    "role": "Coordenador da Assessoria Jurídica"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001052764/202570",
+    "ig": "1380314"
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/ESCOLA EEMTI VICENTE ARRUDA",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA AGRICULTORAS FAMILIARES DEVOTOS DE SÃO JOSÉ",
+    "cpf_cnpj": "40.130.082/0001-03"
+  },
+  "validity": "320 (TREZENTOS E VINTE) dias",
+  "global_value": "R$ 170.030,00",
+  "signature": {
+    "date": "22/05/2025",
+    "signatories": {
+      "contracting_party": "MARIA DA SILVA MOREIRA",
+      "contracted_party": "JAQUELINE DA SILVA DE OLIVEIRA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.077652/2025-21",
+        "ig": "1381059"
+    },
+    "contracting_party": {
+        "name": "O Estado do Ceará, através da Secretaria da Educação/ESCOLA EEEP PROFª MARIA ALTAIR AMÉRICO SABÓIA",
+        "cpf_cnpj": "07.954.514/0732–70"
+    },
+    "contracted_party": {
+        "name": "COMERCIAL KAYO LTDA",
+        "cpf_cnpj": "35.206.677/0001-65"
+    },
+    "validity": "365 (Trezentos e Sessenta e Cinco) dias",
+    "global_value": "R$ 29.512,00",
+    "signature": {
+        "date": "27/05/2025",
+        "signatories": {
+            "contracting_party": "Raimundo Vieira Neto",
+            "contracted_party": "Enioeldo Fernandes Farias"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

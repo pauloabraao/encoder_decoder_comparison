@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.065089/2025-49",
+    "ig": "1381140"
+  },
+  "contracting_party": {
+    "name": "EEM ETELVINA GOMES BEZERRA",
+    "cpf_cnpj": "07.954.514/0165-52"
+  },
+  "contracted_party": {
+    "name": "Z R COMÉRCIO, SERVIÇO E CONSTRUÇÃO LTDA",
+    "cpf_cnpj": "07.640.625/0001- 67"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 1.995,00",
+  "signature": {
+    "date": "04/06/2025",
+    "signatories": {
+      "contracting_party": "José Roberto Lima de Sousa",
+      "contracted_party": "RITA DE KASSIA DOS SANTOS"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

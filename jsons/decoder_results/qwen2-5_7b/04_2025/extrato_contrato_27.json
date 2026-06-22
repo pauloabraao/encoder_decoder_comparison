@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.040294/2025-00",
+    "ig": "1369465"
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI DEPUTADO JOAQUIM DE FIGUEIREDO CORREIA",
+    "cpf_cnpj": "07.954.514/0361-54"
+  },
+  "contracted_party": {
+    "name": "ADRIANA DE QUEIROZ MAGALHÃES ME",
+    "cpf_cnpj": "07.907.365/0001-43"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 1.760,79",
+  "signature": {
+    "date": "26/03/2025",
+    "signatories": {
+      "contracting_party": "Vera Cristina Chaves Diógenes",
+      "contracted_party": "Adriana de Queiroz Magalhães"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

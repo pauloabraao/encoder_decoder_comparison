@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1352303",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "Escola de Ensino Médio Francisco Nonato Freire",
+        "cpf_cnpj": "20.189.604/0001-35"
+    },
+    "contracted_party": {
+        "name": "Escola de Ensino Médio Francisco Nonato Freire",
+        "cpf_cnpj": "20.189.604/0001-35"
+    },
+    "validity": "250 (duzentos e cinquenta) dias",
+    "global_value": "R$ 2.960,00",
+    "signature": {
+        "date": "30/12/2024",
+        "signatories": {
+            "contracting_party": "Jesus Albino Vieira Crispa Júnior",
+            "contracted_party": "Jesus Albino Vieira Crispa Júnior"
+        }
+    },
+    "legal_unit": {
+        "name": "Jesus Albino Vieira Crispa Júnior",
+        "role": null
+    }
+}

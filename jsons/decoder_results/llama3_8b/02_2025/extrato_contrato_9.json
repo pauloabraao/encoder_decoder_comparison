@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.132102/2024-00",
+    "ig": "1361065"
+  },
+  "contracting_party": {
+    "name": "EEMTI ARISTARCO CARDOSO",
+    "cpf_cnpj": "07.954.514/0574-02"
+  },
+  "contracted_party": {
+    "name": "VISION CONSTRUTORA E SERVIÇOS LTDA",
+    "cpf_cnpj": "10.560.303/0001-12"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 96.000",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Manoel Faustino da Silva Neto",
+      "contracted_party": "NILSON BENTO DA SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.070036/2025-40",
+        "ig": "1380622"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO JOAQUIM MAGALHÃES",
+        "cpf_cnpj": "07.954.514/0038-17"
+    },
+    "contracted_party": {
+        "name": "Marques CONTRATADA",
+        "cpf_cnpj": "0794, inscrita no CPF/CNPJ sob o nº 57.807"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 9.904",
+    "signature": {
+        "date": "06.339039.50000.0 - 17334",
+        "signatories": {
+            "contracting_party": "Paula Silva",
+            "contracted_party": "Paula Silva"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

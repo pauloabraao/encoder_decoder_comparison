@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.019068/2025-51",
+        "ig": "1373902"
+    },
+    "contracting_party": {
+        "name": "A EEMTI PEDRO JORGE MOTA",
+        "cpf_cnpj": "07.954.514/0660-61, daqui por diante denominada simplesmente CONTRATANTE neste ato representada por sua Diretor Geral, Sr. ARI COSMO DE OLIVEIRA CONTRATADA: LUZIA MARTINS DE PAULA OLIVEIRA, inscrita no CPF: sob n.º 382"
+    },
+    "contracted_party": {
+        "name": "ARI COSMO DE OLIVEIRA CONTRATADA",
+        "cpf_cnpj": "382.182.358"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 15.074,00",
+    "signature": {
+        "date": "16",
+        "signatories": {
+            "contracting_party": "PAULA OLIVEIRA",
+            "contracted_party": "PAULA OLIVEIRA"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

@@ -1,0 +1,37 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO, localizada no Centro Administrativo Governador Virgílio Távora, na Av. Gal. Afonso Albuquerque Lima, s/n, Cambeba, Fortaleza/CE",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "ZONA NORTE Construtora Ltda",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "28 (vinte e oito) meses",
+  "global_value": "R$ 16.448.397,60",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "ROBERIO MATEUS DE ARAUJO - ME"
+    }
+  },
+  "legal_unit": {
+    "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+    "role": "Secretária da Educação"
+  },
+  "tax_id": null,
+  "date_of_contract": "20 de Março de 2025",
+  "signators": [
+    "ELIANA NUNES ESTRELA",
+    "ROBERIO MATEUS DE ARAUJO - ME",
+    "CARLOS RODRIGO BARROS DE SOUSA",
+    "GEORGE HENRIQUE BARROSO PONTE FILHO",
+    "JOSÉ VALDECI REBOUÇAS Superintendente da SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP"
+  ]
+}

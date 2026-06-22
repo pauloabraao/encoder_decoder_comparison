@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "131/2025",
+    "ig": "1348883000"
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "CONCEITO COMÉRCIO & SERVIÇOS LTDA",
+    "cpf_cnpj": "39.345.050/0001-46"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 266.700,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Eliana Nunes Estrela",
+      "contracted_party": "Marcos Paulo de Arruda Valente"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Tlita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

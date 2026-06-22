@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.129066/2024-99",
+        "ig": "1351010"
+    },
+    "contracting_party": {
+        "name": "O Estado do Ceará, através da Secretaria de Educação/EEEP Maria Violeta Arraes de Alencar Gervaiseau",
+        "cpf_cnpj": "0719-01, doravante denominada(o) CONTRATANTE, neste ato repre- sentada por sua Diretora Antonia Cyra Esmeraldo Arrais CONTRATADA: G F GUIMARAES, com sede na cidade de Crato-CE, CEP: 63.100-140, Fone: (88) 2157-0076, inscrita no CNPJ sob o nº 44"
+    },
+    "contracted_party": {
+        "name": "Crato-CE, CEP",
+        "cpf_cnpj": "01, doravante denominada(o) CONTRATANTE, neste ato repre- sentada por sua Diretora Antonia Cyra Esmeraldo Arrais CONTRATADA: G F GUIMARAES, com sede na cidade de Crato-CE, CEP: 63.100-140, Fone: (88) 2157-0076, inscrita no CNPJ sob o nº 44.864"
+    },
+    "validity": "365 (trezentos e sessenta e cinco ) dias",
+    "global_value": "R$ 12.400,00",
+    "signature": {
+        "date": "06/11/2024",
+        "signatories": {
+            "contracting_party": "Antonia Cyra",
+            "contracted_party": "Gustavo Feliciano Guimarães"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

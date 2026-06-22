@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22000.103240/0202-57",
+    "ig": "1374857"
+  },
+  "contracting_party": {
+    "name": "ESCOLA ESTADUAL DE EDUCAÇÃO PROFISSIONAL MANOEL MANO",
+    "cpf_cnpj": "07.954.514/0158-23"
+  },
+  "contracted_party": {
+    "name": "A. V. P. DE ARAUJO",
+    "cpf_cnpj": "32.002.167/0001-88"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 17.175,00",
+  "signature": {
+    "date": "10/06/2025",
+    "signatories": {
+      "contracting_party": "Poliana Holanda Saraiva de Melo",
+      "contracted_party": "Antônio Vanderlau Pereira de Araújo"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

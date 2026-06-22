@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "10527.252025/72/IG: 1374335000"
+  },
+  "contracting_party": {
+    "name": "A Escola Estadual de Educação Profissional Marwin",
+    "cpf_cnpj": "07.954.514/0434-44"
+  },
+  "contracted_party": {
+    "name": "G MATOS SERVICOS LTDA",
+    "cpf_cnpj": "13.180.857/0001-82"
+  },
+  "validity": "90 (noventa) dias",
+  "global_value": "R$ 3.887,37",
+  "signature": {
+    "date": "22 de abril de 2025",
+    "signatories": {
+      "contracting_party": "Ana Fabíola Ribeiro de Sousa",
+      "contracted_party": "Gustavo Henrique de Matos Carvalho"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

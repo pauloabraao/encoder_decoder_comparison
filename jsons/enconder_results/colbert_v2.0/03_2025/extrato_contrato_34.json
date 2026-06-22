@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESTADO DO CEARÁ, através da CASA CIVIL",
+        "cpf_cnpj": "09.469.891/0001-02"
+    },
+    "contracted_party": {
+        "name": "EMPRESA SINDICATO DAS EMPRESAS DE TRANSPORTE DE PASSAGEIROS DO ESTADO DO CEARÁ – SINDIÔNIBUS",
+        "cpf_cnpj": "07.341.423/0001-14"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 48.000,00",
+    "signature": {
+        "date": "10/03/2025",
+        "signatories": {
+            "contracting_party": "Francisco José Moura Cavalcante",
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "Sabrine Gondim Lima",
+        "role": "COORDENADORA DA ASSESSORIA JURÍDICA"
+    }
+}

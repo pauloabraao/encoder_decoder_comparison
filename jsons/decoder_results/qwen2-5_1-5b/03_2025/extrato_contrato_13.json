@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001028479/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL FRANCISCO JAGUARIBE, situada na rua Coronel Raimundo Francisco, CREDE 10 - JAGUARUANA/CE",
+    "cpf_cnpj": "07.954.514/0332-10"
+  },
+  "contracted_party": {
+    "name": "EXPRESSO DISTRIBUIDORA LTDA, com sede na Rua Francisca Bittencourt, nº 44, Urucará, Maranguape/CE",
+    "cpf_cnpj": "25.179.741/0001-02"
+  },
+  "validity": "360 (trezentos e sessenta) dias",
+  "global_value": "R$ 2.490,64",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "FRANCISCO GLAUJER DE BRITO SILVA",
+      "contracted_party": "FELIPE LIMA SOARES"
+    }
+  },
+  "legal_unit": {
+    "name": "MARCOES FELIPE VICENTE",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

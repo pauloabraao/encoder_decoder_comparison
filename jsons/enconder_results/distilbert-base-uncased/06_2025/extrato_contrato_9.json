@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001051444/202501",
+    "ig": "1379958"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL FRANKLIN TÁVORA",
+    "cpf_cnpj": "07.954.514/0065- 90"
+  },
+  "contracted_party": {
+    "name": "PEDRO ALISSON MUNIZ VICENTE",
+    "cpf_cnpj": "610.025.363-16"
+  },
+  "validity": "200 (duzentos) dias",
+  "global_value": "R$ 39.076,85",
+  "signature": {
+    "date": "26/05/2025",
+    "signatories": {
+      "contracting_party": "JOSÉ IVANILDO COSTA",
+      "contracted_party": "PEDRO ALISSON MUNIZ VICENTE"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

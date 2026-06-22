@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001084628/2025",
+    "ig": "1384073"
+  },
+  "contracting_party": {
+    "name": "SUPERINTENDÊNCIA DAS ESCOLAS ESTADUAIS DE FORTALEZA – SEFOR 3",
+    "cpf_cnpj": "07.954.514/0687-81"
+  },
+  "contracted_party": {
+    "name": "DISTRIMIX SOLUCOES & SERVICOS BRASIL LTDA",
+    "cpf_cnpj": "51.044.835/0001-84"
+  },
+  "validity": "365 (TREZENTOS E SESSENTA E CINCO) dias",
+  "global_value": "R$ 62.074,80",
+  "signature": {
+    "date": "09/06/2025",
+    "signatories": {
+      "contracting_party": "VITÓRIA MARIA CUNHA",
+      "contracted_party": "FABIO DOS SANTOS SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001072697/202518",
+    "ig": "1380987"
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, através da Secretaria da Educação/ESCOLA Ensino Médio de Tempo Integral Maria Leal Teixeira",
+    "cpf_cnpj": "07.954.514/0822-61"
+  },
+  "contracted_party": {
+    "name": "LUIZ LUCENA DE OLIVEIRA",
+    "cpf_cnpj": "49.762.368./0001- 86"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 5.635,00",
+  "signature": {
+    "date": "28 de Maio de 2025",
+    "signatories": {
+      "contracting_party": "Francisco Chadaide Martins Batista",
+      "contracted_party": "Luiz Lucena de Oliveira"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

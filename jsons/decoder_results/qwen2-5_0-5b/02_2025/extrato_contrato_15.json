@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.113666/2024-35",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O COLÉGIO ESTADUAL RUI BARBOSA",
+    "cpf_cnpj": "07.954.514/0197-30"
+  },
+  "contracted_party": {
+    "name": "MASTER CONSTRUÇÕES E SERVIÇOS LTDA",
+    "cpf_cnpj": "40.074.719/0001-91"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 85.719,51",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "O COLÉGIO ESTADUAL RUI BARBOSA",
+      "contracted_party": "MASTER CONSTRUÇÕES E SERVIÇOS LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

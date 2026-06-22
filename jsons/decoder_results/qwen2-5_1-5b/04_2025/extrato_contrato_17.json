@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "137/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, através da Secretaria da Educação/EEMTI Gerardo Majella",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "ZONA NORTE CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "03.614.071/0001-72"
+  },
+  "validity": "28 (vinte e oito) meses",
+  "global_value": "R$ 16.417.402,91",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA - Secretário da Educação - CONTRATANTE",
+      "contracted_party": "URANDIA AGUIAR RAMOS - Representante da Empresa Zona Norte Construtora Ltda - CONTRATADA"
+    }
+  },
+  "legal_unit": {
+    "name": "JOSÉ VALDECI REBOUÇAS - Superintendente da SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP - INTERVENIENTE",
+    "role": "Superintendente"
+  }
+}

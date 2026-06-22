@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.088031/2025-73",
+        "ig": "1383586"
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA TAPEBA CAPOEIRA",
+        "cpf_cnpj": "07.954.514/0146- 90"
+    },
+    "contracted_party": {
+        "name": "L R H COMERCIO E SERVIÇOS LTDA",
+        "cpf_cnpj": "44.547.120/0001-89"
+    },
+    "validity": "365 (TREZENTOS E SESSENTA E CINCO) DIAS",
+    "global_value": "R$ 14.382,19",
+    "signature": {
+        "date": "09/06/2025",
+        "signatories": {
+            "contracting_party": "ERNANDES ALVES DANTAS",
+            "contracted_party": "KEVYN LEVY DE OLIVEIRA DA SILVA"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

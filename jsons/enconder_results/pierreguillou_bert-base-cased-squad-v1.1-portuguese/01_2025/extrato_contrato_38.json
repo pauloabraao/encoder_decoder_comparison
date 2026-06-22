@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1360252000",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "R. DE S. MIRANDA",
+        "cpf_cnpj": "07.954.514/0327-52"
+    },
+    "contracted_party": {
+        "name": "R. DE S. MIRANDA",
+        "cpf_cnpj": "07.954.514/0327-52"
+    },
+    "validity": "06 de janeiro de 2025",
+    "global_value": "Cinquenta e três mil, oitocentos e oitenta e cinco",
+    "signature": {
+        "date": "06/01/2025",
+        "signatories": {
+            "contracting_party": "RENATA DE SOUZA MIRANDA",
+            "contracted_party": "RENATA DE SOUZA MIRANDA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

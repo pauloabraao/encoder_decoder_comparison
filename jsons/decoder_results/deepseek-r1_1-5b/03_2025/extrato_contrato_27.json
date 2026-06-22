@@ -1,0 +1,24 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.037928/2025-39"
+  },
+  "contracting_party": {
+    "name": "EEMTI",
+    "cpf_cnpj": "07.954.514/0075-61"
+  },
+  "contracted_party": {
+    "name": "U.S DACRUZNETO",
+    "cpf_cnpj": "85.99759-6678"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 27.142,50",
+  "signature": {
+    "date": null,
+    "signatories": {}
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

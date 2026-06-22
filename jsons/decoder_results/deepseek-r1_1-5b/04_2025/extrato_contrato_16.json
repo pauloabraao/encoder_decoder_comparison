@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.117463/2024-18",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "contracted_party": {
+    "name": "Marcos Felipe Vicente",
+    "cpf_cnpj": " Marcos Felipe Vicente - Coordenador/ASJUR"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 51.280,00",
+  "signature": {
+    "date": "18/03/2025",
+    "signatories": {
+      "contracting_party": "ARIANNY NASCIMENTO DE SOUSA",
+      "contracted_party": "Rodrigo Ferreira Torres"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

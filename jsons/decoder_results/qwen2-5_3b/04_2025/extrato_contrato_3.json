@@ -1,0 +1,61 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "contractor": {
+    "name": "EB Distribuidora Ltda.",
+    "address": "",
+    "city": ""
+  },
+  "suppliers": [
+    {
+      "name": "Francisco Fábio Alves Ribeiro",
+      "position": "Contratada"
+    }
+  ],
+  "suppliers_with_position": [
+    {
+      "name": "Rosilene Fontineles Araújo Soares",
+      "position": ""
+    },
+    {
+      "name": "Gilmarra Rocha do Nascimento Fernandes",
+      "position": ""
+    }
+  ],
+  "contract_details": {
+    "object": "Aquisição de material de consumo (expediente e limpeza)",
+    "fundamental_legislation": "Pregão Eletrônico n° 20240054, Lei Federal nº 14.133",
+    "foro": "Fortaleza/CE",
+    "duration": "12 meses"
+  },
+  "financial_details": {
+    "total_value": "R$ 9.298,10"
+  },
+  "contract_terms": {
+    "fundamental_conditions": [
+      "Objeto do contrato: Aquisição de material de consumo (expediente e limpeza)",
+      "Fundação legal: Pregão Eletrônico n° 20240054, Lei Federal nº 14.133",
+      "Vigência: 12 meses a partir da assinatura do contrato"
+    ]
+  },
+  "signature_date": "27 de Janeiro de 2025",
+  "signatories": [
+    {
+      "name": "Eliana Nunes Estrela",
+      "position": "Secretária da Educação (Contratante)"
+    },
+    {
+      "name": "Francisco Fábio Alves Ribeiro",
+      "position": "EB Distribuidora Ltda. (Contratada)"
+    }
+  ],
+  "additional_signatories": [
+    {
+      "name": "Rosilene Fontineles Araújo Soares",
+      "position": ""
+    },
+    {
+      "name": "Gilmarra Rocha do Nascimento Fernandes",
+      "position": ""
+    }
+  ]
+}

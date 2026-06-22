@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.143517/2024-09",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A EEMTI JOAQUIM BASTOS GONÇALVES",
+    "cpf_cnpj": "07.954.514/0344- 53"
+  },
+  "contracted_party": {
+    "name": "A J F BRAZ GOMES",
+    "cpf_cnpj": "50.511.522/0001-26"
+  },
+  "validity": "120 (cento e vinte) dias",
+  "global_value": "R$ 82.300,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Helton Souza Brito",
+      "contracted_party": "Jose Fabiano Braz Gomes"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

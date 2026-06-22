@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "2200112314/202417 - IG - 1352286",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEMTI Maria Dolores Alcântara e Silva",
+        "cpf_cnpj": "53.279.810/0001-95"
+    },
+    "contracted_party": {
+        "name": "EEMTI Maria Dolores Alcântara e Silva",
+        "cpf_cnpj": "53.279.810/0001-95"
+    },
+    "validity": "06 de Novembro de 2024",
+    "global_value": "R$ 6.255,00",
+    "signature": {
+        "date": "06/11/2024",
+        "signatories": {
+            "contracting_party": "Ivanildo da Silva Tabosa",
+            "contracted_party": "Juliana Vitor Pereira"
+        }
+    },
+    "legal_unit": {
+        "name": "Ivanildo da Silva Tabosa",
+        "role": null
+    }
+}

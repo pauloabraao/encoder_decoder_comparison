@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001079318/20251 - IG - 1380337",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "",
+    "cpf_cnpj": ""
+  },
+  "contracted_party": {
+    "name": "",
+    "cpf_cnpj": ""
+  },
+  "validity": "",
+  "global_value": "R$ 5.400,00",
+  "signature": {
+    "date": "26/05/2025",
+    "signatories": {
+      "contracting_party": "",
+      "contracted_party": ""
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

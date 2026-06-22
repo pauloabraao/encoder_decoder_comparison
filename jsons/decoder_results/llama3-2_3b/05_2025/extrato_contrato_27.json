@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.029350/2025-47",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI Gerardo Majella",
+    "cpf_cnpj": "07.954.514/0336-43"
+  },
+  "contracted_party": {
+    "name": "T.F CONSTRUCES LTDA",
+    "cpf_cnpj": null
+  },
+  "validity": "300 (trezentos) dias",
+  "global_value": "R$ 25.305,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Neyziane Medeiros de Lima e Silva",
+      "contracted_party": "JOSÉ WILSON SOUZA MELO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

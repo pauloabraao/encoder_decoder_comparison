@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001045186/202434",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A E.E.M.T.I. ALAÍDE SILVA SANTOS",
+    "cpf_cnpj": "07.954.514/0857-91"
+  },
+  "contracted_party": {
+    "name": "OTN PRODUÇOES LOCAÇOES E SERVIÇOS LTDA",
+    "cpf_cnpj": "46.277.864/0001-56"
+  },
+  "validity": "180 (cento e oitenta) dias",
+  "global_value": "R$ 23.453,18",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "CÍCERO REGINALDO NASCIMENTO SANTOS",
+      "contracted_party": "OTACILIO PEREIRA DA SILVA NETO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "FUNDAÇÃO UNIVERSIDADE REGIONAL DO CARIRI – URCA",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "MMB SEGURADORA S.A.",
+    "cpf_cnpj": null
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 12.000,00",
+  "signature": {
+    "date": "12 de março de 2025",
+    "signatories": {
+      "contracting_party": "Carlos Kleber Nascimento de Oliveira",
+      "contracted_party": null
+    }
+  },
+  "legal_unit": {
+    "name": "Fundação Universidade Regional do Ceará – URCA",
+    "role": "Representante Legal"
+  }
+}

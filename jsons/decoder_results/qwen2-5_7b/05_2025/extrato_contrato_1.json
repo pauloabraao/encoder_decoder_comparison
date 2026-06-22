@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "004/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "FUNDAÇÃO DE TELEDUCAÇÃO DO ESTADO DO CEARÁ – FUNTELC",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "VP EVENTOS E CONSULTORIA LTDA",
+    "cpf_cnpj": null
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 2.500.000,00",
+  "signature": {
+    "date": "28/04/2025",
+    "signatories": {
+      "contracting_party": "AURILENE GOMES XIMENES TAVARES",
+      "contracted_party": "VERIDIANO PINHEIRO DA SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "José Gledson Oliviera da Páscoa",
+    "role": "DIRETOR ADMINISTRATIVO-FINANCEIRO"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "030/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS",
+    "cpf_cnpj": "33.866.288/0001-30"
+  },
+  "contracted_party": {
+    "name": "KG CONSTRUÇÕES LTDA.",
+    "cpf_cnpj": "10.922.543/0001-10"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 2.258.441,26 (dois milhões, duzentos e cinquenta e oito mil, quatrocentos e quarenta e um reais e vinte e seis centavos)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS",
+      "contracted_party": "KG CONSTRUÇÕES LTDA."
+    }
+  },
+  "legal_unit": {
+    "name": "Gadyel Gonçalves de Aguiar",
+    "role": "Superintendente da SOP"
+  }
+}

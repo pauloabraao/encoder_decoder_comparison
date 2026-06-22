@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "023/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "AGÊNCIA DE DEFESA AGROPECUÁRIA DO ESTADO DO CEARÁ - ADAGRI,",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "Empresa MIDAS PRESTAÇÃO DE SERVIÇOS GERAIS LTDA,",
+        "cpf_cnpj": "023.745.564-17,"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 1.920,00",
+    "signature": {
+        "date": "23/04/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "ELMO ROBERTO BELCHIOR AGUIAR,"
+        }
+    },
+    "legal_unit": {
+        "name": "Rafael Fernandes de Alcântara",
+        "role": "ASSESSOR JURÍDICO"
+    }
+}

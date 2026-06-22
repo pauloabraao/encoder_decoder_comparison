@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "19/2025",
+        "ig": "1316190000 - SACC: 1358544"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "JCM CONSTRUTORA E COMÉRCIO LTDA",
+        "cpf_cnpj": "04.732.759/0001-10,doravante denominada CONTRATADA, neste ato representada pelo Sr. INÁCIO DE LOIOLA CARLOS MEDEIROS, brasileiro, casado, engenheiro civil, com RG nº 97003011596 SSP-CE, e CPF n.º 091.249.003"
+    },
+    "validity": "4.1. O prazo de vigência deste contrato é de 24 (vinte e quatro) meses",
+    "global_value": "R$ 10.672.165,92",
+    "signature": {
+        "date": "16",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "Educação, brasileira, portadora da Carteira de Identidade nº 216562291 SSP/CE, inscrita no CPF sob o nº 473.400.533- 87, residente e domiciliada em Fortaleza/CE CONTRATADA: JCM CONSTRUTORA E COMÉRCIO LTDA, estabelecida na Rua Luis Vieira"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": "CECASA/CE",
+    "cpf_cnpj": "0000001-000000"
+  },
+  "contracted_party": {
+    "name": "HEBERT DOS SANTOS LIMA",
+    "cpf_cnpj": ""
+  },
+  "validity": "180 (cento e oitenta) dias",
+  "global_value": "R$ 745.754,78",
+  "signature": {
+    "date": "",
+    "signatories": {
+      "contracting_party": "HEBERT DOS SANTOS LIMA",
+      "contracted_party": ""
+    }
+  },
+  "legal_unit": {
+    "name": "CECASA/CE",
+    "role": "Representante Legal"
+  }
+}

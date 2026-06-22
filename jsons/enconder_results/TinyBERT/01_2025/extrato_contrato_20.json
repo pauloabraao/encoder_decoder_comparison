@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.124018/2024-12",
+        "ig": "1348636"
+    },
+    "contracting_party": {
+        "name": "escola EEEP ADRIANO NOBRE",
+        "cpf_cnpj": "07.954.514/0030"
+    },
+    "contracted_party": {
+        "name": "MESQUITA",
+        "cpf_cnpj": "0132, inscrita no CPF/CNPJ sob o nº 49.563"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 3.120,00",
+    "signature": {
+        "date": "30/10/2024",
+        "signatories": {
+            "contracting_party": "FRANCISCO CLEITON MELOS DE OLIVEIRA",
+            "contracted_party": "FRANCISCO CLEITON MELOS DE OLIVEIRA"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

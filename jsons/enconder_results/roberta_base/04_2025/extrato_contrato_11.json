@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "º93/2025",
+    "ig": "1334698000"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "MIRANDA E FARIAS CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "13.272.645/0001- 25"
+  },
+  "validity": "24 (vinte e quatro) meses",
+  "global_value": "R$ 10.412.448,25",
+  "signature": {
+    "date": "24/03/2025",
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "JOÃO DA COSTA MIRANDA NETO"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

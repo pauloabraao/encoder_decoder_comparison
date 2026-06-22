@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/ESCALA",
+    "cpf_cnpj": "07.954.514/0848-09"
+  },
+  "contracted_party": {
+    "name": "HALTECH COMERCIO DE GLP LTDA",
+    "cpf_cnpj": "35.438.916/0001-02"
+  },
+  "validity": "365 (trezentos e sessenta cinco) dias",
+  "global_value": "R$ 7.977,90 (sete mil novecentos e setenta e sete reais e noventa centavos)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "HALTECH COMERCIO DE GLP LTDA",
+      "contracted_party": "JOSIEL ALBINO LIMA"
+    }
+  },
+  "legal_unit": {
+    "name": "Secretaria da Educação/ESCALA",
+    "role": null
+  }
+}

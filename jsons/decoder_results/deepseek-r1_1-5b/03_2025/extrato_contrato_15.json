@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001037574/2025 22 IG 1365091",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "LICEU ESTADUAL ALFREDO ALMEIDA MACHADO",
+    "cpf_cnpj": "07.954.514/0319-42"
+  },
+  "contracted_party": {
+    "name": "PH E B COMERCIO E SERVIÇOS LTDA",
+    "cpf_cnpj": "54.095.907/0001-10"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 10.498,16",
+  "signature": {
+    "date": "26 de Fevereiro de 2025",
+    "signatories": {
+      "contracting_party": "LICEU ESTADUAL ALFREDO ALMEIDA MACHADO",
+      "contracted_party": "FRANCISCA AISLAN PEREIRA DE SOUSA"
+    }
+  },
+  "legal_unit": {
+    "name": " Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

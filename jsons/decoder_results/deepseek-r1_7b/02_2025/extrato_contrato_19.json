@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.007218/2025-84/PRÉ-RESERVA",
+    "ig": "1363455"
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI Gerardo Majella",
+    "cpf_cnpj": "07.954.514/0659-28"
+  },
+  "contracted_party": {
+    "name": "T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": "38.183.766/0001-21"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 18.350,40",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Damião Lins de Souza",
+      "contracted_party": "Leonardo Ferreira Gomes"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

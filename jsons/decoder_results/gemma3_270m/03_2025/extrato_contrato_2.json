@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "02/2025",
+    "ig": "1363604"
+  },
+  "contracting_party": {
+    "name": "FUNDAÇÃO UNIVERSIDADE REGIONAL DO CARIRI - URCA CONTRATADA",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "RILLA RENIEE LIMA BARROS",
+    "cpf_cnpj": "22.267.632/0001-59"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 15.400,00",
+  "signature": {
+    "date": "20 de fevereiro de 2025",
+    "signatories": {
+      "contracting_party": "FUNDAÇÃO UNIVERSIDADE REGIONAL DO CARIRI",
+      "contracted_party": "RILLA RENIEE LIMA BARROS"
+    }
+  },
+  "legal_unit": {
+    "name": "MARCOS FELIX VICTÍVIO",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

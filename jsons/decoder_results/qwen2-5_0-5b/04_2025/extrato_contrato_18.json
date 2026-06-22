@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.030678/2025-14/IG-1368515",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0197-30"
+  },
+  "contracted_party": {
+    "name": "FORTE COMERCIO DE ALIMENTOS LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 14.516,70",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": "FORTE COMERCIO DE ALIMENTOS LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

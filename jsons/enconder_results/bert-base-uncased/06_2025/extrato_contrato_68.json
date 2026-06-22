@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.086035/2025-17",
+        "ig": "1383430"
+    },
+    "contracting_party": {
+        "name": "EEMTI Almiro da Cruz",
+        "cpf_cnpj": "07.954.514/0580-42"
+    },
+    "contracted_party": {
+        "name": "CAMILA ALVES ARAUJO",
+        "cpf_cnpj": "44.084.013/0001-61"
+    },
+    "validity": "180 (cento e oitenta) dias",
+    "global_value": "R$7.800,00",
+    "signature": {
+        "date": "05/06/2025",
+        "signatories": {
+            "contracting_party": "Marcos Antônio de Matos",
+            "contracted_party": "Camila Alves Araújo"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

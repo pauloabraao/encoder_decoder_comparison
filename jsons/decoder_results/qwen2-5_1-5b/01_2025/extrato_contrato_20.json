@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.124018/2024-12",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A escola EEEP ADRIANO NOBRE, situada na Rua Odilon Ferreira Gomes, nº 475, Bairro Esmerino Gomes, no Município de Itapajé/CE",
+    "cpf_cnpj": "07.954.514/0030-60"
+  },
+  "contracted_party": {
+    "name": "FRANCISCO CLEITON MELOS DE OLIVEIRA, com sede na Rua João Salustião da Mota, n° 153, Hospital no município de Irauçuba/CE",
+    "cpf_cnpj": "49.563.071/0001-91"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 3.120,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "SILVANDIRA MESQUITA SOUSA - CONTRATANTE - FRANCISCO CLEITON MELOS DE OLIVEIRA – CONTRATADA e TESTEMUNHAS: 01- FRANCISCO CLEITON MELOS DE OLIVEIRA, 02- IRAN SOUSA LIMA",
+      "contracted_party": null
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves COORDENADORA/ASJUR ---",
+    "role": null
+  }
+}

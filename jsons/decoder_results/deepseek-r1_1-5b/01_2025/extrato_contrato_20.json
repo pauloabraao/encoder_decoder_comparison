@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "023/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA EDU TI EEMTI GERARDO M. BAZARECETE",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "12 meses",
+  "global_value": "R$ 104.578,80",
+  "signature": {
+    "date": "07/04/2025",
+    "signatories": {
+      "contracting_party": "MOISÉS BRAZ RICARDO",
+      "contracted_party": "ROBERIO MATEUS DE ARAUJO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

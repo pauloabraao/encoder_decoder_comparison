@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1349911",
+        "ig": "22100022.12.362.231.20980.04.339039.50000.0 - 19306"
+    },
+    "contracting_party": {
+        "name": "EEEP JAIME DA CUNHA REBOUÇAS",
+        "cpf_cnpj": "07.954.514/0828-57"
+    },
+    "contracted_party": {
+        "name": "DUNA ENGENHARIA",
+        "cpf_cnpj": "07.954.514/0828-57"
+    },
+    "validity": "360 (trezentos e sessenta) dias corridos",
+    "global_value": "R$ 23.455,77",
+    "signature": {
+        "date": "30/10/2024",
+        "signatories": {
+            "contracting_party": "João Lucas Maia de Oliveira Geraldo",
+            "contracted_party": "João Lucas Maia de Oliveira Geraldo"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

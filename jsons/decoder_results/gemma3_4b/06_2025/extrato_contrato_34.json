@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.076187/2025-10",
+    "ig": "1381365"
+  },
+  "contracting_party": {
+    "name": "EEP PROFª ELSA MARIA PORTO COSTA LIMA",
+    "cpf_cnpj": "07.954.514/0327-52"
+  },
+  "contracted_party": {
+    "name": "Y.A. MONTEIRO SOLUTION",
+    "cpf_cnpj": "50.949.285/0001-80"
+  },
+  "validity": "300 (trezentos) dias",
+  "global_value": "R$9.833,40",
+  "signature": {
+    "date": "27/05/2025",
+    "signatories": {
+      "contracting_party": "MÁRCIA VIANA PORTO VIEIRA",
+      "contracted_party": "YURI ARAÚJO MONTEIRO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

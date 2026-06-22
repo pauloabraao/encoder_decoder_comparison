@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001065840/202515",
+    "ig": "1378072"
+  },
+  "contracting_party": {
+    "name": "EEM JOSE FIDELES DE MOURA,",
+    "cpf_cnpj": "07.954.514/0774-20,"
+  },
+  "contracted_party": {
+    "name": "PROGÁS DISTRIBUIDORA DE GÁS E ÁGUA LTDA,",
+    "cpf_cnpj": "53.256.763/0001-64,"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias,",
+  "global_value": "R$ 4.119,60",
+  "signature": {
+    "date": "22/05/2025",
+    "signatories": {
+      "contracting_party": "MARIA VALDERLI DE SOUZA FEITOSA",
+      "contracted_party": "EDSON NASCIMENTO DE SOUZA."
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

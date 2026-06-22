@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.131087/2024-74/PRÉ-RESERVA: 1372013",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEM RAUL BARBOSA",
+    "cpf_cnpj": "07.954.514/0645-22"
+  },
+  "contracted_party": {
+    "name": "VISION CONSTRUÇÕES E SERVIÇOS LTDA",
+    "cpf_cnpj": "10.560.303/0001-12"
+  },
+  "validity": null,
+  "global_value": null,
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "MARIA CLAUDENIA MOURA DE OLIVEIRA",
+      "contracted_party": "NILSON BENTO DA SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "VISION CONSTRUÇÕES E SERVIÇOS LTDA",
+    "role": null
+  }
+}

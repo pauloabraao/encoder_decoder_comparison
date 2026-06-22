@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001037574/2025",
+        "ig": "1365091"
+    },
+    "contracting_party": {
+        "name": "LICEU ESTADUAL ALFREDO ALMEIDA MACHADO",
+        "cpf_cnpj": "07.954.514/0319-42"
+    },
+    "contracted_party": {
+        "name": "Amancio CONTRATADA",
+        "cpf_cnpj": "11.914.096"
+    },
+    "validity": "365 (TREZENTOS E SESSENTA E CINCO) dias , contado a partir de sua celebração. PRAZO DE EXECUÇÃO O prazo de execução do objeto contratual é de 300 (trezentos) dias",
+    "global_value": "R$ 10.498,16",
+    "signature": {
+        "date": "27",
+        "signatories": {
+            "contracting_party": "Luisa Oliveira",
+            "contracted_party": "Luisa Oliveira"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

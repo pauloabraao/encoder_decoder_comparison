@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "023/2025",
+    "ig": "1378453"
+  },
+  "contracting_party": {
+    "name": "E.E.M.T.I. Lídia Bezerra",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "A.F DE OLIVEIRA MANUTENÇÕES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 9.044,00",
+  "signature": {
+    "date": "23 de Maio de 2025",
+    "signatories": {
+      "contracting_party": "E.E.M.T.I. Lídia Bezerra",
+      "contracted_party": "A.F DE OLIVEIRA MANUTENÇÕES LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Anna Karinne Nery Veras",
+    "role": "Coordenadora da Assessoria Jurídica"
+  }
+}

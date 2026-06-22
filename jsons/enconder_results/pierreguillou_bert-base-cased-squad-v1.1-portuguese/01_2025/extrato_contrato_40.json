@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1359272000",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "BRANDAO CONSTRUCOES E SERVIÇOS",
+        "cpf_cnpj": "07.954.514/0352-63"
+    },
+    "contracted_party": {
+        "name": "AQUISIÇÃO - OBRAS E INSTALAÇÕES - EXECUÇÃO - REFORMA ESTRUTURAL DA SALA E CIRCULAÇÃO",
+        "cpf_cnpj": null
+    },
+    "validity": "240 ( duzentos e quarenta dias) dias corridos",
+    "global_value": "R$ 89.000,00",
+    "signature": {
+        "date": "26/12/2024",
+        "signatories": {
+            "contracting_party": "Jean Carlos Rodrigues da Silva",
+            "contracted_party": "Alexandre Cardoso Brandão"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

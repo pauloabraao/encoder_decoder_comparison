@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.060727/2025-35",
+        "ig": "1378736"
+    },
+    "contracting_party": {
+        "name": "Escola Estadual de Educação Profissional Juarez Távora",
+        "cpf_cnpj": "07.954.514/0498- 09"
+    },
+    "contracted_party": {
+        "name": "SEMPRE COMERCIO & SERVICOS LTDA",
+        "cpf_cnpj": "58.152.220/0001-10"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 2.955,00",
+    "signature": {
+        "date": "05/06/2025",
+        "signatories": {
+            "contracting_party": "Corina Bastos Bitu",
+            "contracted_party": "Leonardo Gonçalves Braga"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

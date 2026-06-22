@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001048390/202598",
+        "ig": "1378797"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO WALDEMAR ALCÂNTARA",
+        "cpf_cnpj": "07.954.514/0294-50"
+    },
+    "contracted_party": {
+        "name": "OURO VERDE COMERCIO E SERVIÇOS LTDA",
+        "cpf_cnpj": "46.333.345/0001-68"
+    },
+    "validity": "365 (trezentos e quarenta e cinco) dias",
+    "global_value": "R$ 38.202,00",
+    "signature": {
+        "date": "09/06/2025",
+        "signatories": {
+            "contracting_party": "Régis Nascimento da Silva",
+            "contracted_party": "Marcos Tadeu Costa Sampronha"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "004/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESTADO DO CEARÁ, através da CASA CIVIL",
+        "cpf_cnpj": "09.469.891/0001-02"
+    },
+    "contracted_party": {
+        "name": "Empresa 46.540.559",
+        "cpf_cnpj": "46.540.559/0001-05"
+    },
+    "validity": "90 (noventa) dias",
+    "global_value": "R$ 5.500,00",
+    "signature": {
+        "date": "24/01/2025",
+        "signatories": {
+            "contracting_party": "Francisco José Moura Cavalcante",
+            "contracted_party": "Thiago Cesar Nunes de Freitas"
+        }
+    },
+    "legal_unit": {
+        "name": "Sabrine Gondim Lima",
+        "role": "COORDENADORA DA ASSESSORIA JURÍDICA"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "550/2025",
+        "ig": "1317899000"
+    },
+    "contracting_party": {
+        "name": "FUNECE",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "COELCE.",
+        "cpf_cnpj": null
+    },
+    "validity": "12/03/2025",
+    "global_value": "R$ 240.000,00",
+    "signature": {
+        "date": "12/03/2025",
+        "signatories": {
+            "contracting_party": "Hidelbrando dos Santos Soares",
+            "contracted_party": "Eloa da Silveira Santander-Executiva de clientes governo da COELCE."
+        }
+    },
+    "legal_unit": {
+        "name": "Roberta Nunes",
+        "role": "ASSESSORIA JURÍDICA"
+    }
+}

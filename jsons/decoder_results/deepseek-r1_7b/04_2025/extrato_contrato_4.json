@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.094981/2024-56",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A EEEP GOVERNADOR LUIZ DE GONZAGA FONSECA MOTA",
+    "cpf_cnpj": "07.954.514/0223-66"
+  },
+  "contracted_party": {
+    "name": "ONTEC LOCAÇÕES E SERVIÇOS LTDA",
+    "cpf_cnpj": "46.856.681/0001-95"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 89.700,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": null,
+      "contracted_party": null
+    }
+  },
+  "legal_unit": {
+    "name": "Anna Karinne Nery Veras",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

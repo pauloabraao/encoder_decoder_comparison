@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.092522/2025-19",
+    "ig": "1383952"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ESCOLA LICEU DE ACOPIARA DEPUTADO FRANCISCO ALVES SOBRINHO",
+    "cpf_cnpj": "07.954.514/0655-02"
+  },
+  "contracted_party": {
+    "name": "ANTONIO ALVES DE ARAÚJO",
+    "cpf_cnpj": "752.263.833-04"
+  },
+  "validity": "365(trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 39.939,70",
+  "signature": {
+    "date": "09/06/2025",
+    "signatories": {
+      "contracting_party": "Antônio Marcelo Castro Feitosa",
+      "contracted_party": "ANTONIO ALVES DE ARAÚJO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

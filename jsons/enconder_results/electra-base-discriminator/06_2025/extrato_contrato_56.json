@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.086990/2025-54",
+    "ig": "1382842"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ, por intermédio da COORDENADORIA REGIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO – CREDE 11 JAGUARIBE",
+    "cpf_cnpj": "07.954.514/0642-80"
+  },
+  "contracted_party": {
+    "name": "INORD GRÁFICA & EDITORA LTDA.",
+    "cpf_cnpj": "47.904.417/0001-42"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 14.259,20",
+  "signature": {
+    "date": "09/06/2025",
+    "signatories": {
+      "contracting_party": "NEYRISMAR FELIPE DOS SANTOS",
+      "contracted_party": "FRANCISCO ELENILSON SARAIVA OLIVEIRA JÚNIOR"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

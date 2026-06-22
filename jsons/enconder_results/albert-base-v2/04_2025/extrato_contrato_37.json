@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001008924/2025643",
+    "ig": "1369619"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ESCOLA de Ensino Médio em Tempo Integral Adahil Barreto,",
+    "cpf_cnpj": "07.954.514/0659-28,"
+  },
+  "contracted_party": {
+    "name": "3PS LTDA,",
+    "cpf_cnpj": "141.262.099/0001-87,"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias,",
+  "global_value": "R$ 10.861,00",
+  "signature": {
+    "date": "21/03/2025",
+    "signatories": {
+      "contracting_party": "Damião Lins de Souza",
+      "contracted_party": "Jorge Luis Gomes Mendonça."
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

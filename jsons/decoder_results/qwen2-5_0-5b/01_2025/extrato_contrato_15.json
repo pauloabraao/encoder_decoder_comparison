@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.132239/2024-56",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0277-59"
+  },
+  "contracted_party": {
+    "name": "T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": null,
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ARIANNY NASCIMENTO DE SOUSA",
+      "contracted_party": "ANTÔNIA DE MARIA DA SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "MARIA CLEONICE PEREIRA DOS SANTOS",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

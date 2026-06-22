@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "023/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "AGÊNCIA DE DEFESA AGROPECUÁRIA DO ESTADO DO CEARÁ - ADAGRI",
+        "cpf_cnpj": "14.481, de 08 de outubro de 2009, e 17.745"
+    },
+    "contracted_party": {
+        "name": "Empresa MIDAS PRESTAÇÃO DE SERVIÇOS GERAIS LTDA",
+        "cpf_cnpj": "47.293.532/0001-28"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ R$ 1.920,00",
+    "signature": {
+        "date": "23",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "MARCOS RODRIGUES"
+        }
+    },
+    "legal_unit": {
+        "name": "MARCOS RODRIGUES",
+        "role": "JURÍDICO"
+    }
+}

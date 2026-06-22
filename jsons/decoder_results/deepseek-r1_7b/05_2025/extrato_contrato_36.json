@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001071093/2025",
+    "ig": "1373417"
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI Edson Luiz Cavalcante de Gouvêa",
+    "cpf_cnpj": "07954514/0666-57"
+  },
+  "contracted_party": {
+    "name": "ADAUTO ROSA DA SILVA",
+    "cpf_cnpj": "645.312.873-04"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 37.555,00",
+  "signature": {
+    "date": "22/04/2025",
+    "signatories": {
+      "contracting_party": "Fagner Fábio Alves",
+      "contracted_party": "Adauto Rosa da Silva"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

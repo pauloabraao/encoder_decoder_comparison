@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "123/2025/NUP",
+    "ig": "1312891000. SACC: 1363496"
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "FHS CONSTRUTORA LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "24 (vinte e quatro) meses",
+  "global_value": "R$ 11.029.920,97",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": "FHS CONSTRUTORA LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "José Valdeci Rebozuas",
+    "role": "Superintendente da Superintendência de Obras Públicas - SOP"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.031232/2025-07",
+        "ig": "1367228"
+    },
+    "contracting_party": {
+        "name": "A, EEMTI GOVERNADOR GONZAGA MOTA",
+        "cpf_cnpj": "07.954.514/0153-19"
+    },
+    "contracted_party": {
+        "name": "I M PEREIRA",
+        "cpf_cnpj": "07.121.465/0001- 40"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco)dia",
+    "global_value": "R$ 1.211,60",
+    "signature": {
+        "date": "26/03/2025",
+        "signatories": {
+            "contracting_party": "JULIANA EVARISTO COSTA",
+            "contracted_party": "Ivanildo Moura Pereira"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

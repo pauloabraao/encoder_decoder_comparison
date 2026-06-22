@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001114207/202479",
+    "ig": "1379129"
+  },
+  "contracting_party": {
+    "name": "EEMTI Hildeberto Barroso",
+    "cpf_cnpj": "07.954.514/0035-74"
+  },
+  "contracted_party": {
+    "name": "CONSTRUTORA G V EMPREENDIMENTOS",
+    "cpf_cnpj": "49.881.156/0001-18"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 86.104,30",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "JULIVAN CUNHA RIBEIRO",
+      "contracted_party": "GUSTAVO ARAÚJO VASCONCELOS"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

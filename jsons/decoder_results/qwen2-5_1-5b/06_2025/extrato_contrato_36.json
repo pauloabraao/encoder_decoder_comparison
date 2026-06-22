@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.023883/2025-15/PRÉ-RESERVA:1378747",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, através da Secretaria da Educação/ESCOLA CEJA PROFESSORA MARIA EUDES VERAS",
+    "cpf_cnpj": "07.954.514/0477-84"
+  },
+  "contracted_party": {
+    "name": "ZACARIAS DOS SANTOS CHAVES JUNIOR ME",
+    "cpf_cnpj": "13.644.785/0001-87"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": null,
+  "signature": {
+    "date": "22/05/2025",
+    "signatories": {
+      "contracting_party": "SAMARA MAPURUNGA DOS SANTOS SALES - CONTRATANTE – ZACARIAS DOS SANTOS CHAVES JUNIOR – CONTRATADA e TESTEMUNHAS: 01-MAYANNE FERREIRA LIMA, 02-MARIA REGINA DA GUIA TORQUATO",
+      "contracted_party": null
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente COORDENADOR/ASJUR *** *** ***",
+    "role": null
+  }
+}

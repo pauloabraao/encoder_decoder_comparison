@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "Nº045/2025",
+        "ig": "1364626"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "a TJL COMERCIO E SERVICOS LTDA",
+        "cpf_cnpj": "55.101.626/0001-86, doravante denominada CONTRATADA, representada neste ato pelo(a) Sr(a). JACQUELINE MOURA BARBOSA, brasileiro(a), inscrito(a) no CPF sob o nº 008"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 36.897,80",
+    "signature": {
+        "date": "18/02/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "Educação, brasileiro(a), portador(a) da Carteira de Identidade nº 216562291 SSP/CE, inscrito(a) no CPF sob o nº 473.400.533-87, residente e domiciliada em Fortaleza/CE CONTRATADA: a TJL COMERCIO E SERVICOS LTDA, com sede na Avenida Edilson"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR ASJUR"
+    }
+}

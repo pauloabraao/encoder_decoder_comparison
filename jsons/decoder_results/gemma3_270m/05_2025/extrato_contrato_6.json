@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "1372499000",
+    "ig": "Fortaleza/CE"
+  },
+  "contracting_party": {
+    "name": "FUNECE CONTRATADA",
+    "cpf_cnpj": "Roberta Nunes ASSESSORIA JURÍDICA"
+  },
+  "contracted_party": {
+    "name": "Futura CLIMATIZAÇÃO E ENERGIA RENOVÁVEL DISTRIBUIDORA COMÉRCIO E SERVIÇOS LTDA",
+    "cpf_cnpj": "Rodrigo Ferreira Torres"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 241.900,00",
+  "signature": {
+    "date": "28/04/2025",
+    "signatories": {
+      "contracting_party": "FUNECE CONTRATADA",
+      "contracted_party": "Futura CLIMATIZAÇÃO E ENERGIA RENOVÁVEL DISTRIBUIDORA COMÉRCIO E SERVIÇOS LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

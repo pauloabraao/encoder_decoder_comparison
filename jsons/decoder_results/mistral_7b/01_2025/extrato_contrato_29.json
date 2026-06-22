@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.063470/2024-92/PRÉ-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI JOAQUIM RODRIGUES DE LIMA",
+    "cpf_cnpj": "07.954.514/0777-72"
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA DOS PRODUTOS RURAIS DE QUIXERÉ E VALE DO JAGUARIBE- COOPAVAQ",
+    "cpf_cnpj": "51.506.696/0001-63"
+  },
+  "validity": "365 (TREZENTOS E SESSENTA E CINCO) dias",
+  "global_value": "R$ 86.316,00",
+  "signature": {
+    "date": "08 de novembro de 2024",
+    "signatories": {
+      "contracting_party": "JOSÉ CLÁUDIO BRITO ARAÚJO",
+      "contracted_party": "JOSÉ GLADIMAR DE ARAUJO"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

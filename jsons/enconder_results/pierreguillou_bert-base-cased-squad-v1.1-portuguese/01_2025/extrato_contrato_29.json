@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1348171",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "Secretaria da Educação/EEMTI JOAQUIM RODRIGUES DE LIMA",
+        "cpf_cnpj": "07.954.514/0777-72"
+    },
+    "contracted_party": {
+        "name": "Secretaria da Educação/EEMTI JOAQUIM RODRIGUES DE LIMA",
+        "cpf_cnpj": null
+    },
+    "validity": null,
+    "global_value": "R$ 86.316,00",
+    "signature": {
+        "date": "08/11/2024",
+        "signatories": {
+            "contracting_party": "JOSÉ GLADIMAR DE ARAUJO",
+            "contracted_party": "JOSÉ GLADIMAR DE ARAUJO"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.048976/2025-52",
+        "ig": "1373931"
+    },
+    "contracting_party": {
+        "name": "EEEP PEDRO DE QUEIROZ LIMA",
+        "cpf_cnpj": "07.954.514/0394-12"
+    },
+    "contracted_party": {
+        "name": "32.762.666 MARIA THAYNARA ALVES RODRIGUES",
+        "cpf_cnpj": "32.762.666/0001-73"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 13.067,46",
+    "signature": {
+        "date": "22/04/2024",
+        "signatories": {
+            "contracting_party": "Arthur Monteiro da Silva",
+            "contracted_party": "Maria Thaynara Alves Rodrigues"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

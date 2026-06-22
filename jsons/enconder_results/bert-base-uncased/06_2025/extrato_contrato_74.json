@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.081002/2025-81",
+    "ig": "1382610"
+  },
+  "contracting_party": {
+    "name": "COORDENADORIA REGIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO-CREDE-5",
+    "cpf_cnpj": "07.954.514/0351-82"
+  },
+  "contracted_party": {
+    "name": "R G MOREIRA SOUZA COMERCIAL DE ALIMENTOS LTDA",
+    "cpf_cnpj": "02.268.603./0001-02"
+  },
+  "validity": "220 (duzentos e vinte) dias",
+  "global_value": "R$ 3.570,59",
+  "signature": {
+    "date": "03/06/2025",
+    "signatories": {
+      "contracting_party": "Gerso Mendes Coelho de Morais",
+      "contracted_party": "ANA CRISTINA PINTO DE AGUIAR MOREIRA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

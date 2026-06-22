@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.115476/2024-52",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI PLÁCIDO ADERALDO CASTELO",
+    "cpf_cnpj": "07.954.514/0585-57"
+  },
+  "contracted_party": {
+    "name": "ROSEMARY DE MELO SANTOS SILVA",
+    "cpf_cnpj": "764.152.363-34"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 6.000,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "José Almeida da Silva",
+      "contracted_party": "Rosemary De Melo Santos Silva"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

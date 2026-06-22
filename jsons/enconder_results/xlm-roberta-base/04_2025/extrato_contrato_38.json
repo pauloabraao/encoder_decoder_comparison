@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.036481/2025-81/IG:",
+        "ig": "1368330"
+    },
+    "contracting_party": {
+        "name": "A(O) EEM Florestan Fernandes,",
+        "cpf_cnpj": "07.954.514/0168-03,"
+    },
+    "contracted_party": {
+        "name": "FH EMPRESARIAL LTDA,",
+        "cpf_cnpj": "40.525.490/0001-64,"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias,",
+    "global_value": "R$ 498,00",
+    "signature": {
+        "date": "18/03/2025",
+        "signatories": {
+            "contracting_party": "Zilda da Conceição de Sousa da Luz",
+            "contracted_party": "Francisco Hamilton Teixeira F Filho."
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

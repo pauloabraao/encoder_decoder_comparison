@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.120833/2024-02/PRÉ-RESERVA: 1349971",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A Escola de Ensino Médio Raimundo Nogueira",
+    "cpf_cnpj": "07.954.514/0400-03"
+  },
+  "contracted_party": {
+    "name": "DIMAIAS COMERCIAL LTDA",
+    "cpf_cnpj": "00.289.070/0001-01"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 54.316,84",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Edvando Teixeira Souza",
+      "contracted_party": "Augusto César Carvalho Maia"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

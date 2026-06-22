@@ -1,0 +1,49 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "92/2025/NUP 22001.004958/2024-88",
+    "ig": "1348497",
+    "sacc": "1362554"
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "ZONA NORTE CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "03.614.071/0001-72"
+  },
+  "legal_unit": {
+    "name": "Sra. ELIANA NUNES ESTRELA, Secretária da Educação",
+    "role": "Contratante"
+  },
+  "validity": "28 (vinte e oito) meses",
+  "global_value": "R$ 16.448.397,60",
+  "signature": {
+    "date": "20 de Março de 2025",
+    "signatories": {
+      "contracting_party": "Sra. ELIANA NUNES ESTRELA",
+      "contracted_party": "URANDIA AGUIAR RAMOS",
+      "intervenient": "JOSÉ VALDECI REBOUÇAS"
+    }
+  },
+  "witnesses": [
+    {
+      "name": "CARLOS RODRIGO BARROS DE SOUSA",
+      "role": null
+    },
+    {
+      "name": "GEORGE HENRIQUE BARROSO PONTE FILHO",
+      "role": null
+    }
+  ],
+  "legal_unit_contracted_party": {
+    "name": "Sra. URANDIA AGUIAR RAMOS",
+    "role": "Representante da Empresa Zona Norte Construtora Ltda"
+  },
+  "intervenient": {
+    "name": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP",
+    "cpf_cnpj": "33.866.288/0001-30"
+  },
+  "budget_description": "DOTAÇÃO ORÇAMENTÁRIA: DOTAÇÃO 22100022.12.362.231.11295.13.449051.1.500.9100000.0 FONTE 500 DESCRIÇÃO DA FONTE TESOURO DO ESTADO 22100022.12.362.231.11295.13.449051.1.544.920000 0.1 544 FUNDEF"
+}

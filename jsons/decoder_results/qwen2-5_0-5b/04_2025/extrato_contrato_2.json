@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "052/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO-SDA",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "ASSO-CIAÇÃO CRISTÃO DE BASE - ACB",
+    "cpf_cnpj": "06.740.096/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 2.216.122,11 (dois milhões, duzentos e dezesseis mil, cento e vinte e um reais)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "MOISÉS BRAZ RICARDO",
+      "contracted_party": "ASSO-CIAÇÃO CRISTÃO DE BASE - ACB"
+    }
+  },
+  "legal_unit": {
+    "name": "Anna Karinne Nery Veras",
+    "role": "COORDENADORA DA ASSESSORIA JURÍDICA"
+  }
+}

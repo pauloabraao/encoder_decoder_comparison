@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.132239/2024-56",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI Gerardo Majella",
+    "cpf_cnpj": "07.954.514/0277-59"
+  },
+  "contracted_party": {
+    "name": "ESCOLA INDÍGENA ALTO DA CATINGUEIRA",
+    "cpf_cnpj": null
+  },
+  "validity": "120 (Cento e vinte) dias",
+  "global_value": "R$ 4.480,00",
+  "signature": {
+    "date": "31/10/2024",
+    "signatories": {
+      "contracting_party": "MARIA CLEONICE PEREIRA DOS SANTOS",
+      "contracted_party": null
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

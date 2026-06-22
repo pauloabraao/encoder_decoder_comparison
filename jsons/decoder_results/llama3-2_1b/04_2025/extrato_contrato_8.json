@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "65/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, por intermédio da SECRETARIA DA EDUCAÇÃO",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "EMPRESA KG CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "10.922.543/0001-10"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "30919405",
+  "signature": {
+    "date": "27 de março de 2025",
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "MARIA CANILDES VIEIRA SALES"
+    }
+  },
+  "legal_unit": {
+    "name": "O Estado do Ceará, por intermédio da SECRETARIA DA EDUCAÇÃO",
+    "role": "Secretário da Educação"
+  }
+}

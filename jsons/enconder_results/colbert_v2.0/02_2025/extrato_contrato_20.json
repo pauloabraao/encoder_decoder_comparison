@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.029476/2025-11",
+        "ig": "1363453"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por intermédio da COORDENADORIA REGIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO – CREDE17 - Icó",
+        "cpf_cnpj": "07.954/514/0636-31"
+    },
+    "contracted_party": {
+        "name": "U.S DA CRUZ NETO",
+        "cpf_cnpj": "37.847.947/0001-42"
+    },
+    "validity": "360 (Trezentos e sessenta) dias",
+    "global_value": "R$ 3.101,63",
+    "signature": {
+        "date": "12/02/2025",
+        "signatories": {
+            "contracting_party": "ANTONIO ELIVAL PEREIRA",
+            "contracted_party": "Ubiratan Sobreira da Cruz Neto"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

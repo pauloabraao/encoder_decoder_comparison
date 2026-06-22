@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001009461202537/PRE-RESERVA : 1363406",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEMTI GOVERNADOR GONZAGA MOTA, município de Crateús – CE",
+    "cpf_cnpj": "07.954.514/0153-19"
+  },
+  "contracted_party": {
+    "name": "A.S TERCEIRIZAÇÕES LTDA",
+    "cpf_cnpj": "59.139.020/0001-90"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco) dia",
+  "global_value": "R$ 35.168,64",
+  "signature": {
+    "date": "12/02/2025",
+    "signatories": {
+      "contracting_party": "JULIANA EVARISTO COSTA",
+      "contracted_party": "Ana Patricia Oliveira da Silva"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

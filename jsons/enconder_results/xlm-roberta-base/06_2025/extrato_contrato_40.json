@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "32/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "AGÊNCIA DE DESENVOLVIMENTO DO ESTADO DO CEARÁ S.A – ADECE.",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "INSTITUTO FUTURE DE JUVENTUDE, PROMOÇÃO, TURISMO, CULTURA E DESENVOLVIMENTO SUSTENTÁVEL.",
+        "cpf_cnpj": null
+    },
+    "validity": "60 (sessenta) dias",
+    "global_value": "R$ 200.000,00",
+    "signature": {
+        "date": "09/06/2025",
+        "signatories": {
+            "contracting_party": "Luís Eduardo Fontenelle Barros-",
+            "contracted_party": "Rafael Aureliano Gonçalves Branco- Diretor de Suporte à Negócios da ADECE e Edna Câmara de Vasconcelos-"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "ESCOLA DE ENSINO FUNDAMENTAL E MÉDIO",
+    "cpf_cnpj": ""
+  },
+  "contracted_party": {
+    "name": "PH&B COMERCIO & SERVICOS LTDA.",
+    "cpf_cnpj": ""
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 6.037,50",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "WELLINGTON SAMPAIO VIEIRA JUNIOR",
+      "contracted_party": "FRANCISCA AISLAN PEREIRA DE SOUSA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

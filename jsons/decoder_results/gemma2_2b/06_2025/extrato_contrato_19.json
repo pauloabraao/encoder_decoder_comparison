@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.055842/2025-98",
+    "ig": "1377865"
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação do Estado SEDUC/ Escola Indígena Tabajara Cacique Zé Canuto",
+    "cpf_cnpj": "07.954.514/0171-09"
+  },
+  "contracted_party": {
+    "name": "PROGÁS DISTRIBUIDORA DE GÁS E ÁGUA LTDA",
+    "cpf_cnpj": "53.256.763/0001-64"
+  },
+  "validity": "360 (trezentos e sessenta) dias",
+  "global_value": "R$ 2.121,84",
+  "signature": {
+    "date": "16/05/2025",
+    "signatories": {
+      "contracting_party": "Sebastião Vieira da Silva",
+      "contracted_party": "Edson Nascimento de Souza"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

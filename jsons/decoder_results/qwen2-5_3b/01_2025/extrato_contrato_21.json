@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.129776/2024-19",
+    "ig": "1351577"
+  },
+  "contracting_party": {
+    "name": "EEM ETELVINA GOMES BEZERRA",
+    "cpf_cnpj": "07.954.514/0165-52"
+  },
+  "contracted_party": {
+    "name": "FERNANDO FERREIRA DE LIMA",
+    "cpf_cnpj": "41.322.314/0001-98"
+  },
+  "validity": "180 (cento e oitenta) dias",
+  "global_value": "R$ 23.264,90",
+  "signature": {
+    "date": "07/11/2024",
+    "signatories": {
+      "contracting_party": null,
+      "contracted_party": "Fernando Ferreira de Lima"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

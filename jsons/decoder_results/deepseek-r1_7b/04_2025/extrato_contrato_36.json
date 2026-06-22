@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.038793/2025-29",
+    "ig": "1370174"
+  },
+  "contracting_party": {
+    "name": "Governo do Estado do Ceará",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "ACE ASSESSORIA CONTÁBIL LTDA",
+    "cpf_cnpj": "11.977.190/0001-18"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 149,00",
+  "signature": {
+    "date": "27/03/2025",
+    "signatories": {
+      "contracting_party": "José Ossian Ricarte",
+      "contracted_party": "André Luis Melo do Nascimento"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

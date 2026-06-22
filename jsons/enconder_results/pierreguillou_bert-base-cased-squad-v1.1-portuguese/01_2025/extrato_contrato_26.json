@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1353539",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "AQUISIÇÃO - SERVIÇOS DE TERCEIROS - FORNECIMENTO DE ALIMENTAÇÃO",
+        "cpf_cnpj": "49.341.785/0001-55"
+    },
+    "contracted_party": {
+        "name": "AQUISIÇÃO - SERVIÇOS DE TERCEIROS - FORNECIMENTO DE ALIMENTAÇÃO",
+        "cpf_cnpj": "49.341.785/0001-55"
+    },
+    "validity": "365(trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 33.000,00",
+    "signature": {
+        "date": "08/11/2024",
+        "signatories": {
+            "contracting_party": "Jorge Célio Coelho Aguiar",
+            "contracted_party": "Jorge Célio Coelho Aguiar"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

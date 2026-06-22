@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001138657202457",
+        "ig": "1361067"
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA VILA DOS CACOS,Município de Caucaia/CE",
+        "cpf_cnpj": "07.954.514/0142-66"
+    },
+    "contracted_party": {
+        "name": "INTERLOS EMPREENDIMENTOS LTDA",
+        "cpf_cnpj": "46.154.250/0001/87"
+    },
+    "validity": "365 (Trezentos e Sessenta e Cinco) dias corridos",
+    "global_value": "R$ 106,000.00",
+    "signature": {
+        "date": "11/02/2025",
+        "signatories": {
+            "contracting_party": "Francisca Larisse Nascimento de Moura",
+            "contracted_party": "RINOMARSON SILVA COSTA"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

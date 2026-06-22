@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "23/05/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "ICÓ/CE",
+    "cpf_cnpj": "17/ICÓ"
+  },
+  "contracted_party": {
+    "name": "Fortaleza",
+    "cpf_cnpj": null
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 129.368,00",
+  "signature": {
+    "date": "23/05/2025",
+    "signatories": {
+      "contracting_party": "ANTONIO ELIVAL PEREIRA",
+      "contracted_party": "ANA CRISTINA FERNANDES DE OLIVEIRA BITARÃES"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001081837/2025",
+    "ig": "1383528"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ, POR MEIO DA SECRETARIA DA EDUCAÇÃO/ ESCOLA ESTADUALDE EDUCAÇÃO PROFISSIONAL DOUTOR JOSÉ IRAN COSTA",
+    "cpf_cnpj": "07.954.514/0749-19"
+  },
+  "contracted_party": {
+    "name": "J FERREIRAEAMORIM CONSTRUÇÕES - ME",
+    "cpf_cnpj": "16.876.618/0001-50"
+  },
+  "validity": "360 (trezentos e sessenta) dias",
+  "global_value": "R$ 22.565,00",
+  "signature": {
+    "date": "10/06/2025",
+    "signatories": {
+      "contracting_party": "CARLOS ANDRÉ BEZERRA MARQUES",
+      "contracted_party": "JOSÉ FERREIRA AMORIM"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

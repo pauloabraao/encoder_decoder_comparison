@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "34/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, através da Secretaria da Educação",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "EMPRESA DINARES CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "23.299.416/0001-58"
+  },
+  "validity": "24 (vinte e quatro) meses",
+  "global_value": "R$ 10,197,203.21",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA - Secretária da Educação",
+      "contracted_party": "MARIA DO SOCORRO RODRIGUES SOARES - Representante da Empresa DINARES CONSTRUÇÕES LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.038305/2025-83",
+        "ig": "1365283"
+    },
+    "contracting_party": {
+        "name": "A(O)EEMTI CONEGO LUIZ BRAGA ROCHA",
+        "cpf_cnpj": "07.954.514.0268/68"
+    },
+    "contracted_party": {
+        "name": "U.S DA CRUZ NETO, com sede na Rua",
+        "cpf_cnpj": "50, Bairro: Cajueiro Centro Municipio de Iguatu-Ce CEP:63508-458, Fone: (85"
+    },
+    "validity": "365 (trezentos e sessenta e cinco ) dias",
+    "global_value": "R$ 1.163,25",
+    "signature": {
+        "date": "09.339030.50000.0 - 5573",
+        "signatories": {
+            "contracting_party": "Maria do Céo de Freitas Alves CONTRATADA: U.S DA CRUZ",
+            "contracted_party": "Maria do Céo de Freitas Alves"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

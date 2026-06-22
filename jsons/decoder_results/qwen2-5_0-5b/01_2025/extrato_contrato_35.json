@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.128382/2024-43",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A E.E.M.T.I. ALAÍDE SILVA SANTOS",
+    "cpf_cnpj": "07.954.514/0857-91"
+  },
+  "contracted_party": {
+    "name": "OTN PRODUÇOES LOCAÇÃO E SERVIÇOS LTDA",
+    "cpf_cnpj": "46.277.864/0001-56"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 23.453,18 (vinte e três mil quatrocentos e cinquenta e três reais e dezoitos centavos)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A E.E.M.T.I. ALAÍDE SILVA SANTOS",
+      "contracted_party": "OTN PRODUÇOES LOCAÇÃO E SERVIÇOS LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

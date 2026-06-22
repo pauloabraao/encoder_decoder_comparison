@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.119900/2024-38",
+        "ig": "1347428"
+    },
+    "contracting_party": {
+        "name": "CCI – CENTRO CEARENSE DE IDIOMAS – UNIDADE CRATO-CE",
+        "cpf_cnpj": "07954514085287"
+    },
+    "contracted_party": {
+        "name": "DISTRIBUIDORA DE GÁS E ÁGUA LTDA",
+        "cpf_cnpj": "35G , CEP: 58322-000, Fone: (83) 99336-1433, inscrita no CPF/CNPJ sob o nº º 53.256.763/0001-64"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 769",
+    "signature": {
+        "date": "30/12/2024",
+        "signatories": {
+            "contracting_party": "EDSON NASCIMENTO DE SOUZA",
+            "contracted_party": "EDSON NASCIMENTO DE SOUZA"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

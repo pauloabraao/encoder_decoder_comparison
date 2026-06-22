@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.115697/2024-21",
+        "ig": "1360252000"
+    },
+    "contracting_party": {
+        "name": "EEEP PROFª ELSA MARIA PORTO COSTA LIMA",
+        "cpf_cnpj": "07.954.514/0327"
+    },
+    "contracted_party": {
+        "name": "Projetada 05 (BENDERVILLE LIBERDADE), nº 31 – Novo Araçás – Barbalha – CE",
+        "cpf_cnpj": "31 – Novo Araçás – Barbalha – CE, CEP: 63.095-494, inscrita no CNPJ sob nº 53.279.809"
+    },
+    "validity": "360 (trezentos e sessenta) dias",
+    "global_value": "R$ 53.885,72",
+    "signature": {
+        "date": "06/01/2025",
+        "signatories": {
+            "contracting_party": "MÁRCIA VIANA PORTO VIEIRA",
+            "contracted_party": "RENATA DE SOUZA MIRANDA"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

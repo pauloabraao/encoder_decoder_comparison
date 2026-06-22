@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001046470/2025",
+        "ig": "1369895"
+    },
+    "contracting_party": {
+        "name": "A EEM CAMILO BRASILIENSE",
+        "cpf_cnpj": "07.954.514/0068"
+    },
+    "contracted_party": {
+        "name": "ISMAEL FERREIRA GOMES",
+        "cpf_cnpj": "32"
+    },
+    "validity": "360 (trezentos e sessenta) dias",
+    "global_value": "R$ 30.864,00",
+    "signature": {
+        "date": "28/03/2025",
+        "signatories": {
+            "contracting_party": "Marreiro Silveira Alexandre CONTRATADA: a ISMAEL FERREIRA GOMES",
+            "contracted_party": "Ismael Ferreira Gomes"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

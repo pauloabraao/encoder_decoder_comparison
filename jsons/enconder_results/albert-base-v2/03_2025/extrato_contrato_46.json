@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.040527/2025-66/IG-1365589",
+        "ig": "22001.040527/2025-66/IG-1365589"
+    },
+    "contracting_party": {
+        "name": "Escola Ensino Médio Professora Francisca Linhares de Sousa,",
+        "cpf_cnpj": "07.954.514/0412-39,"
+    },
+    "contracted_party": {
+        "name": "K M COMERCIO DE ALIMENTOS LTDA.,",
+        "cpf_cnpj": "08.532.187/0001-86,"
+    },
+    "validity": "365 (Trezentos e Sessenta e Cinco) dias,",
+    "global_value": "R$ 9.056,60",
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": "Erli Viana de Moura Filho",
+            "contracted_party": "Francisco Moreira de Sousa."
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

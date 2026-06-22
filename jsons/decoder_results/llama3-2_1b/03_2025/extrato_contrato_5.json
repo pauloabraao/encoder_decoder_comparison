@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "56032.000083/2025-81",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "JUNTA COMERCIAL DO ESTADO DO CEARÁ",
+    "cpf_cnpj": "12.341.210/0001-22"
+  },
+  "contracted_party": {
+    "name": "TAXI MUD DO BRASIL TRANSPORTE ESPECIALIZADO DE VEÍCULOS E MUDANÇAS LTDA.",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "21/02/2025 a 20/02/2026",
+  "global_value": "49.600,00",
+  "signature": {
+    "date": "21/02/2025",
+    "signatories": {
+      "contracting_party": "EDUARDO JEREISSATI DE AZEVEDO - PRESIDENTE DA JUCEC (Contratante)",
+      "contracted_party": "ARTHUR ARAÚJO MESQUITA - REPRESENTANTE DA EMPRESA (Contratada)"
+    }
+  },
+  "legal_unit": {
+    "name": "JUNTA COMERCIAL DO ESTADO DO CEARÁ",
+    "role": "Junta Comercial do Estado do Ceará"
+  }
+}

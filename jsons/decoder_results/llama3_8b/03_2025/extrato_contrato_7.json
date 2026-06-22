@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001147723202480/PRE-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Escola de Ensino Médio Gustavo Barroso",
+    "cpf_cnpj": "07.954.514/0644-41"
+  },
+  "contracted_party": {
+    "name": "CONTECH LOCAÇÕES E SERVIÇOS LTDA",
+    "cpf_cnpj": "46.856.681/0001-95"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 79.101,00",
+  "signature": {
+    "date": "25/02/2025",
+    "signatories": {
+      "contracting_party": "José Fagner da Silva",
+      "contracted_party": "Olavo da Costa Moreira"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

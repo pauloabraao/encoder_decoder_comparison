@@ -1,0 +1,29 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "05/2025",
+    "ig": "12 (doze) meses",
+    "contracting_party": "FUNDAÇÃO UNIVERSIDADE REGIONAL DO CARIRI - URCA CONTRATADA: MBM SEGURADORA S.A. OBJETO: A contratação de Serviço referente a Seguro de Acidentes Pessoais, em favor dos discentes dos Cursos de Graduação da URCA, nas condições estabelecidas neste contrato e no Termo de Referência do edital e na proposta da CONTRATADA."
+  },
+  "contracting_party": {
+    "name": "FUNDAÇÃO UNIVERSIDADE REGIONAL DO CARIRI",
+    "cpf_cnpj": "22.267.632/0001-59"
+  },
+  "contracted_party": {
+    "name": "ROBERIO MATEUS DE ARAUJO - ME",
+    "cpf_cnpj": "22.267.632/0001-59"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 12.000,00",
+  "signature": {
+    "date": "07/04/2025",
+    "signatories": {
+      "contracting_party": "FUNDAÇÃO UNIVERSIDADE REGIONAL DO CARIRI",
+      "contracted_party": "ROBERIO MATEUS DE ARAUJO"
+    }
+  },
+  "legal_unit": {
+    "name": "Anna Karinne Nery Veras",
+    "role": "Coordenadora da Assessoria Jurídica"
+  }
+}

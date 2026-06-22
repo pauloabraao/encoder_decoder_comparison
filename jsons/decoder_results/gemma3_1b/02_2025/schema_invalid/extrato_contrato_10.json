@@ -1,0 +1,34 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "RDB Construturas e Serviços Ltda.",
+    "cpf_cnpj": "35.560.214/0001-05"
+  },
+  "contracted_party": {
+    "name": "Escola de Ensino Médio de Tempo Integral Antônio Geraldo Lima",
+    "cpf_ cnpj": null
+  },
+  "validity": "365 (Trezentos e Sessenta Cinco) dias",
+  "global_value": "R$ 89.383,00",
+  "signature": {
+    "date": null,
+    "signatories": [
+      {
+        "contracting_party": "Francisco Eduardo Moreira de Brito",
+        "contracted_party": "Fabíola Lima Freitas de Oliveira Vasconcelos"
+      },
+      {
+        "contracting_party": "Marcos Felipe Vicente",
+        "contracted_party": "Marcela Ribeiro da Silva"
+      }
+    ]
+  },
+  "legal_unit": {
+    "name": "Escola de Ensino Médio de Tempo Integral Antônio Geraldo Lima",
+    "role": "Diretora Escolar"
+  }
+}

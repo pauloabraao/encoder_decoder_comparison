@@ -1,0 +1,93 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO-SDA",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "ROBERIO MATEUS DE ARAUJO - ME",
+    "cpf_cnpj": "22.267.632/0001-59"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 104.578,80",
+  "signature": {
+    "date": "07/04/2025",
+    "signatories": {
+      "contracting_party": "MOISÉS BRAZ RICARDO",
+      "contracted_party": "ROBERIO MATEUS DE ARAUJO - ME"
+    }
+  },
+  "legal_unit": {
+    "name": "Anna Karinne Nery Veras",
+    "role": "Coordenadora da Assessoria Jurídica"
+  },
+  "contract": [
+    {
+      "date": null,
+      "signatories": {
+        "contracting_party": "ROBERIO MATEUS DE ARAUJO - ME",
+        "contracted_party": "MOISÉS BRAZ RICARDO"
+      }
+    },
+    {
+      "date": null,
+      "signatories": {
+        "contracting_party": "T.F CONSTRUCOES LTDA",
+        "contracted_party": "ROBERIO MATEUS DE ARAUJO - ME"
+      }
+    },
+    {
+      "date": null,
+      "signatories": {
+        "contracting_party": "O Estado do Ceará, através da Secretaria da Educação/EEMTI Gerardo Majella",
+        "contracted_party": "ROBERIO MATEUS DE ARAUJO - ME"
+      }
+    },
+    {
+      "date": null,
+      "signatories": {
+        "contracting_party": "PROGÁS DISTRIBUIDORA DE GAS E ÁGUA LTDA",
+        "contracted_party": "ROBERIO MATEUS DE ARAUJO - ME"
+      }
+    },
+    {
+      "date": null,
+      "signatories": {
+        "contracting_party": "EDSON NASCIMENTO DE SOUZA",
+        "contracted_party": "ROBERIO MATEUS DE ARAUJO - ME"
+      }
+    },
+    {
+      "date": null,
+      "signators": {
+        "contracting_party": "O Estado do Ceará, através da Secretaria da Educação/EEMTI Gerardo Majella",
+        "contracted_party": "ROBERIO MATEUS DE ARAUJO - ME"
+      }
+    },
+    {
+      "date": null,
+      "signatories": {
+        "contracting_party": "Maria Valderli de Souza Feitosa",
+        "contracted_party": "ROBERIO MATEUS DE ARAUJO - ME"
+      }
+    },
+    {
+      "date": null,
+      "signatories": {
+        "contracting_party": "Ana Daiane Pereira da Silva",
+        "contracted_party": "ROBERIO MATEUS DE ARAUJO - ME"
+      }
+    },
+    {
+      "date": null,
+      "signatories": {
+        "contracting_party": "Marcos Felipe Vicente",
+        "contracted_party": "ROBERIO MATEUS DE ARAUJA - ME"
+      }
+    }
+  ]
+}

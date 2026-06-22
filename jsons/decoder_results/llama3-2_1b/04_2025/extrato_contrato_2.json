@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "052/2025",
+    "ig": "1368105"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO - SDA",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "ASSO-CIAÇÃO CRISTÃ DE BASE - ACB",
+    "cpf_cnpj": "06.740.096/0001-00"
+  },
+  "validity": "",
+  "global_value": "",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ASSO-CIAÇÃO CRISTÃ DE BASE - ACB",
+      "contracted_party": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO - SDA"
+    }
+  },
+  "legal_unit": {
+    "name": "ASSO-CIAÇÃO CRISTÃ DE BASE - ACB",
+    "role": ""
+  }
+}

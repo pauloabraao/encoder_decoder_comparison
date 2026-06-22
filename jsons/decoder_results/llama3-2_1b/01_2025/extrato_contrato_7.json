@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.131636/2024-19/IG - 134998300",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A EEMTI ANTÔNIO VIDAL MALVEIRA",
+    "cpf_cnpj": "07.954.514/0232-57"
+  },
+  "contracted_party": {
+    "name": "JESUS ALBINO VIEIRA CRISPA JUNIOR – ME",
+    "cpf_cnpj": "20.189.604/0001-35"
+  },
+  "validity": "200 (duzentos) dias",
+  "global_value": "R$ 221,00",
+  "signature": {
+    "date": "01 de Novembro de 2024",
+    "signatories": {
+      "contracting_party": "JESUS ALBINO VIEIRA CRISPA JUNIOR – ME",
+      "contracted_party": "A EEMTI ANTÔNIO VIDAL MALVEIRA"
+    }
+  },
+  "legal_unit": {
+    "name": "Fortaleza, 30 de dezembro de 2024",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "º93/2025",
+        "ig": "22001.005048/2024-12/IG: 1334698000 - SACC:1363675"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+        "cpf_cnpj": "13.272.645/0001- 25"
+    },
+    "contracted_party": {
+        "name": "MIRANDA E FARIAS CONSTRUÇÕES LTDA",
+        "cpf_cnpj": "12 Lt 06, Bairro Vale dos Carajás, Parauapebas – PA, CEP. : 68.515-000, inscrita no CNPJ sob o nº 13"
+    },
+    "validity": "4.1. O prazo de vigência deve ser de 24 (vinte e quatro) meses",
+    "global_value": "R$ 10.412.448,25",
+    "signature": {
+        "date": "05.449051.1.544",
+        "signatories": {
+            "contracting_party": "JOÃO DA COSTA MIRANDA",
+            "contracted_party": "JOÃO DA COSTA MIRANDA NETO, portador do RG nº 4519907 SDS/PE e CPF n.º º 899.538.864-15, com a interveniência da SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP, autarquia estadual, inscrito no CNPJ sob nº 33.866.288/0001-30, localizada na Av. Alberto Craveiro"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

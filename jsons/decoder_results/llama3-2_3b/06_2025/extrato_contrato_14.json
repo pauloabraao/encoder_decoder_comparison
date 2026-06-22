@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.077652/2025-21/IG-1381059",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/ESCOLA EEEP PROFª MARIA ALTAIR AMÉRICO SABÓIA",
+    "cpf_cnpj": "07.954.514/0732–70"
+  },
+  "contracted_party": {
+    "name": "COMERCIAL KAYO LTDA",
+    "cpf_cnpj": "35.206.677/0001-65"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 29.512,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "RAIMUNDO VIEIRA NETO",
+      "contracted_party": "ENIOELDO FERNANDES FARIAS"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

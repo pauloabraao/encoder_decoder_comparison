@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.063470/2024-92/PRÉ-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0777-72"
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA DOS PRODUTOS RURAIS DE QUIXERÉ E VALE DO JAGUARIBE",
+    "cpf_cnpj": "51.506.696/0001-63"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 86.316,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": "COOPERATIVA DOS PRODUTOS RURAIS DE QUIXERÉ E VALE DO JAGUARIBE"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.086695/2024-17",
+        "ig": "1361992"
+    },
+    "contracting_party": {
+        "name": "A EEMTI Ricardo de Sousa Neves",
+        "cpf_cnpj": "07.954.514/0255-43"
+    },
+    "contracted_party": {
+        "name": "EMPREENDIMENTOS LTDA",
+        "cpf_cnpj": "46"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 89.399,36 (Oitenta e nove mil, trezentos e noventa e nove reais e trinta e seis centavos) pagos em CONFORMIDADE COM O CONTRATO ORIGINAL DOTAÇÃO ORÇAMENTÁRIA: 22100022.12.362.143.11291.05.449051.54400.1 - 182007.. DATA DA ASSINATURA: 30",
+    "signature": {
+        "date": "30/01/2025",
+        "signatories": {
+            "contracting_party": "Vitor de Aguiar Santos",
+            "contracted_party": "Vitor de Aguiar Santos"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

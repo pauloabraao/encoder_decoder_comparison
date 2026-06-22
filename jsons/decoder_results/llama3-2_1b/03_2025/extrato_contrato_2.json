@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "02/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "FUNDAÇÃO UNIVERSIDADE REGIONAL DO CARIRI - URCA",
+    "cpf_cnpj": "00.000.000/0000-01"
+  },
+  "contracted_party": {
+    "name": "RILLA RENIEE LIMA BARROS",
+    "cpf_cnpj": "11.000.000/0000-02"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 15.400,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "RILLA RENIEE LIMA BARROS",
+      "contracted_party": "FUNDAÇÃO UNIVERSIDADE REGIONAL DO CARIRI - URCA"
+    }
+  },
+  "legal_unit": {
+    "name": "CRATO/CE",
+    "role": "VIGÊNCIA: O prazo de vigência da contratação é de 12 (doze) meses, contados da última assinatura entre contratada e contratante, podendo ser prorrogado, desde que justificadamente, pelo prazo necessário à conclusão do objeto, conforme art. 6º, inciso XVII da Lei n° 14.133/21"
+  }
+}

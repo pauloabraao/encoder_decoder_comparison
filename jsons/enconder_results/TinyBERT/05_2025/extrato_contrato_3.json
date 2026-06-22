@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "24/2025 IG. 1303833000",
+        "ig": "1303833000"
+    },
+    "contracting_party": {
+        "name": "FUNECECONTRATADA",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "PH & B COMERCIO E SERVICOS EIRELI -ME",
+        "cpf_cnpj": null
+    },
+    "validity": "PRECEITOS",
+    "global_value": "R$489.986,00QUATROCENTOS",
+    "signature": {
+        "date": "25/04/ 2025SIGNATÁRIOS",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "Roberta Nunes PROCURADORIA JURÍDICA",
+        "role": "PROCURADORIA JURÍDICA"
+    }
+}

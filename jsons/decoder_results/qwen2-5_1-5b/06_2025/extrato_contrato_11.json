@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001065855/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "ESCOLA DE ENSINO FUNDAMENTAL E MÉDIO ADAUTO LEITE, situada à Avenida Sinval Lacerda, nº 416,Bairro Centro, Mauriti/ Ceará",
+    "cpf_cnpj": "07.954.514/0566-94"
+  },
+  "contracted_party": {
+    "name": "DIJALMA MARTINS",
+    "cpf_cnpj": "51.276.059/0001-48"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 27.610,50",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "João Amiraldo Nascimento Lacerda",
+      "contracted_party": "Djalma Martins"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

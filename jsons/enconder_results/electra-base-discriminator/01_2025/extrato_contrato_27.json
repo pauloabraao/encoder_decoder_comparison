@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.115909/2024-70",
+        "ig": "134955700"
+    },
+    "contracting_party": {
+        "name": "EEMTI ELZA GOERSCH",
+        "cpf_cnpj": "07.954.514/0078-04"
+    },
+    "contracted_party": {
+        "name": "CM ASSESSORIA E SERVICOS LTDA",
+        "cpf_cnpj": "47.591.210/0001-65"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias corridos",
+    "global_value": "R$ 13.999,76",
+    "signature": {
+        "date": "04/11/2024",
+        "signatories": {
+            "contracting_party": "João Paulo Prado Almeida",
+            "contracted_party": "RAIMUNDO CLERTON FERNANDES DE MATOS"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

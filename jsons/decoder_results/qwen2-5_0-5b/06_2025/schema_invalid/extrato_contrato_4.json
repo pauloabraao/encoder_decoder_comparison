@@ -1,0 +1,22 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "025/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO - SDA",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "B ANDREY SOUSA DANTAS",
+    "cpf_cnpj": "37.214.755/0001-49"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": null,
+  "signature": {
+    "date": "09/04/2025",
+    "signatories": {}
+  },
+  "legal_unit": null
+}

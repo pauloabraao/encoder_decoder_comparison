@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.086695/2024-17",
+    "ig": "1361992"
+  },
+  "contracting_party": {
+    "name": "A EEMTI Ricardo de Sousa Neves",
+    "cpf_cnpj": "07.954.514/0255-43"
+  },
+  "contracted_party": {
+    "name": "IF3 EMPREENDIMENTOS LTDA",
+    "cpf_cnpj": "46.521.451/0001-75"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 89.399,36",
+  "signature": {
+    "date": "30/01/2025",
+    "signatories": {
+      "contracting_party": "Eleglaystone Robson Silva",
+      "contracted_party": "Paulo Vitor de Aguiar Santos"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

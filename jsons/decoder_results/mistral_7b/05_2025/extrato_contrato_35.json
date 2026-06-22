@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.045294/2025-98/IG-1371387"
+  },
+  "contracting_party": {
+    "name": "ESCOLA INDÍGENA TAPEBA AMÉLIA DOMINGOS",
+    "cpf_cnpj": "07.954.514/0137-07"
+  },
+  "contracted_party": {
+    "name": "MV COMERCIO VAREJISTA DE GLP LTDA",
+    "cpf_cnpj": "11.224.603/0001-93"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 1.128,00",
+  "signature": {
+    "date": "24/04/2025",
+    "signatories": {
+      "contracting_party": "SALOMÉ DE ABREU DOMINGOS",
+      "contracted_party": "Michele Vitor Martins"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

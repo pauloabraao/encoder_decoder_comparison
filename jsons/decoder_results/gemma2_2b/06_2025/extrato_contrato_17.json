@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001079318/2025",
+    "ig": "1380337"
+  },
+  "contracting_party": {
+    "name": "A EEMTI Maria Menezes Cristino",
+    "cpf_cnpj": "07.954.514/0076-42"
+  },
+  "contracted_party": {
+    "name": "M DE LOURDES G CEDRO",
+    "cpf_cnpj": "33.187.562/0001-45"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 5.400,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Fábio Gomes de Lima",
+      "contracted_party": "Maria de Lourdes Gomes Cedro"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

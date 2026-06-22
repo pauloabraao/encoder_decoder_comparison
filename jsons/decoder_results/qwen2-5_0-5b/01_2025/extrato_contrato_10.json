@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.106635/2024-28/PRÉ-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A(O) Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0244-90"
+  },
+  "contracted_party": {
+    "name": "COMERCIAL ELLEN LTDA",
+    "cpf_cnpj": "13.403.884/0001-77"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 10.521,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A(O) Estado do Ceará",
+      "contracted_party": "COMERCIAL ELLEN LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "José Getúlio dos Santos",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

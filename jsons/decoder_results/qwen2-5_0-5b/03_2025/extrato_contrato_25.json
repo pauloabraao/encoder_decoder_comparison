@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.012415/2025-15/PRÉ-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A(O) CEJA PROFESSOR GILMAR MAIA DE SOUSA",
+    "cpf_cnpj": "07.954.514/0456-50"
+  },
+  "contracted_party": {
+    "name": "RODRIGO MAGALHAES ALVES-ME",
+    "cpf_cnpj": "36.244.654/0001-08"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 42.846,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A(O) CEJA PROFESSOR GILMAR MAIA DE SOUSA",
+      "contracted_party": "RODRIGO MAGALHAES ALVES-ME"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

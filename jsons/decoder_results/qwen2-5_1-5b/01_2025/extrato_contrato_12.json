@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.077776/2024-26",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEM EGIDIA CAVALCANTE CHAGAS",
+    "cpf_cnpj": "07.954.514/0216-37"
+  },
+  "contracted_party": {
+    "name": "LEONARDO FERREIRA GOMES",
+    "cpf_cnpj": "38.183.766/0001-21"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 15.050,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Benedito Francisco Alves",
+      "contracted_party": "Leonardo Ferreira Gomes"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

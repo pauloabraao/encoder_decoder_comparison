@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.028659/2025-10",
+        "ig": "1363481"
+    },
+    "contracting_party": {
+        "name": "EEMTI ALDA FERRER AUGUSTO DUTRA",
+        "cpf_cnpj": "07.954.514/0648"
+    },
+    "contracted_party": {
+        "name": "U.S DA CRUZ NETO, com sede na Rua",
+        "cpf_cnpj": "37.847.947/0001-42"
+    },
+    "validity": "360 (Trezentos e sessenta)",
+    "global_value": "R$ 45.060,00",
+    "signature": {
+        "date": "13/02/2025",
+        "signatories": {
+            "contracting_party": "Joana Fernandes",
+            "contracted_party": "Joana Fernandes"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

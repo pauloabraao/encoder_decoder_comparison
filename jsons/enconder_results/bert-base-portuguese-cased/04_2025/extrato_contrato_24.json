@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001009628/2025",
+    "ig": "1368239"
+  },
+  "contracting_party": {
+    "name": "Escola Estadual de Educação Profissional Juarez Távora",
+    "cpf_cnpj": "07.954.514/0498-09"
+  },
+  "contracted_party": {
+    "name": "SERTÃO COMERCIO E SERVIÇOS LTDA",
+    "cpf_cnpj": "26.780.062/0001-57"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 10.880,00",
+  "signature": {
+    "date": "20/03/2025",
+    "signatories": {
+      "contracting_party": "Corina Bastos Bitu",
+      "contracted_party": "Sofia Maia"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

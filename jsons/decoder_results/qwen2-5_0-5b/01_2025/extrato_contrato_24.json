@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.125628/2024-25/PRÉ-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEEP JAIME DA CUNHA REBOUÇAS",
+    "cpf_cnpj": "07.954.514/0828-57"
+  },
+  "contracted_party": {
+    "name": "DUNA ENGENHARIA LTDA",
+    "cpf_cnpj": "38.294.115/0001-09"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 23.455,77 (vinte e três mil quatrocentos e cinquenta e cinco reais e setenta e sete centavos)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "EEEP JAIME DA CUNHA REBOUÇAS",
+      "contracted_party": "DUNA ENGENHARIA LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "90/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, por intermédio da Secretaria da Educação",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "CONSÓRCIO PIO/R&S ESCOLA PAJUÇARA",
+    "cpf_cnpj": "59.543.354/0001-25"
+  },
+  "validity": "24 (vinte e quatro) meses",
+  "global_value": "R$ 10.186.805,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA - Secretária da Educação",
+      "contracted_party": "CARLOS HENRIQUE DUMMAR ANTERO - Representante Legal da Empresa CONSÓRCIO PIO/R&S ESCOLA PAJUÇARA"
+    }
+  },
+  "legal_unit": {
+    "name": "Superintendência de Obras Públicas - SOP INTERVENIENTE",
+    "role": "Superintendente, Sr. JOSÉ VALDECI REBOUÇAS"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "number": "22001.115697/2024-21/PRÉ-RESERVA",
+  "ig": null,
+  "contracting_party": {
+    "name": "EEEP Profª ELSA MARIA PORTO Costa LIMA",
+    "cpf_cnpj": "07.954.514/0327-52"
+  },
+  "contracted_party": {
+    "name": "R. DE S. MIRANDA LTDA",
+    "cpf_cnpj": "53.279.809/0001-60"
+  },
+  "validity": "360 dias",
+  "global_value": "R$ 53.885,72",
+  "signature": {
+    "date": null,
+    "signatories": [
+      "MÁRCIA VIANA PORTO VIEIRA",
+      "RENATA DE SOUZA MIRANDA"
+    ]
+  },
+  "legal_unit": {
+    "name": "MARCOS FELIPE VICENTE",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

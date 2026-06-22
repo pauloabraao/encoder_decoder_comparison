@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001128369202494/PRE-RESERVA",
+    "ig": "1362375"
+  },
+  "contracting_party": {
+    "name": "EEEP DARCY RIBEIRO, Município Fortaleza/CE",
+    "cpf_cnpj": "07.954.514/0736-02"
+  },
+  "contracted_party": {
+    "name": "FC ALVES DA SILVA EMBALAGENS - ME",
+    "cpf_cnpj": "11.372.526/0001-19"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 1.928,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "MARIA DE CASTRO DAMÁZIO QUEIROZ",
+      "contracted_party": "FRANCISCO CARLOS ALVES DA SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.018383/2025-61",
+        "ig": "136379700"
+    },
+    "contracting_party": {
+        "name": "SUPERINTENDÊNCIA DAS ESCOLAS ESTADUAIS DE FORTALEZA - SEFOR 1",
+        "cpf_cnpj": "07.954.514/0685-10"
+    },
+    "contracted_party": {
+        "name": "HILCÉLIA SABOIA PARENTE CONTRATADA",
+        "cpf_cnpj": "32"
+    },
+    "validity": "180 (cento e oitenta) dias",
+    "global_value": "R$ 14.260,00",
+    "signature": {
+        "date": "18/02/2025",
+        "signatories": {
+            "contracting_party": "BRUNO 1600, CEP: 60115-191, Fone: (85) 3208-2724, inscrita no CPF/CNPJ sob o nº 32.705.962/0001- 32, doravante denominado CONTRATADO, representado neste ato por JOÃO PEDRO LIMA DE CASTRO E SILVA",
+            "contracted_party": "JOÃO PEDRO LIMA DE CASTRO E SILVA"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

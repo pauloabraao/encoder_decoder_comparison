@@ -1,0 +1,29 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO, localizada no Centro Administrativo Governador Virgílio Távora, na Av. Gal. Afonso Albuquerque Lima, s/n, Cambeba, Fortaleza/CE",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "Empresa FORTEKS ENGENHARIA E SERVIÇOS ESPECIAIS LTDA-EPP",
+    "cpf_cnpj": "23.585.979/0001-02"
+  },
+  "validity": "24 (vinte e quatro) meses",
+  "global_value": "R$ 11.175.224,01",
+  "signature": {
+    "date": "20 de março de 2025",
+    "signatories": {
+      "contracting_party": "Eliana Nunes Reiseta -Representante Legal da Empresa FORTEKS ENGENHARIA E SERVIÇOS ESPECIAIS LTDA-EPP",
+      "contracted_party": "Melli Ximenes Ripardo - Representante Legal da Empresa FORTEKS ENGENHARIA E SERVIÇIOS ESPECIAIS LTDA-EPP"
+    }
+  },
+  "legal_unit": {
+    "name": "Superintendência de Obras Públicas - SOP",
+    "role": "Superintendente"
+  },
+  "additional_information": null
+}

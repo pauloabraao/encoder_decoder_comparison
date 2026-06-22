@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "23/2025",
+    "ig": "1351921000"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE AMONTADA – SAAE DE AMONTADA-CE",
+    "cpf_cnpj": "10.518.108/0001-24"
+  },
+  "validity": "60 (sessenta) meses",
+  "global_value": "R$ 180.000,00",
+  "signature": {
+    "date": "28/01/2025",
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA - Secretária da Educação - Contratante, MARCOS AUGUSTO TEIXEIRA DOS SANTOS",
+      "contracted_party": "MARCOS AUGUSTO TEIXEIRA DOS SANTOS"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

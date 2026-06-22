@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.143517/2024-09",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A EEMTI JOAQUIM BASTOS GONÇALVES",
+    "cpf_cnpj": "07.954.514/0344-53"
+  },
+  "contracted_party": {
+    "name": "T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 82.300,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A EEMTI JOAQUIM BASTOS GONÇALVES",
+      "contracted_party": "T.F CONSTRUCOES LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.128382/2024-43",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEFM Paulo Elpídio",
+    "cpf_cnpj": "07.954.514/0509-04"
+  },
+  "contracted_party": {
+    "name": "MV COMERCIO VAREJISTA DE GLP LTDA",
+    "cpf_cnpj": "11.224.603/0001-93"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 1.869,20 (um mil e oitocentos e sessenta e nove reais e vinte centavos)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "JORGEMBERG COSTA MARQUES",
+      "contracted_party": "MV COMERCIO VAREJISTA DE GLP LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

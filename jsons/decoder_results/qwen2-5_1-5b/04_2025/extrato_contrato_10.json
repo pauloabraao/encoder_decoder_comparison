@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "92/2025/NUP 22001.004958/2024-88",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, por intermédio da Secretaria da Educação",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "ZONA NORTE CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "03.614.071/0001-72"
+  },
+  "validity": "28 (vinte e oito) meses",
+  "global_value": "R$ 16.448.397,60",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "URANDIA AGUIAR RAMOS"
+    }
+  },
+  "legal_unit": {
+    "name": "JOSÉ VALDECI REBOUÇAS",
+    "role": "Superintendente da SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP INTERVENIENTE"
+  }
+}

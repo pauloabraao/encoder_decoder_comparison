@@ -1,0 +1,31 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "02/2025"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA CIÊNCIA, TECNOLOGIA E EDUCAÇÃO SUPERIOR - SECITECE",
+    "cpf_cnpj": "73.642.415/0001-32"
+  },
+  "contracted_party": {
+    "name": "CAMILA FRAGOSO AGUIAR DOS ANJOS",
+    "cpf_cnpj": "27.761.457/0001-75"
+  },
+  "objective": "O aquisição de água mineral para atender as unidades da SECITECE, nas condições estabelecidas neste contrato e no Termo de Referência do edital e na proposta do CONTRATADO.",
+  "legal_basis": "Pregão Eletrônico n° 20240001/SEPLAG, e seus anexos, Ata de Registro de Preços nº 2024/6177 os preceitos do direito público, Lei Federal nº 14.133, de 1º de abril de 2021, e demais legislação aplicável ao cumprimento de seu objeto.",
+  "forum": "Fortaleza/CE",
+  "validity": "12 (doze) meses, contado da assinatura do contrato.",
+  "global_value": "R$ 13.060,00",
+  "budget_code": "14833 - 31100001.19.122.4 21.20181.03.339030.1.5009100000.0",
+  "signature": {
+    "date": "03/02/2025",
+    "signatories": {
+      "contracting_party": "Adeline de Araújo Lobão da Silva",
+      "contracted_party": "Camila Fragoso Aguiar Dos Anjos"
+    }
+  },
+  "legal_unit": {
+    "name": "Rafael Arruda Maia",
+    "role": "COORDENADOR JURÍDICO"
+  }
+}

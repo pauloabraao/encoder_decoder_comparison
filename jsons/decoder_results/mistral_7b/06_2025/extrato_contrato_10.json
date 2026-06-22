@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.080197/2025-41/IG: 1380513",
+    "ig": "1380513"
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO/ COORDENADORIA REGIONAL DE DESEN- VOLVIMENTO DA EDUCAÇÃO- CREDE 17/ICÓ",
+    "cpf_cnpj": "07.954.514/0636-31"
+  },
+  "contracted_party": {
+    "name": "MERAKI LTDA",
+    "cpf_cnpj": "54.191.767/0001-74"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 129.368,00",
+  "signature": {
+    "date": "23/05/2025",
+    "signatories": {
+      "contracting_party": "ANTONIO ELIVAL PEREIRA",
+      "contracted_party": "ANA CRISTINA FERNANDES DE OLIVEIRA BITARÃES"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

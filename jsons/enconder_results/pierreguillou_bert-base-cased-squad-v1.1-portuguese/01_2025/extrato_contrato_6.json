@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1351748",
+        "ig": "1351748"
+    },
+    "contracting_party": {
+        "name": "AJ SERVICOS LTDA",
+        "cpf_cnpj": "40.910.360/0001-45"
+    },
+    "contracted_party": {
+        "name": "AJ SERVICOS LTDA",
+        "cpf_cnpj": "40.910.360/0001-45"
+    },
+    "validity": "06 de Novembro de 2024",
+    "global_value": "R$ 1.000,00",
+    "signature": {
+        "date": "06/11/2024",
+        "signatories": {
+            "contracting_party": "JONA- DABY DE CASTRO ALVES",
+            "contracted_party": "JONA- DABY DE CASTRO ALVES"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

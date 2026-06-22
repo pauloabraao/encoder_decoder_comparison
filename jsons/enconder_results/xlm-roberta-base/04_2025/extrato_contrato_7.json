@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "060/2025",
+        "ig": "1343582000"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO,",
+        "cpf_cnpj": "07.954.514/0001-25,"
+    },
+    "contracted_party": {
+        "name": "NUTRE ALIMENTAÇÃO LTDA,",
+        "cpf_cnpj": "17.086.556/0001-45,"
+    },
+    "validity": "12 (doze) meses,",
+    "global_value": "R$ 709.560,00",
+    "signature": {
+        "date": "17/03/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "LUIZIANE MARIA SOTERO RODRIGUES,"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Tlita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

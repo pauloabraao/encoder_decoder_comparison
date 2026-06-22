@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.021529/2025-56/PRÉ-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEMTI CEL. HUMBERTO BEZERRA",
+    "cpf_cnpj": "07.954.514/0317-80"
+  },
+  "contracted_party": {
+    "name": "AMAURILIO JOELIO LEAL DE ALMEIDA",
+    "cpf_cnpj": "18.440.840/0001-30"
+  },
+  "validity": "360 dias",
+  "global_value": "R$ 15.356,00",
+  "signature": {
+    "date": "25/02/2025",
+    "signatories": {
+      "contracting_party": "ANA ROBERTA NOGIMO RODRIGUES VASCONCELOS",
+      "contracted_party": "AMAURILIO JOELIO LEAL DE ALMEIDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

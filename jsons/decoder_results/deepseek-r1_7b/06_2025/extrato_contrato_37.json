@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "11/06/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS – SOP/CE",
+    "cpf_cnpj": "33.866.288/0001-30"
+  },
+  "contracted_party": {
+    "name": "DTC CONSTRUTORA E EMPREENDI- MENTOS IMOBILIÁRIOS LTDA",
+    "cpf_cnpj": "11.379.632/0001-24"
+  },
+  "validity": "360 dias",
+  "global_value": "R$ 2.553.376,92",
+  "signature": {
+    "date": "11/06/2025",
+    "signatories": {
+      "contracting_party": "JOÃO RICARDO MODESTO DANTAS",
+      "contracted_party": "JOSÉ VALDECI REBOUÇAS"
+    }
+  },
+  "legal_unit": {
+    "name": "JOÃO RICARDO MODESTO DANTAS",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

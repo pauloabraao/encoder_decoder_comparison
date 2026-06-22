@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "013/2025",
+        "ig": "1361913000"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "em Fortaleza/CE CONTRATADA: EMPRESA KM OLIVEIRA DA SILVA",
+        "cpf_cnpj": "34.655.687/0001-15"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 832.815,00",
+    "signature": {
+        "date": "16/01/2025",
+        "signatories": {
+            "contracting_party": "ELIANA NUNES ESTRELA, Secretária da Educação, brasileira, portadora da Carteira de Identidade nº 216562291 SSP/ CE, inscrita no CPF sob o nº 473.400.533-87, residente e domiciliada em Fortaleza/CE CONTRATADA: EMPRESA KM OLIVEIRA",
+            "contracted_party": "ELIANA NUNES ESTRELA, Secretária da Educação, brasileira, portadora da Carteira de Identidade nº 216562291 SSP/ CE, inscrita no CPF sob o nº 473.400.533-87, residente e domiciliada em Fortaleza/CE CONTRATADA: EMPRESA KM OLIVEIRA"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

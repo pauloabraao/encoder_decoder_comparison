@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "02/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA CIÊNCIA, TECNOLOGIA E EDUCAÇÃO SUPERIOR - SECITECE",
+    "cpf_cnpj": "73.642.415/0001-32"
+  },
+  "contracted_party": {
+    "name": "CAMILA FRAGOSO AGUIAR DOS ANJOS",
+    "cpf_cnpj": "27.761.457/0001-75"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 13.060,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Adeline de Araújo Lobão da Silva",
+      "contracted_party": "Rafael Arruda Maia"
+    }
+  },
+  "legal_unit": {
+    "name": "Coordenador Jurídico",
+    "role": null
+  }
+}

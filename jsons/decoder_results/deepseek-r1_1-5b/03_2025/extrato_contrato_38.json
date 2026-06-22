@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "21/06/2024",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA EDIFICAÇÕES",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "SÉRCOPE ARIANNY NASCIMENTO DE SOUSA",
+    "cpf_cnpj": null
+  },
+  "validity": "VIGÊNCIA",
+  "global_value": "R$ 2.258.441,26",
+  "signature": {
+    "date": "21/06/2024",
+    "signatories": {
+      "contracting_party": "JOSÉ VALDECI REBOUÇAS",
+      "contracted_party": "MARIA CANILDES VIEIRA SALES"
+    }
+  },
+  "legal_unit": {
+    "name": "Coordenador/As JURÍDICA"
+  }
+}

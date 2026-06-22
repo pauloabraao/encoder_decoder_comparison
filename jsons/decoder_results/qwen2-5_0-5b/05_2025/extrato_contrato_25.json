@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.032119/2025-31",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "ESCOLA INDÍGENA ANTÔNIO GOMES",
+    "cpf_cnpj": "07.954.514/0174-43"
+  },
+  "contracted_party": {
+    "name": "COMERCIAL KAYO LTDA",
+    "cpf_cnpj": "35.206.677/0001-65"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 8.930,36 (oito mil novecentos e trinta reais e trinta e seis centavos)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ESCOLA INDÍGENA ANTÔNIO GOMES",
+      "contracted_party": "COMERCIAL KAYO LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

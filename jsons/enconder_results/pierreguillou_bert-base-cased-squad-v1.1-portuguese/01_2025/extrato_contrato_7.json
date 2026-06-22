@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG - 134998300",
+        "ig": "IG - 134998300"
+    },
+    "contracting_party": {
+        "name": "EEMTI ANTÔNIO VIDAL MALVEIRA",
+        "cpf_cnpj": "20.189.604/0001-35"
+    },
+    "contracted_party": {
+        "name": "EEMTI ANTÔNIO VIDAL MALVEIRA",
+        "cpf_cnpj": "20.189.604/0001-35"
+    },
+    "validity": "200 (duzentos) dias",
+    "global_value": "R$ 200,00",
+    "signature": {
+        "date": "01/11/2024",
+        "signatories": {
+            "contracting_party": "Jesus Albino Vieira Crispa",
+            "contracted_party": "Jesus Albino Vieira Crispa"
+        }
+    },
+    "legal_unit": {
+        "name": "Jesus Albino Vieira Crispa",
+        "role": null
+    }
+}

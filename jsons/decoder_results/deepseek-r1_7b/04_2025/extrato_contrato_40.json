@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "151/2025",
+    "ig": "1344420000"
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO, situada no Centro Administrativo Governador Virgílio Távora, na Av. Gal. Afonso Albuquerque Lima, s/n, Cambeba, Fortaleza - CE",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "JT CONSTRUÇÃO EIRELI",
+    "cpf_cnpj": "00.182.545/0001-66"
+  },
+  "validity": "12 meses",
+  "global_value": "R$ 6.009.604,41",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "OSNY COELHO DE OLIVEIRA"
+    }
+  },
+  "legal_unit": {
+    "name": "JOSÉ VALDECI REBOUÇAS",
+    "role": "Superintendente"
+  }
+}

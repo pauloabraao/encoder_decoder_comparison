@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.048098/2025-75",
+        "ig": "1367721"
+    },
+    "contracting_party": {
+        "name": "COORDENADORIA REGIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO- CREDE 10 RUSSAS",
+        "cpf_cnpj": "07.954.514/0224-47"
+    },
+    "contracted_party": {
+        "name": "U. S. DA CRUZ NETO",
+        "cpf_cnpj": "37.847.947/0001-42"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 2.883,75",
+    "signature": {
+        "date": "11/03/2025",
+        "signatories": {
+            "contracting_party": "EMÍLIA GOMES CELEDÔNIO",
+            "contracted_party": "UBIRATAN SOBREIRA DA CRUZ NETO"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

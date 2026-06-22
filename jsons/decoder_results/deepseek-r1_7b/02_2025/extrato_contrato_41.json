@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.033867/2025-31/PRÉ-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEMTI LUÍZA TÁVORA",
+    "cpf_cnpj": "07.954.514/0674-67"
+  },
+  "contracted_party": {
+    "name": "U.S. DA CRUZ NETO",
+    "cpf_cnpj": "37.847.947/0001-42"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 22.304,70",
+  "signature": {
+    "date": "19/02/2025",
+    "signatories": {
+      "contracting_party": "Antônio Weskley Alves Holanda",
+      "contracted_party": "Ubiratan Sobrenia da Cruz Neto"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "Coordenação/ASJUR"
+  }
+}

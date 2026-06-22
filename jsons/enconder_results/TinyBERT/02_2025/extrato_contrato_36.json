@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "014/2025",
+        "ig": "1363075000"
+    },
+    "contracting_party": {
+        "name": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP",
+        "cpf_cnpj": "33.866.288/0001-30"
+    },
+    "contracted_party": {
+        "name": "MARIA CANILDES VIEIRA SALES",
+        "cpf_cnpj": "10.922.543/0001-10"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 783",
+    "signature": {
+        "date": "18/02/2025",
+        "signatories": {
+            "contracting_party": "Francisco Pita, nº 1244, Jardim das Oliveiras",
+            "contracted_party": "Francisco Pita, nº 1244, Jardim das Oliveiras"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "SUPERINTENDENTE DA SOP) e MARIA CANILDES VIEIRA SALES (Representante da Contratada). Gadyel Gonçalves de Aguiar Paula SUPERINTENDENTE ADJUNTO DE EDIFICAÇÕES"
+    }
+}

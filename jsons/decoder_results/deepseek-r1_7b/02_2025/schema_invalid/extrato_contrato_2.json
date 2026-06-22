@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "214/2024",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Estados do Ceará - Casa Civil",
+    "cpf_cnpj": "09.469.891/0001-02"
+  },
+  "contracted_party": {
+    "name": "SPALLA EVENTOS E SERVIÇOS LTDA",
+    "cpf_cnpj": "30.546.059/0001-40"
+  },
+  "validity": "22 meses",
+  "global_value": "R$ 322.000,00",
+  "signature": {
+    "date": "27/01/2025",
+    "signatories": [
+      "Francisco José Moura Cavalcante",
+      "Mariana Souza Joca Lima"
+    ]
+  },
+  "legal_unit": {
+    "name": null,
+    "role": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.103512/2024-35",
+    "ig": "1362062"
+  },
+  "contracting_party": {
+    "name": "A EEMTI Perboyre e Silva",
+    "cpf_cnpj": "07.954.514/0190-63"
+  },
+  "contracted_party": {
+    "name": "CONSTRUTORA E IMOBILIÁRIA RODRIGUES LTDA",
+    "cpf_cnpj": "44.922.978/0001-86"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 88.942,12",
+  "signature": {
+    "date": "13/02/2025",
+    "signatories": {
+      "contracting_party": "José Ricardo Rabelo",
+      "contracted_party": "Francisco Rodrigues Torres"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

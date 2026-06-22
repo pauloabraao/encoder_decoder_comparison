@@ -1,0 +1,26 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.029760/2025-98",
+    "ig": null,
+    "year_month_day": "28/03/2025"
+  },
+  "contracting_party": {
+    "name": "State of Ceará through ESCOLA PROFESSORA RAQUEL CASTRO E SILVA DE MIRANDA",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA DE PRODUÇAO AGROPECUÁRIA E SERVIÇOS SANTA BARBARA - COPASB",
+    "cpf_cnpj": null
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 163.420,00",
+  "signature": {
+    "date": null,
+    "signatories": {}
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

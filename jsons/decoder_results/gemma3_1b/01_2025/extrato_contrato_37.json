@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": "GOVERNO DO ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO DO ESTADO CEARÁ/ EEMTI DE CASCAVEL",
+    "cpf_cnpj": "07.954.514/0845-58"
+  },
+  "contracted_party": {
+    "name": "UNIAS EMPREENDI- MENTOS LTDA",
+    "cpf_cnpj": "41.246.178/0001-02"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 81.380,94",
+  "signature": {
+    "date": "24 de janeiro de 2025",
+    "signatories": {
+      "contracting_party": "REBECA SOUSA DA SILVA",
+      "contracted_party": "CONTRATADO"
+    }
+  },
+  "legal_unit": {
+    "name": "CASCAVEL/CE",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

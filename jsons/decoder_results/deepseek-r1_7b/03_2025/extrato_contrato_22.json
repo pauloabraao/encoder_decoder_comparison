@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.028386/2025-11",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, por intermédio da SECRETARIA DA EDUCAÇÃO e a ESCOLA DE ENSINO MEDIO DOUTOR JOAO RIBEIRO RAMOS",
+    "cpf_cnpj": "07.954.514/0107-83"
+  },
+  "contracted_party": {
+    "name": "NAIME CAVALCANTE AUR LTDA",
+    "cpf_cnpj": "24.317.997/0001-76"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 7.000,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "FRANCISCO NEUZIMAR DE AZEVEDO ANDRADE",
+      "contracted_party": "NAIME CAVALCANTE AUR"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

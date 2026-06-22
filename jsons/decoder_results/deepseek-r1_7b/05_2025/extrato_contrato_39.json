@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": "1370289"
+  },
+  "contracting_party": {
+    "name": "LICEU DE ACOPIARA",
+    "cpf_cnpj": "07.954.514/0655-02"
+  },
+  "contracted_party": {
+    "name": "U.S DA CRUZ NETO-ME",
+    "cpf_cnpj": "37.847.947/0001-42"
+  },
+  "validity": null,
+  "global_value": "R$ 63.106,53",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Antônio Marcelo Castro Feitosa",
+      "contracted_party": "Ubiratan Sobreira da Cruz Neto"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

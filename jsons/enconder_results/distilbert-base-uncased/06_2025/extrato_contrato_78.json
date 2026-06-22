@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.075218/2025-15",
+        "ig": "1382022"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO MARIA NAZARÉ DE SOUSA",
+        "cpf_cnpj": "07.954.514/0032-21"
+    },
+    "contracted_party": {
+        "name": "HERICA PIRES LIMA",
+        "cpf_cnpj": "44.714.654/0001-52"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$8.333,50",
+    "signature": {
+        "date": "04/06/2025",
+        "signatories": {
+            "contracting_party": "Maria do Livramento Gonçalves",
+            "contracted_party": "Herica Pires Lima"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

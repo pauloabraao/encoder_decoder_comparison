@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.047647/2025-94",
+    "ig": "1383592"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará/Secretaria da Educação, através da EEEP GERARDO JOSÉ DIAS DE LOIOLA",
+    "cpf_cnpj": "07.954.514/0815-32"
+  },
+  "contracted_party": {
+    "name": "FERNANDA GOMES FROTA",
+    "cpf_cnpj": "10.931.691/0001-09"
+  },
+  "validity": "365 (TREZENTOS E SESSENTA E CINCO) dias",
+  "global_value": "R$14.499,00",
+  "signature": {
+    "date": "10/06/2025",
+    "signatories": {
+      "contracting_party": "André Ivo Vasconcelos Moura",
+      "contracted_party": "FERNANDA GOMES FROTA"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "011/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "AGÊNCIA DE DEFESA AGROPECUÁRIA DO ESTADO DO CEARÁ - ADAGRI",
+        "cpf_cnpj": "07.421.806/0001-00"
+    },
+    "contracted_party": {
+        "name": "SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE MILHÃ/CE",
+        "cpf_cnpj": "17"
+    },
+    "validity": "O presente contrato vigorará por PRAZO INDETERMI- NADO",
+    "global_value": "R$ 960,00",
+    "signature": {
+        "date": "23/04/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "ROBERTO BELCHIOR AGUIAR",
+        "role": "SAAE de Milhã/CE. Rafael Fernandes de Alcântara ASSESSOR JURÍDICO"
+    }
+}

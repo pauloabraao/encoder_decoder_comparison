@@ -1,0 +1,25 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "65/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "KG Construções Ltda.",
+    "cpf_cnpj": null
+  },
+  "validity": "4.1. o prazo de vigência deste contrato é de 12 (doze) meses, contado a partir da publicação, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a prorrogação desde que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o CONTRATADO.",
+  "global_value": null,
+  "signature": {
+    "date": "18/03/2025",
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": "KG Construções Ltda."
+    }
+  },
+  "legal_unit": null
+}

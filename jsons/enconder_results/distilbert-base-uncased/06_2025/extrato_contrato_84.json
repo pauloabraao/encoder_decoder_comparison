@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.074683/2025-21",
+    "ig": "1380168"
+  },
+  "contracting_party": {
+    "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL CORNÉLIO DIÓGENES",
+    "cpf_cnpj": "07.954.514/0643-60"
+  },
+  "contracted_party": {
+    "name": "EXCELÊNCIA SERVIÇOS E EVENTOS LTDA",
+    "cpf_cnpj": "59.373.387.0001-74"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 5.200,00",
+  "signature": {
+    "date": "23/05/2025",
+    "signatories": {
+      "contracting_party": "Francisca Evanice de Sousa",
+      "contracted_party": "Antônio Daniel Sousa Macie"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

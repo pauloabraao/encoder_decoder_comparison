@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001017624202555/PRE-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A E.E.M.T.I. NAZARÉ GUERRA, Itatira – CE",
+    "cpf_cnpj": "07.954.514/0323-29"
+  },
+  "contracted_party": {
+    "name": "MEL DISTRIBUIDORA LTDA",
+    "cpf_cnpj": "50.911.223/0001-89"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 11.715,00",
+  "signature": {
+    "date": "20/02/2025",
+    "signatories": {
+      "contracting_party": "Antonia Alzeleny Viana Nunes",
+      "contracted_party": "Esmeralda De Andrade Souza"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

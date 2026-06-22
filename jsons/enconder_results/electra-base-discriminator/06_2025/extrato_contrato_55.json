@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001086453/2025",
+        "ig": "1384079"
+    },
+    "contracting_party": {
+        "name": "20ª Coordenadoria Regional de Desenvolvimento da Educação/CREDE 20",
+        "cpf_cnpj": "07.954.514/0560 - 07"
+    },
+    "contracted_party": {
+        "name": "JOANA MARIA DE FREITAS FERREIRA - ME",
+        "cpf_cnpj": "17.379.323/0001-30"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 26.800,00",
+    "signature": {
+        "date": null,
+        "signatories": {
+            "contracting_party": "Cícero Pereira de Oliveira",
+            "contracted_party": "Joana Maria de Freitas Ferreira"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

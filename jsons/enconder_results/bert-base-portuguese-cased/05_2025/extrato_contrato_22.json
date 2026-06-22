@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.032654/2025-91",
+    "ig": "1374872"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ EEM JOSÉ DE ALENCAR",
+    "cpf_cnpj": "07.954.514/0536-79"
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA AGROINDUS- TRIAL DO ESTADO DO CEARÁ - COOPAECE",
+    "cpf_cnpj": "22.016.516/0001-67"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 183.051,00",
+  "signature": {
+    "date": "25/04/2025",
+    "signatories": {
+      "contracting_party": "MAURILIO DA SILVA SOUSA",
+      "contracted_party": "Renata de Abreu Bastos"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.128382/2024-43",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEMTI MARIA DÁUREA LOPES - CREDE 16 - Município de Iguatu/CE",
+    "cpf_cnpj": "07.954.514/0799-88"
+  },
+  "contracted_party": {
+    "name": "GERCIANA MARTINS DE OLIVEIRA",
+    "cpf_cnpj": "52.249.726/0001-66"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 26.440,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "EEMTI MARIA DÁUREA LOPES - CREDE 16 - Município de Iguatu/CE",
+      "contracted_party": "GERCIANA MARTINS DE OLIVEIRA"
+    }
+  },
+  "legal_unit": {
+    "name": "Maria Gneglauda Holanda",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

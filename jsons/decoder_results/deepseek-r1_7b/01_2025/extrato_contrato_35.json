@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "025/2024",
+    "ig": "1368314"
+  },
+  "contracting_party": {
+    "name": " Polícia Federal de Justiça (PFJ) - Polícia Civil",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": " órgão federado",
+    "cpf_cnpj": null
+  },
+  "validity": "180 dias",
+  "global_value": "R$ 23.453,18",
+  "signature": {
+    "date": "22/01/2025",
+    "signatories": {
+      "contracting_party": "CÍCERO REGINALDO NASCIMENTO SANTOS",
+      "contracted_party": "OTACILIO PEREIRA DA SILVA NETO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

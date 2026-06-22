@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.035244/2025-01",
+        "ig": "1369047"
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA VILA DOS CACOS",
+        "cpf_cnpj": "07.954.514/0142"
+    },
+    "contracted_party": {
+        "name": "Francisca Larisse Nascimento de Moura CONTRATADA",
+        "cpf_cnpj": "0142-66, doravante denominada(o) CONTRATANTE, neste ato representada por Francisca Larisse Nascimento de Moura CONTRATADA: FRANCISCO DAS CHAGAS CAMELO NASCIMENTO, com sede na Rua cento e cinco c, 121, Acaracuzinho, Maracanaú, CEP: 61.920-210, Fone: 85"
+    },
+    "validity": "365 (Trezentos e Sessenta e Cinco) dias",
+    "global_value": "R$ 14.277,00",
+    "signature": {
+        "date": "022.12.362.144.20974",
+        "signatories": {
+            "contracting_party": "FRANCISCO DAS CHAGAS CAMELO NASCIMENTO",
+            "contracted_party": "FRANCISCO DAS CHAGAS CAMELO NASCIMENTO"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

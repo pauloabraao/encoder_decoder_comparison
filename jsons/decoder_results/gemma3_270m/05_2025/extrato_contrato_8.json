@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "023/2025",
+    "ig": "1363604"
+  },
+  "contracting_party": {
+    "name": "SAE AGÊNCIA DE DEFESA AGROPECUÁRIA DO ESTADO DO CEARÁ - ADAGRI",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "MIDAS PRESTAÇÃO DE SERVIÇOS GERAIS LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 51.280,00",
+  "signature": {
+    "date": "23 de abril de 2025",
+    "signatories": {
+      "contracting_party": "SAE AGÊNCIA DE DEFESA AGROPECUÁRIA DO ESTADO DO CEARÁ - ADAGRI",
+      "contracted_party": "MIDAS PRESTAÇÃO DE SERVIÇOS GERAIS LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "MARCOS RODRIGUES DE LEMOS",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

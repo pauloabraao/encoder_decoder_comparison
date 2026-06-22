@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "044/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO - SDA",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "F MACIANO BEZERRA AGROPECUÁRIA-ME",
+    "cpf_cnpj": "19.680.571/0001-42"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": null,
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "MOISÉS BRAZ RICARDO",
+      "contracted_party": "FRANCISCO MACIANO BEZERRA"
+    }
+  },
+  "legal_unit": {
+    "name": "Anna Karinne Nery Veras",
+    "role": "COORDENADORA DA ASJUR"
+  }
+}

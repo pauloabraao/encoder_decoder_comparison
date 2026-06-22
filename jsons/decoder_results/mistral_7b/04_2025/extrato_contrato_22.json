@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.014470/2025-40/IG-1366741"
+  },
+  "contracting_party": {
+    "name": "A Escola Liceu Professor Francisco Oscar Rodrigues",
+    "cpf_cnpj": "07.954.514/0220-13"
+  },
+  "contracted_party": {
+    "name": "MARIA LEIDIANE CAMELO DO NASCIMENTO",
+    "cpf_cnpj": "48.394.531/0001-32"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 44.945,00",
+  "signature": {
+    "date": "27/03/2025",
+    "signatories": {
+      "contracting_party": "Sérgio Banhos Vieira Braga",
+      "contracted_party": "Maria Leidiane Camelo do Nascimento"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

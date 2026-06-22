@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "052/2025",
+        "ig": "1368105|SACC:"
+    },
+    "contracting_party": {
+        "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO - SDA,",
+        "cpf_cnpj": "07.954.563/0001-68."
+    },
+    "contracted_party": {
+        "name": "ASSO- CIAÇÃO CRISTÃ DE BASE - ACB,",
+        "cpf_cnpj": "06.740.096/0001-00."
+    },
+    "validity": "aquele mencionado",
+    "global_value": "R$ 2.216.122,11",
+    "signature": {
+        "date": "26/03/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "FRANCISCO DE ASSIS BATISTA"
+        }
+    },
+    "legal_unit": {
+        "name": "Anna Karinne Nery Veras",
+        "role": "COORDENADORA DA ASJUR"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "13538150",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEEP GUIOMAR BELCHIOR AGUIAR",
+        "cpf_cnpj": "55.852.319/0001-37"
+    },
+    "contracted_party": {
+        "name": "EEEP GUIOMAR BELCHIOR AGUIAR",
+        "cpf_cnpj": "55.852.319/0001-37"
+    },
+    "validity": null,
+    "global_value": "R$ 11.821,80",
+    "signature": {
+        "date": "08/11/2024",
+        "signatories": {
+            "contracting_party": "PEDRO HENRIQUE SILVA GALVÃO",
+            "contracted_party": "PEDRO HENRIQUE SILVA GALVÃO"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

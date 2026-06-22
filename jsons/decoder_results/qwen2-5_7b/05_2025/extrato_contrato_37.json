@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.049511/2025-19",
+    "ig": "1372824"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA EDUCAÇÃO/ ESCOLA INDÍGENA ÍNDIOS TAPEBA",
+    "cpf_cnpj": "07.954.514/0138-80"
+  },
+  "contracted_party": {
+    "name": "COOPERATIVA DE PRODUÇÃO AGROPECUÁRIA E SERVIÇOS SANTA BARBARA-COPASB",
+    "cpf_cnpj": "02.981.979/0001-51"
+  },
+  "validity": "365 (TREZENTOS E SESSENTA E CINCO) dias",
+  "global_value": "R$ 79.093,00",
+  "signature": {
+    "date": "22/04/2025",
+    "signatories": {
+      "contracting_party": "CLAUDENILDO BENTO DE MATOS",
+      "contracted_party": "RAIMUNDO NONATO BARBOSA DO NASCIMENTO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

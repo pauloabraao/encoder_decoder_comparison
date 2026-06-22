@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "99/2025 – SEDUC NUP 22001.042527/2024-10",
+    "ig": "1340315000"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA EDUCAÇÃO, localizada no Centro Administrativo Governador Virgílio Távora",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "EMPRESA ESTRUTURAL ENGENHARIA E CONSTRUÇÃO LTDA",
+    "cpf_cnpj": "25.238.571/0001-90"
+  },
+  "validity": "24 (vinte e quatro) meses",
+  "global_value": "R$ 11.473.677,95",
+  "signature": {
+    "date": "24 de março de 2025",
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "ÁLVARO RODRIGO BEZERRA"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

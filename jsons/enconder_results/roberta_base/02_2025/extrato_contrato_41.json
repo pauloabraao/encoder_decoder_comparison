@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.033867/2025-31",
+    "ig": "1364368"
+  },
+  "contracting_party": {
+    "name": "EEMTI LUÍZA TÁVORA",
+    "cpf_cnpj": "07.954.514/0674-67"
+  },
+  "contracted_party": {
+    "name": "U.S DA CRUZ NETO - ME",
+    "cpf_cnpj": "37.847.947/0001-42"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 22.304,70",
+  "signature": {
+    "date": "19/02/2025",
+    "signatories": {
+      "contracting_party": "Antônio Weskley Alves Holanda",
+      "contracted_party": "U.S DA CRUZ NETO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

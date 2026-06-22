@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.128382/2024-43",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A EEEP Aderson Borges de Carvalho",
+    "cpf_cnpj": "10.870.232/0001-54"
+  },
+  "contracted_party": {
+    "name": "PHF ALEXANDRE CONSTRUÇOES & SERVIÇOS",
+    "cpf_cnpj": "50.959.589/0001-28"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 47.500,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A EEEP Aderson Borges de Carvalho",
+      "contracted_party": "PHF ALEXANDRE CONSTRUÇOES & SERVIÇOS"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

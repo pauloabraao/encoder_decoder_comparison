@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "014/2025",
+    "ig": "47011.006467/2024-83"
+  },
+  "contracting_party": {
+    "name": "SUPERINTENDÊNCIA DO SISTEMA ESTADUAL DE ATENDIMENTO SOCIOEDUCATIVO – SEAS",
+    "cpf_cnpj": "25.150.364/0001-89"
+  },
+  "contracted_party": {
+    "name": "BEL MICRO TECNOLOGIA S/A",
+    "cpf_cnpj": "71.052.559/0001-03"
+  },
+  "validity": "12 meses",
+  "global_value": "R$ 89.184,90",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Roberto Bassan Peixoto",
+      "contracted_party": "Bianca Aderaldo Lobo Moreira"
+    }
+  },
+  "legal_unit": {
+    "name": "SEAS",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

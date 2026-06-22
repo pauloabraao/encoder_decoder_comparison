@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "045/2025/NUP Nº22001.005213/2025-17",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, por intermédio da Secretaria da Educação",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "T.J.L COMERCIO E SERVIÇOS LTDA",
+    "cpf_cnpj": "55.101.626/0001-86"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 36.897,80",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "JACQUELINE MOURA BARBOSA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001065066/2025-34",
+    "ig": "1367730"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ",
+    "cpf_cnpj": "07.954.514/0675- 48"
+  },
+  "contracted_party": {
+    "name": "ÔMEGA DISTRIBUIDORA DE PRODUTOS ALIMENTÍCIOS LTDA",
+    "cpf_cnpj": "41.600.131/0001-97"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 34.026,84",
+  "signature": {
+    "date": "24/04/2025",
+    "signatories": {
+      "contracting_party": "Antônio Danúzio Araújo Pereira",
+      "contracted_party": "FRANCISCO ARRUDA DIAS AGUIAR"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

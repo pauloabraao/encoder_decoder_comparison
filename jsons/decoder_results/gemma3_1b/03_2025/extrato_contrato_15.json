@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "PH E B COMERCIO E SERVIÇOS LTDA",
+    "cpf_cnpj": "11.914.096/0001- 10"
+  },
+  "contracted_party": {
+    "name": "LICEU ESTADUAL ALFREDO ALMEIDA MACHADO",
+    "cpf_cnpj": "07.954.514/0319-42"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 10.498,16 (DEZ MIL QUATROCENT E NOVENTA E OITO REAIS E DEZESSEIS CENTAVOS)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "FRANCISCA AISLAN PEREIRA DE SOUSA",
+      "contracted_party": "LUISA OLIVEIRAAAA AMUNO"
+    }
+  },
+  "legal_unit": {
+    "name": "Quixeramobim/CE",
+    "role": "Coordenador/ASJUR"
+  }
+}

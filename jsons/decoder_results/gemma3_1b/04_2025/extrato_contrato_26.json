@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": ""
+  },
+  "contracting_party": {
+    "name": "'A EEM CAMILO BRASILIENSE'",
+    "cpf_cnpj": "07.954.514/0068-32"
+  },
+  "contracted_party": {
+    "name": "'a ISMAEL FERREIRA GOMES', CONTRATADA: T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": "50.134.011/0001-32"
+  },
+  "validity": "360 (trezentos e sessenta) dias",
+  "global_value": "R$ 30.864,00",
+  "signature": {
+    "date": "27 de Março de 2025",
+    "signatories": {
+      "contracting_party": "'A EEM CAMILO BRASILIENSE'",
+      "contracted_party": "'a ISMAEL FERREIRA GOMES'"
+    }
+  },
+  "legal_unit": {
+    "name": "'Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

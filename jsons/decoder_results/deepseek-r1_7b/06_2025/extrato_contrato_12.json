@@ -1,0 +1,20 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.026579",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEM Ana Bezerra de Sá",
+    "cnpgj": null
+  },
+  "date_of_execution": "2025-10-24",
+  "duration": null,
+  "reason_for_contracting": "Atenção especial para a Mulher no Trabalho",
+  "value": 1234567.89,
+  "conditions": null,
+  "signature": {
+    "date": "2025-10-24",
+    "name": "Ana Cely de Freitas"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "56032.000086/2025-14",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "JUNTA COMERCIAL DO ESTADO DO CEARÁ",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "CAMILA OLIVEIRA CUNHA",
+    "cpf_cnpj": null
+  },
+  "validity": "1 ano",
+  "global_value": "R$ 23.112,50",
+  "signature": {
+    "date": "17/02/2025",
+    "signatories": {
+      "contracting_party": "EDUARDO JEREISSATI DE AZEVEDO",
+      "contracted_party": "CAMILA OLIVEIRA CUNHA"
+    }
+  },
+  "legal_unit": {
+    "name": "JUNTA COMERCIAL DO ESTADO DO CEARÁ",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

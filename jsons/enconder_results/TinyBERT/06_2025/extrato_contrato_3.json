@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "024",
+        "ig": "1368314|SACC:1363610"
+    },
+    "contracting_party": {
+        "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO - SDA",
+        "cpf_cnpj": "07.954.563/0001-68"
+    },
+    "contracted_party": {
+        "name": "WASHIN- GTON JOSÉ DE OLIVEIRA - ME",
+        "cpf_cnpj": "23.558"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 75.364,10",
+    "signature": {
+        "date": "20 . 608 . 211-10069-339030.12.500.9100000.0-4.01 - 23209 R$ - 36.540,64; 21100029.20 . 608 . 211-10069-339030.13.500.9100000.0- 4.01 - 20010 R$ - 38.823",
+        "signatories": {
+            "contracting_party": "MOISÉS BRAZ RICARDO Secretário do Desenvolvimento Agrário",
+            "contracted_party": "MOISÉS BRAZ RICARDO Secretário do Desenvolvimento Agrário"
+        }
+    },
+    "legal_unit": {
+        "name": "Anna Karinne Nery Veras COORDENADORA DA ASSESSORIA JURÍDICA",
+        "role": "COORDENADORA DA ASSESSORIA JURÍDICA"
+    }
+}

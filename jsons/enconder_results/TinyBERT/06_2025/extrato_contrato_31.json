@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.079321/2025-26",
+        "ig": "1380848"
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA ABA KATU",
+        "cpf_cnpj": "07.954.514/0818"
+    },
+    "contracted_party": {
+        "name": "ELTON BARBOSA DE MESQUITA",
+        "cpf_cnpj": "19.153.173/0001-78"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$2.817,00",
+    "signature": {
+        "date": "26/05/2025",
+        "signatories": {
+            "contracting_party": "Francisco Santiago Silva",
+            "contracted_party": "ANTONIO ELTON BARBOSA DE MESQUITA"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

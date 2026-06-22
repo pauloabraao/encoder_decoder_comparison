@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "08/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "Fundação Universidade Regional do Cariri - URCA",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "COMPANHIA DE ÁGUA E ESGOTO DO CEARÁ - CAGECE",
+        "cpf_cnpj": null
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 60.000,00",
+    "signature": {
+        "date": "06/06/2025",
+        "signatories": {
+            "contracting_party": "Carlos Kleber Nascimento de Oliveira",
+            "contracted_party": "Neurisangelo Cavalcante de Freitas"
+        }
+    },
+    "legal_unit": {
+        "name": "Carlos Kleber Nascimento de Oliveira",
+        "role": "Diretor Presidente da CAGECE"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "12/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "CENTRAIS DE ABASTECIMENTO DO CEARÁ S/A-CEASA/CE",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "SERCON SERVIÇOS E CONSTRUÇÃO LTDA",
+        "cpf_cnpj": null
+    },
+    "validity": "180 (cento e oitenta) dias",
+    "global_value": "R$ 745",
+    "signature": {
+        "date": "13.303/2016. VALOR GLOBAL: R$ 745.754",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

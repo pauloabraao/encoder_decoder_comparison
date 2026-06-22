@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001079318/20251",
+        "ig": "1380337"
+    },
+    "contracting_party": {
+        "name": "A EEMTI Maria Menezes Cristino",
+        "cpf_cnpj": "07.954.514/0076-42"
+    },
+    "contracted_party": {
+        "name": "Meruoca - CE, CEP: 62.130-000, Fone: (88) 99913-9849, inscrita no CPF/CNPJ sob o nº 33.187.562/0001-45, doravante denominado CONTRATADA, representada neste ato pela Sra",
+        "cpf_cnpj": "33.187.562"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 5.400,00",
+    "signature": {
+        "date": "29/05/2025",
+        "signatories": {
+            "contracting_party": "Francisco, Meruoca - CE, CEP: 62.130-000, Fone: (88) 99913-9849, inscrita no CPF/CNPJ sob o nº 33.187.562/0001-45, doravante denominado CONTRATADA, representada neste ato pela Sra. Maria de Lourdes Gomes",
+            "contracted_party": "Maria de Lourdes Gomes Cedro"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

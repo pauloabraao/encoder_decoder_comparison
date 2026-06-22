@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "10805.452025/81",
+        "ig": "1382456"
+    },
+    "contracting_party": {
+        "name": "EEMTI LUIZA TIMBÓ",
+        "cpf_cnpj": "07.954.514/0274-06"
+    },
+    "contracted_party": {
+        "name": "ANTONIO ELTON BARBOSA DE MESQUITA",
+        "cpf_cnpj": "19.153.173/0001-78"
+    },
+    "validity": "365 (Trezentos e Sessenta e Cinco) Dias",
+    "global_value": "R$23.959,90",
+    "signature": {
+        "date": "09/06/2025",
+        "signatories": {
+            "contracting_party": "JOAQUIM WEKSSLEI VERAS DA LUZ",
+            "contracted_party": "ANTONIO ELTON BARBOSA DE MESQUITA"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

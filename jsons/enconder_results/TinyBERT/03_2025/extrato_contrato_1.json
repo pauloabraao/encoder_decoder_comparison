@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "01/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "Fundação Universidade Regional do Cariri - URCA CONTRATADA",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "Empresa FENIX COMÉRCIO DE MÁQUINAS E GRANITO LTDA.. OBJETO: O objeto do presente instrumento é a aquisição de uma máquina de corte com fio diamantado, uma máquina polidora monocabeça e uma prensa excêntrica",
+        "cpf_cnpj": null
+    },
+    "validity": "1 (um) ano",
+    "global_value": "R$ 406.125,00",
+    "signature": {
+        "date": "12.364",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "François Paul Charron - Representante Legal. Carlos Kleber",
+        "role": null
+    }
+}

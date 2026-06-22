@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "21/2025",
+    "ig": "1330460000"
+  },
+  "contracting_party": {
+    "name": "FUNECE",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "REDE AMBIENTAL COMÉRCIO E SERVIÇOS LTDA-ME",
+    "cpf_cnpj": null
+  },
+  "validity": "30/05/2025 a 30/05/2026",
+  "global_value": "R$ 139.800,00",
+  "signature": {
+    "date": "30/05/2025",
+    "signatories": {
+      "contracting_party": "Prof. M.e. Hidelbrando dos Santos Soares",
+      "contracted_party": "REDE AMBIENTAL COMÉRCIO E SERVIÇOS LTDA-ME"
+    }
+  },
+  "legal_unit": {
+    "name": "Prof. M.e. Hidelbrando dos Santos Soares",
+    "role": "Presidente da FUNECE"
+  }
+}

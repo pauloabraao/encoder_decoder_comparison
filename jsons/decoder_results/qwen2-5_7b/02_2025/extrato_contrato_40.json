@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.033304/2025-42",
+    "ig": "1364622"
+  },
+  "contracting_party": {
+    "name": "ESCOLA CAIC RAIMUNDO GOMES DE CARVALHO",
+    "cpf_cnpj": "07.954.514/0459-00"
+  },
+  "contracted_party": {
+    "name": "BMP DE SOUSA COMERCIAL EIRELI",
+    "cpf_cnpj": "29.725.927/0001-70"
+  },
+  "validity": "210 (duzentos e dez dias)",
+  "global_value": "R$ 3.186,00",
+  "signature": {
+    "date": "19/02/2025",
+    "signatories": {
+      "contracting_party": "SILVIO CEZAR DE CASTRO E SANTOS",
+      "contracted_party": "BEATRIZ MARIA PEREIRA DE SOUSA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

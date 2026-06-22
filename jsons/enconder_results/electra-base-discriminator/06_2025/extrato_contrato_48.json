@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.042791/2025-34",
+    "ig": "1383952"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ESCOLA LICEU DE ACOPIARA DEPUTADO FRANCISCO ALVES SOBRINHO",
+    "cpf_cnpj": "07.954.514/0655-02"
+  },
+  "contracted_party": {
+    "name": "GRACIELE MARTINS CABRAL",
+    "cpf_cnpj": "091.149.083-36"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 25.800,00",
+  "signature": {
+    "date": "09/06/2025",
+    "signatories": {
+      "contracting_party": "Antônio Marcelo Castro Feitosa",
+      "contracted_party": "GRACIELE MARTINS CABRAL"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

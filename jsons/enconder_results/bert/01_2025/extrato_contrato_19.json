@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.122503/2024-43",
+        "ig": "1351700"
+    },
+    "contracting_party": {
+        "name": "EEMTI ANA NORONHA",
+        "cpf_cnpj": "07954514/0269-49"
+    },
+    "contracted_party": {
+        "name": "GRAFICA & EDITORA FORTAL PRINT LTDA",
+        "cpf_cnpj": "24.278.025/0001-10 doravante denominado CONTRATADO, representado neste ato por Francisca Milena Carneiro de Oliveira Pinto, brasi- leira, portadora da Carteira de Identidade nº 99029256665, e do CPF nº 899.886.203-49"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 924,00",
+    "signature": {
+        "date": "06/11/2024",
+        "signatories": {
+            "contracting_party": "Edigleuma do Socorro Barbosa Amador Silva",
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

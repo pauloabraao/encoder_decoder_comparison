@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "12/2025/NUP",
+    "ig": "1361678000"
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "TD DANTAS SOLUÇÕES LTDA",
+    "cpf_cnpj": "30.865.998/0001-58"
+  },
+  "validity": "4.1. O prazo de vigência deste contrato é de 12 (doze) meses, contado do(a) publicação, na forma do art. 105 c/c o art. 94 ambos da Lei n° 14.133/2021, admitindo-se a sua prorrogação desde que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com a CONTRATADA.",
+  "global_value": "R$ 6.387.740,00",
+  "signature": {
+    "date": "10/01/2025",
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": "TD DANTAS SOLUÇÕES LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "Coordenadora/ASJUR"
+  }
+}

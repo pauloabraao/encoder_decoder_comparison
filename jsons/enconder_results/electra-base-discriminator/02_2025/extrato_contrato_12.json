@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.123803/2024-40",
+        "ig": "1362717"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL EMANUEL",
+        "cpf_cnpj": "07.954.514/0266-04"
+    },
+    "contracted_party": {
+        "name": "D A OLVEIRA PEIXOTO LTDA",
+        "cpf_cnpj": "53.503.152/0001-73"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias corridos",
+    "global_value": "R$ 14.799,99",
+    "signature": {
+        "date": "10/02/2025",
+        "signatories": {
+            "contracting_party": "Maria da Conceição de Sousa Silva",
+            "contracted_party": "Diego Alexandre Oliveira Peixoto"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

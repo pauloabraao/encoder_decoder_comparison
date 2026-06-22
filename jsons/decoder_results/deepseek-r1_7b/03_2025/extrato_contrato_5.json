@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "JUNTA COMERCIAL DO ESTADO DO CEARÁ",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "",
+    "cpf_cnpj": null
+  },
+  "validity": "21/02/2025 a 20/02/2026",
+  "global_value": "R$49.600,00",
+  "signature": {
+    "date": "21/02/2025",
+    "signatories": {
+      "contracting_party": "EDUARDO JEREISSATI DE AZEVEDO",
+      "contracted_party": "Arthur Araújo Mesquita"
+    }
+  },
+  "legal_unit": {
+    "name": "JUNTA COMERCIAL DO ESTADO DO CEARÁ",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

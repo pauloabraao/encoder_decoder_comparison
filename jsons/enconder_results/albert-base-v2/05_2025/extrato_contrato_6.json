@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "30/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "FUNECE CONTRATADA: FUTURA CLIMATIZAÇÃO E ENERGIA RENOVÁVEL DISTRIBUIDORA COMÉRCIO E SERVIÇOS LTDA.",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": null
+    },
+    "validity": "28/04/2025",
+    "global_value": "R$ 241.900,00",
+    "signature": {
+        "date": "28/04/2025",
+        "signatories": {
+            "contracting_party": "Prof. M.e. Hidelbrando dos Santos Soares-Presidente",
+            "contracted_party": "Hidelbrando dos Santos Soares-Presidente"
+        }
+    },
+    "legal_unit": {
+        "name": "Roberta Nunes",
+        "role": "CLIMATIZAÇÃO E ENERGIA RENOVÁVEL DISTRIBUIDORA COMÉRCIO E SERVIÇOS LTDA Roberta Nunes ASSESSORIA JURÍDICA"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.071619/2025-98",
+        "ig": "1380312"
+    },
+    "contracting_party": {
+        "name": "Escola de Ensino Médio em Tempo Integral Nossa Senhora Livramento",
+        "cpf_cnpj": "07.954.514/0820-08"
+    },
+    "contracted_party": {
+        "name": "YURI ARAUJO MONTEIRO",
+        "cpf_cnpj": "50.949.285/0001-80"
+    },
+    "validity": "360 (trezentos e sessenta) dias",
+    "global_value": "R$2.900,00",
+    "signature": {
+        "date": "05/06/2025",
+        "signatories": {
+            "contracting_party": "Francisco José Almeida de Sousa",
+            "contracted_party": "Yuri Araújo Monteiro"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

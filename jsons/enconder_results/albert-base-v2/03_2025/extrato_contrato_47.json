@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.012190/2025-05/IG:",
+    "ig": "1365760"
+  },
+  "contracting_party": {
+    "name": "EEMTI Maria de Lourdes Oliveira,",
+    "cpf_cnpj": "07.954.514/0227-90,"
+  },
+  "contracted_party": {
+    "name": "CONCEITO COMÉRCIO E SERVIÇO LTDA,",
+    "cpf_cnpj": "39.345.050/0001-46"
+  },
+  "validity": "360 (trezentos e sessenta) dias",
+  "global_value": "R$ 2.960,00",
+  "signature": {
+    "date": "26/02/2025",
+    "signatories": {
+      "contracting_party": "Gilson Sales Mano",
+      "contracted_party": "Marcos Paulo de Arruda Valente."
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

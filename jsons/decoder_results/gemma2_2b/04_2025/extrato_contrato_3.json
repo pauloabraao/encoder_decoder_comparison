@@ -1,0 +1,57 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "653/2024/NUP",
+    "ig": "1338365000"
+  },
+  "contracting_parties": [
+    {
+      "name": "Eliana Nunes Estrela",
+      "role": "Secretária da Educação",
+      "party_type": "Contratante"
+    },
+    {
+      "name": "Francisco Fábio Alves Ribeiro",
+      "role": "Representante da EB Distribuidora Ltda.",
+      "party_type": "Contratada"
+    }
+  ],
+  "contract_details": {
+    "subject": "Aquisição de material de consumo (expediente e limpeza)",
+    "legal_basis": [
+      "Pregão Eletrônico n° 20240054",
+      "Lei Federal nº 14.133/2021"
+    ],
+    "budget": {
+      "amount": "R$ 9.298,10",
+      "currency": "BRL"
+    },
+    "validity": {
+      "duration": "12 meses",
+      "extension_conditions": "prorrogação mediante avaliação da Administração"
+    }
+  },
+  "legal_framework": [
+    {
+      "reference": "Lei Federal nº 14.133/2021"
+    }
+  ],
+  "signatories": [
+    {
+      "name": "Rosilene Fontineles Araujo Soares",
+      "role": "Testemunha",
+      "date": "27 de março de 2025"
+    },
+    {
+      "name": "Gilmara Rocha do Nascimento Fernandes",
+      "role": "Testemunha",
+      "date": "27 de março de 2025"
+    }
+  ],
+  "other_details": [
+    "Foro: Fortaleza/CE",
+    "Unidade: 22",
+    "Fonte de Recursos: 569",
+    "Programa de Trabalho: 231, 232"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": "1330460000"
+  },
+  "contracting_party": {
+    "name": "FUNECE CONTRATADA: REDE AMBIENTAL COMÉRCIO E SERVIÇOS LTDA-ME",
+    "cpf_cnpj": "3101010022024C"
+  },
+  "contracted_party": {
+    "name": "REDE AMBIENTAL COMÉNCIO E SERVISOS LTDA-ME",
+    "cpf_cnpj": "3101010022024C"
+  },
+  "validity": "30/05/2025",
+  "global_value": "R$ 139.800,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Hidelbrando dos Santos Soares",
+      "contracted_party": "Sérgio Eduardo Brito Teixeira"
+    }
+  },
+  "legal_unit": {
+    "name": "FUNECE",
+    "role": "Presidente"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001079928/202514",
+    "ig": "1377607"
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI Aracy Magalhães Martins",
+    "cpf_cnpj": "07.954.514/0090-09"
+  },
+  "contracted_party": {
+    "name": "ASSOCIAÇÃO DE AGRICULTORES FAMILIARES DA VARZEA DA CRUZ",
+    "cpf_cnpj": "54.272.251/0001-54"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 16.461,00",
+  "signature": {
+    "date": "27/05/2025",
+    "signatories": {
+      "contracting_party": "Francisco das Chagas Gomes de Paiva",
+      "contracted_party": "Raimunda Braz Rocha"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

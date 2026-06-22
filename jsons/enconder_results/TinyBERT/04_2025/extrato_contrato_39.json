@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.046470/2025-17",
+        "ig": "1369895"
+    },
+    "contracting_party": {
+        "name": "EEM CAMILO BRASILIENSE",
+        "cpf_cnpj": "07.954.514/0068-32"
+    },
+    "contracted_party": {
+        "name": "LEONARDO FERREIRA GOMES",
+        "cpf_cnpj": "372, Centro, Município Canindé - CE, CEP: 62.700-000, Fone: (85) 99689.8040"
+    },
+    "validity": "360 (trezentos e sessenta) dias",
+    "global_value": "R$ 15.480,30",
+    "signature": {
+        "date": "28",
+        "signatories": {
+            "contracting_party": "LEONARDO FERREIRA GOMES",
+            "contracted_party": "LEONARDO FERREIRA GOMES"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

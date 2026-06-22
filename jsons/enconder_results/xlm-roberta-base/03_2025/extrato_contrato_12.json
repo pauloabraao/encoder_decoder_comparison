@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.027240/2025-41/IG:",
+        "ig": "1366082"
+    },
+    "contracting_party": {
+        "name": "A(O) EEMTI ANTÔNIO RAIMUNDO DE MELO,",
+        "cpf_cnpj": "07.954.514/0343-72,"
+    },
+    "contracted_party": {
+        "name": "AURISELLY LIMA DE MELO -ME,",
+        "cpf_cnpj": "53.548.770/0001-30,"
+    },
+    "validity": "180 (cento e oitenta) dias,",
+    "global_value": "R$ 10.900,00",
+    "signature": {
+        "date": "26/02/2025",
+        "signatories": {
+            "contracting_party": "MARIA AUXILIADORA OLIVEIRA LIMA",
+            "contracted_party": "AURISELLY LIMA DE MELO"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

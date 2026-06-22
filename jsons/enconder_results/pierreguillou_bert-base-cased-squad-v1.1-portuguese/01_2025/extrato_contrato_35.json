@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001045186/202434 - IG - 1360253",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "E.E.M.T.I. ALAÍDE SILVA SANTOS",
+        "cpf_cnpj": "46.277.864/0001-56"
+    },
+    "contracted_party": {
+        "name": "E.E.M.T.I. ALAÍDE SILVA SANTOS",
+        "cpf_cnpj": "46.277.864/0001-56"
+    },
+    "validity": "22 de Janeiro 2025",
+    "global_value": "R$ 23.453,18",
+    "signature": {
+        "date": "22/01/2025",
+        "signatories": {
+            "contracting_party": "OTACILIO PEREIRA DA SILVA NETO",
+            "contracted_party": "OTACILIO PEREIRA DA SILVA NETO"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

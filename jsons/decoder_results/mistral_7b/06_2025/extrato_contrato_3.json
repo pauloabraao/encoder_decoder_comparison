@@ -1,0 +1,43 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "024/2025",
+    "ig": "1368314"
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO - SDA",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "WASHINGTON JOSÉ DE OLIVEIRA - ME",
+    "cpf_cnpj": "23.558.679/0001-34"
+  },
+  "object": "Contratação de pessoa jurídica de direito privado especializada na produção, transporte e entrega de mudas de essencias florestais nativas, cajueiro anão e frutiferas diversas no território do Estado do Ceará para o Projeto Hora de Plantar",
+  "credential": "credenciamento 09/2024",
+  "lots_quantities": {
+    "1 - Aroeira": 600,
+    "2 - Sabia": 2400,
+    "4 - BRS 226": 5000,
+    "8 - CCP 76": 9757,
+    "10 - Acerola": 1175,
+    "12 - Goiaba": 1000
+  },
+  "sum_mudas": 19932,
+  "legal_foundation": "Processo de Credenciamento, conforme processo administrativo SPU n° 21001.004734/2024-11, também fundamentado na Lei Federal nº 14.133, de 01 de abril de 2021 e a Lei Estadual nº 17.534, de 22 de junho de 2021 e suas alterações posteriores, além das demais disposições legais aplicáveis.",
+  "forum": "Fortaleza",
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 75.364,10",
+  "budget_code": "21100029.20 . 608 . 211-10069-339030.12.500.9100000.0-4.01 - 23209 R$ - 36.540,64; 21100029.20 . 608 . 211-10069-339030.13.500.9100000.0- 4.01 - 20010 R$ - 38.823,46",
+  "program": "2100010872024I - PROGRAMA DE DISTRIBUIÇÃO DE SEMENTES - MAPP: 14 – Programa de Distribuição de Sementes",
+  "signature": {
+    "date": "07/04/2025",
+    "signatories": {
+      "contracting_party": "MOISÉS BRAZ RICARDO",
+      "contracted_party": "WASHINGTON JOSÉ DE OLIVEIRA"
+    }
+  },
+  "legal_unit": {
+    "name": "Anna Karinne Nery Veras",
+    "role": "COORDENADORA DA ASSESSORIA JURÍDICA"
+  }
+}

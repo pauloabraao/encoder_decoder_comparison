@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001039389202572/PRE-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A EEM JOSÉ MARTINS RODRIGUES",
+    "cpf_cnpj": "07954514/0287-20"
+  },
+  "contracted_party": {
+    "name": "YURI ARAUJO MONTEIRO",
+    "cpf_cnpj": "50.949.285/0001-80"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 14.376,60",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Yuri Araújo Monteiro",
+      "contracted_party": "Fernando Silva Fernandes"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.039665/2025-01",
+    "ig": "137394500"
+  },
+  "contracting_party": {
+    "name": "ESCOLA EEFM CLÓVIS BEVILÁQUA",
+    "cpf_cnpj": "07954514/0442-54"
+  },
+  "contracted_party": {
+    "name": "Elizabeth dos Santos Pinheiro",
+    "cpf_cnpj": "55.070.820/0001-41"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 4.999,98",
+  "signature": {
+    "date": "22/04/2024",
+    "signatories": {
+      "contracting_party": "CARLOS HENRIQUE RODRIGUES SAMPAIO",
+      "contracted_party": "Elizabeth dos Santos Pinheiro"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

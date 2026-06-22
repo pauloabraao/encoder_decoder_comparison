@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.125628/2024-25/PRÉ-RESERVA: 1349911",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEEP JAIME DA CUNHA REBOUÇAS",
+    "cpf_cnpj": "07.954.514/0828-57"
+  },
+  "contracted_party": {
+    "name": "DUNA ENGENHARIA LTDA",
+    "cpf_cnpj": "38.294.115/0001-09"
+  },
+  "validity": "360 (trezentos e sessenta) dias",
+  "global_value": "R$ 23.455,77",
+  "signature": {
+    "date": "30 de outubro de 2024",
+    "signatories": {
+      "contracting_party": "FRANCISCO EDMILSON FERNANDES DA SILVA",
+      "contracted_party": "JOÃO LUCAS MAIA DE OLIVEIRA GERALDO"
+    }
+  },
+  "legal_unit": {
+    "name": "EEEP JAIME DA CUNHA REBOUÇAS",
+    "role": "Coordenadora/ASJUR"
+  }
+}

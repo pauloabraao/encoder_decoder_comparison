@@ -1,0 +1,30 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "014/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP",
+    "cpf_cnpj": "07.954.563/0001-30",
+    "contactperson": "JOSÉ VALDECI REBOUÇAS"
+  },
+  "contracted_party": {
+    "name": "KG CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00",
+    "contactperson": "SRA. MARIA CANILDES VIEIRA SALES"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 783.972,98",
+  "signature": {
+    "date": "18 de fevereiro de 2025",
+    "signatories": {
+      "contracting_party": "JOSÉ VALDECI REBOUÇAS",
+      "contracted_party": "KG CONSTRUÇÕES LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

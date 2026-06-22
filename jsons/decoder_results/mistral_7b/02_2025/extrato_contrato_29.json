@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.116361/2024-85/IG-1362943",
+    "ig": "1362943"
+  },
+  "contracting_party": {
+    "name": "EEEP MARIA JOSÉ MEDEIROS",
+    "cpf_cnpj": "07.954.517/0458-11"
+  },
+  "contracted_party": {
+    "name": "CONTECH LOCAÇÕES E SEVIÇOS LTDA",
+    "cpf_cnpj": "46.856.681/0001-95"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 87.400,00",
+  "signature": {
+    "date": "17/02/2025",
+    "signatories": {
+      "contracting_party": "DAMILSON SANTOS DA SILVA",
+      "contracted_party": "OLAVO DA COSTA MOREIRA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

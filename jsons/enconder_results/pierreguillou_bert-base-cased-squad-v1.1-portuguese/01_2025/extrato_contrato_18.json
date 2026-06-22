@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1351363",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEM Raimundo Nonato Ribeiro",
+        "cpf_cnpj": "07.954.514/0047-08"
+    },
+    "contracted_party": {
+        "name": "EEM Raimundo Nonato Ribeiro",
+        "cpf_cnpj": null
+    },
+    "validity": "365 (trezentos e sessenta e cinco reais) dias",
+    "global_value": "R$ 2.592,00",
+    "signature": {
+        "date": "05/11/2024",
+        "signatories": {
+            "contracting_party": "Valdiria Melo de Sousa",
+            "contracted_party": "Valdiria Melo de Sousa"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

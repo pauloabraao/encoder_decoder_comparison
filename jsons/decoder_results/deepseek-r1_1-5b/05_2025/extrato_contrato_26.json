@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "023/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "SECRETARIA DA EDEMTODOCÉNIO EEMTI - GERardo Majella",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 51.280,00",
+  "signature": {
+    "date": "28/04/2024",
+    "signatories": {
+      "contracting_party": "CARLOS HENRIQUE RODRIGUES SAMPAIO",
+      "contracted_party": "MICHELE VITOR MARTINS"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

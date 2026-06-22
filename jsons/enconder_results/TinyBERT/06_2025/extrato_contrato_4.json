@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "025/2025",
+        "ig": "1368314|SACC:1363665"
+    },
+    "contracting_party": {
+        "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO - SDA",
+        "cpf_cnpj": "07.954.563/0001-68"
+    },
+    "contracted_party": {
+        "name": "B ANDREY SOUSA DANTAS",
+        "cpf_cnpj": "37.214.755/0001-49"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 112.641,90",
+    "signature": {
+        "date": "09/04/2025",
+        "signatories": {
+            "contracting_party": "ANDREY SOUSA DANTAS",
+            "contracted_party": "ANDREY SOUSA DANTAS"
+        }
+    },
+    "legal_unit": {
+        "name": "Anna Karinne Nery Veras COORDENADORA DA ASSESSORIA JURÍDICA",
+        "role": "COORDENADORA DA ASSESSORIA JURÍDICA"
+    }
+}

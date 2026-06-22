@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.086749/2025-25",
+        "ig": "1381810"
+    },
+    "contracting_party": {
+        "name": "EEM DEPUTADO FRANCISCO DE ALMEIDA MONTE",
+        "cpf_cnpj": "07.954.514/0419-05"
+    },
+    "contracted_party": {
+        "name": "BMP DE SOUSA COMERCIAL LTDA",
+        "cpf_cnpj": "29.725.927/0001-70"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$9.956,25",
+    "signature": {
+        "date": "02/06/2025",
+        "signatories": {
+            "contracting_party": "Jacson Muniz da Silva",
+            "contracted_party": "Beatriz Maria Pereira de Sousa"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

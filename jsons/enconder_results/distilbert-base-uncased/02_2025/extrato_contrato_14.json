@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "220010007849/2024",
+    "ig": "1362822"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação",
+    "cpf_cnpj": "07.954.514/0636- 31"
+  },
+  "contracted_party": {
+    "name": "J FERREIRA AMORIM CONSTRUÇÕES ME",
+    "cpf_cnpj": "16876618000150"
+  },
+  "validity": "360 (TREZENTOS E SESSENTA) dias",
+  "global_value": "R$ 87.000,00",
+  "signature": {
+    "date": "12/02/2025",
+    "signatories": {
+      "contracting_party": "ANTONIO ELIVAL PEREIRA",
+      "contracted_party": "José Ferreira Amorim"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

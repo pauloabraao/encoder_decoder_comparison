@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "005/METROFOR/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "COMPANHIA CEARENSE DE TRANSPORTES METROPOLITANOS – METROFOR",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "SEGURO SEGURANÇA LTDA",
+        "cpf_cnpj": null
+    },
+    "validity": "12 (doze) meses,",
+    "global_value": "R$ 24.847.784,43",
+    "signature": {
+        "date": "01/03/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "Luis Otávio Franco Martins",
+        "role": "ASSESSOR JURÍDICO"
+    }
+}

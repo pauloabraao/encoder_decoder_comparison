@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "24/2025",
+    "ig": "1303833000"
+  },
+  "contracting_party": {
+    "name": "FUNECECONTRATADA:PH & B COMERCIO E SERVICOS EIRELI -ME",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "OBJETO:AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA FUNECE",
+    "cpf_cnpj": null
+  },
+  "validity": "25/04/2025 A 25/04/2026",
+  "global_value": "R$489.986,00",
+  "signature": {
+    "date": "25/04/2025",
+    "signatories": {
+      "contracting_party": "HIDELBRANDO DOS SANTOS SOARES - PRESIDENTE FUNECE",
+      "contracted_party": "FRANCISCA AISLAN PEREIRA DE SOUSA - PELA PH & B COMERCIO E SERVICOS EIRELI -ME"
+    }
+  },
+  "legal_unit": {
+    "name": "ROBERTA NUNES PROCURADORIA JURÍDICA",
+    "role": null
+  }
+}

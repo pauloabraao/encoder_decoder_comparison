@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.078462/2025-21",
+    "ig": "1381441"
+  },
+  "contracting_party": {
+    "name": "CENTRO CEARENSE DE IDIOMAS – CCI UNIDADE CRATEÚS",
+    "cpf_cnpj": "07.954.514/0805-60"
+  },
+  "contracted_party": {
+    "name": "COMERCIAL M G R DE FREITAS LTDA",
+    "cpf_cnpj": "49.044.435/0001-27"
+  },
+  "validity": "365 (trezentos e sessenta e cinco)",
+  "global_value": "R$ 2.900,00",
+  "signature": {
+    "date": "09/06/2025",
+    "signatories": {
+      "contracting_party": "Naedja Pinheiro Rodrigues Linhares",
+      "contracted_party": "Leonardo Gomes Vieira"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

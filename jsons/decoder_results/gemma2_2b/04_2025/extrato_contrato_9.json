@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "90/2025",
+    "ig": "1302784000"
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "CONSÓRCIO PIO/R&S ESCOLA PAJUÇARA",
+    "cpf_cnpj": "59.543.354/0001-25"
+  },
+  "validity": "24 (vinte e quatro) meses",
+  "global_value": "R$ 10.186.805,00",
+  "signature": {
+    "date": "20/03/2025",
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "CARLOS HENRIQUE DUMMAR ANTERO"
+    }
+  },
+  "legal_unit": {
+    "name": "José Valdeci Rebouças",
+    "role": "Superintendente da SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP INTERVENIENTE"
+  }
+}

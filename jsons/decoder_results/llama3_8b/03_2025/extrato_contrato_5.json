@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "02/2025",
+    "ig": "1365233"
+  },
+  "contracting_party": {
+    "name": "JUNTA COMERCIAL DO ESTADO DO CEARÁ",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "TAXI MUD DO BRASIL TRANSPORTE ESPECIALIZADO DE VEÍCULOS E MUDANÇAS LTDA.",
+    "cpf_cnpj": "12.341.210/0001-22"
+  },
+  "validity": "21/02/2025 a 20/02/2026",
+  "global_value": "R$49.600,00",
+  "signature": {
+    "date": "21/02/2025",
+    "signatories": {
+      "contracting_party": "EDUARDO JEREISSATI DE AZEVEDO",
+      "contracted_party": "Arthur Araújo Mesquita"
+    }
+  },
+  "legal_unit": {
+    "name": "João Lucas Arcanjo Carneiro",
+    "role": "PROCURADOR AUTÁRQUICO AGÊNCIA DE DESENVOLVIMENTO DO CEARÁ"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001051531/2025",
+    "ig": "1374072"
+  },
+  "contracting_party": {
+    "name": "EEMTI MARECHAL HUMBERTO DE ALENCAR CASTELO BRANCO",
+    "cpf_cnpj": "07.954.514/0678-90"
+  },
+  "contracted_party": {
+    "name": "LUIZ LUCENA DE OLIVEIRA",
+    "cpf_cnpj": "49.762.368./0001-86"
+  },
+  "validity": "350 (TREZENTOS E CINQUENTA) DIAS",
+  "global_value": "R$ 6.760,00",
+  "signature": {
+    "date": "16 de Abril de 2025",
+    "signatories": {
+      "contracting_party": "ANA MARIA BARBOSA PASSOS",
+      "contracted_party": "LUIZ LUCENA DE OLIVEIRA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

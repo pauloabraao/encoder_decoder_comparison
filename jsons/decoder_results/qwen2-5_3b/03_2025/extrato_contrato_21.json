@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001007733202564",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A ESCOLA DE ENSINO MÉDIO PROFESSOR FLÁVIO PONTE",
+    "cpf_cnpj": "07.954.514/0215-56"
+  },
+  "contracted_party": {
+    "name": "CDA COMERCIAL EIRELI",
+    "cpf_cnpj": "29.882.612/0001-37"
+  },
+  "validity": "365 (TREZENTOS E SESSENTA E CINCO) dias",
+  "global_value": "R$ 26.565,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "SANDRO HENRIQUE SILVA DO NASCIMENTO",
+      "contracted_party": "DAVI OSORIO AMARO"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

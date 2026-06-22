@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO, localizada no Centro Administrativo Governador Virgílio Távora, na Av. Gal. Afonso Albuquerque Lima, s/n, Cambeba, Fortaleza/CE",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "ZONA NORTE CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "28 (vinte e oito) meses",
+  "global_value": "R$ 16.417.402,91",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA - Secretário da Educação",
+      "contracted_party": "URANDIA AGUIAR RAMOS"
+    }
+  },
+  "legal_unit": {
+    "name": "Superintendência de Obras Públicas - SOP",
+    "role": "Superintendente"
+  }
+}

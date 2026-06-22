@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.040927/2025-71",
+        "ig": "1368937000"
+    },
+    "contracting_party": {
+        "name": "A EEMTI BARÃO DE ARACATI",
+        "cpf_cnpj": "07.954.514/0326-71"
+    },
+    "contracted_party": {
+        "name": "Francisca Valéria Silva Melo Braga CONTRATADA: ZACARIAS DOS SANTOS CHAVES JÚNIOR - ME",
+        "cpf_cnpj": "13"
+    },
+    "validity": "360 (trezentos e sessenta) dias",
+    "global_value": "R$ 998,00",
+    "signature": {
+        "date": "27/03/2025",
+        "signatories": {
+            "contracting_party": "Francisca Valéria Silva",
+            "contracted_party": "ZACARIAS DOS SANTOS CHAVES JÚNIOR"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "024/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "FUNECECONTRATADA:PH & B COMERCIO E SERVICOS EIRELI -ME",
+    "cpf_cnpj": "48998600-0000"
+  },
+  "contracted_party": {
+    "name": "Pela PH & B COMERCIO E SERVICOS EIRELI -ME",
+    "cpf_cnpj": "3101010082024"
+  },
+  "validity": "25/04/2025",
+  "global_value": "489.98600",
+  "signature": {
+    "date": "25/04/2025",
+    "signatories": {
+      "contracting_party": "HIDELBRANDO DOS SANTOS SOARES",
+      "contracted_party": "FRANCISCA AISLAN PEREIRA DE SOUSA"
+    }
+  },
+  "legal_unit": {
+    "name": "Pela PH & B COMERCIO E SERVICOS EIRELI -ME",
+    "role": "Presidente"
+  }
+}

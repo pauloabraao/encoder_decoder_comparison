@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.069812/2025-69",
+    "ig": "1383373"
+  },
+  "contracting_party": {
+    "name": "EEMTI MARIA EMÍLIA RABELO",
+    "cpf_cnpj": "07.954.514/0267-87"
+  },
+  "contracted_party": {
+    "name": "FORT SERVICE LTDA",
+    "cpf_cnpj": "49.514.727/0001- 86"
+  },
+  "validity": "200 (duzentos) dias",
+  "global_value": "R$3.335,00",
+  "signature": {
+    "date": "05/06/2025",
+    "signatories": {
+      "contracting_party": "Paulo Borges Lima Rodrigues",
+      "contracted_party": "FRANCISCO ROMÁRIO CAMILO ARAÚJO"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

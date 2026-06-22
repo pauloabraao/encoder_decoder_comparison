@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.040927"
+  },
+  "contracting_party": {
+    "name": "A EEMTI BARAOA DE ARACATI",
+    "cpf_cnpj": "07.954.514/0326-71"
+  },
+  "contracted_party": {
+    "name": "ZACARIAS DOS SANTOS CHAVES Júnior",
+    "cpf_cnpj": "54.095.907/0001-87"
+  },
+  "validity": "360 (trezentos e sessenta) dias",
+  "global_value": "R$ 998,00",
+  "signature": {
+    "date": "26 de Março de 2025",
+    "signatories": {
+      "contracting_party": "A EEMTI BARAOA DE ARACATI",
+      "contracted_party": "ZACARIAS DOS SANTOS CHAVES Júnior"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

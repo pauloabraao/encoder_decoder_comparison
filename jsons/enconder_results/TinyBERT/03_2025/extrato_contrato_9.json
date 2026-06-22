@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001113069202419",
+        "ig": "1363816"
+    },
+    "contracting_party": {
+        "name": "A EEEP Aderson Borges de Carvalho",
+        "cpf_cnpj": "10.870.232/0001-54"
+    },
+    "contracted_party": {
+        "name": "PHF ALEXANDRE CONSTRUÇOES & SERVIÇOS",
+        "cpf_cnpj": "50.959.589"
+    },
+    "validity": "60 (Sessenta) dias",
+    "global_value": "R$ 47.500,00",
+    "signature": {
+        "date": "12.362.143.11292.01.339039.54400.1 - 28056 (2024",
+        "signatories": {
+            "contracting_party": "Isnard Alves Gonçalves",
+            "contracted_party": "Paulo Henrique Fernandes Alexandre. OBJETO: O objeto do presente instrumento é a contratação de REFORMA DE CALÇADA, MURO E TROCA DAS PORTAS DO AUDITÓRIO EM FAVOR DA EEEP ADERSON"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

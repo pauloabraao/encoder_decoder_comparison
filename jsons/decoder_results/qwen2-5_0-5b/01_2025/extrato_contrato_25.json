@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.120833/2024-02",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A Escola de Ensino Médio Raimundo Nogueira",
+    "cpf_cnpj": "07.954.514/0400-03"
+  },
+  "contracted_party": {
+    "name": "DIMAIAS COMERCIAL LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 54.316,84 (Cinquenta e quatro mil, trezentos e dezeseis reais e oitenta e quatro centavos)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A Escola de Ensino Médio Raimundo Nogueira",
+      "contracted_party": "DIMAIAS COMERCIAL LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Edvando Teixeira Souza",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.129910/2024-81",
+    "ig": "1352832"
+  },
+  "contracting_party": {
+    "name": "EEM MANUEL MATOSO FILHO",
+    "cpf_cnpj": "07.954.514/0229-51"
+  },
+  "contracted_party": {
+    "name": "WORLD SOLUÇÕES TECNOLÓGICAS E SERVIÇOS EIRELI",
+    "cpf_cnpj": "24.843.634/0001-74"
+  },
+  "validity": "200 dias",
+  "global_value": "R$ 14.122,00",
+  "signature": {
+    "date": "07/11/2024",
+    "signatories": {
+      "contracting_party": "MÁRCIA FREIRE DA SILVA",
+      "contracted_party": "SOCORRO MARIA FREIRE"
+    }
+  },
+  "legal_unit": {
+    "name": "Russas/CE",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

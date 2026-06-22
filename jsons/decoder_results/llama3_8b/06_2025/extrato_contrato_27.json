@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001076410/2025",
+    "ig": "1380360"
+  },
+  "contracting_party": {
+    "name": "GOVERNO DO ESTADO DO CEARÁ, através da SECRETARIA DA EDUCAÇÃO DO ESTADO CEARÁ/EEMTI DE CASCAVEL, CREDE 09 - CNPJ 07.954.514/0845-58",
+    "cpf_cnpj": "07.954.514/0845-58"
+  },
+  "contracted_party": {
+    "name": "REAL LOCAÇÕES E SERVIÇOS LTDA",
+    "cpf_cnpj": "12.874.349/0001-31"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 8.038,50",
+  "signature": {
+    "date": "26/05/2025",
+    "signatories": {
+      "contracting_party": "Fábio Júnior Lima Demétrio",
+      "contracted_party": "ADEMAR MARINHO DE ANDRADE JÚNIOR"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

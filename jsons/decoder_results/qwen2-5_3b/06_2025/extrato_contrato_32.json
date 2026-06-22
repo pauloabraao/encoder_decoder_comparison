@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.076028/2025-15/PRÉ-RESERVA",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "ESCOLA CAIC RAIMUNDO GOMES DE CARVALHO",
+    "cpf_cnpj": "07.954.514/0459-00"
+  },
+  "contracted_party": {
+    "name": "EXCELENCIA SERVICOS E EVENTOS LTDA",
+    "cpf_cnpj": "59.373.387/0001-74"
+  },
+  "validity": "90 (noventa) dias",
+  "global_value": "R$ 5.100,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "SILVIO CEZAR DE CASTRO E SANTOS",
+      "contracted_party": "ANTONIO DANIEL SOUSA MACIEL"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

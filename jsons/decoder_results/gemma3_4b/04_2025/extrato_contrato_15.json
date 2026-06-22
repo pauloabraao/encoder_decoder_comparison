@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "123/2025/NUP 22001.004674/2024-91",
+    "ig": "1312891000"
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "FHS CONSTRUTORA LTDA",
+    "cpf_cnpj": "27.843.749/0001-57"
+  },
+  "validity": "24 (vinte e quatro) meses",
+  "global_value": "R$ 11.029.920,97",
+  "signature": {
+    "date": "27/03/2025",
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA",
+      "contracted_party": "FRANCISCO HOLANDA SAMPAIO"
+    }
+  },
+  "legal_unit": {
+    "name": "JOSÉ VALDECI REBOUÇAS",
+    "role": "Superintendente da Superintendência de Obras Públicas - SOP"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001051942/202545",
+        "ig": "1371908"
+    },
+    "contracting_party": {
+        "name": "A EEMTI PROFESSORA ESTEFÂNIA MATOS,",
+        "cpf_cnpj": "07.954.514/0027-64,"
+    },
+    "contracted_party": {
+        "name": "WORLD SOLUCOES TECNOLOGICAS E SERVICOS EIRELI,",
+        "cpf_cnpj": "24.843.634/0001-74,"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias,",
+    "global_value": "R$ 900,00",
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Regiane de Lima Sales",
+            "contracted_party": "Socorro Maria Freire."
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.035198/2025-31",
+        "ig": "1367736"
+    },
+    "contracting_party": {
+        "name": "ESCOLA de Ensino Médio Padre Coriolano",
+        "cpf_cnpj": "07.954.514/0401-86"
+    },
+    "contracted_party": {
+        "name": "OURO VERDE COMERCIO E SERVICOS LTDA",
+        "cpf_cnpj": "46.333.345.0001-68"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 25.200,00",
+    "signature": {
+        "date": "12/03/2025",
+        "signatories": {
+            "contracting_party": "FLÁVIA REGINA DA SILVA CASTRO",
+            "contracted_party": "MARCOS TADEU COSTA SAMPRONHA"
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA/ASJUR"
+    }
+}

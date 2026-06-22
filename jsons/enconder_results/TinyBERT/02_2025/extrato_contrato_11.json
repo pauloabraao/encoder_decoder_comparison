@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "010/2025",
+        "ig": "1362265000"
+    },
+    "contracting_party": {
+        "name": "SUPERINTENDÊNCIA DE OBRAS PUBLICAS - SOP",
+        "cpf_cnpj": "60.860-901, inscrita no CNPJ sob o nº 33.866"
+    },
+    "contracted_party": {
+        "name": "SALINAS EMPREEN- DIMENTOS E CONSTRUÇÕES LTDA",
+        "cpf_cnpj": "73.694.788/0001-57"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 162.095,71",
+    "signature": {
+        "date": "02/2025",
+        "signatories": {
+            "contracting_party": "Francisco Pita, nº 1244, bairro Jardim das Oliveiras",
+            "contracted_party": "FRANCISCO LENNON BARBOSA MARTINS, brasileiro, solteiro"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "SUPERINTENDENTE"
+    }
+}

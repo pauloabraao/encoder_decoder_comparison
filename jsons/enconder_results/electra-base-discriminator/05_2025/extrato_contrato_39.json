@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.042725/2025-64",
+        "ig": "1370289"
+    },
+    "contracting_party": {
+        "name": "O(A) LICEU DE ACOPIARA DEPUTADO FRANCISCO ALVES SOBRINHO",
+        "cpf_cnpj": "07.954.514/0655-02"
+    },
+    "contracted_party": {
+        "name": "U.S DA CRUZ NETO-ME",
+        "cpf_cnpj": "37.847.947/0001-42"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 63.106,53",
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Antônio Marcelo Castro Feitosa",
+            "contracted_party": "Ubiratan Sobreira da Cruz Neto"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

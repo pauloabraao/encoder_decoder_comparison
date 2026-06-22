@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.036576/2025-02/PRÉ-RESERVA:",
+    "ig": "1365096"
+  },
+  "contracting_party": {
+    "name": "Escola de Ensino Médio Gustavo Barroso,",
+    "cpf_cnpj": "07.954.514/0644-41,"
+  },
+  "contracted_party": {
+    "name": "OMEGA DISTRIBUIDORA DE PRODUTOS ALIMENTÍCIOS LTDA,",
+    "cpf_cnpj": "41.600.131/0001-97"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias,",
+  "global_value": "R$ 14.114,32",
+  "signature": {
+    "date": "11/03/2025",
+    "signatories": {
+      "contracting_party": "José Fagner da Silva",
+      "contracted_party": "Francisco Arruda Filho Aguiar."
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

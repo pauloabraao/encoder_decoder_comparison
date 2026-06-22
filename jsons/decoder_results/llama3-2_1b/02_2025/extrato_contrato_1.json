@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "212/2024",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ",
+    "cpf_cnpj": "09.469.891/0001-02"
+  },
+  "contracted_party": {
+    "name": "VERTICAL PROMOÇÕES E EVENTOS LTDA.",
+    "cpf_cnpj": "27.772.074/0001-00"
+  },
+  "validity": "24 (vinte e quatro) meses",
+  "global_value": "452.237,00",
+  "signature": {
+    "date": "27 de janeiro de 2025",
+    "signatories": {
+      "contracting_party": "ESTADO DO CEARÁ",
+      "contracted_party": "VERTICAL PROMOÇÕES E EVENTOS LTDA."
+    }
+  },
+  "legal_unit": {
+    "name": "VERTICAL PROMOÇÕES E EVENTOS LTDA.",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

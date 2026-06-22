@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "DOX 22001.146301/2024-97",
+    "ig": 10457880
+  },
+  "signature": {
+    "date": "07 April 2025",
+    "signatories": [
+      "MOISÉS BRAZ RICARDO",
+      "ROBERIO MATEUS DE ARAUJO"
+    ]
+  },
+  "contracting_party": {
+    "name": "Secretaria da Educação/EEMTI Gerardo Majella",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "T.F CONSTRUCOES LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "12 meses",
+  "global_value": "R$ 104.578,80",
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente"
+  }
+}

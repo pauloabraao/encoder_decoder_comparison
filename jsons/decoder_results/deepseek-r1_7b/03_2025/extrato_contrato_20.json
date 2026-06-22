@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.005724/2025-39/PRÉ-RESERVA: 1366161",
+    "ig": "1366161"
+  },
+  "contracting_party": {
+    "name": "A EEM Polivalente Modelo de Fortaleza",
+    "cpf_cnpj": "07.954.514/0511-10"
+  },
+  "contracted_party": {
+    "name": "DIMAIA’S COMERCIAL LTDA",
+    "cpf_cnpj": "00.289.070/0001-01"
+  },
+  "validity": "365 dias",
+  "global_value": "R$ 42.815,08",
+  "signature": {
+    "date": "26/02/2025",
+    "signatories": {
+      "contracting_party": "Jussara Aragão da Paz",
+      "contracted_party": "Augusto César Carvalho Maia"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "02/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "FUNDAÇÃO UNIVERSIDADE REGIONAL DO CARIRI – URCA CONTRATADA",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": null
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 15.400,00",
+    "signature": {
+        "date": "21. VALOR GLOBAL: R$ 15.400,00 (quinze mil e quatrocentos reais) pagos em DOTAÇÃO ORÇAMENTÁRIA: 31200003.12.364",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "CARLOS KLEBER NASCIMENTO DE OLIVEIRA - Presidente da URCA e RILLA RENIEE LIMA",
+        "role": "FINALÍSTICO"
+    }
+}

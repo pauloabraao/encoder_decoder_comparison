@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "004/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESTADO DO CEARÁ, através da CASA CIVIL",
+        "cpf_cnpj": "09.469.891/0001-02"
+    },
+    "contracted_party": {
+        "name": "THIAGO CESAR NUNES DE FREITAS, inscrita no CNPJ sob o nº 46.540.559/0001-05, com sede na Rua",
+        "cpf_cnpj": "46.540.559"
+    },
+    "validity": "90 (noventa) dias",
+    "global_value": "R$ 5.500,00",
+    "signature": {
+        "date": "06/12/2012",
+        "signatories": {
+            "contracting_party": "THIAGO CESAR NUNES",
+            "contracted_party": "THIAGO CESAR NUNES"
+        }
+    },
+    "legal_unit": {
+        "name": "Sabrine Gondim Lima",
+        "role": "COORDENADORA DA ASSESSORIA JURÍDICA"
+    }
+}

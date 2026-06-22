@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1351577",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEM ETELVINA GOMES BEZERRA",
+        "cpf_cnpj": "41.322.314/0001-98"
+    },
+    "contracted_party": {
+        "name": "EEM ETELVINA GOMES BEZERRA",
+        "cpf_cnpj": "41.322.314/0001-98"
+    },
+    "validity": "180 (cento e oitenta) dias",
+    "global_value": "R$ 23.264,90",
+    "signature": {
+        "date": "07/11/2024",
+        "signatories": {
+            "contracting_party": "José Roberto Lima de Sousa",
+            "contracted_party": "Fernando Ferreira de Lima"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

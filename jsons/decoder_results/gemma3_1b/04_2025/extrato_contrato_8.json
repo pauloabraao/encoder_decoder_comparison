@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": null,
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO, situada(o) no Centro Administrativo Governador Virgílio Távora, na Av. Gal. Afonso Albuquerque Lima, s/n, Cambeba, Fortaleza - CE",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "EMTI MARIA ZENÓBIA RODRIGUES BRAGA",
+    "cpf_cnpj": "473.400.533-87"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 309.194,05",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ARIANNY NASCIMENTO DE SOUSA",
+      "contracted_party": "ROBERIO MATEUS DE ARAUJO - ME"
+    }
+  },
+  "legal_unit": {
+    "name": "Secretaria da Educação/EEMTI Maria ZENÓBIA RODRIGUES BRAGA",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

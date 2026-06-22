@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001127512/2024 21",
+    "ig": "1351897"
+  },
+  "contracting_party": {
+    "name": "CENTRO CEARENSE DE IDIOMAS-UNIDADE MARACANAÚ",
+    "cpf_cnpj": "07.954.514/0806-41"
+  },
+  "contracted_party": {
+    "name": "MF LOCAÇÃO E SERVIÇOS TECNOLÓGICOS LTDA",
+    "cpf_cnpj": "36.779.362/0001-70"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 950,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "HERBERTO ARAUJO SOUZA",
+      "contracted_party": "MARCUS VINÍCIUS DAMASCENO FERREIRA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

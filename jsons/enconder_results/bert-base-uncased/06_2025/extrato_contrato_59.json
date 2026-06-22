@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001065369/2025",
+    "ig": "1381165"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/EEM JOSÉ ALVES DE FIGUEIREDO",
+    "cpf_cnpj": "MF07.954.514/0619-30"
+  },
+  "contracted_party": {
+    "name": "F E N ESTRELA COMERCIO E SERVIÇOS",
+    "cpf_cnpj": "23.030.654/0001-63"
+  },
+  "validity": "365 (Trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 54.597,40",
+  "signature": {
+    "date": "09/06/2025",
+    "signatories": {
+      "contracting_party": "Marcos Gomes de Oliveira",
+      "contracted_party": "FRANCISCO ELDER NUNES ESTRELA"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

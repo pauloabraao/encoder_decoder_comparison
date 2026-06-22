@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "26/2025 IG. 1303833000",
+        "ig": "1303833000"
+    },
+    "contracting_party": {
+        "name": "FUNECECONTRATADA:N & F DISTRIBUIDORA",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "90"
+    },
+    "validity": "PRECEITOS",
+    "global_value": "R$ 28.375,90",
+    "signature": {
+        "date": "25/04/2025SIGNATÁRIOS",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "Roberta Nunes PROCURADORIA JURÍDICA",
+        "role": "PROCURADORIA JURÍDICA"
+    }
+}

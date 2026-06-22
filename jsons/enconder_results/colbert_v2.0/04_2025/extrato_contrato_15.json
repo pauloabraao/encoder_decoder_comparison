@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "123/2025",
+        "ig": "1312891000"
+    },
+    "contracting_party": {
+        "name": "O ESTADO DO CEARÁ, por intermédio da SECRETARIA DA EDUCAÇÃO",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "FHS CONSTRUTORA LTDA",
+        "cpf_cnpj": "424.082.963-15"
+    },
+    "validity": "24 (vinte e quatro) meses",
+    "global_value": "R$ 11.029.920,97",
+    "signature": {
+        "date": "27/03/2025",
+        "signatories": {
+            "contracting_party": "ELIANA NUNES ESTRELA",
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "Ana Talita Ferreira Alves",
+        "role": "COORDENADORA ASJUR"
+    }
+}

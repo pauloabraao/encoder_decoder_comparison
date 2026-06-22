@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "1027451/202583",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0214-75"
+  },
+  "contracted_party": {
+    "name": "RENATA DE ABREU BASTOS",
+    "cpf_cnpj": null
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 127.744,02",
+  "signature": {
+    "date": "25 de Abril de 2025",
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": null
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

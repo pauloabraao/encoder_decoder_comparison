@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "010/2025",
+    "ig": "1362265"
+  },
+  "contracting_party": {
+    "name": "SUPERINTENDÊNCIA DE OBRAS PUBLICAS - SOP",
+    "cpf_cnpj": "33.866.288/0001-30"
+  },
+  "contracted_party": {
+    "name": "SALINAS EMPREENDIMENTOS E CONSTRUÇÕES LTDA",
+    "cpf_cnpj": "73.694.788/0001-57"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 162.095,71",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "JOSÉ VALDECI REBOUÇAS",
+      "contracted_party": "FRANCISCO LENNON BARBOSA MARTINS"
+    }
+  },
+  "legal_unit": {
+    "name": "Galdyel Gonçalves de Aguiar Paula",
+    "role": "SUPERINTENDENTE ADJUNTO DE EDIFICAÇÕES"
+  }
+}

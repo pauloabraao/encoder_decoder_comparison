@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "151/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, através da Secretaria da Educação",
+    "cpf_cnpj": "07.954.514/0001-25"
+  },
+  "contracted_party": {
+    "name": "JT Construção Eireli",
+    "cpf_cnpj": "00.182.545/0001-66"
+  },
+  "validity": "12 (doze) meses",
+  "global_value": "R$ 6,009,604,10",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ELIANA NUNES ESTRELA - Secretária(a) da Educação- Contratante",
+      "contracted_party": "OSNY COELHO DE OLIVEIRA - Empresa JT Construção Eireli - Contratada"
+    }
+  },
+  "legal_unit": {
+    "name": "JOSÉ VALDECI REBOUÇAS - Superintendência de Obras Públicas - Interveniente",
+    "role": "Superintendente, Matrícula: 30001575"
+  }
+}

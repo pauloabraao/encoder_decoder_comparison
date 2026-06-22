@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.019068/2025-51",
+    "ig": "1373902"
+  },
+  "contracting_party": {
+    "name": "A EEMTI PEDRO JORGE MOTA",
+    "cpf_cnpj": "07.954.514/0660-61"
+  },
+  "contracted_party": {
+    "name": "LUZIA MARTINS DE PAULA OLIVEIRA",
+    "cpf_cnpj": "382.182.358-50"
+  },
+  "validity": "",
+  "global_value": "",
+  "signature": {
+    "date": "16/04/2025",
+    "signatories": {
+      "contracting_party": "LUZIA MARTINS DE PAULA OLIVEIRA",
+      "contracted_party": "A EEMTI PEDRO JORGE MOTA"
+    }
+  },
+  "legal_unit": {
+    "name": "MARCO FELIPE VICENTE",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

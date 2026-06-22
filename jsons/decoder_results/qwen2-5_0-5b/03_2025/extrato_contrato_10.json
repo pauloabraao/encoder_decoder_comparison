@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "19/2025",
+    "ig": "1316190000"
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "JCM CONSTRUTORA E COMÉRCIO LTDA",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 10.672.165,92",
+  "signature": {
+    "date": "16/02/2025",
+    "signatories": {
+      "contracting_party": "O Estado do Ceará",
+      "contracted_party": "JCM CONSTRUTORA E COMÉRCIO LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

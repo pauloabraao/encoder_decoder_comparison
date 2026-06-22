@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.028659/2025-10/PRÉ-RESERVA: 1363481",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEMTI ALDA FERRER AUGUSTO DUTRA",
+    "cpf_cnpj": "07.954.514/0648-75"
+  },
+  "contracted_party": {
+    "name": "U.S DA CRUZ NETO",
+    "cpf_cnpj": "37.847.947/0001-42"
+  },
+  "validity": null,
+  "global_value": "R$ 45.060,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Tereza Ivone Lobo Pinheiro Gurgel",
+      "contracted_party": "Ubiratan Sobreira da Cruz Neto"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

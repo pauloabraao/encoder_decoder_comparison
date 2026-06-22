@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "01/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "Fundação Universidade Regional do Cariri - URCA",
+    "cpf_cnpj": "07.954.563/0001-68"
+  },
+  "contracted_party": {
+    "name": "Empresa FENIX COMÉRCIO DE MÁQUINAS E GRANITO LTDA.",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "1 (um) ano",
+  "global_value": "R$ 406.125,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Fundação Universidade Regional do Cariri - URCA",
+      "contracted_party": "Empresa FENIX COMÉRCIO DE MÁQUINAS E GRANITO LTDA."
+    }
+  },
+  "legal_unit": {
+    "name": "Empresa FENIX COMÉRCIO DE MÁQUINAS E GRANITO LTDA.",
+    "role": "Representante Legal"
+  }
+}

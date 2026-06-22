@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.069935/2025-08",
+        "ig": "1378850"
+    },
+    "contracting_party": {
+        "name": "EEMTI ESTADO DO PARÁ",
+        "cpf_cnpj": "nº07.954.514/0531-64"
+    },
+    "contracted_party": {
+        "name": "CONCEITO COMERCIO & SERVICOS LTDA",
+        "cpf_cnpj": "39.345.050/0001- 46"
+    },
+    "validity": "365 (Trezentos e Sessenta e Cinco dias",
+    "global_value": "R$2.280,00",
+    "signature": {
+        "date": "06/06/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "MARCOS PAULO DE ARRUDA VALENTE"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

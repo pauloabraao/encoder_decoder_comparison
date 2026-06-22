@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.132239/2024-56",
+    "ig": "1346070"
+  },
+  "contracting_party": {
+    "name": "Estado do Ceará, através da Secretaria da Educação/ESCOLA INDÍGENA ALTO DA CATINGUEIRA",
+    "cpf_cnpj": "07.954.514/0277-59"
+  },
+  "contracted_party": {
+    "name": "ANTÔNIA DE MARIA DA SILVA",
+    "cpf_cnpj": "023.619.023-70"
+  },
+  "validity": "120 (Cento e vinte) dias",
+  "global_value": "R$ 4.480,00",
+  "signature": {
+    "date": "31/10/2024",
+    "signatories": {
+      "contracting_party": "MARIA CLEONICE PEREIRA DOS SANTOS",
+      "contracted_party": "ANTÔNIA DE MARIA DA SILVA"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

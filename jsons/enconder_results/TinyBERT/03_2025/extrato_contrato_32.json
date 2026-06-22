@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "005/METROFOR/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "COMPANHIA CEARENSE DE TRANSPORTES METROPOLITANOS – METROFOR CONTRATADA: SEGURO SEGURANÇA LTDA OBJETO",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": null
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 24.847.784,43",
+    "signature": {
+        "date": "08100004",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "Saboya Magalhães Neto e José Tupinambá Cavalcante de Almeida",
+        "role": "JURÍDICO"
+    }
+}

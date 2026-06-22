@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "Nº019/2025",
+        "ig": "Nº019/2025"
+    },
+    "contracting_party": {
+        "name": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS - SOP",
+        "cpf_cnpj": "60.860-901, inscrita no CNPJ sob o n.º 33.866"
+    },
+    "contracted_party": {
+        "name": "VALDECI REBOUÇAS; CONTRATADA: DATERRA CONSTRUÇÕ ES E SERVIÇOS LTDA, com endereço na Rua",
+        "cpf_cnpj": "33.866"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 107.982,56",
+    "signature": {
+        "date": "21/02/2025",
+        "signatories": {
+            "contracting_party": "Francisco Gonçalo, nº 103, bairro Central Parque, Eusébio-Ceará, CEP: 61.760-000, inscrita no CNPJ sob o nº 10.477.919/0001-24, doravante denominada Contratada, neste ato representada pelo Sr. JAIME DEAN SOUSA",
+            "contracted_party": "JAIME DEAN SOUSA ALEXANDRE"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "SUPERINTENDENTE"
+    }
+}

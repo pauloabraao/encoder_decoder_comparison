@@ -1,0 +1,27 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "05/2025",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará, através da Secretaria da Educação/EEMTI Gerardo Majella",
+    "cpf_cnpj": "07.954.514/0555-31"
+  },
+  "contracted_party": {
+    "name": "MBM SEGURADORA S.A.",
+    "cpf_cnpj": "54.095.907/0001-00"
+  },
+  "validity": "VIGÊNCIA: e 12 (doze) meses, contado da last assinatura entre contratante e contratado, prorrogável por até 10 (dez) anos, na forma do art. 106 e 107c/coart. 94tudo da Lei n° 14.133/2021",
+  "global_value": "R$ 12.000,00",
+  "signature": {
+    "date": "12 de março de 2025",
+    "signatories": {
+      "contracting_party": "Carlos Kleber Nascimento de oliveira - Presidente e Toni Robilar Pacheco - Representante Legal"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

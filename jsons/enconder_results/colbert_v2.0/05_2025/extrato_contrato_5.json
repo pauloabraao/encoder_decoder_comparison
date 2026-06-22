@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "27/2025",
+        "ig": "Nº1372499000"
+    },
+    "contracting_party": {
+        "name": "FUNECE",
+        "cpf_cnpj": "Nº1372499000"
+    },
+    "contracted_party": {
+        "name": "BRAVAR COMÉRCIO E SERVIÇOS LTDA.",
+        "cpf_cnpj": null
+    },
+    "validity": "28/04/2025",
+    "global_value": "R$ 475.740,00",
+    "signature": {
+        "date": "28/04/2025",
+        "signatories": {
+            "contracting_party": "Prof. M.e. Hidelbrando dos Santos Soares-Presidente da FUNECE e Sra. Fernanda Borges Roriz Forti",
+            "contracted_party": "Fernanda Borges Roriz Forti"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "ASSESSORIA JURÍDICA"
+    }
+}

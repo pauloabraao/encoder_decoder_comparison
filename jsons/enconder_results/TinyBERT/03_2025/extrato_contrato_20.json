@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001.005724/2025-39",
+        "ig": "1366161"
+    },
+    "contracting_party": {
+        "name": "A EEM Polivalente Modelo de Fortaleza",
+        "cpf_cnpj": "07.954.514/0511-10"
+    },
+    "contracted_party": {
+        "name": "DIMAIA’S COMERCIAL LTDA",
+        "cpf_cnpj": "10, doravante denominada CONTRATANTE, neste ato representado pelo Sra. Jussara Aragão da Paz CONTRATADA: DIMAIA’S COMERCIAL LTDA, com sede na Rua Joaquim Magalhães, nº 272 CEP: 60.040-160, Fone: (85"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 42.815",
+    "signature": {
+        "date": "27",
+        "signatories": {
+            "contracting_party": "Augusto César Carvalho Maia",
+            "contracted_party": "Augusto César Carvalho Maia"
+        }
+    },
+    "legal_unit": {
+        "name": "Marcos Felipe Vicente",
+        "role": "COORDENADOR/ASJUR"
+    }
+}

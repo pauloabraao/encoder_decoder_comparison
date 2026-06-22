@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.134303/2024-33",
+    "ig": "1351363"
+  },
+  "contracting_party": {
+    "name": "EEM Raimundo Nonato Ribeiro",
+    "cpf_cnpj": "07.954.514/0047-08"
+  },
+  "contracted_party": {
+    "name": "FERNANDO FERREIRA DE LIMA ME",
+    "cpf_cnpj": "41.322.314/0001-98"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 2.592,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "Valdiria Melo de Sousa",
+      "contracted_party": "Fernando Ferreira de Lima"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

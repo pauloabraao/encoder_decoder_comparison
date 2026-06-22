@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.030983/2025-06/PRÉ-RESERVA:1366361",
+    "ig": "22001.030983/2025-06/PRÉ-RESERVA:1366361"
+  },
+  "contracting_party": {
+    "name": "ESTADO DO CEARÁ, por intermédio da Coordenadoria Regional de Desenvolvimento da Educação – CREDE 8,",
+    "cpf_cnpj": "07.954.514/0059-41,"
+  },
+  "contracted_party": {
+    "name": "U.S DA CRUZ NETO,",
+    "cpf_cnpj": "37.847.947/0001-42,"
+  },
+  "validity": "365 (Trezentos e Sessenta e Cinco) dias,",
+  "global_value": "R$ 5.911,50",
+  "signature": {
+    "date": "07/03/2025",
+    "signatories": {
+      "contracting_party": "Afonso Jampierry Silveira de Almeida.",
+      "contracted_party": "Ubiratan Sobreira da Cruz Neto."
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

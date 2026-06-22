@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.109929/2024-10",
+    "ig": "1340963"
+  },
+  "contracting_party": {
+    "name": "O Estado do Ceará",
+    "cpf_cnpj": "07.954.514/0540-55"
+  },
+  "contracted_party": {
+    "name": "MIDAS PRESTACAO DE SERVICOS GERAIS LTDA",
+    "cpf_cnpj": "47.293.532/0001-28"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 234,00",
+  "signature": {
+    "date": "12/12/2024",
+    "signatories": {
+      "contracting_party": "TÂNIA MARIA DE SOUSA BARBOSA FARIAS",
+      "contracted_party": "Marcos Rodrigues de Lemos"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

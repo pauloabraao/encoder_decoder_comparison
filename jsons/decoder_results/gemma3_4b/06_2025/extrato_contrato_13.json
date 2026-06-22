@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.069335/2025-31",
+    "ig": "1378453"
+  },
+  "contracting_party": {
+    "name": "E.E.M.T.I. Lídia Bezerra",
+    "cpf_cnpj": "07.954.514/0680-05"
+  },
+  "contracted_party": {
+    "name": "A.F DE OLIVEIRA MANUTENÇÕES LTDA",
+    "cpf_cnpj": "29.933.669/0001-18"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 9.044,00",
+  "signature": {
+    "date": "23/05/2025",
+    "signatories": {
+      "contracting_party": "ANTONIO HUMBERTO PLÁCIDO",
+      "contracted_party": "Aurélia Ferreira de Oliveira"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

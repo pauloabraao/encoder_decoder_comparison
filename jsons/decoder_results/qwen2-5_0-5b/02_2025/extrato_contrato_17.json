@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.128382/2024-43",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "A E.E.M. DR UBIRAJARA ÍNDIO DO CEARÁ",
+    "cpf_cnpj": "07.954.514/0522-73"
+  },
+  "contracted_party": {
+    "name": "EBP COMERCIO E SERVICOS LTDA",
+    "cpf_cnpj": "41.315.475/0001-54"
+  },
+  "validity": "365 (trezentos e sessenta e cinco) dias",
+  "global_value": "R$ 11.767,13 (Onze Mil, Setecentos e Sessenta e Sete Reais e Treze Centavos)",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "A E.E.M. DR UBIRAJARA ÍNDIO DO CEARÁ",
+      "contracted_party": "EBP COMERCIO E SERVICOS LTDA"
+    }
+  },
+  "legal_unit": {
+    "name": "Fortaleza/CE",
+    "role": "COORDENADOR/ASJUR"
+  }
+}

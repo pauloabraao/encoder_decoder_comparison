@@ -1,0 +1,30 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.131636/2024-19/IG - 134998300"
+  },
+  "contracting_party": {
+    "name": "EEMTI ANTÔNIO VIDAL MALVEIRA",
+    "cpf_cnpj": "07.954.514/0232-57"
+  },
+  "contracted_party": {
+    "name": "JESUS ALBINO VIEIRA CRISPA JUNIOR – ME",
+    "cpf_cnpj": "20.189.604/0001-35"
+  },
+  "validity": "200 (duzentos) dias",
+  "global_value": "R$ 200,00",
+  "signature": {
+    "date": [
+      "01 de Novembro de 2024",
+      "30 de dezembro de 2024"
+    ],
+    "signatories": {
+      "contracting_party": "Valderino Aires de Oliveira",
+      "contracted_party": "Jesus Albino Vieira Crispa"
+    }
+  },
+  "legal_unit": {
+    "name": "Ana Talita Ferreira Alves",
+    "role": "COORDENADORA/ASJUR"
+  }
+}

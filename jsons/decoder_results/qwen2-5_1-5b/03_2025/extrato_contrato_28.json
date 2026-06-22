@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.021529/2025-56/PRÉ-RESERVA: 1365743",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEMTI CEL. HUMBERTO BEZERRA, situada a Rod. do Algodão S/N Bairro Monteiro de Morais , Município de Quixeramobim/CE",
+    "cpf_cnpj": "07.954.514/0317-80"
+  },
+  "contracted_party": {
+    "name": "AMAURILIO JOELIO LEAL DE ALMEIDA, com sede na Norte Sul, nº 05, Bairro José Aírton Machado, Município Quixeramobim",
+    "cpf_cnpj": "18.440.840/0001-30"
+  },
+  "validity": "360 (trezentos e sessenta) dias",
+  "global_value": "R$ 15.356,00",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "ANA ROBERTA NOGIMO RODRIGUES VASCONCELOS - CONTRATANTE – AMAURILIO JOELIO LEAL DE ALMEIDA – CONTRATADA e TESTEMUNHAS: 01-JAINE LARA DA ROCHA PIMENTEL, 02-FERNANDO DANTES DE MENEZES",
+      "contracted_party": "MARCO FELIPE VICENTE - COORDENADOR/ASJUR"
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente - Coordenador/ASJUR",
+    "role": null
+  }
+}

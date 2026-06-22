@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "24/2025",
+    "ig": "1303833000"
+  },
+  "contracting_party": {
+    "name": "FUNECE",
+    "cpf_cnpj": null
+  },
+  "contracted_party": {
+    "name": "PH & B COMERCIO E SERVICOS EIRELI -ME",
+    "cpf_cnpj": "3101010012024GMAPP 164; 17509 -31200001.12.364.241.20720.14.339030.1.5009100000.0 - PF 3101010082024G MAPP 224"
+  },
+  "validity": "25/04/2025 A 25/04/2026",
+  "global_value": "R$489.986,00",
+  "signature": {
+    "date": "25/04/2025",
+    "signatories": {
+      "contracting_party": "HIDELBRANDO DOS SANTOS SOARES",
+      "contracted_party": "FRANCISCA AISLAN PEREIRA DE SOUSA"
+    }
+  },
+  "legal_unit": {
+    "name": "Roberta Nunes",
+    "role": "PROCURADORIA JURÍDICA"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_type": "EXTRATO DE CONTRATO",
+  "document_id": {
+    "number": "22001.076187/2025-10/PRÉ-RESERVA:1381365",
+    "ig": null
+  },
+  "contracting_party": {
+    "name": "EEP Profª Ela Maria Porto Costa Lima, situada na Rua José de Alencar, 1930 – Centro, Município de Aracati/CE, Telefone (88) 3421-2194",
+    "cpf_cnpj": "07.954.514/0327-52"
+  },
+  "contracted_party": {
+    "name": "Y.A. MONTEIRO SOLUTION, com sede à Rua (Av) Dom Pedro II, nº 148, Bairro Centro – município de Camocim – Ceará, CEP 60.400-000",
+    "cpf_cnpj": "50.949.285/0001-80"
+  },
+  "validity": "300 (trezentos) dias",
+  "global_value": "R$ 9.833,40",
+  "signature": {
+    "date": null,
+    "signatories": {
+      "contracting_party": "MARCIA VIANA PORTO VIEIRA - CONTRATANTE – YURI ARAÚJO MONTEIRO – CONTRATADA e TESTEMUNHAS: 01-ALBANO NUNES DE OLIVEIRA, 02-FRANCISCO EUDES FREIRE DOS SANTOS",
+      "contracted_party": null
+    }
+  },
+  "legal_unit": {
+    "name": "Marcos Felipe Vicente COORDENADOR/ASJUR *** *** ***",
+    "role": null
+  }
+}
