@@ -1,0 +1,27 @@
+{
+  "document_number": "Qual é o número do documento indicado após 'Nº DO DOCUMENTO'?",
+
+  "document_ig": "Qual é o número do IG do documento indicado após 'IG'?",
+
+  "contracting_name": "Qual é o nome da empresa/orgão contratante?",
+
+  "contracting_cnpj": "Qual é o número CNPJ ou CPF associado ao CONTRATANTE?",
+
+  "contracted_name": "Qual é o nome da empresa/orgão contratada?",
+
+  "contracted_cnpj": "Qual é o número CNPJ ou CPF associado ao CONTRATADO?",
+
+  "validity": "Qual a data de prazo de vigência deste contrato?",
+
+  "global_value": "Qual é o valor global do contrato em reais?",
+
+  "signature_date": "Qual é a data de assinatura do contrato?",
+
+  "signatory_contracting": "Qual é o nome do signatário associado ao CONTRATANTE?",
+
+  "signatory_contracted": "Qual é o nome do signatário associado ao CONTRATADA?",
+
+  "legal_name": "Qual o nome do servidor que autenticou o contrato?",
+
+  "legal_role": "Qual o cargo do servidor que autenticou o contrato?"
+}
