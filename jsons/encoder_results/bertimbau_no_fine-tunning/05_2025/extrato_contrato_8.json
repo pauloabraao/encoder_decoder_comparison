@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "023/2025",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "Empresa MIDAS PRESTAÇÃO DE SERVIÇOS GERAIS",
+        "cpf_cnpj": "07.421.806/0001-00"
+    },
+    "contracted_party": {
+        "name": "MIDAS",
+        "cpf_cnpj": "07.421.806/0001-00"
+    },
+    "validity": "23 de abril de 2025",
+    "global_value": "R$ R$ 1.920",
+    "signature": {
+        "date": "23/04/2025",
+        "signatories": {
+            "contracting_party": "MARCOS RODRIGUES DE LEMOS",
+            "contracted_party": "MARCOS RODRIGUES DE LEMOS"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

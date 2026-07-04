@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "16 IG 1381539",
+        "ig": "IG 1381539"
+    },
+    "contracting_party": {
+        "name": "CONTRA- TADO",
+        "cpf_cnpj": "37.847.947"
+    },
+    "contracted_party": {
+        "name": "CONTRA- TADO",
+        "cpf_cnpj": "37.847.947"
+    },
+    "validity": "26 de Maio de 2025",
+    "global_value": "R$ 15.020,00",
+    "signature": {
+        "date": "26/05/2025",
+        "signatories": {
+            "contracting_party": "UBIRATAN SOBREIRA DA CRUZ NETO",
+            "contracted_party": "UBIRATAN SOBREIRA DA CRUZ NETO"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

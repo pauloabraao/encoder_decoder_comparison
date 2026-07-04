@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1340963",
+        "ig": "1340963"
+    },
+    "contracting_party": {
+        "name": "ESCOLA EEFM PROFESSOR ALOYSIO BARROS LEAL",
+        "cpf_cnpj": "47.293.532/0001-28"
+    },
+    "contracted_party": {
+        "name": "ESCOLA EEFM PROFESSOR ALOYSIO BARROS LEAL",
+        "cpf_cnpj": "47.293.532/0001-28"
+    },
+    "validity": "12 de Dezembro de 2024",
+    "global_value": "duzentos e trinta e quatro",
+    "signature": {
+        "date": "12/12/2024",
+        "signatories": {
+            "contracting_party": "Marcos Rodrigues de Lemos",
+            "contracted_party": "Marcos Rodrigues de Lemos"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

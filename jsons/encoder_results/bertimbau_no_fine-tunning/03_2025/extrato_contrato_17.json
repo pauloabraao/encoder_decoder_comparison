@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1364747",
+        "ig": "IG-1364747"
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "07.954.514/0590-14"
+    },
+    "contracted_party": {
+        "name": "PRO GÁS",
+        "cpf_cnpj": "07.954.514/0590-14"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 768,60",
+    "signature": {
+        "date": "20/02/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "Edson Nascimento de Souza"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "19ª COORDENADORIA REGIONAL DE DESENVOLIMENTO DA EDUCAÇÃO"
+    }
+}

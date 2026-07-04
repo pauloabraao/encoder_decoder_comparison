@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1368105"
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "06.740.096/0001-00"
+    },
+    "contracted_party": {
+        "name": "ASSO- CIAÇÃO CRISTÃ DE BASE - ACB",
+        "cpf_cnpj": "06.740.096/0001-00"
+    },
+    "validity": "26 de março de 2025",
+    "global_value": "R$ 2.216.122,11",
+    "signature": {
+        "date": "26/03/2025",
+        "signatories": {
+            "contracting_party": "ASSO- CIAÇÃO CRISTÃ DE BASE",
+            "contracted_party": "FRANCISCO DE ASSIS BATISTA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "ASSO- CIAÇÃO CRISTÃ DE BASE"
+    }
+}

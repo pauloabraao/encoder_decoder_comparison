@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1365856",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "NAIME CAVALCANTE AUR",
+        "cpf_cnpj": "07.954.514/0107-83"
+    },
+    "contracted_party": {
+        "name": "NAIME CAVALCANTE AUR",
+        "cpf_cnpj": null
+    },
+    "validity": "26 de fevereiro de 2024",
+    "global_value": "R$ 7.000,00",
+    "signature": {
+        "date": "26/02/2024",
+        "signatories": {
+            "contracting_party": "NAIME CAVALCANTE AUR",
+            "contracted_party": "NAIME CAVALCANTE AUR"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

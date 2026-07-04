@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1367149",
+        "ig": "1367149"
+    },
+    "contracting_party": {
+        "name": "Escola Liceu Professor Francisco Oscar Rodrigues",
+        "cpf_cnpj": "07.954.514/0220-13"
+    },
+    "contracted_party": {
+        "name": "Escola Liceu Professor Francisco Oscar Rodrigues",
+        "cpf_cnpj": "07.954.514/0220-13"
+    },
+    "validity": "27 de Março de 2025",
+    "global_value": null,
+    "signature": {
+        "date": "27/03/2025",
+        "signatories": {
+            "contracting_party": "Sérgio Banhos Vieira Braga",
+            "contracted_party": "Sérgio Banhos Vieira Braga"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

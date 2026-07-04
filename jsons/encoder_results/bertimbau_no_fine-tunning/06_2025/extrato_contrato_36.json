@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1378747",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "07.954.514/0477-84"
+    },
+    "contracted_party": {
+        "name": "ZACARIAS DOS SANTOS CHAVES JUNIOR ME",
+        "cpf_cnpj": null
+    },
+    "validity": "22 de maio de 2025",
+    "global_value": "R$100,00",
+    "signature": {
+        "date": "22/05/2025",
+        "signatories": {
+            "contracting_party": "ZACA- RIAS DOS SANTOS CHAVES JUNIOR",
+            "contracted_party": "ZACA- RIAS DOS SANTOS CHAVES JUNIOR"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1363969",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEM VIVINA MONTEIRO - Icó, situada Rua Dr Inácio Dias, nº 1291, Icó-CE, CEP: 63.430-000, inscrita no CNPJ sob o Nº 07.954/514/0638-01, doravante denominada CONTRATANTE, neste ato representada pela Sra Talita Lima da Silva CONTRATADA: U.S DA CRUZ NETO",
+        "cpf_cnpj": "37.847.947/0001-42"
+    },
+    "contracted_party": {
+        "name": "U.S DA CRUZ NETO",
+        "cpf_cnpj": "37.847.947/0001-42"
+    },
+    "validity": "14 de fevereiro de 2025",
+    "global_value": "Trinta e três mil setecentos e noventa e cinco",
+    "signature": {
+        "date": "14/02/2025",
+        "signatories": {
+            "contracting_party": "Ubiratan Sobreira da Cruz Neto",
+            "contracted_party": "Ubiratan Sobreira da Cruz Neto"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

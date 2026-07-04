@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1371163",
+        "ig": "IG-1371163"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL ELZA GOMES MARTINS",
+        "cpf_cnpj": "07.954.514/0336-43"
+    },
+    "contracted_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL ELZA GOMES MARTINS",
+        "cpf_cnpj": "07.954.514/0336-43"
+    },
+    "validity": null,
+    "global_value": "R$ 25.305,00",
+    "signature": {
+        "date": "22/04/2024",
+        "signatories": {
+            "contracting_party": "JOSÉ WILSON SOUZA MELO",
+            "contracted_party": "JOSÉ WILSON SOUZA MELO"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

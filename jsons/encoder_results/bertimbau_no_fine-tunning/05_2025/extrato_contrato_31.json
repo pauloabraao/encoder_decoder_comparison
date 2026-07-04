@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1373931",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEEP PEDRO DE QUEIROZ LIMA",
+        "cpf_cnpj": "07.954.514/0394-12"
+    },
+    "contracted_party": {
+        "name": "EEEP PEDRO DE QUEIROZ LIMA",
+        "cpf_cnpj": null
+    },
+    "validity": "22 de Abril de 2024",
+    "global_value": null,
+    "signature": {
+        "date": "22/04/2024",
+        "signatories": {
+            "contracting_party": "Arthur Monteiro da Silva",
+            "contracted_party": "Arthur Monteiro da Silva"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

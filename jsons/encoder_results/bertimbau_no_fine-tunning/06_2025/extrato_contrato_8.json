@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "10628.982025/07/IG: 1380406",
+        "ig": "1380406"
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "07.954.514/0456-50"
+    },
+    "contracted_party": {
+        "name": "COOPE- RATIVA DE PRODUÇÃO AGROPECUÁRIA E SERVIÇOS SANTA BARBARA",
+        "cpf_cnpj": null
+    },
+    "validity": "350 (Trezentos e cinquenta) dias",
+    "global_value": "R$ 52.999,01",
+    "signature": {
+        "date": "26/05/2025",
+        "signatories": {
+            "contracting_party": "Raimundo Nonato Barbosa do Nascimento",
+            "contracted_party": "Raimundo Nonato Barbosa do Nascimento"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

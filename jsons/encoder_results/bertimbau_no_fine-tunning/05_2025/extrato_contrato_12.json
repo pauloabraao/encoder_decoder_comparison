@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1373014",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA RAÍZES DE CRATEÚS",
+        "cpf_cnpj": "35.735.700/0001-09"
+    },
+    "contracted_party": {
+        "name": "ESCOLA INDÍGENA RAÍZES DE CRATEÚS",
+        "cpf_cnpj": "35.735.700/0001-09"
+    },
+    "validity": "10 de abril de 2025",
+    "global_value": "R$ 4.010,30",
+    "signature": {
+        "date": "10/04/2025",
+        "signatories": {
+            "contracting_party": "Stephany Gouveia de Souza",
+            "contracted_party": "Stephany Gouveia de Souza"
+        }
+    },
+    "legal_unit": {
+        "name": "Maria Aldenisi Pereira Viana de Sousa",
+        "role": null
+    }
+}

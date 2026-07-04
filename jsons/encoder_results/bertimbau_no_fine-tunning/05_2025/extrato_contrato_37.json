@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1372824",
+        "ig": "1372824"
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA ÍNDIOS TAPEBA",
+        "cpf_cnpj": "07.954.514/0138-80"
+    },
+    "contracted_party": {
+        "name": "ESCOLA INDÍGENA ÍNDIOS TAPEBA",
+        "cpf_cnpj": "07.954.514/0138-80"
+    },
+    "validity": "365 (TREZENTOS E SESSENTA E CINCO) dias",
+    "global_value": "R$ 79.093,00",
+    "signature": {
+        "date": "29/04/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "RAIMUNDO NONATO BARBOSA DO NASCIMENTO"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

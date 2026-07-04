@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1.5009100000.0",
+        "ig": "1343582000"
+    },
+    "contracting_party": {
+        "name": "NUTRE ALIMENTAÇÃO",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "NUTRE ALIMENTAÇÃO",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "validity": "17 DE MARÇO DE 2025",
+    "global_value": null,
+    "signature": {
+        "date": "17/03/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Secretário(a) da Educação"
+    }
+}

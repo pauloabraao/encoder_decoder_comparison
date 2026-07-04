@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001036999/202514 - IG - 1369920",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEMTI Maria Stela Rocha Aguiar, situada no distrito de Guriú, PV Córrego do braço, inscrita(o) no CNPJ sob o nº 07.954.514/0762- 96, doravante denominada(o) CONTRATANTE, neste ato representada(o) pelo Hipólito Elias Guilhermino CONTRATADA: A.A.A. VIANA",
+        "cpf_cnpj": "53.866.339/0001-31"
+    },
+    "contracted_party": {
+        "name": "A.A.A. VIANA",
+        "cpf_cnpj": "53.866.339/0001-31"
+    },
+    "validity": "26 de Março de 2025",
+    "global_value": "quatro mil quatrocentos e sessenta",
+    "signature": {
+        "date": "26/03/2025",
+        "signatories": {
+            "contracting_party": "Hipólito Elias Guilhermino",
+            "contracted_party": "Ariel Angelo Alves Viana"
+        }
+    },
+    "legal_unit": {
+        "name": "Hipólito Elias Guilhermino",
+        "role": null
+    }
+}

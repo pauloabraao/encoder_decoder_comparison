@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1365539",
+        "ig": "1365539"
+    },
+    "contracting_party": {
+        "name": "ESCOLA ENSINO MEDIO VIRGILIO CORREIA LIMA",
+        "cpf_cnpj": "12.287.378"
+    },
+    "contracted_party": {
+        "name": "AGUA MINERAL",
+        "cpf_cnpj": "12.287.378/0001-05"
+    },
+    "validity": "25 de fevereiro de 2025",
+    "global_value": "Vinte e seis mil cento e sessenta sete reais e oitenta dois centavos",
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": "DAVI DIAS GABRIEL RODRIGUES",
+            "contracted_party": "DAVI DIAS GABRIEL RODRIGUES"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

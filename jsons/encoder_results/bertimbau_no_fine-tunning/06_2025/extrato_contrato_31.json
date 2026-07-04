@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1380848",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA ABA KATU",
+        "cpf_cnpj": "19.153.173/0001-78"
+    },
+    "contracted_party": {
+        "name": "ESCOLA INDÍGENA ABA KATU",
+        "cpf_cnpj": "19.153.173/0001-78"
+    },
+    "validity": "26 de maio de 2025",
+    "global_value": "Dois mil oitocentos e dezessete",
+    "signature": {
+        "date": "26/05/2025",
+        "signatories": {
+            "contracting_party": "ANTONIO ELTON BARBOSA DE MESQUITA",
+            "contracted_party": "ANTONIO ELTON BARBOSA DE MESQUITA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

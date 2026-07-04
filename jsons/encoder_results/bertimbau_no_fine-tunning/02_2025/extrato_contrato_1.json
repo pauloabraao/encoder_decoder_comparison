@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "VERTICAL PROMOÇÕES E EVENTOS",
+        "cpf_cnpj": "09.469.891/0001-02"
+    },
+    "contracted_party": {
+        "name": "VERTICAL PROMOÇÕES E EVENTOS",
+        "cpf_cnpj": "09.469.891/0001-02"
+    },
+    "validity": "27 de janeiro de 2025",
+    "global_value": null,
+    "signature": {
+        "date": "27/01/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

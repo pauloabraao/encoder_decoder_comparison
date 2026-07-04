@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1349971",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "DIMAIAS COMERCIAL",
+        "cpf_cnpj": "07.954.514/0400-03"
+    },
+    "contracted_party": {
+        "name": "GÊNEROS DE ALIMENTAÇÃO",
+        "cpf_cnpj": "00.289.070/0001-01"
+    },
+    "validity": "05 DE NOVEMBRO DE 2024",
+    "global_value": "Cinquenta e quatro mil, trezentos e dezeseis reais e oitenta e quatro centavos)",
+    "signature": {
+        "date": "05/11/2024",
+        "signatories": {
+            "contracting_party": "Edvando Teixeira Souza",
+            "contracted_party": "Augusto César Carvalho Maia"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

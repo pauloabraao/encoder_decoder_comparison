@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "18 IG 1367351",
+        "ig": "18 IG 1367351"
+    },
+    "contracting_party": {
+        "name": "MV COMERCIO VAREJISTA DE GLP LTDA",
+        "cpf_cnpj": "07.954.514/0509-04"
+    },
+    "contracted_party": {
+        "name": "deMATERIAL DE CONSUMO - GÁS ENGARRAFADO",
+        "cpf_cnpj": "07.954.514/0509-04"
+    },
+    "validity": "365 (trezentos e sessenta e cinco)dias",
+    "global_value": "R$ 1.869,20",
+    "signature": {
+        "date": "21/03/2025",
+        "signatories": {
+            "contracting_party": "JORGEMBERG COSTA MARQUES",
+            "contracted_party": "JORGEMBERG COSTA MARQUES"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

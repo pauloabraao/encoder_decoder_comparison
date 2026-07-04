@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1338365000"
+    },
+    "contracting_party": {
+        "name": "EB DISTRIBUIDORA",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "EB DISTRIBUIDORA",
+        "cpf_cnpj": "53.254.670/0001-09"
+    },
+    "validity": "27 de Janeiro de 2025",
+    "global_value": "R$ 9.298,10",
+    "signature": {
+        "date": "27/01/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Secretário(a) da Educação"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1363455",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "Secretaria da Educação/ESCOLA de Ensino Médio em Tempo Integral Adahil Barreto",
+        "cpf_cnpj": "07.954.514/0659-28"
+    },
+    "contracted_party": {
+        "name": "Água Mineral – Garrafão de 20 litros",
+        "cpf_cnpj": "07.954.514/0659-28"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": null,
+    "signature": {
+        "date": "13/02/2025",
+        "signatories": {
+            "contracting_party": "Damião Lins de Souza",
+            "contracted_party": "LEONARDO FERREIRA GOMES"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

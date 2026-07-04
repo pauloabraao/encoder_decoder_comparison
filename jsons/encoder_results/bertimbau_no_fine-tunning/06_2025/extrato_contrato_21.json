@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001052764/202570 - IG - 1380314",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESCOLA EEMTI VICENTE ARRUDA",
+        "cpf_cnpj": "85 997167326"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "85 997167326"
+    },
+    "validity": "320 (TREZENTOS E VINTE) dias",
+    "global_value": "CENTO E SETENTA MIL E TRINTA REAIS",
+    "signature": {
+        "date": "22/05/2025",
+        "signatories": {
+            "contracting_party": "JAQUELINE DA SILVA DE OLIVEIRA",
+            "contracted_party": "JAQUELINE DA SILVA DE OLIVEIRA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

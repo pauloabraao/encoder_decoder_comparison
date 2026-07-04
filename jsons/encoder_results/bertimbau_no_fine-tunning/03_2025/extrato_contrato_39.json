@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1366561000"
+    },
+    "contracting_party": {
+        "name": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS",
+        "cpf_cnpj": "33.866.288"
+    },
+    "contracted_party": {
+        "name": "SUPERINTENDÊNCIA DE OBRAS PÚBLICAS",
+        "cpf_cnpj": "33.866.288"
+    },
+    "validity": "13 DE MARÇO DE 2025",
+    "global_value": null,
+    "signature": {
+        "date": "13/03/2025",
+        "signatories": {
+            "contracting_party": "Gadyel Gonçalves de Aguiar Paula",
+            "contracted_party": "Gadyel Gonçalves de Aguiar Paula"
+        }
+    },
+    "legal_unit": {
+        "name": "JOSÉ VALDECI REBOUÇAS",
+        "role": null
+    }
+}

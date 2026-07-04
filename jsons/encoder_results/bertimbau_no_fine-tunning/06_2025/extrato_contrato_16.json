@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001070088/202516 - IG - 1379799",
+        "ig": "1379799"
+    },
+    "contracting_party": {
+        "name": "ASSO- CIAÇÃO DE PRODUTORES RURAIS DE SERRA AGUDA",
+        "cpf_cnpj": "07.954.514/0297-00"
+    },
+    "contracted_party": {
+        "name": "ASSO- CIAÇÃO DE PRODUTORES RURAIS DE SERRA AGUDA",
+        "cpf_cnpj": "07.954.514/0297-00"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": null,
+    "signature": {
+        "date": "22/05/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "Cleumar Bernardo"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

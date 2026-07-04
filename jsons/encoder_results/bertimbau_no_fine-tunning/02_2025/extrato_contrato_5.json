@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1361077000"
+    },
+    "contracting_party": {
+        "name": "EMPRESA SPALLA EVENTOS E SERVIÇOS",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "EMPRESA SPALLA EVENTOS E SERVIÇOS",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "validity": "08 DE JANEIRO DE 2025",
+    "global_value": "R$ 782.701,20",
+    "signature": {
+        "date": "08/01/2025",
+        "signatories": {
+            "contracting_party": "Sra Mariana Souza Joca Lima",
+            "contracted_party": "Sra Mariana Souza Joca Lima"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Secretária da Educação"
+    }
+}

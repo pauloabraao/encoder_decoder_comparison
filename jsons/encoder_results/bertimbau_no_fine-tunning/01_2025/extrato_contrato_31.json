@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1350816",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEMTI FILGUEIRAS LIMA",
+        "cpf_cnpj": "41.262.099/0001-87"
+    },
+    "contracted_party": {
+        "name": "EEMTI FILGUEIRAS LIMA",
+        "cpf_cnpj": "41.262.099/0001-87"
+    },
+    "validity": "200 (duzentos) dias",
+    "global_value": "R$ 18.255,00",
+    "signature": {
+        "date": "06/11/2024",
+        "signatories": {
+            "contracting_party": "JORGE LUIS GOMES MENDONÇA",
+            "contracted_party": "JORGE LUIS GOMES MENDONÇA"
+        }
+    },
+    "legal_unit": {
+        "name": "ROGÉRIO GOMES DA SILVA",
+        "role": null
+    }
+}

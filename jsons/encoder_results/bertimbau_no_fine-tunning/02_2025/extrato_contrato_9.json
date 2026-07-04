@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1361065",
+        "ig": "IG-1361065"
+    },
+    "contracting_party": {
+        "name": "VISION CONSTRUTORA E SERVIÇOS",
+        "cpf_cnpj": "10.560.303/0001-12"
+    },
+    "contracted_party": {
+        "name": "VISION",
+        "cpf_cnpj": "10.560.303/0001-12"
+    },
+    "validity": "27 de Janeiro de 2025",
+    "global_value": "R$ 96.000",
+    "signature": {
+        "date": "27/01/2025",
+        "signatories": {
+            "contracting_party": "NILSON BENTO DA SILVA",
+            "contracted_party": "NILSON BENTO DA SILVA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

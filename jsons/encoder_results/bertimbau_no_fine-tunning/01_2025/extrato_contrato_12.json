@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEM EGIDIA CAVALCANTE CHAGAS",
+        "cpf_cnpj": "07.954.514/0216-37"
+    },
+    "contracted_party": {
+        "name": "EEM EGIDIA CAVALCANTE CHAGAS",
+        "cpf_cnpj": "07.954.514/0216-37"
+    },
+    "validity": "30 DE OUTUBRO DE 2024",
+    "global_value": "R$ 15.050,00",
+    "signature": {
+        "date": null,
+        "signatories": {
+            "contracting_party": "Benedito Francisco Alves",
+            "contracted_party": "Benedito Francisco Alves"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

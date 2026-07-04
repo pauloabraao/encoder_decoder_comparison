@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1338371"
+    },
+    "contracting_party": {
+        "name": "Secretaria da Educação/Escola de Ensino Médio em Tempo Integral Gerardo Majella Mello Mourão",
+        "cpf_cnpj": "07.954.514/0370-45"
+    },
+    "contracted_party": {
+        "name": "Secretaria da Educação/Escola de Ensino Médio em Tempo Integral Gerardo Majella Mello Mourão",
+        "cpf_cnpj": "07.954.514/0370-45"
+    },
+    "validity": "11 de Outubro de 2024",
+    "global_value": "R$ 39.390,00",
+    "signature": {
+        "date": "11/10/2024",
+        "signatories": {
+            "contracting_party": "Paulo Alves de Sousa",
+            "contracted_party": "JOSE RENATO RODRIGUES MARTINS"
+        }
+    },
+    "legal_unit": {
+        "name": "Paulo Alves de Sousa",
+        "role": "Diretor (a) Geral"
+    }
+}

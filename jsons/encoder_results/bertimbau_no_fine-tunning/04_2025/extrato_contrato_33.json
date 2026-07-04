@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1369413",
+        "ig": "1369413"
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "07.954.514/0341-00"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "07.954.514/0341-00"
+    },
+    "validity": "365(Trezentos e sessenta e cinco) dias, contados a partir da data de publicação no Diário Oficial do Estado",
+    "global_value": "R$ 5.671,66",
+    "signature": {
+        "date": "26/03/2025",
+        "signatories": {
+            "contracting_party": "Deusimar Candido de Oliveira",
+            "contracted_party": "Deusimar Candido de Oliveira"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

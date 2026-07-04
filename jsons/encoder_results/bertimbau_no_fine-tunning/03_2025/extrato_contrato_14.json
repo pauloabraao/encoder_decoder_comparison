@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1365283",
+        "ig": "1365283"
+    },
+    "contracting_party": {
+        "name": "EEMTI CONEGO LUIZ BRAGA ROCHA",
+        "cpf_cnpj": "37.847.947/0001-42"
+    },
+    "contracted_party": {
+        "name": "EEMTI CONEGO LUIZ BRAGA ROCHA",
+        "cpf_cnpj": "37.847.947/0001-42"
+    },
+    "validity": "25 de Fevereiro de 2025",
+    "global_value": "R$ 1.163,25 (hum mil,cento e sessenta e três",
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": "Ubiratan Sobreira da Cruz Neto",
+            "contracted_party": "Ubiratan Sobreira da Cruz Neto"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

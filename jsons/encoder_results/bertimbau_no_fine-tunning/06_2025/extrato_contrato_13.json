@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1378453",
+        "ig": "1378453"
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "29.933.669/0001-18"
+    },
+    "contracted_party": {
+        "name": "A.F DE OLIVEIRA MANUTENÇÕES",
+        "cpf_cnpj": "29.933.669/0001-18"
+    },
+    "validity": "23 de Maio de 2025",
+    "global_value": "R$ 9.044,00",
+    "signature": {
+        "date": "23/05/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "Aurélia Ferreira de Oliveira"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

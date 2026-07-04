@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1361063"
+    },
+    "contracting_party": {
+        "name": "EEMTI MARIA THOMÁSIA / SEFOR3",
+        "cpf_cnpj": "44.922.978/0001-86"
+    },
+    "contracted_party": {
+        "name": "EEMTI MARIA THOMÁSIA / SEFOR3",
+        "cpf_cnpj": "44.922.978/0001-86"
+    },
+    "validity": "05 de fevereiro de 2025",
+    "global_value": "R$ 89.739,61",
+    "signature": {
+        "date": "05/02/2025",
+        "signatories": {
+            "contracting_party": "FRANCISCO RODRIGUES TORRES",
+            "contracted_party": "FRANCISCO RODRIGUES TORRES"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

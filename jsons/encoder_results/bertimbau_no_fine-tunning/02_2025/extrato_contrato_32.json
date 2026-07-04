@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-136379700",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "32.705.962"
+    },
+    "contracted_party": {
+        "name": "TOPCERT CERTIFICACAO DIGITAL",
+        "cpf_cnpj": "32.705.962/0001- 32"
+    },
+    "validity": "180 (cento e oitenta) dias",
+    "global_value": "R$ 14.260,00",
+    "signature": {
+        "date": "14/02/2025",
+        "signatories": {
+            "contracting_party": "JOÃO PEDRO LIMA DE CASTRO E SILVA",
+            "contracted_party": "JOÃO PEDRO LIMA DE CASTRO E SILVA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

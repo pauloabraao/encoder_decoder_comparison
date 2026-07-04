@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1351567",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEMTI PLÁCIDO ADERALDO CASTELO",
+        "cpf_cnpj": "07.954.514/0585-57"
+    },
+    "contracted_party": {
+        "name": "EEMTI PLÁCIDO ADERALDO CASTELO",
+        "cpf_cnpj": "07.954.514/0585-57"
+    },
+    "validity": "05 de novembro de 2024",
+    "global_value": "R$ 6.000,00",
+    "signature": {
+        "date": "05/11/2024",
+        "signatories": {
+            "contracting_party": "Sr. José Almeida da Silva",
+            "contracted_party": "ROSEMARY DE MELO SANTOS SILVA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

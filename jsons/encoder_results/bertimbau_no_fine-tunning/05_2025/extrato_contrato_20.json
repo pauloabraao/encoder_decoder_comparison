@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1372288",
+        "ig": "1372288"
+    },
+    "contracting_party": {
+        "name": "ESCOLA EEMTI Aristarco Cardoso",
+        "cpf_cnpj": "07.954.514/0574-02"
+    },
+    "contracted_party": {
+        "name": "ESCOLA EEMTI Aristarco Cardoso",
+        "cpf_cnpj": "07.954.514/0574-02"
+    },
+    "validity": "25 de Abril de 2024",
+    "global_value": "Dezenove mil, setecentos e oitenta",
+    "signature": {
+        "date": "25/04/2024",
+        "signatories": {
+            "contracting_party": "Manoel Faustino da Silva Neto",
+            "contracted_party": "Manoel Faustino da Silva Neto"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

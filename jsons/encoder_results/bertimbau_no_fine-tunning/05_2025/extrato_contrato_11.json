@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1374426",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "AQUISIÇÃO DE GÊNEROS ALIMEN- TÍCIOS -PNAE",
+        "cpf_cnpj": "36.244.654/0001-08"
+    },
+    "contracted_party": {
+        "name": "AQUISIÇÃO DE GÊNEROS ALIMEN- TÍCIOS -PNAE",
+        "cpf_cnpj": "36.244.654/0001-08"
+    },
+    "validity": "22 de abril de 2025",
+    "global_value": "Trinta e cinco mil, seiscentos e sessenta e cinco",
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Rodrigo Magalhães Alves",
+            "contracted_party": "Rodrigo Magalhães Alves"
+        }
+    },
+    "legal_unit": {
+        "name": "Rodrigo Magalhães Alves",
+        "role": null
+    }
+}

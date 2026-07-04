@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1367534"
+    },
+    "contracting_party": {
+        "name": "COLÉGIO ESTADUAL LICEU DE CAUCAIA",
+        "cpf_cnpj": "07.954.514/0134-56"
+    },
+    "contracted_party": {
+        "name": "COLÉGIO ESTADUAL LICEU DE CAUCAIA",
+        "cpf_cnpj": null
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": null,
+    "signature": {
+        "date": "27/03/2025",
+        "signatories": {
+            "contracting_party": "JOSÉ OSSIAN RICARTE",
+            "contracted_party": "Rodrigo Magalhaes Alves"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

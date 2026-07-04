@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "136463100",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "Ceja professor Gilmar Maia de Sousa",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "DUETTO SOLUCOES COMERCIAIS EM AGUAS E SERVICOS DE LEDICAO LTDA",
+        "cpf_cnpj": null
+    },
+    "validity": "25 de fevereiro de 2025",
+    "global_value": "R$ 3.299,01",
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": "Stephany Gouveia de Souza",
+            "contracted_party": "Stephany Gouveia de Souza"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

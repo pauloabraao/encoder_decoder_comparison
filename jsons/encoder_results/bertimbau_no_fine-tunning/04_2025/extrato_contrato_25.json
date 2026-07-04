@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-137002100",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEMTI Mauro Sampaio",
+        "cpf_cnpj": "36.005.459/0001-25"
+    },
+    "contracted_party": {
+        "name": "EEMTI Mauro Sampaio",
+        "cpf_cnpj": "36.005.459/0001-25"
+    },
+    "validity": "26 de Março de 2025",
+    "global_value": null,
+    "signature": {
+        "date": "26/03/2025",
+        "signatories": {
+            "contracting_party": "Francisco Edson Pereira Ferreira",
+            "contracted_party": "Francisco Edson Pereira Ferreira"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

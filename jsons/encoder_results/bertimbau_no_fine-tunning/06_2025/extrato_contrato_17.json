@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG - 1380337",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEMTI Maria Menezes Cristino",
+        "cpf_cnpj": "33.187.562/0001-45"
+    },
+    "contracted_party": {
+        "name": "EEMTI Maria Menezes Cristino",
+        "cpf_cnpj": "33.187.562/0001-45"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 5.400,00",
+    "signature": {
+        "date": "26/05/2025",
+        "signatories": {
+            "contracting_party": "Fábio Gomes de Lima",
+            "contracted_party": "Fábio Gomes de Lima"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

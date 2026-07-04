@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "17 IG 1369895",
+        "ig": "IG 1369895"
+    },
+    "contracting_party": {
+        "name": "EEM CAMILO BRASILIENSE",
+        "cpf_cnpj": "50.134.011/0001-32"
+    },
+    "contracted_party": {
+        "name": "EEM CAMILO BRASILIENSE",
+        "cpf_cnpj": "50.134.011/0001-32"
+    },
+    "validity": "360 (trezentos e sessenta) dias",
+    "global_value": "R$ 30.864,00",
+    "signature": {
+        "date": "27/03/2025",
+        "signatories": {
+            "contracting_party": "Ismael Ferreira Gomes",
+            "contracted_party": "Ismael Ferreira Gomes"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

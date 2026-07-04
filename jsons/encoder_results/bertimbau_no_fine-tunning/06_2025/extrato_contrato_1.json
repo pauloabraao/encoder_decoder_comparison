@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1368314",
+        "ig": "1368314"
+    },
+    "contracting_party": {
+        "name": "SECRETARIA DO DESENVOLVIMENTO AGRÁRIO - SDA",
+        "cpf_cnpj": "49.930.580/0001-71"
+    },
+    "contracted_party": {
+        "name": "N E DA S CARVALHO",
+        "cpf_cnpj": "49.930.580/0001-71"
+    },
+    "validity": "07 de abril de 2025",
+    "global_value": "cento e quatro mil, quinhentos e setenta e oito reais e oitenta centavos",
+    "signature": {
+        "date": "07/04/2025",
+        "signatories": {
+            "contracting_party": "N E DA S CARVALHO",
+            "contracted_party": "N E DA S CARVALHO"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

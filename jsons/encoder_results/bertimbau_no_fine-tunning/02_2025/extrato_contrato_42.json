@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEMTI GOVERNADOR GONZAGA MOTA.município de Crateús – CE, inscrita no CNPJ sob n° 07.954.514/0153-19, neste ato representada pela JULIANA EVARISTO COSTA CONTRATADA: A.S TERCEIRIZAÇÕES",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "EEMTI GOVERNADOR GONZAGA MOTA.município de Crateús – CE, inscrita no CNPJ sob n° 07.954.514/0153-19, neste ato representada pela JULIANA EVARISTO COSTA CONTRATADA: A.S TERCEIRIZAÇÕES",
+        "cpf_cnpj": "59.139.020/0001-90"
+    },
+    "validity": "12 DE FEVEREIRO DE 2025",
+    "global_value": null,
+    "signature": {
+        "date": "12/02/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

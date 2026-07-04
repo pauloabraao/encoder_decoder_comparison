@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "60 IG 1368239",
+        "ig": "1368239"
+    },
+    "contracting_party": {
+        "name": "SERTÃO COMERCIO E SERVIÇOS",
+        "cpf_cnpj": "26.780.062/0001-57"
+    },
+    "contracted_party": {
+        "name": "SERTÃO COMERCIO E SERVIÇOS",
+        "cpf_cnpj": "26.780.062/0001-57"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": null,
+    "signature": {
+        "date": null,
+        "signatories": {
+            "contracting_party": "Sofia Maia",
+            "contracted_party": "Sofia Maia"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

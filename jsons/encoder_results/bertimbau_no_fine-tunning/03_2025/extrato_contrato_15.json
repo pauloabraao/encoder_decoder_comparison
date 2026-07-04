@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22 IG 1365091",
+        "ig": "IG 1365091"
+    },
+    "contracting_party": {
+        "name": "PH E B COMERCIO E SERVIÇOS",
+        "cpf_cnpj": "11.914.096"
+    },
+    "contracted_party": {
+        "name": "PH E B COMERCIO E SERVIÇOS",
+        "cpf_cnpj": "11.914.096"
+    },
+    "validity": "26 de Fevereiro de 2025",
+    "global_value": "R$ 10.498,16",
+    "signature": {
+        "date": "26/02/2025",
+        "signatories": {
+            "contracting_party": "FRANCISCA AISLAN PEREIRA DE SOUSA",
+            "contracted_party": "FRANCISCA AISLAN PEREIRA DE SOUSA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001138657202457/PRE-RESERVA : 1361067",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "INTERLOS EMPREENDIMENTOS",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "INTERLOS EMPREENDIMENTOS",
+        "cpf_cnpj": null
+    },
+    "validity": "11 DE FEVEREIRO DE 2025",
+    "global_value": "Cento e Seis Mil Reais",
+    "signature": {
+        "date": "11/02/2025",
+        "signatories": {
+            "contracting_party": "RINOMARSON SILVA COSTA",
+            "contracted_party": "RINOMARSON SILVA COSTA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

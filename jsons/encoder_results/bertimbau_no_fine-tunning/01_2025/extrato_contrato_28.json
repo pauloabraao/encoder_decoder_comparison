@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1349210",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA TAPEBA CAPOEIRA",
+        "cpf_cnpj": "44.547.120"
+    },
+    "contracted_party": {
+        "name": "ESCOLA INDÍGENA TAPEBA CAPOEIRA",
+        "cpf_cnpj": "44.547.120"
+    },
+    "validity": "05 de novembro de 2024",
+    "global_value": "R$1.915,00",
+    "signature": {
+        "date": "05/11/2024",
+        "signatories": {
+            "contracting_party": "ARTEMIZA GOIS DE OLIVEIRA ARRUDA DA SILVA",
+            "contracted_party": "ARTEMIZA GOIS DE OLIVEIRA ARRUDA DA SILVA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

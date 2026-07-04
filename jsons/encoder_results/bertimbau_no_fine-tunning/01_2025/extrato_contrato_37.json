@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001094975/202407 - IG - 1359156",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "UNIAS EMPREENDI- MENTOS",
+        "cpf_cnpj": "41.246.178/0001-02"
+    },
+    "contracted_party": {
+        "name": "UNIAS EMPREENDI- MENTOS",
+        "cpf_cnpj": "41.246.178/0001-02"
+    },
+    "validity": "17 de Janeiro de 2025",
+    "global_value": "Oitenta e um mil, trezentos e oitenta",
+    "signature": {
+        "date": "17/01/2025",
+        "signatories": {
+            "contracting_party": "REBECA SOUSA DA SILVA",
+            "contracted_party": "REBECA SOUSA DA SILVA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

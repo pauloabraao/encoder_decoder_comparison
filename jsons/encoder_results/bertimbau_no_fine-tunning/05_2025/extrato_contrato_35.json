@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1371387",
+        "ig": "IG-1371387"
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA TAPEBA AMÉLIA DOMINGOS",
+        "cpf_cnpj": "07.954.514/0137-07"
+    },
+    "contracted_party": {
+        "name": "ESCOLA INDÍGENA TAPEBA AMÉLIA DOMINGOS",
+        "cpf_cnpj": null
+    },
+    "validity": "24 de abril de 2025",
+    "global_value": "R$ 1.128,00",
+    "signature": {
+        "date": null,
+        "signatories": {
+            "contracting_party": "Michele Vitor Martins",
+            "contracted_party": "Michele Vitor Martins"
+        }
+    },
+    "legal_unit": {
+        "name": "Michele Vitor Martins",
+        "role": null
+    }
+}

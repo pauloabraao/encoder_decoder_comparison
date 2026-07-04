@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1352398",
+        "ig": "IG-1352398"
+    },
+    "contracting_party": {
+        "name": "ÊXODO TRANSPORTE E LOGÍSTICA",
+        "cpf_cnpj": "07954514/0721-18"
+    },
+    "contracted_party": {
+        "name": "ÊXODO TRANSPORTE E LOGÍSTICA",
+        "cpf_cnpj": "07954514/0721-18"
+    },
+    "validity": "200 (Duzentos) dias",
+    "global_value": "R$ 3.894,81",
+    "signature": {
+        "date": "06/11/2024",
+        "signatories": {
+            "contracting_party": "Rafael da Silva Souza",
+            "contracted_party": "Rafael da Silva Souza"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

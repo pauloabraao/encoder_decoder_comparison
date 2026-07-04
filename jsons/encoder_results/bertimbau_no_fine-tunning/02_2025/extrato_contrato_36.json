@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1363075000"
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": null
+    },
+    "validity": "18 de fevereiro de 2025",
+    "global_value": "R$ 783.972,98",
+    "signature": {
+        "date": "014/2025",
+        "signatories": {
+            "contracting_party": "JOSÉ VALDECI REBOUÇAS",
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "JOSÉ VALDECI REBOUÇAS",
+        "role": "Superintendente"
+    }
+}

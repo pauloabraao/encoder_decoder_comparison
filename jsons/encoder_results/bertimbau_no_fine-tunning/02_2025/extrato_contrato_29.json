@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1362943",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "OLAVO DA COSTA MOREIRA",
+        "cpf_cnpj": "07.954.517/0458-11"
+    },
+    "contracted_party": {
+        "name": "OLAVO DA COSTA MOREIRA",
+        "cpf_cnpj": null
+    },
+    "validity": "17 de Fevereiro de 2025",
+    "global_value": "R$ 87.400,00",
+    "signature": {
+        "date": "17/02/2025",
+        "signatories": {
+            "contracting_party": "OLAVO DA COSTA MOREIRA",
+            "contracted_party": "OLAVO DA COSTA MOREIRA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

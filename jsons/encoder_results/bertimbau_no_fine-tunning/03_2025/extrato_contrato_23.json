@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1365754",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "11.977.190/0001-18"
+    },
+    "validity": "360 (trezentos e sessenta)",
+    "global_value": "Cento e cinquenta",
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": "Francisco Glauber de Brito Silva",
+            "contracted_party": "André Luis Melo do Nascimento"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

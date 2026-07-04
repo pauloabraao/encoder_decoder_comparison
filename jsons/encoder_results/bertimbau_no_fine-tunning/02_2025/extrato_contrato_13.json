@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1363306"
+    },
+    "contracting_party": {
+        "name": "SERVIÇO DE TERCEIRO – MANUTENÇÃO DE BENS IMOVEIS",
+        "cpf_cnpj": "nº43.539.833/0001-38"
+    },
+    "contracted_party": {
+        "name": "EEM ALFREDO MACHADO",
+        "cpf_cnpj": "nº43.539.833/0001-38"
+    },
+    "validity": "11 de Fevereiro de 2025",
+    "global_value": "R$ 10.501,65",
+    "signature": {
+        "date": "11/02/2025",
+        "signatories": {
+            "contracting_party": "LUAN FELIPE DE SOUSA",
+            "contracted_party": "LUAN FELIPE DE SOUSA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

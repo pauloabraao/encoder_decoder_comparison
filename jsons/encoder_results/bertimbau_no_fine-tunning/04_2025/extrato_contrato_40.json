@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1344420000"
+    },
+    "contracting_party": {
+        "name": "JT CONSTRUÇÃO EIRELI",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "JT CONSTRUÇÃO EIRELI",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "validity": "08 de abril de 2025",
+    "global_value": "R$ 6.009.604,41",
+    "signature": {
+        "date": "08/04/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "OSNY COELHO DE OLIVEIRA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Secretário(a) da Educação"
+    }
+}

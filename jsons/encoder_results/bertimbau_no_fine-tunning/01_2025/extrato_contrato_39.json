@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1356435",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "REFORMA DA QUADRA",
+        "cpf_cnpj": "13.373.665/0001-92"
+    },
+    "contracted_party": {
+        "name": "REFORMA DA QUADRA",
+        "cpf_cnpj": "13.373.665/0001-92"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias corridos",
+    "global_value": "R$ 89.363,40",
+    "signature": {
+        "date": "10/01/2025",
+        "signatories": {
+            "contracting_party": "Luiz Antonio de Farias Filho",
+            "contracted_party": "Luiz Antonio de Farias Filho"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG - 1351411",
+        "ig": "IG - 1351411"
+    },
+    "contracting_party": {
+        "name": "P G FERREIRA FELICIANO DINIZ BRASILEIRO",
+        "cpf_cnpj": "07.954.514/0720-37"
+    },
+    "contracted_party": {
+        "name": "P G FERREIRA FELICIANO DINIZ BRASILEIRO",
+        "cpf_cnpj": "07.954.514/0720-37"
+    },
+    "validity": "05 de novembro de 2024",
+    "global_value": "Seis mil, quatrocentos e oitenta",
+    "signature": {
+        "date": "05/11/2024",
+        "signatories": {
+            "contracting_party": "Pedro Geferson Ferreira Feliciano Diniz",
+            "contracted_party": "Pedro Geferson Ferreira Feliciano Diniz"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

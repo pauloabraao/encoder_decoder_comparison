@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1369122",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESCOLA PROFESSORA RAQUEL CASTRO E SILVA DE MIRANDA",
+        "cpf_cnpj": "07.954.514/0790-40"
+    },
+    "contracted_party": {
+        "name": "ESCOLA PROFESSORA RAQUEL CASTRO E SILVA DE MIRANDA",
+        "cpf_cnpj": null
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 163.420,00",
+    "signature": {
+        "date": "28/03/2025",
+        "signatories": {
+            "contracting_party": "RAIMUNDO NONATO BARBOSA DO NASCIMENTO",
+            "contracted_party": "RAIMUNDO NONATO BARBOSA DO NASCIMENTO"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

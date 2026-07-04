@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1363600",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "U.S DA CRUZ NETO",
+        "cpf_cnpj": "07.954.514/0017-92"
+    },
+    "contracted_party": {
+        "name": "U.S DA CRUZ NETO",
+        "cpf_cnpj": null
+    },
+    "validity": "13 de fevereiro de 2025",
+    "global_value": null,
+    "signature": {
+        "date": "13/02/2025",
+        "signatories": {
+            "contracting_party": "UBIRATAM SOBREIRA DA CRUZ NETO",
+            "contracted_party": "UBIRATAM SOBREIRA DA CRUZ NETO"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

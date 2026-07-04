@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1348838",
+        "ig": "1348838"
+    },
+    "contracting_party": {
+        "name": "EEEP VEREADOR JOSÉ BATISTA FILHO – ZEZINHO BATISTA",
+        "cpf_cnpj": "41.600.131"
+    },
+    "contracted_party": {
+        "name": "OMEGA DISTRIBUIDORA DE PRODUTOS ALIMENTÍCIOS",
+        "cpf_cnpj": "41.600.131"
+    },
+    "validity": "29 de Outubro de 2024",
+    "global_value": "R$ 429,84",
+    "signature": {
+        "date": "29/10/2024",
+        "signatories": {
+            "contracting_party": "FRANCISCO ARRUDA DIAS AGUIAR",
+            "contracted_party": "FRANCISCO ARRUDA DIAS AGUIAR"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

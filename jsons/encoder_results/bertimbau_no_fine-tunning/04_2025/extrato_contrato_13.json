@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1340315000"
+    },
+    "contracting_party": {
+        "name": "EMPRESA ESTRUTURAL ENGENHARIA E CONSTRUÇÃO",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "EMPRESA ESTRUTURAL ENGENHARIA E CONSTRUÇÃO",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "validity": "24 de março de 2025",
+    "global_value": "R$ 11.473.677,95",
+    "signature": {
+        "date": "24/03/2025",
+        "signatories": {
+            "contracting_party": "ÁLVARO RODRIGO BEZERRA",
+            "contracted_party": "ÁLVARO RODRIGO BEZERRA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Secretário da Educação"
+    }
+}

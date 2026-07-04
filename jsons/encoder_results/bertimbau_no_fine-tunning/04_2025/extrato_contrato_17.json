@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1348272000"
+    },
+    "contracting_party": {
+        "name": "ZONA NORTE CONSTRUÇÕES",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "ZONA NORTE CONSTRUÇÕES",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "validity": "31 de março de 2025",
+    "global_value": "R$ 16.417.402,91",
+    "signature": {
+        "date": "31/03/2025",
+        "signatories": {
+            "contracting_party": "URANDIA AGUIAR RAMOS",
+            "contracted_party": "URANDIA AGUIAR RAMOS"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Superintendente"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1369801",
+        "ig": "IG-1369801"
+    },
+    "contracting_party": {
+        "name": "EEMTI DEPUTADO JOAQUIM DE FIGUEIREDO CORREIA",
+        "cpf_cnpj": "07.954.514/0361-54"
+    },
+    "contracted_party": {
+        "name": "EEMTI DEPUTADO JOAQUIM DE FIGUEIREDO CORREIA",
+        "cpf_cnpj": "07.954.514/0361-54"
+    },
+    "validity": "27 de Março de 2025",
+    "global_value": null,
+    "signature": {
+        "date": "27/03/2025",
+        "signatories": {
+            "contracting_party": "JOSÉ NETO DE LIMA",
+            "contracted_party": "JOSÉ NETO DE LIMA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

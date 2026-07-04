@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "INSTITUTO FUTURE DE JUVENTUDE, PROMOÇÃO, TURISMO, CULTURA E DESENVOLVIMENTO SUSTENTÁVEL",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "INSTITUTO FUTURE DE JUVENTUDE, PROMOÇÃO, TURISMO, CULTURA E DESENVOLVIMENTO SUSTENTÁVEL",
+        "cpf_cnpj": null
+    },
+    "validity": "09 de junho de 2025",
+    "global_value": "R$ R$ 200.000,00",
+    "signature": {
+        "date": "09/06/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

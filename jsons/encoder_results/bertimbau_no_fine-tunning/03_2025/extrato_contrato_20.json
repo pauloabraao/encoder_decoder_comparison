@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1366161",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "DIMAIA’S COMERCIAL",
+        "cpf_cnpj": "00.289.070/0001-01"
+    },
+    "contracted_party": {
+        "name": "DIMAIA’S COMERCIAL",
+        "cpf_cnpj": "00.289.070/0001-01"
+    },
+    "validity": "26 de fevereiro de 2025",
+    "global_value": "Quarenta e dois mil oitocentos e quinze",
+    "signature": {
+        "date": "26/02/2025",
+        "signatories": {
+            "contracting_party": "Augusto César Carvalho Maia",
+            "contracted_party": "Augusto César Carvalho Maia"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

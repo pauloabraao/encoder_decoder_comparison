@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1377865",
+        "ig": "IG-1377865"
+    },
+    "contracting_party": {
+        "name": "PROGÁS DISTRIBUIDORA DE GÁS E ÁGUA LTDA",
+        "cpf_cnpj": "07.954.514/0171-09"
+    },
+    "contracted_party": {
+        "name": "PROGÁS DISTRIBUIDORA DE GÁS E ÁGUA LTDA",
+        "cpf_cnpj": "53.256.763/0001-64"
+    },
+    "validity": "360 (trezentos e sessenta) dias",
+    "global_value": null,
+    "signature": {
+        "date": "16/05/2025",
+        "signatories": {
+            "contracting_party": "Edson Nascimento de Souza",
+            "contracted_party": "Edson Nascimento de Souza"
+        }
+    },
+    "legal_unit": {
+        "name": "Sebastião Vieira da Silva",
+        "role": null
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001114207/202479 - IG - 1379129",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "CONSTRUTORA G V EMPREENDIMENTOS",
+        "cpf_cnpj": "49.881.156/0001-18"
+    },
+    "contracted_party": {
+        "name": "CONSTRUTORA G V EMPREENDIMENTOS",
+        "cpf_cnpj": "49.881.156/0001-18"
+    },
+    "validity": "22 de Maio de 2025",
+    "global_value": null,
+    "signature": {
+        "date": "22/05/2025",
+        "signatories": {
+            "contracting_party": "GUSTAVO ARAÚJO VASCONCELOS",
+            "contracted_party": "GUSTAVO ARAÚJO VASCONCELOS"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

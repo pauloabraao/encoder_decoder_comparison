@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1351520",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "COMERCIAL ELLEN LTDA",
+        "cpf_cnpj": "07.954.514/0244-90"
+    },
+    "contracted_party": {
+        "name": "AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS",
+        "cpf_cnpj": "07.954.514/0244-90"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco ) dias",
+    "global_value": "R$ 10.521,00",
+    "signature": {
+        "date": null,
+        "signatories": {
+            "contracting_party": "Francisco Adriano de Sousa",
+            "contracted_party": "Francisco Adriano de Sousa"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

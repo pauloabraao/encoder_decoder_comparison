@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "CDA COMERCIAL EIRELI",
+        "cpf_cnpj": null
+    },
+    "validity": "365 (TREZENTOS E SESSENTA E CINCO) dias",
+    "global_value": "R$ 26.565,00",
+    "signature": {
+        "date": "26/02/2025",
+        "signatories": {
+            "contracting_party": "DAVI OSORIO AMARO",
+            "contracted_party": "DAVI OSORIO AMARO"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

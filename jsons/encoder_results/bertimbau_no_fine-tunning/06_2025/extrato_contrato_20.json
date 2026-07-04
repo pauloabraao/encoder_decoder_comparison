@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESCOLA INDÍGENA JENIPAPO KANINDÉ",
+        "cpf_cnpj": "13.644.785/0001-87"
+    },
+    "contracted_party": {
+        "name": "ZACARIAS DOS SANTOS CHAVES JUNIOR",
+        "cpf_cnpj": "13.644.785/0001-87"
+    },
+    "validity": "02 de Abril de 2025",
+    "global_value": "R$ 145,00",
+    "signature": {
+        "date": "02/04/2025",
+        "signatories": {
+            "contracting_party": "ZACARIAS DOS SANTOS CHAVES JUNIOR",
+            "contracted_party": "ZACARIAS DOS SANTOS CHAVES JUNIOR"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

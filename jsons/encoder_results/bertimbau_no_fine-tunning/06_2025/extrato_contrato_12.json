@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1368616",
+        "ig": "1368616"
+    },
+    "contracting_party": {
+        "name": "EEM ANA BEZERRA DE SÁ",
+        "cpf_cnpj": "53.256.763/0001- 64"
+    },
+    "contracted_party": {
+        "name": "EEM ANA BEZERRA DE SÁ",
+        "cpf_cnpj": "53.256.763/0001- 64"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 2.909,70",
+    "signature": {
+        "date": "27/05/2025",
+        "signatories": {
+            "contracting_party": "EDSON NASCIMENTO DE SOUZA",
+            "contracted_party": "EDSON NASCIMENTO DE SOUZA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

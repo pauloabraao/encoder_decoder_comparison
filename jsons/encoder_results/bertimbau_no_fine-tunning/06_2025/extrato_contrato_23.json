@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "98 IG 1377376",
+        "ig": "98 IG 1377376"
+    },
+    "contracting_party": {
+        "name": "ESCOLA EEMTI MOISÉS BENTO DA SILVA",
+        "cpf_cnpj": "07.954.514/0565- 03"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "07.954.514/0565- 03"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 37.360,00",
+    "signature": {
+        "date": "22001040578/2025 98 IG 1377376",
+        "signatories": {
+            "contracting_party": "Juarez Antônio da Silva",
+            "contracted_party": "Juarez Antônio da Silva"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

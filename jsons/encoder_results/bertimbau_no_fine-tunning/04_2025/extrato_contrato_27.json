@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1369465"
+    },
+    "contracting_party": {
+        "name": "EEMTI DEPUTADO JOAQUIM DE FIGUEIREDO CORREIA",
+        "cpf_cnpj": "07.954.514/0361-54"
+    },
+    "contracted_party": {
+        "name": "EEMTI DEPUTADO JOAQUIM DE FIGUEIREDO CORREIA",
+        "cpf_cnpj": null
+    },
+    "validity": "26 de Março de 2025",
+    "global_value": "R$ 1.760,79",
+    "signature": {
+        "date": "26/03/2025",
+        "signatories": {
+            "contracting_party": "Adriana de Queiroz Magalhães",
+            "contracted_party": "Adriana de Queiroz Magalhães"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

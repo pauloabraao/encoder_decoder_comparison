@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001101318/202415 - IG - 1359154",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEMTI ANTÔNIO VIDAL MALVEIRA",
+        "cpf_cnpj": "46.154.250/0001-87"
+    },
+    "contracted_party": {
+        "name": "EEMTI ANTÔNIO VIDAL MALVEIRA/CREDE-10",
+        "cpf_cnpj": "46.154.250/0001-87"
+    },
+    "validity": "18 de Dezembro de 2024",
+    "global_value": "Quarenta e nove mil seiscentos e cinquenta e seis",
+    "signature": {
+        "date": "18/12/2024",
+        "signatories": {
+            "contracting_party": "Valderino Aires de Oliveira",
+            "contracted_party": "Rinomarson Silva Costa"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

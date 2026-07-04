@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1372013",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEM RAUL BARBOSA",
+        "cpf_cnpj": "10.560.303/0001-12"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "10.560.303/0001-12"
+    },
+    "validity": "24 de março de 2025",
+    "global_value": null,
+    "signature": {
+        "date": "24/03/2025",
+        "signatories": {
+            "contracting_party": "Nilson Bento da Silva",
+            "contracted_party": "Nilson Bento da Silva"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

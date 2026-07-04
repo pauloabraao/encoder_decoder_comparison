@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "BRAVAR COMÉRCIO E SERVIÇOS LTDA.",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "BRAVAR COMÉRCIO E SERVIÇOS LTDA.",
+        "cpf_cnpj": null
+    },
+    "validity": "28/04/2025 até 28/04/2026",
+    "global_value": "R$ 475.740,00",
+    "signature": {
+        "date": "28/04/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

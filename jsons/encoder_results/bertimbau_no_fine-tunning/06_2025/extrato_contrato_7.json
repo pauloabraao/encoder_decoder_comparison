@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG - 1378072",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEM JOSE FIDELES DE MOURA",
+        "cpf_cnpj": "53.256.763/0001-64"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "53.256.763/0001-64"
+    },
+    "validity": "22 de Maio de 2025",
+    "global_value": null,
+    "signature": {
+        "date": "22/05/2025",
+        "signatories": {
+            "contracting_party": "EDSON NASCIMENTO DE SOUZA",
+            "contracted_party": "EDSON NASCIMENTO DE SOUZA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

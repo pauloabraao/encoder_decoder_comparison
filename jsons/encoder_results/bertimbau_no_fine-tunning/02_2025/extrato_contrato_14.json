@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "11 IG 1362822",
+        "ig": "11 IG 1362822"
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "07.954.514/0636- 31"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "07.954.514/0636- 31"
+    },
+    "validity": "12 de Fevereiro de 2025",
+    "global_value": "R$ 87.000,00",
+    "signature": {
+        "date": "12/02/2025",
+        "signatories": {
+            "contracting_party": "José Ferreira Amorim",
+            "contracted_party": "José Ferreira Amorim"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

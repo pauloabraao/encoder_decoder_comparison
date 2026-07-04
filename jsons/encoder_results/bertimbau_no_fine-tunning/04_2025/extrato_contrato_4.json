@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1367422",
+        "ig": "1367422"
+    },
+    "contracting_party": {
+        "name": "ONTECH LOCAÇÕES E SERVIÇOS",
+        "cpf_cnpj": "46.856.681/0001-95"
+    },
+    "contracted_party": {
+        "name": "CONSTRUÇÃO DA CAIXA DÁGUA",
+        "cpf_cnpj": "46.856.681/0001-95"
+    },
+    "validity": "27 de Março de 2025",
+    "global_value": "VALOR GLOBA",
+    "signature": {
+        "date": "27/03/2025",
+        "signatories": {
+            "contracting_party": "OLAVO DA COSTA MOREIRA",
+            "contracted_party": "OLAVO DA COSTA MOREIRA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

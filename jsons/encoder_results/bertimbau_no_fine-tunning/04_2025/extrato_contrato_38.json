@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1368330"
+    },
+    "contracting_party": {
+        "name": "EEMPC Florestan Fernandes",
+        "cpf_cnpj": "40.525.490/0001-64"
+    },
+    "contracted_party": {
+        "name": "EEMPC Florestan Fernandes",
+        "cpf_cnpj": "40.525.490/0001-64"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": null,
+    "signature": {
+        "date": "18/03/2025",
+        "signatories": {
+            "contracting_party": "Francisco Hamilton Teixeira F Filho",
+            "contracted_party": "Francisco Hamilton Teixeira F Filho"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

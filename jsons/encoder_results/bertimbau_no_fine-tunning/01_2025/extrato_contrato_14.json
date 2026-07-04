@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG 1346960",
+        "ig": "IG 1346960"
+    },
+    "contracting_party": {
+        "name": "ACE ASSESSORIA CONTABIL LTDA",
+        "cpf_cnpj": "11.977.190/0001-18"
+    },
+    "contracted_party": {
+        "name": "ACE ASSESSORIA CONTABIL LTDA",
+        "cpf_cnpj": "11.977.190/0001-18"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "22100022.12.362.144.20976.01.339 039.50000.0 - 12670",
+    "signature": {
+        "date": "28/10/2024",
+        "signatories": {
+            "contracting_party": "André Luis Melo do Nascimento",
+            "contracted_party": "André Luis Melo do Nascimento"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

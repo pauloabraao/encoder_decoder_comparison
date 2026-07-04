@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1361678000"
+    },
+    "contracting_party": {
+        "name": "TD DANTAS SOLUÇÕES",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "TD DANTAS SOLUÇÕES",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "validity": "10 de janeiro de 2025",
+    "global_value": "R$ 6.387.740,00",
+    "signature": {
+        "date": "12/2025",
+        "signatories": {
+            "contracting_party": "THALISON DIOGENES DANTAS",
+            "contracted_party": "THALISON DIOGENES DANTAS"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Secretária da Educação"
+    }
+}

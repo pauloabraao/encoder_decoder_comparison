@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1316190000"
+    },
+    "contracting_party": {
+        "name": "JCM CONSTRUTORA E COMÉRCIO LTDA",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "JCM CONSTRUTORA E COMÉRCIO LTDA",
+        "cpf_cnpj": "04.732.759/0001-10"
+    },
+    "validity": "16 DE JANEIRO DE 2025",
+    "global_value": null,
+    "signature": {
+        "date": "16/01/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Secretária da Educação"
+    }
+}

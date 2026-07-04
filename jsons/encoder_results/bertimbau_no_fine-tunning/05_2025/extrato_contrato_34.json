@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1373633",
+        "ig": "1373633"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO RITA ESTELITA DOS SANTOS RODRIGUES",
+        "cpf_cnpj": "42.852.532/0001-05"
+    },
+    "contracted_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO RITA ESTELITA DOS SANTOS RODRIGUES",
+        "cpf_cnpj": "42.852.532/0001-05"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "Dois mil e quatrocentos reais",
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Sr Gustavo Braga Almeida",
+            "contracted_party": "Sr Gustavo Braga Almeida"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}
