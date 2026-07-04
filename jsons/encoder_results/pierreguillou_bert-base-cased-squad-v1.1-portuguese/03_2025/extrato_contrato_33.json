@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1359619"
+    },
+    "contracting_party": {
+        "name": "BEL MICRO TECNOLOGIA",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "BEL MICRO TECNOLOGIA",
+        "cpf_cnpj": null
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 89.184,90",
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "Francisco Gregory dos Santos Agostinho",
+        "role": null
+    }
+}

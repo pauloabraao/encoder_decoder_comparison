@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1381059",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "COMERCIAL KAYO LTDA",
+        "cpf_cnpj": "35.206.677"
+    },
+    "contracted_party": {
+        "name": "COMERCIAL KAYO LTDA",
+        "cpf_cnpj": "35.206.677/0001-65"
+    },
+    "validity": "27 de Maio de 2025",
+    "global_value": "R$ 29.512,00",
+    "signature": {
+        "date": "27/05/2025",
+        "signatories": {
+            "contracting_party": "Enioeldo Fernandes Farias",
+            "contracted_party": "Enioeldo Fernandes Farias"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

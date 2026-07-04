@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1369395000"
+    },
+    "contracting_party": {
+        "name": "EMPRESA KG CONSTRUÇÕES",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "EMPRESA KG CONSTRUÇÕES",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "validity": "18 DE MARÇO DE 2025",
+    "global_value": "Quinhentos e oitenta e oito mil, trezentos e setenta e dois",
+    "signature": {
+        "date": "18/03/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Secretária da Educação"
+    }
+}

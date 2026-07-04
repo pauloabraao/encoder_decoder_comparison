@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG 1362265000",
+        "ig": "1362265000"
+    },
+    "contracting_party": {
+        "name": "SALINAS EMPREEN- DIMENTOS E CONSTRUÇÕES",
+        "cpf_cnpj": "33.866.288/0001-30"
+    },
+    "contracted_party": {
+        "name": "SALINAS EMPREEN- DIMENTOS E CONSTRUÇÕES",
+        "cpf_cnpj": "33.866.288/0001-30"
+    },
+    "validity": "010/2025",
+    "global_value": "R$ 162.095,71",
+    "signature": {
+        "date": "12/02/2025",
+        "signatories": {
+            "contracting_party": "FRANCISCO LENNON BARBOSA MARTINS",
+            "contracted_party": "FRANCISCO LENNON BARBOSA MARTINS"
+        }
+    },
+    "legal_unit": {
+        "name": "JOSÉ VALDECI REBOUÇAS, brasileiro, servidor público, portador de identidade nº 96002349293",
+        "role": null
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1309110",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "07.954.514/0848-09"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": null
+    },
+    "validity": "22 de Março de 2025",
+    "global_value": "R$ 7.977,90",
+    "signature": {
+        "date": "22/03/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "JOSIEL ALBINO LIMA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

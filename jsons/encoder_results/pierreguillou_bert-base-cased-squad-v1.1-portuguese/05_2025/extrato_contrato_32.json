@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1374335000"
+    },
+    "contracting_party": {
+        "name": "G MATOS SERVICOS",
+        "cpf_cnpj": "13.180.857/0001-82"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "13.180.857/0001-82"
+    },
+    "validity": "90 (noventa) dias",
+    "global_value": "R$ 3.887,37",
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Gustavo Henrique de Matos Carvalho",
+            "contracted_party": "Gustavo Henrique de Matos Carvalho"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

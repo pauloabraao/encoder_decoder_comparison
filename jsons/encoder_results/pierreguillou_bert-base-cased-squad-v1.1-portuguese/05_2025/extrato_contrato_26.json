@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-137265400",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESCOLA EEFM CLÓVIS BEVILÁQUA",
+        "cpf_cnpj": "11.224.603"
+    },
+    "contracted_party": {
+        "name": "ESCOLA EEFM CLÓVIS BEVILÁQUA",
+        "cpf_cnpj": "11.224.603"
+    },
+    "validity": "22 de Abril de 2024",
+    "global_value": "R$ 2.760,00",
+    "signature": {
+        "date": "22/04/2024",
+        "signatories": {
+            "contracting_party": "MICHELE VITOR MARTINS",
+            "contracted_party": "MICHELE VITOR MARTINS"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

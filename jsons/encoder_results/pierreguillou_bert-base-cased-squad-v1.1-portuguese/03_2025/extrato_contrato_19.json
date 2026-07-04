@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1365555",
+        "ig": "IG-1365555"
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "12.287.378"
+    },
+    "contracted_party": {
+        "name": "EMPRESA DAVI D. G. RODRIGUES",
+        "cpf_cnpj": "12.287.378"
+    },
+    "validity": "25 de Fevereiro de 2025",
+    "global_value": "Seis mil quatrocentos e cinquenta um reais e sessenta quatro centavos",
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": "DAVI DIAS GABRIEL RODRIGUES",
+            "contracted_party": "DAVI DIAS GABRIEL RODRIGUES"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

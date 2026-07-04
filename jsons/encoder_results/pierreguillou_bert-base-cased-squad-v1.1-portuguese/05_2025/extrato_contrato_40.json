@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "36 IG 1373633",
+        "ig": "36 IG 1373633"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO RITA ESTELITA DOS SANTOS RODRIGUES",
+        "cpf_cnpj": "53.148.729/0001-76"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "53.148.729/0001-76"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "Dezenove mil e oito",
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Suelio Araújo de Sousa",
+            "contracted_party": "Suelio Araújo de Sousa"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

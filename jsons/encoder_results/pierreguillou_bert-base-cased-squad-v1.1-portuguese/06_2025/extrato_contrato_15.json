@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG - 1374661",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "MV COMERCIO VAREJISTA DE GLP LTDA",
+        "cpf_cnpj": "11.224.603"
+    },
+    "contracted_party": {
+        "name": "MV COMERCIO VAREJISTA DE GLP LTDA",
+        "cpf_cnpj": "11.224.603"
+    },
+    "validity": "365 (Trezentos e sessenta e cinco) dias",
+    "global_value": null,
+    "signature": {
+        "date": "26/05/2025",
+        "signatories": {
+            "contracting_party": "MICHELE VITOR MARTINS",
+            "contracted_party": "MICHELE VITOR MARTINS"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

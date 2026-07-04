@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1368105",
+        "ig": "1368105"
+    },
+    "contracting_party": {
+        "name": "CENTRO DE ESTUDOS E ASSISTÊNCIA ÀS LUTAS DO/A TRABALHADOR/A RURAL",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "CENTRO DE ESTUDOS E ASSISTÊNCIA ÀS LUTAS DO/A TRABALHADOR/A RURAL",
+        "cpf_cnpj": "06.745.897/0001-69"
+    },
+    "validity": "30 de junho de 2025",
+    "global_value": "R$ 2.332.761,18 (dois milhões, trezentos e trinta e dois mil, setecentos e sessenta e um",
+    "signature": {
+        "date": "30/06/2025",
+        "signatories": {
+            "contracting_party": "JOSÉ FRANCISCO DE ALMEIDA CARNEIRO",
+            "contracted_party": "JOSÉ FRANCISCO DE ALMEIDA CARNEIRO"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

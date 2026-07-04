@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG - 1379958",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL FRANKLIN TÁVORA",
+        "cpf_cnpj": "07.954.514/0065- 90"
+    },
+    "contracted_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL FRANKLIN TÁVORA",
+        "cpf_cnpj": "07.954.514/0065- 90"
+    },
+    "validity": "200 (duzentos) dias",
+    "global_value": null,
+    "signature": {
+        "date": "26/05/2025",
+        "signatories": {
+            "contracting_party": "JOSÉ IVANILDO COSTA",
+            "contracted_party": "JOSÉ IVANILDO COSTA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

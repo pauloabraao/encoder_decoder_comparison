@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1364728",
+        "ig": "IG-1364728"
+    },
+    "contracting_party": {
+        "name": "HSMSHOP COMERCIO DE PRODUTOS HOSPITALARES E VARIEDADES",
+        "cpf_cnpj": "07.954.514/0327-52"
+    },
+    "contracted_party": {
+        "name": "HSMSHOP COMERCIO DE PRODUTOS HOSPITALARES E VARIEDADES",
+        "cpf_cnpj": null
+    },
+    "validity": "24 de Fevereiro de 2025",
+    "global_value": "R$ 3.360,00",
+    "signature": {
+        "date": "24/02/2025",
+        "signatories": {
+            "contracting_party": "HELDER SAMPAIO DE MAGALHAES",
+            "contracted_party": "HELDER SAMPAIO DE MAGALHAES"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

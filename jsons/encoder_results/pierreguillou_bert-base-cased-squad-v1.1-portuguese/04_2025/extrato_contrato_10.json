@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1348497"
+    },
+    "contracting_party": {
+        "name": "INTERVENIENTE",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "ZONA NORTE CONSTRUÇÕES",
+        "cpf_cnpj": null
+    },
+    "validity": "20 de Março de 2025",
+    "global_value": "R$ 16.448.397,60",
+    "signature": {
+        "date": "20/03/2025",
+        "signatories": {
+            "contracting_party": "JOSÉ VALDECI REBOUÇAS",
+            "contracted_party": "JOSÉ VALDECI REBOUÇAS"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "50 IG 1374072",
+        "ig": "50 IG 1374072"
+    },
+    "contracting_party": {
+        "name": "EEMTI MARECHAL HUMBERTO DE ALENCAR CASTELO BRANCO",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "EEMTI MARECHAL HUMBERTO DE ALENCAR CASTELO BRANCO",
+        "cpf_cnpj": "49.762.368./0001-86"
+    },
+    "validity": "16 de Abril de 2025",
+    "global_value": null,
+    "signature": {
+        "date": "16/04/2025",
+        "signatories": {
+            "contracting_party": "LUIZ LUCENA DE OLIVEIRA",
+            "contracted_party": "LUIZ LUCENA DE OLIVEIRA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

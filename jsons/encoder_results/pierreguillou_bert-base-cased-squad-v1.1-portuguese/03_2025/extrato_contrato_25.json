@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1364967",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "36.244.654/0001-08"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "36.244.654/0001-08"
+    },
+    "validity": "26 de fevereiro de 2025",
+    "global_value": "Quarenta e dois mil, oitocentos e quarenta e seis",
+    "signature": {
+        "date": "26/02/2025",
+        "signatories": {
+            "contracting_party": "Rodrigo Magalhães Alves",
+            "contracted_party": "Rodrigo Magalhães Alves"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

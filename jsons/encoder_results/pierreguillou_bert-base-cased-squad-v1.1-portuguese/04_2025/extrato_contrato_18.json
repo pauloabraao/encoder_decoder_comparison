@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1368515",
+        "ig": "IG-1368515"
+    },
+    "contracting_party": {
+        "name": "FORTE COMERCIO DE ALIMENTOS",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "FORTE COMERCIO DE ALIMENTOS",
+        "cpf_cnpj": "01.044.414/0001-85"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": null,
+    "signature": {
+        "date": "27/03/2025",
+        "signatories": {
+            "contracting_party": "Francisco Agenor Gomes",
+            "contracted_party": "Francisco Agenor Gomes"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

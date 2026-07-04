@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG 1368536",
+        "ig": "1368536"
+    },
+    "contracting_party": {
+        "name": "T.F CONSTRUCOES",
+        "cpf_cnpj": "54.095.907"
+    },
+    "contracted_party": {
+        "name": "T.F CONSTRUCOES",
+        "cpf_cnpj": "54.095.907"
+    },
+    "validity": "21 de Maio de 2025",
+    "global_value": null,
+    "signature": {
+        "date": "22001132908/2024",
+        "signatories": {
+            "contracting_party": "Rodrigo Ferreira Torres",
+            "contracted_party": "Rodrigo Ferreira Torres"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

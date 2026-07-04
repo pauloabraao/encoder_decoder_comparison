@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1364626"
+    },
+    "contracting_party": {
+        "name": "TJL COMERCIO E SERVICOS",
+        "cpf_cnpj": "55.101.626"
+    },
+    "contracted_party": {
+        "name": "Empresa Tjl Comércio e Serviços Ltda",
+        "cpf_cnpj": "55.101.626"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": null,
+    "signature": {
+        "date": "18/02/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Secretário(a) da Educação"
+    }
+}

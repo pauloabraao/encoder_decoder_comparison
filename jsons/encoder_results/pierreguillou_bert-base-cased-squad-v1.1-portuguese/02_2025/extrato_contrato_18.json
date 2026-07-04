@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEMTI Celso Araújo",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "EEMTI Celso Araújo",
+        "cpf_cnpj": "37.847.947/0001-42"
+    },
+    "validity": "360 (Trezentos e sessenta) dias",
+    "global_value": null,
+    "signature": {
+        "date": "13/02/2025",
+        "signatories": {
+            "contracting_party": "Francisco Pereira Silvério",
+            "contracted_party": "Francisco Pereira Silvério"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

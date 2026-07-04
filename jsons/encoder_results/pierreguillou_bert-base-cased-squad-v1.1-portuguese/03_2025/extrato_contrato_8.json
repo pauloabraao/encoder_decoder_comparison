@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1364362",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "MF LOCACAO E SERVICOS TECNOLOGICOS",
+        "cpf_cnpj": "07.954.514/0727- 03"
+    },
+    "contracted_party": {
+        "name": "MF LOCACAO E SERVICOS TECNOLOGICOS",
+        "cpf_cnpj": "07.954.514/0727- 03"
+    },
+    "validity": "18 de fevereiro de 2025",
+    "global_value": null,
+    "signature": {
+        "date": "18/02/2025",
+        "signatories": {
+            "contracting_party": "MARCUS VINICIUS DAMASCENO FERREIRA",
+            "contracted_party": "MARCUS VINICIUS DAMASCENO FERREIRA"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

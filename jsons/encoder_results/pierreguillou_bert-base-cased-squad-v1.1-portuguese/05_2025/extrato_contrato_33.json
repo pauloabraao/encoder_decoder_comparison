@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "09 IG 1373417",
+        "ig": "09 IG 1373417"
+    },
+    "contracting_party": {
+        "name": "ESCOLA EEMTI Edson Luiz Cavalcante de Gouvêa",
+        "cpf_cnpj": "07954514/0666-57"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "07954514/0666-57"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": "R$ 157.126,10 (cento e cinquenta e sete mil, cento e vinte e seis",
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Fagner Fábio Alves",
+            "contracted_party": "Fagner Fábio Alves"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

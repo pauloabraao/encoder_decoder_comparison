@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG: 1376734",
+        "ig": "1376734"
+    },
+    "contracting_party": {
+        "name": "ESCOLA EEMTI Raul Tavares Cavalcante",
+        "cpf_cnpj": "07.954.514/0193-06"
+    },
+    "contracted_party": {
+        "name": "ESCOLA EEMTI Raul Tavares Cavalcante",
+        "cpf_cnpj": "07.954.514/0193-06"
+    },
+    "validity": "365 (trezentos e sessenta e cinco ) dias",
+    "global_value": "R$ 14.690,50",
+    "signature": {
+        "date": "22/05/2025",
+        "signatories": {
+            "contracting_party": "Francisco Remulo Lima de Araújo",
+            "contracted_party": "Francisco Remulo Lima de Araújo"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

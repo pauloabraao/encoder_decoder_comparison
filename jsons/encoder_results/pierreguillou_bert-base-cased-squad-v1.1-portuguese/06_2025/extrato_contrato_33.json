@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1369179",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEM JOSÉ MARTINS RODRIGUES",
+        "cpf_cnpj": "50.949.285/0001-80"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "50.949.285/0001-80"
+    },
+    "validity": "365 (trezentos e sessenta e cinco ) dias",
+    "global_value": "R$ 14.376,60",
+    "signature": {
+        "date": "28/03/2025",
+        "signatories": {
+            "contracting_party": "Yuri Araújo Monteiro",
+            "contracted_party": "Yuri Araújo Monteiro"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

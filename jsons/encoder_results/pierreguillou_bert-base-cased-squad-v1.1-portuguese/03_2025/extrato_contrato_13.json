@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "38 IG 165563",
+        "ig": "165563"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL FRANCISCO JAGUARIBE",
+        "cpf_cnpj": "07.954.514/0332-10"
+    },
+    "contracted_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL FRANCISCO JAGUARIBE",
+        "cpf_cnpj": null
+    },
+    "validity": "360 (trezentos e sessenta)",
+    "global_value": null,
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": "Felipe Lima Soares",
+            "contracted_party": "Felipe Lima Soares"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

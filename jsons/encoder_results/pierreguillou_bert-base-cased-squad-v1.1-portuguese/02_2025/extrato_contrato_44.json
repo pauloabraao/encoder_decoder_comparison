@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "SALINAS EMPREENDIMENTOS E CONSTRUÇÕES LTDA",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "SALINAS EMPREENDIMENTOS E CONSTRUÇÕES",
+        "cpf_cnpj": null
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 1.000.000,00",
+    "signature": {
+        "date": "19/02/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

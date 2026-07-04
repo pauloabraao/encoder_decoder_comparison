@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "1361913000"
+    },
+    "contracting_party": {
+        "name": "EMPRESA KM OLIVEIRA DA SILVA",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "EMPRESA KM OLIVEIRA DA SILVA",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "validity": "12 (doze) meses",
+    "global_value": "R$ 832.815,00",
+    "signature": {
+        "date": "16/01/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Secretária da Educação"
+    }
+}

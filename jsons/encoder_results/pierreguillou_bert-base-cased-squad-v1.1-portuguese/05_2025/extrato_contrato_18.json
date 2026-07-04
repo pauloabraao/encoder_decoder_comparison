@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001022575/202572 - IG - 1370125",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESCOLA EEM DEPUTADO FAUSTO AGUIAR ARRUDA",
+        "cpf_cnpj": "07.954.514/0259-77"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "07.954.514/0259-77"
+    },
+    "validity": "365 (trezentos e sessenta e cinco) dias",
+    "global_value": null,
+    "signature": {
+        "date": "22/04/2025",
+        "signatories": {
+            "contracting_party": "Geovani Rodrigues Teixeira",
+            "contracted_party": "Geovani Rodrigues Teixeira"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

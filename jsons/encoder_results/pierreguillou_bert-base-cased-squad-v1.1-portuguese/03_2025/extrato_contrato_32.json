@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "SEGURO SEGURANÇA",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "SEGURO SEGURANÇA",
+        "cpf_cnpj": null
+    },
+    "validity": "01 de março de 2025",
+    "global_value": "R$ 24.847.784,43",
+    "signature": {
+        "date": "01/03/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

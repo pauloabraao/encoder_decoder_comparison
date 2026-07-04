@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-137342600",
+        "ig": "IG-137342600"
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "35.206.677/0001-65"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "35.206.677/0001-65"
+    },
+    "validity": "22 de Abril de 2024",
+    "global_value": "R$ 8.930,36",
+    "signature": {
+        "date": "22/04/2024",
+        "signatories": {
+            "contracting_party": "Enioeldo Fernandes Farias",
+            "contracted_party": "Enioeldo Fernandes Farias"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

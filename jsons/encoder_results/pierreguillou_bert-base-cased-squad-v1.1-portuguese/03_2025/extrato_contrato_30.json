@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1364418",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "11.914.096/0001-10"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "11.914.096/0001-10"
+    },
+    "validity": "240 (duzentos e quarenta) dias",
+    "global_value": "Cento e nove mil e cinquenta e sete",
+    "signature": {
+        "date": "27/02/2025",
+        "signatories": {
+            "contracting_party": "Paulo Aragão de Azevedo Filho",
+            "contracted_party": "Francisca Aislan Pereira de Sousa"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

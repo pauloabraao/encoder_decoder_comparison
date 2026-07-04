@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EEMTI Profª Eunice Maria de Sousa Freitas",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "EEMTI Profª Eunice Maria de Sousa Freitas",
+        "cpf_cnpj": "38.385.188/0001- 06"
+    },
+    "validity": "25 DE FEVEREIRO DE 2025",
+    "global_value": "R$ 1.908,10",
+    "signature": {
+        "date": null,
+        "signatories": {
+            "contracting_party": "João Paulo Carvalho dos Santos",
+            "contracted_party": "João Paulo Carvalho dos Santos"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

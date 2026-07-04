@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "VP EVENTOS E CONSULTORIA",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "VP EVENTOS E CONSULTORIA",
+        "cpf_cnpj": null
+    },
+    "validity": "28 DE ABRIL DE 2025",
+    "global_value": "R$ 2.500.000,00",
+    "signature": {
+        "date": "28/04/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": "José Gledson Oliviera da Páscoa",
+        "role": "DIRETOR ADMINISTRATIVO-FINANCEIRO"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EBP COMERCIO E SERVICOS",
+        "cpf_cnpj": "07.954.514/0522-73"
+    },
+    "contracted_party": {
+        "name": "EBP COMERCIO E SERVICOS",
+        "cpf_cnpj": null
+    },
+    "validity": "10 DE FEVEREIRO DE 2025",
+    "global_value": "R$ 11.767,13",
+    "signature": {
+        "date": "10/02/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "Dire- tora KARLA VIRGÍNIA DA SILVA PINTO"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

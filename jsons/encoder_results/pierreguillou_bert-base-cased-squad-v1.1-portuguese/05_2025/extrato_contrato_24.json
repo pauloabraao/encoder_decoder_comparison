@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1373655",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "ESCOLA EEFM PROFESSOR ALOYSIO BARROS LEAL",
+        "cpf_cnpj": "07.954.514/0540-55"
+    },
+    "contracted_party": {
+        "name": "ESCOLA EEFM PROFESSOR ALOYSIO BARROS LEAL",
+        "cpf_cnpj": "07.954.514/0540-55"
+    },
+    "validity": null,
+    "global_value": "R$ 139.667,09",
+    "signature": {
+        "date": "24/04/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

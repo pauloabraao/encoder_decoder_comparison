@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "PHF ALEXANDRE CONSTRUÇOES & SERVIÇOS",
+        "cpf_cnpj": "50.959.589/0001-28"
+    },
+    "contracted_party": {
+        "name": "PHF ALEXANDRE CONSTRUÇOES & SERVIÇOS",
+        "cpf_cnpj": "50.959.589/0001-28"
+    },
+    "validity": "25 DE FEVEREIRO DE 2025",
+    "global_value": "Quarenta e sete mil e quinhentos reais",
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

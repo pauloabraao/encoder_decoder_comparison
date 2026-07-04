@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": "339039"
+    },
+    "contracting_party": {
+        "name": "CONCEITO COMÉRCIO & SERVIÇOS LTDA",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "contracted_party": {
+        "name": "CONCEITO COMÉRCIO & SERVIÇOS LTDA",
+        "cpf_cnpj": "07.954.514/0001-25"
+    },
+    "validity": "18 de março de 2025",
+    "global_value": "R$ 266.700,00",
+    "signature": {
+        "date": "18/03/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": "MARCOS PAULO DE ARRUDA VALENTE"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": "Secretário(a) da Educação"
+    }
+}

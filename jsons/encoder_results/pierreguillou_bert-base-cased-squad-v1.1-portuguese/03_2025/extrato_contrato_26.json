@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1364908",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "49.131.036/0001- 01"
+    },
+    "contracted_party": {
+        "name": "J.V. MAXIMUS COMERCIAL",
+        "cpf_cnpj": "49.131.036/0001- 01"
+    },
+    "validity": "25 de fevereiro de 2025",
+    "global_value": null,
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": "JOSÉ VICTOR SALUSTIANO DOS SANTOS",
+            "contracted_party": "JOSÉ VICTOR SALUSTIANO DOS SANTOS"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

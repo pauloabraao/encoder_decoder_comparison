@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": null,
+        "ig": null
+    },
+    "contracting_party": {
+        "name": null,
+        "cpf_cnpj": "33.866.288/0001-30"
+    },
+    "contracted_party": {
+        "name": "DATERRA CONSTRUÇÕ ES E SERVIÇOS LTDA",
+        "cpf_cnpj": "33.866.288/0001-30"
+    },
+    "validity": null,
+    "global_value": "R$ 107.982,56",
+    "signature": {
+        "date": null,
+        "signatories": {
+            "contracting_party": "JOSÉ VALDECI REBOUÇAS",
+            "contracted_party": "JAIME DEAN SOUSA ALEXANDRE"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

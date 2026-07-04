@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1359865",
+        "ig": "IG-1359865"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO DE TEMPO INTEGRAL ANTÔNIO GERALDO DE LIMA",
+        "cpf_cnpj": "35.560.214/0001-05"
+    },
+    "contracted_party": {
+        "name": null,
+        "cpf_cnpj": "35.560.214/0001-05"
+    },
+    "validity": null,
+    "global_value": "R$ 89.383,00",
+    "signature": {
+        "date": "24/01/2025",
+        "signatories": {
+            "contracting_party": "Francisco Eduardo Moreira de Brito",
+            "contracted_party": "Francisco Eduardo Moreira de Brito"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

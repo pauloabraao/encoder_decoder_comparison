@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "1380445",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "EXCELENCIA SERVICOS E EVENTOS",
+        "cpf_cnpj": "59.373.387/0001-74"
+    },
+    "contracted_party": {
+        "name": "EXCELENCIA SERVICOS E EVENTOS",
+        "cpf_cnpj": "59.373.387/0001-74"
+    },
+    "validity": "22 de maio de 2025",
+    "global_value": "R$5.100,00",
+    "signature": {
+        "date": "22/05/2025",
+        "signatories": {
+            "contracting_party": "ANTONIO DANIEL SOUSA MACIEL",
+            "contracted_party": "ANTONIO DANIEL SOUSA MACIEL"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

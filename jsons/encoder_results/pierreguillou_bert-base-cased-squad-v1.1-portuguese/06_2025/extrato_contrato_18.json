@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001072697/202518 - IG - 1380987",
+        "ig": "1380987"
+    },
+    "contracting_party": {
+        "name": "AQUISIÇÃO SERVIÇOS DE TERCEIROS - MANUTENÇÃO E CONSERVAÇÃO DE BENS E IMOVEIS",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "AQUISIÇÃO SERVIÇOS DE TERCEIROS - MANUTENÇÃO E CONSERVAÇÃO DE BENS E IMOVEIS",
+        "cpf_cnpj": "49.762.368./0001- 86"
+    },
+    "validity": "28 de Maio de 2025",
+    "global_value": "CINCO MIL SEISCENTOS E TRINTA E CINCO REAIS",
+    "signature": {
+        "date": "28/05/2025",
+        "signatories": {
+            "contracting_party": "Luiz Lucena de Oliveira",
+            "contracted_party": "Luiz Lucena de Oliveira"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

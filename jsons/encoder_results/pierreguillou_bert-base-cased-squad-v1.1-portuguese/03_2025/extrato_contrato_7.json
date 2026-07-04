@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "22001147723202480/PRE-RESERVA : 1365054",
+        "ig": null
+    },
+    "contracting_party": {
+        "name": "CONTECH LOCAÇÕES E SERVIÇOS",
+        "cpf_cnpj": null
+    },
+    "contracted_party": {
+        "name": "CONTECH LOCAÇÕES E SERVIÇOS",
+        "cpf_cnpj": null
+    },
+    "validity": "25 DE FEVEREIRO DE 2025",
+    "global_value": "setenta e nove mil e cento e um",
+    "signature": {
+        "date": "25/02/2025",
+        "signatories": {
+            "contracting_party": null,
+            "contracted_party": null
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}

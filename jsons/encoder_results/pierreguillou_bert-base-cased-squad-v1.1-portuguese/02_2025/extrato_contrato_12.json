@@ -1,0 +1,28 @@
+{
+    "document_type": "EXTRATO DE CONTRATO",
+    "document_id": {
+        "number": "IG-1362717",
+        "ig": "IG-1362717"
+    },
+    "contracting_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL EMANUEL",
+        "cpf_cnpj": "53.503.152/0001-73"
+    },
+    "contracted_party": {
+        "name": "ESCOLA DE ENSINO MÉDIO EM TEMPO INTEGRAL EMANUEL",
+        "cpf_cnpj": "53.503.152/0001-73"
+    },
+    "validity": "10 de Fevereiro de 2025",
+    "global_value": "R$ 14.799,99",
+    "signature": {
+        "date": "10/02/2025",
+        "signatories": {
+            "contracting_party": "Diego Alexandre Oliveira Peixoto",
+            "contracted_party": "Diego Alexandre Oliveira Peixoto"
+        }
+    },
+    "legal_unit": {
+        "name": null,
+        "role": null
+    }
+}
